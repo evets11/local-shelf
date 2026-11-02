@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import { MapPin } from "lucide-react";
 import type { Holding, LiveAvailability as Live } from "@/lib/types";
 import { availabilityLabel, shortDate } from "@/lib/format";
 import { usePrefs } from "@/lib/prefs";
@@ -70,7 +71,7 @@ export function LiveAvailability({ irn, initial, snapshot, preloaded }: Props) {
         )}
         {state.kind === "live" && (
           <>
-            <span className="h-2 w-2 rounded-full bg-sea" /> Live from the
+            <span className="h-2 w-2 rounded-full bg-shelf" /> Live from the
             library catalogue
           </>
         )}
@@ -94,7 +95,8 @@ export function LiveAvailability({ irn, initial, snapshot, preloaded }: Props) {
                 <p className="font-medium">
                   {h.branch}
                   {prefs.branch === h.branch && (
-                    <span className="ml-2 rounded-full bg-coral/15 px-2 py-0.5 text-[10px] font-semibold uppercase tracking-wide text-coral">
+                    <span className="ml-2 inline-flex items-center gap-1 rounded-full bg-sea px-2 py-0.5 align-[1px] text-[10px] font-semibold uppercase tracking-wide text-on-sea">
+                      <MapPin className="h-3 w-3" aria-hidden />
                       Your library
                     </span>
                   )}
@@ -111,7 +113,7 @@ export function LiveAvailability({ irn, initial, snapshot, preloaded }: Props) {
               ) : (
                 <span
                   className={`shrink-0 rounded-full px-2.5 py-0.5 text-xs font-medium ${
-                    h.available ? "bg-sea/10 text-sea" : "bg-paper-2 text-muted"
+                    h.available ? "bg-shelf/12 text-shelf" : "bg-paper-2 text-muted"
                   }`}
                 >
                   {h.available

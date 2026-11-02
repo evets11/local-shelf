@@ -108,7 +108,8 @@ export function FeaturedCarousel({
             <p className="inline-flex items-center gap-2 rounded-full bg-black/30 px-3 py-1 text-sm font-semibold text-white backdrop-blur">
               <span
                 aria-hidden
-                className={`h-2 w-2 rounded-full ${t.available > 0 || isEItem(t) ? "bg-emerald-400" : "bg-white/50"}`}
+                // Fixed colours: this sits on the always-dark hero art, whatever the theme.
+                className={`h-2 w-2 rounded-full ${isEItem(t) ? "bg-violet-400" : t.available > 0 ? "bg-emerald-400" : "bg-white/50"}`}
               />
               {t.availability}
             </p>
@@ -219,7 +220,7 @@ function MobilePicks({
                   <p className="flex items-center gap-1.5 text-[13px]">
                     <span
                       aria-hidden
-                      className={`h-2 w-2 shrink-0 rounded-full ${t.available > 0 || isEItem(t) ? "bg-emerald-500" : "bg-muted"}`}
+                      className={`h-2 w-2 shrink-0 rounded-full ${isEItem(t) ? "bg-violet-500" : t.available > 0 ? "bg-shelf" : "bg-muted"}`}
                     />
                     <span className="line-clamp-2">{t.availability}</span>
                   </p>

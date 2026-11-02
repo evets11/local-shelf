@@ -14,6 +14,9 @@
   --color-on-sea: #03122b;
   --color-coral: #ff7a59;
   --color-hero: #0b1a33;
+  /* Availability ("On the shelf"), kept apart from the accent so status never looks like a control. */
+  --color-shelf: #34d399;
+  --color-on-shelf: #04251a;
   --font-sans: var(--font-inter);
   --font-display: var(--font-fraunces);
 }
@@ -35,6 +38,8 @@ html[data-theme="light"] {
   --color-on-sea: #ffffff;
   --color-coral: #e0573a;
   --color-hero: #0057b8;
+  --color-shelf: #047857;
+  --color-on-shelf: #ffffff;
 }
 
 /* Kids profile: same layout, sunnier accent so it's obvious which profile you're in. */
@@ -152,6 +157,8 @@ html[data-contrast="high"] {
   --color-sea-dark: #6fb2ff;
   --color-on-sea: #000000;
   --color-hero: #000000;
+  --color-shelf: #7ef0b0;
+  --color-on-shelf: #000000;
 }
 html[data-theme="light"][data-contrast="high"] {
   --color-paper: #ffffff;
@@ -164,6 +171,8 @@ html[data-theme="light"][data-contrast="high"] {
   --color-sea-dark: #002a5c;
   --color-on-sea: #ffffff;
   --color-hero: #00387a;
+  --color-shelf: #005c26;
+  --color-on-shelf: #ffffff;
 }
 html[data-contrast="high"] a {
   text-decoration-line: underline;

@@ -31,7 +31,7 @@ export function TitleCard({
             isEItem(t)
               ? "bg-violet-600 text-white"
               : t.available > 0
-                ? "bg-sea text-on-sea"
+                ? "bg-shelf text-on-shelf"
                 : "bg-card/90 text-muted"
           }`}
         >

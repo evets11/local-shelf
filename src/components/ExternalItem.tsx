@@ -161,26 +161,8 @@ export function ExternalItem({
         </div>
       </div>
       <div className="grid gap-8 p-5 sm:p-8 lg:grid-cols-[1.6fr_1fr]">
-        <div className="space-y-5">
-          {t.summary ? (
-            <p className="leading-relaxed">{tidySummary(t.summary)}</p>
-          ) : (
-            <p className="text-muted">No description from the library.</p>
-          )}
-          <dl className="grid grid-cols-[auto_1fr] gap-x-4 gap-y-2 text-sm">
-            {t.narrators && t.narrators.length > 0 && (
-              <Row label="Read by">
-                <PeopleLinks names={t.narrators} kind={t.kind} />
-              </Row>
-            )}
-            {t.genres.length > 0 && (
-              <Row label="Genres">{t.genres.join(", ")}</Row>
-            )}
-            {t.publisher && <Row label="Publisher">{t.publisher}</Row>}
-            {t.isbn && <Row label="ISBN">{t.isbn}</Row>}
-          </dl>
-        </div>
-        <aside>
+        {/* First in the DOM so phones (one column) read and tab to it before the synopsis. */}
+        <aside className="lg:col-start-2 lg:row-start-1">
           {isEItem(t) ? (
             <BorrowOnline />
           ) : t.holdingsUnknown ? (
@@ -203,6 +185,25 @@ export function ExternalItem({
             />
           )}
         </aside>
+        <div className="space-y-5 lg:col-start-1 lg:row-start-1">
+          {t.summary ? (
+            <p className="leading-relaxed">{tidySummary(t.summary)}</p>
+          ) : (
+            <p className="text-muted">No description from the library.</p>
+          )}
+          <dl className="grid grid-cols-[auto_1fr] gap-x-4 gap-y-2 text-sm">
+            {t.narrators && t.narrators.length > 0 && (
+              <Row label="Read by">
+                <PeopleLinks names={t.narrators} kind={t.kind} />
+              </Row>
+            )}
+            {t.genres.length > 0 && (
+              <Row label="Genres">{t.genres.join(", ")}</Row>
+            )}
+            {t.publisher && <Row label="Publisher">{t.publisher}</Row>}
+            {t.isbn && <Row label="ISBN">{t.isbn}</Row>}
+          </dl>
+        </div>
       </div>
     </article>
   );

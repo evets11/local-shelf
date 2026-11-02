@@ -104,7 +104,19 @@ export function TitleDetail({
       </div>
 
       <div className="grid gap-8 bg-card p-5 sm:p-8 lg:grid-cols-[1.6fr_1fr]">
-        <div className="space-y-5">
+        {/* First in the DOM so phones (one column) read and tab to it before the synopsis. */}
+        <aside className="lg:col-start-2 lg:row-start-1">
+          {isEItem(t) ? (
+            <BorrowOnline />
+          ) : (
+            <LiveAvailability
+              irn={t.irn}
+              initial={t.holdings}
+              snapshot={{ available: t.available, copies: t.copies }}
+            />
+          )}
+        </aside>
+        <div className="space-y-5 lg:col-start-1 lg:row-start-1">
           {t.summary ? (
             <p className="text-base leading-relaxed">
               {tidySummary(t.summary)}
@@ -147,17 +159,6 @@ export function TitleDetail({
             {t.isbn && <Row label="ISBN">{t.isbn}</Row>}
           </dl>
         </div>
-        <aside>
-          {isEItem(t) ? (
-            <BorrowOnline />
-          ) : (
-            <LiveAvailability
-              irn={t.irn}
-              initial={t.holdings}
-              snapshot={{ available: t.available, copies: t.copies }}
-            />
-          )}
-        </aside>
       </div>
 
       {similar.length > 0 && (

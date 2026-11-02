@@ -13,7 +13,7 @@ The aim is a streaming-app feel that's useful rather than salesy: big covers, si
   - **Tab bar:** a slim floating bar with Home, Browse, My List and Settings.
 - **Audiobooks** get a sub-bar to show All, eAudiobooks or CDs.
 - Switching collection keeps you in the same section (Browse stays Browse, search keeps its text).
-- **First visit:** a dismissible welcome banner under the header explains what the site is (`Welcome.tsx`). Hidden before paint once dismissed; never shown in the installed app.
+- **First visit:** a dismissible welcome card under the header explains what the site is (`Welcome.tsx`). It's an inset card in page colours so it stands apart from the featured hero. Dismissing it returns you to the top of the page. Hidden before paint once dismissed; never shown in the installed app.
 
 ## Preferences (`src/lib/prefs.ts`)
 
@@ -37,11 +37,12 @@ Colours are CSS variables on `<html>` (Tailwind v4 `@theme`): `--color-paper`, `
 
 - **Accent:** Brighton & Hove Albion blue: `#0057b8` in light, a brighter `#3d8ae8` in dark with dark text on buttons for contrast. Colour only, no club branding.
 - **Variants:** light, Kids (yellow accent), high contrast (dark and light).
-- **Badges:** "On the shelf" (accent), "Borrow online" (violet, e-items), "On order", "Not on shelf". Rotten Tomatoes score top right.
+- **Status vs controls:** availability uses `--color-shelf` (green): the "On the shelf" badge, shelf pills, live dots. The accent is for controls and "yours" markers (buttons, active filters, the "Your library" chip). Coral (the Donate heart) is never used for status.
+- **Badges:** "On the shelf" (green), "Borrow online" (violet, e-items), "On order", "Not on shelf". Rotten Tomatoes score top right.
 
 ## Patterns
 
-- **Sheets** for titles and catalogue results (see [Architecture](architecture.md#sheets-intercepting-routes)). Close with X, Escape, backdrop, Back or swipe down; focus and scroll position return.
+- **Sheets** for titles and catalogue results (see [Architecture](architecture.md#sheets-intercepting-routes)). Close with X, Escape, backdrop, Back or swipe down; focus and scroll position return. On one-column layouts "Where to find it" comes before the synopsis.
 - **Trailers** open in their own dialog above the sheet (YouTube no-cookie embed) and stop when closed, however that happens.
 - **Skeletons** (`Skeleton.tsx`) for anything loading: catalogue search results, item sheets, shelf-check pills, My List, covers. They shimmer unless reduced motion is on.
 - **Live shelf checks** show last night's data immediately, with placeholders where the live answer will go.
