@@ -45,26 +45,17 @@ export function Footer() {
           <p className="font-semibold text-ink">The library</p>
           <ul className="space-y-1">
             <li>
-              <a
-                className="hover:text-ink"
-                href={LIBRARY_LINKS.catalogue}
-              >
+              <a className="hover:text-ink" href={LIBRARY_LINKS.catalogue}>
                 Library catalogue &amp; account
               </a>
             </li>
             <li>
-              <a
-                className="hover:text-ink"
-                href={LIBRARY_LINKS.openingTimes}
-              >
+              <a className="hover:text-ink" href={LIBRARY_LINKS.openingTimes}>
                 Opening times
               </a>
             </li>
             <li>
-              <a
-                className="hover:text-ink"
-                href={LIBRARY_LINKS.fees}
-              >
+              <a className="hover:text-ink" href={LIBRARY_LINKS.fees}>
                 Fees
               </a>
             </li>
@@ -88,7 +79,15 @@ export function Footer() {
             >
               Wikidata
             </a>{" "}
-            (CC0).
+            (CC0). Film posters and trailers from{" "}
+            <a
+              className="underline hover:text-ink"
+              href="https://www.themoviedb.org/"
+            >
+              TMDB
+            </a>
+            . This product uses the TMDB API but is not endorsed or certified by
+            TMDB.
           </p>
         </div>
       </div>
