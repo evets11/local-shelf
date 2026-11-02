@@ -19,6 +19,8 @@ The aim is a streaming-app feel that's useful rather than salesy: big covers, si
 
 Saved per device in localStorage under `shelflife:prefs` (an old name; keep it so settings survive). Nothing leaves the browser.
 
+The last section visited (Films, Books or Audiobooks) is kept separately under `shelflife:mode`. Opening `/` afresh (typed, bookmarked or the installed app) goes straight to that section. Links from within the site, such as cmd-clicking the Films tab, still open Films.
+
 | Pref | Values | Effect |
 | --- | --- | --- |
 | `branch` | a library or "" | "My library": filters shelves and badges to that branch |

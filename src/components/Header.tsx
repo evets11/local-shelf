@@ -22,6 +22,7 @@ import { SITE_NAME } from "@/lib/site";
 import { PrefsControl, shortBranch, useDismiss } from "./PrefsControl";
 import { openProfileSheet } from "./ProfileSheet";
 import { setPrefs, usePrefs } from "@/lib/prefs";
+import { LAST_MODE_KEY } from "@/lib/prefs-script";
 import {
   FormatBar,
   KidsBanner,
@@ -49,6 +50,13 @@ function modeHref(m: Mode, pathname: string, q: string | null): string {
 export function Header({ branches }: { branches: string[] }) {
   const pathname = usePathname();
   const { mode, pathMode } = useCurrentMode();
+
+  useEffect(() => {
+    if (!pathMode) return;
+    try {
+      localStorage.setItem(LAST_MODE_KEY, pathMode.slug);
+    } catch {}
+  }, [pathMode]);
 
   return (
     <header className="z-40 border-b border-line bg-paper/85 backdrop-blur-xl backdrop-saturate-150 lg:sticky lg:top-0">
