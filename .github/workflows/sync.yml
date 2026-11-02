@@ -3,6 +3,7 @@ name: Sync library catalogue
 on:
   schedule:
     - cron: "30 3 * * *" # nightly, 03:30 UTC
+  # Run by hand: Actions > Sync library catalogue > Run workflow.
   workflow_dispatch:
 
 permissions:
