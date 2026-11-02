@@ -32,6 +32,8 @@ Saved per device in localStorage under `shelflife:prefs` (an old name; keep it s
 
 `PREFS_SCRIPT` (inline in `<head>`) copies display prefs to `<html data-*>` before paint, sets `data-pref-filtering` when saved prefs would filter content, `data-welcomed`, `data-standalone`, and the theme colour. Browse and search filters default to the saved prefs, and a URL param overrides them for that view ("Reset to my settings" clears it).
 
+The "From the whole library catalogue" section on book and audiobook searches can only apply on shelf (anywhere), format, decade and children's, because live search hits don't carry branch, genre or language. It lists the filters it applied and names the ones it couldn't, and hits hidden by view filters can be shown anyway (saved profile and format prefs always apply).
+
 ## Colours and tokens (`src/app/globals.css`)
 
 Colours are CSS variables on `<html>` (Tailwind v4 `@theme`): `--color-paper`, `--color-ink`, `--color-sea` (accent), `--color-coral`, `--color-hero` and so on.

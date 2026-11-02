@@ -8,16 +8,14 @@ import type { Kind } from "@/lib/types";
 import { matchesPrefs, usePrefs } from "@/lib/prefs";
 import { TitleGrid } from "./TitleGrid";
 import { LibraryResults } from "./LibraryResults";
+import {
+  DECADES,
+  DECADE_LABELS,
+  matchesFormatAndDecade,
+  type Filters,
+} from "@/lib/filters";
 
 const CERTS = ["U", "PG", "12", "12A", "15", "18"];
-const DECADES: Record<string, [number, number]> = {
-  "2020s": [2020, 2029],
-  "2010s": [2010, 2019],
-  "2000s": [2000, 2009],
-  "1990s": [1990, 1999],
-  "1980s": [1980, 1989],
-  classic: [0, 1979],
-};
 const PAGE = 60;
 
 type SortKey = "relevance" | "new" | "az" | "year" | "critics";
@@ -47,7 +45,7 @@ export function Explorer({ kind, titles, heading, partial = false }: Props) {
   }
   // Library and on-shelf default to the saved preferences; changing them here overrides
   // for this view only (via the URL), so the controls always show what's applied.
-  const filters = {
+  const filters: Filters = {
     available: params.has("available")
       ? params.get("available") === "1"
       : prefs.onShelfOnly,
@@ -114,12 +112,22 @@ export function Explorer({ kind, titles, heading, partial = false }: Props) {
     };
   }, [titles]);
 
-  const results = useMemo(() => {
-    let list: SearchTitle[] =
+  const matched = useMemo(
+    () =>
       q && index
         ? index.search(q).map((r) => byIrn.get(r.id as string)!)
-        : titles;
-    list = list.filter((t) => {
+        : titles,
+    [q, index, byIrn, titles],
+  );
+  // Every local match, filtered or not, so filtered-out titles don't resurface in the live
+  // section (which can't apply every filter).
+  const shownElsewhere = useMemo(
+    () => new Set(matched.map((t) => t.irn)),
+    [matched],
+  );
+
+  const results = useMemo(() => {
+    let list = matched.filter((t) => {
       if (
         !matchesPrefs(t, {
           ...prefs,
@@ -133,13 +141,7 @@ export function Explorer({ kind, titles, heading, partial = false }: Props) {
       if (filters.language && !t.languages.includes(filters.language))
         return false;
       if (filters.audience && t.audience !== filters.audience) return false;
-      if (filters.format && t.format !== filters.format) return false;
-      if (filters.decade) {
-        const range = DECADES[filters.decade];
-        if (!range || !t.year || t.year < range[0] || t.year > range[1])
-          return false;
-      }
-      return true;
+      return matchesFormatAndDecade(t, filters);
     });
     if (sort === "new") {
       list = [...list].sort(
@@ -159,7 +161,7 @@ export function Explorer({ kind, titles, heading, partial = false }: Props) {
     return list;
     // filters is rebuilt each render from params; params is the real dependency.
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [q, params, index, byIrn, titles, sort, prefs]);
+  }, [matched, params, sort, prefs]);
 
   function set(key: string, value: string) {
     const next = new URLSearchParams(params);
@@ -181,9 +183,24 @@ export function Explorer({ kind, titles, heading, partial = false }: Props) {
           <h1 className="font-display text-3xl font-semibold sm:text-4xl">
             {q ? <>Results for &ldquo;{q}&rdquo;</> : heading}
           </h1>
-          <p className="text-sm text-muted" aria-live="polite">
-            {results.length.toLocaleString("en-GB")}{" "}
-            {results.length === 1 ? "title" : "titles"}
+          <p className="text-sm text-muted">
+            <span aria-live="polite">
+              {results.length.toLocaleString("en-GB")}{" "}
+              {results.length === 1 ? "title" : "titles"}
+              {partial && q.length >= 3 && " among the newest"}
+            </span>
+            {partial && q.length >= 3 && results.length > 0 && (
+              <>
+                {" "}
+                ·{" "}
+                <a
+                  href="#library-results"
+                  className="font-medium text-sea underline-offset-2 hover:underline"
+                >
+                  More from the whole catalogue
+                </a>
+              </>
+            )}
           </p>
         </div>
         <label className="flex items-center gap-2 text-sm text-muted">
@@ -241,7 +258,7 @@ export function Explorer({ kind, titles, heading, partial = false }: Props) {
           value={filters.decade}
           onChange={(v) => set("decade", v)}
           options={Object.keys(DECADES)}
-          labels={{ classic: "Before 1980" }}
+          labels={DECADE_LABELS}
         />
         {options.languages.length > 1 && (
           <Select
@@ -369,7 +386,8 @@ export function Explorer({ kind, titles, heading, partial = false }: Props) {
         <LibraryResults
           kind={kind}
           q={q}
-          exclude={new Set(results.map((r) => r.irn))}
+          exclude={shownElsewhere}
+          filters={filters}
         />
       )}
     </div>
