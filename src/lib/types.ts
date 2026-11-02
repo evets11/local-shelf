@@ -110,6 +110,30 @@ export interface Catalog {
   titles: Title[];
 }
 
+/** Live BorrowBox loan status. available null: a status we don't recognise. */
+export interface BorrowBoxStatus {
+  id: string;
+  available: boolean | null;
+  /** YYYY-MM-DD when on loan and BorrowBox gives a date. */
+  nextAvailable: string | null;
+}
+
+/** The same book on Libby, if it's in the library's OverDrive collection. */
+export interface LibbyMatch {
+  id: string;
+  available: boolean | null;
+  holds: number | null;
+  waitDays: number | null;
+}
+
+/** /api/eloan response. borrowBox null: lookup failed or was rate-capped. */
+export interface EloanStatus {
+  borrowBox: BorrowBoxStatus | null;
+  /** null with libbyFailed false: Libby doesn't have it. */
+  libby: LibbyMatch | null;
+  libbyFailed: boolean;
+}
+
 /** Response from /api/availability/[irn] */
 export interface LiveAvailability {
   irn: string;

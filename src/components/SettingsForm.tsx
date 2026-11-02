@@ -57,6 +57,20 @@ export function SettingsForm({ branches }: { branches: string[] }) {
         />
       </Section>
 
+      <Section title="Books">
+        <Choice
+          legend="Formats to show"
+          value={prefs.bookFormat}
+          onChange={(v) => setPrefs({ bookFormat: v })}
+          options={[
+            ["all", "Both"],
+            ["ebook", "eBooks only"],
+            ["print", "Print only"],
+          ]}
+          hint="eBooks are borrowed on your phone or e-reader through BorrowBox or Libby. Print books, including large print, are borrowed from a branch."
+        />
+      </Section>
+
       <Section title="Your library">
         <label className="block space-y-1">
           <span className="font-semibold">My library</span>

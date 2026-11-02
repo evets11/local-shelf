@@ -15,7 +15,7 @@ Key facts:
 
 - Coverage: all ${counts.film} DVD/Blu-ray titles; the ${counts.book} newest books and ${counts.audiobook} newest audiobooks. Searching books and audiobooks on the site queries the library's full catalogue live.
 - Availability on listings is a nightly snapshot (last updated ${updated}). Each title page checks the library's shelves live.
-- Reserving, borrowing, renewing and fees are handled by Brighton & Hove Libraries, not by Local Shelf. eAudiobooks are borrowed free with a library card on BorrowBox or Libby.
+- Reserving, borrowing, renewing and fees are handled by Brighton & Hove Libraries, not by Local Shelf. eBooks and eAudiobooks are borrowed free with a library card on BorrowBox or Libby.
 - Branches include Jubilee Library (the central library in Brighton), Hove Library and community libraries across the city.
 
 ## Collections

@@ -1,7 +1,7 @@
 "use client";
 
-import { Disc3, Moon, Smartphone, Star, Sun, Users } from "lucide-react";
-import { setPrefs, usePrefs } from "@/lib/prefs";
+import { BookOpen, Disc3, Moon, Smartphone, Star, Sun, Users } from "lucide-react";
+import { setPrefs, usePrefs, type Prefs } from "@/lib/prefs";
 
 /** Everyone / Kids profile switch for the top bar. Both options are always labelled. */
 export function ProfileToggle() {
@@ -78,25 +78,35 @@ const AUDIO_OPTIONS = [
   { value: "cd", label: "CDs", Icon: Disc3 },
 ] as const;
 
-/** Sub-filter shown on Audiobooks pages: both formats, just eAudiobooks, or just CDs. */
-export function AudioFormatBar() {
-  const { audioFormat } = usePrefs();
+const BOOK_OPTIONS = [
+  { value: "all", label: "All", Icon: null },
+  { value: "ebook", label: "eBooks", Icon: Smartphone },
+  { value: "print", label: "Print", Icon: BookOpen },
+] as const;
+
+/** Sub-filter under the header on Audiobooks (eAudiobooks/CDs) and Books (eBooks/print) pages. */
+export function FormatBar({ kind }: { kind: "audiobook" | "book" }) {
+  const prefs = usePrefs();
+  const options = kind === "audiobook" ? AUDIO_OPTIONS : BOOK_OPTIONS;
+  const current = kind === "audiobook" ? prefs.audioFormat : prefs.bookFormat;
+  const pick = (v: (typeof options)[number]["value"]) =>
+    setPrefs(kind === "audiobook" ? { audioFormat: v as Prefs["audioFormat"] } : { bookFormat: v as Prefs["bookFormat"] });
   return (
     <div className="border-b border-line bg-paper-2/60">
       <div className="mx-auto flex max-w-[1800px] items-center gap-3 px-4 py-2 text-sm sm:px-8">
-        <span id="audio-format-label" className="text-muted">
+        <span id="format-bar-label" className="text-muted">
           Show:
         </span>
-        <div role="radiogroup" aria-labelledby="audio-format-label" className="flex flex-wrap gap-1.5">
-          {AUDIO_OPTIONS.map((o) => {
-            const active = audioFormat === o.value;
+        <div role="radiogroup" aria-labelledby="format-bar-label" className="flex flex-wrap gap-1.5">
+          {options.map((o) => {
+            const active = current === o.value;
             return (
               <button
                 key={o.value}
                 type="button"
                 role="radio"
                 aria-checked={active}
-                onClick={() => setPrefs({ audioFormat: o.value })}
+                onClick={() => pick(o.value)}
                 className={`inline-flex items-center gap-1.5 rounded-full border px-3 py-1 font-medium transition ${
                   active ? "border-sea bg-sea text-on-sea" : "border-line bg-card text-ink hover:border-sea"
                 }`}

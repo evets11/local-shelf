@@ -67,6 +67,7 @@ interface ListSpec {
 }
 
 const EAUDIO = "BIBITM> (DYN: XDA + ITMXDATYP: A + FILTER: 1)";
+const EBOOK = "BIBITM> (DYN: XDA + ITMXDATYP: B + FILTER: 1)";
 // Book queries otherwise also match e-items (BorrowBox/Libby) and audiobook CDs.
 const PRINT_ONLY = " - BIBITM> (DYN: XDA) - BTYP: I";
 const FIC = "FIC: (C / F / J / 1)";
@@ -103,6 +104,8 @@ const LISTS: Record<Kind, ListSpec[]> = {
       limit: 600,
       bucket: "adult-nonfiction",
     },
+    // No bucket: audience and fiction come from the full record, as for audiobooks.
+    { name: "ebook", qry: EBOOK, limit: 500 },
   ],
 };
 

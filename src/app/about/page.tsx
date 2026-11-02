@@ -94,7 +94,7 @@ export default function AboutPage() {
           <li>
             <strong>Books:</strong> the {fmt(books.titles.length)} newest
             additions across adult, young adult and children&apos;s fiction and
-            non-fiction.
+            non-fiction, plus the newest eBooks.
           </li>
           <li>
             <strong>Audiobooks:</strong> the {fmt(audio.titles.length)} newest
@@ -122,8 +122,8 @@ export default function AboutPage() {
             library&apos;s own site (you&apos;ll need your library card).
           </li>
           <li>
-            eAudiobooks are borrowed through the BorrowBox or Libby apps with
-            your library card.
+            eBooks and eAudiobooks are borrowed through the BorrowBox or Libby
+            apps with your library card.
           </li>
           <li>
             Not a member?{" "}

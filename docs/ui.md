@@ -25,6 +25,7 @@ Saved per device in localStorage under `shelflife:prefs` (an old name; keep it s
 | `onShelfOnly` | boolean | hide titles with no copy on the shelf (at your library if set) |
 | `profile` | `everyone`, `kids` | Kids shows only children's titles and switches to a yellow/purple palette with a banner |
 | `audioFormat` | `all`, `eaudiobook`, `cd` | audiobook format filter |
+| `bookFormat` | `all`, `ebook`, `print` | book format filter (print includes large print) |
 | `theme` | `dark` (default), `light` | colour theme |
 | `cover` | `compact`, `standard` (default), `big` | card size (`--card-w`) |
 | `textSize`, `contrast`, `font`, `motion` | | larger text, high contrast, Atkinson Hyperlegible, reduced motion |

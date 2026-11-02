@@ -3,7 +3,8 @@
 import { DetailSkeleton } from "./Skeleton";
 
 import { PeopleLinks } from "./PeopleLinks";
-import { BorrowOnline, HeroBackdrop, Row } from "./DetailParts";
+import { HeroBackdrop, Row } from "./DetailParts";
+import { BorrowOnline } from "./BorrowOnline";
 
 import { useRouter, useSearchParams } from "next/navigation";
 import { goBack } from "./BackButton";
@@ -15,7 +16,7 @@ import {
   formatRuntime,
   formatSeries,
   isEItem,
-  libraryUrl,
+  borrowLink,
   posterUrl,
   tidySummary,
 } from "@/lib/format";
@@ -116,7 +117,8 @@ export function ExternalItem({
     );
 
   const t = s.t;
-  const record = libraryUrl(t);
+  const borrow = borrowLink(t);
+  const record = borrow.href;
   const art = posterUrl(t);
   return (
     <article className="overflow-hidden bg-card sm:rounded-xl">
@@ -153,7 +155,7 @@ export function ExternalItem({
                 rel="noopener"
                 className="inline-flex items-center gap-2 rounded-full bg-sea px-5 py-2.5 font-semibold text-on-sea transition hover:bg-sea-dark"
               >
-                {isEItem(t) ? "Borrow online" : "Reserve at the library"}{" "}
+                {borrow.label}{" "}
                 <ExternalLink className="h-4 w-4" />
               </a>
             )}
@@ -164,7 +166,13 @@ export function ExternalItem({
         {/* First in the DOM so phones (one column) read and tab to it before the synopsis. */}
         <aside className="lg:col-start-2 lg:row-start-1">
           {isEItem(t) ? (
-            <BorrowOnline />
+            <BorrowOnline
+              title={t.title}
+              format={t.format}
+              isbn={t.isbn ?? null}
+              coverUrl={t.coverUrl}
+              author={t.authors?.[0] ?? null}
+            />
           ) : t.holdingsUnknown ? (
             <p className="rounded-lg border border-line p-4 text-sm text-muted">
               Couldn&apos;t check the shelves just now. The library&apos;s own

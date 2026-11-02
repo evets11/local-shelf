@@ -1,4 +1,4 @@
-import { urls } from "./spydus/urls";
+import { borrowBoxIdFromCover, eloanLinks, urls } from "./spydus/urls";
 import type { Title } from "./types";
 
 export { SPYDUS_BASE } from "./spydus/urls";
@@ -6,6 +6,15 @@ export { SPYDUS_BASE } from "./spydus/urls";
 /** Robots-allowed bookmark link to the record on the library catalogue. */
 export function libraryUrl(t: Pick<Title, "brn">): string | null {
   return t.brn ? urls.publicRecord(t.brn) : null;
+}
+
+/** The detail view's main button: BorrowBox for e-items when we know the product, else the library record. */
+export function borrowLink(t: Pick<Title, "brn" | "format" | "coverUrl">): { href: string | null; label: string } {
+  if (!isEItem(t)) return { href: libraryUrl(t), label: "Reserve at the library" };
+  const bb = borrowBoxIdFromCover(t.coverUrl);
+  return bb
+    ? { href: eloanLinks.borrowBox(bb), label: "Borrow on BorrowBox" }
+    : { href: libraryUrl(t), label: "Borrow online" };
 }
 
 const TMDB_IMG = "https://image.tmdb.org/t/p";

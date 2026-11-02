@@ -135,10 +135,10 @@ export interface ListPage {
   dropped: { irn: string; title: string; reason: string }[];
 }
 
-/** Format icons we keep per kind. Book lists also return e-items; eBooks are skipped for now. */
+/** Format icons we keep per kind. */
 const KIND_ICONS: Record<Kind, string[]> = {
   film: ["DVDs and BluRay"],
-  book: ["Book", "Large Print"],
+  book: ["Book", "Large Print", "eBook"],
   audiobook: ["Audiobooks", "eAudioBook"],
 };
 

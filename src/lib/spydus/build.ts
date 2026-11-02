@@ -86,9 +86,11 @@ export function buildTitle(
       audience,
       format:
         kind === "book"
-          ? largePrint
-            ? "Large print"
-            : "Book"
+          ? icon === "eBook"
+            ? "eBook"
+            : largePrint
+              ? "Large print"
+              : "Book"
           : isEaudio
             ? "eAudiobook"
             : "Audiobook CD",

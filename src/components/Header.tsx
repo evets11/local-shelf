@@ -23,7 +23,7 @@ import { PrefsControl, shortBranch, useDismiss } from "./PrefsControl";
 import { openProfileSheet } from "./ProfileSheet";
 import { setPrefs, usePrefs } from "@/lib/prefs";
 import {
-  AudioFormatBar,
+  FormatBar,
   KidsBanner,
   ProfileToggle,
   ThemeToggle,
@@ -127,7 +127,7 @@ export function Header({ branches }: { branches: string[] }) {
         <ProfileToggle />
         <PrefsControl branches={branches} />
       </div>
-      {pathMode?.kind === "audiobook" && <AudioFormatBar />}
+      {(pathMode?.kind === "audiobook" || pathMode?.kind === "book") && <FormatBar kind={pathMode.kind} />}
       <KidsBanner />
     </header>
   );

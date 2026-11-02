@@ -15,6 +15,8 @@ export interface Prefs {
   profile: "everyone" | "kids";
   /** Audiobooks only: show both formats, just eAudiobooks, or just CDs. */
   audioFormat: "all" | "eaudiobook" | "cd";
+  /** Books only: show both, just eBooks, or just print (including large print). */
+  bookFormat: "all" | "ebook" | "print";
   theme: "dark" | "light";
   cover: "big" | "standard" | "compact";
   textSize: "normal" | "large" | "xlarge";
@@ -28,6 +30,7 @@ export const DEFAULT_PREFS: Prefs = {
   onShelfOnly: false,
   profile: "everyone",
   audioFormat: "all",
+  bookFormat: "all",
   theme: "dark",
   cover: "standard",
   textSize: "normal",
@@ -109,11 +112,13 @@ type Filterable = {
 /** Does a title pass the user's profile/library/on-shelf preferences? e-items are available everywhere. */
 export function matchesPrefs(
   t: Filterable,
-  p: Pick<Prefs, "branch" | "onShelfOnly" | "profile" | "audioFormat">,
+  p: Pick<Prefs, "branch" | "onShelfOnly" | "profile" | "audioFormat" | "bookFormat">,
 ): boolean {
   if (p.profile === "kids" && t.audience !== "children") return false;
   if (t.format === "Audiobook CD" && p.audioFormat === "eaudiobook") return false;
   if (t.format === "eAudiobook" && p.audioFormat === "cd") return false;
+  if ((t.format === "Book" || t.format === "Large print") && p.bookFormat === "ebook") return false;
+  if (t.format === "eBook" && p.bookFormat === "print") return false;
   if (isEItem(t)) return true;
   if (p.branch)
     return p.onShelfOnly

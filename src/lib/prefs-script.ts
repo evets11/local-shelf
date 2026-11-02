@@ -30,4 +30,4 @@ export function setThemeColor(theme?: string, contrast?: string) {
  */
 export const PREFS_SCRIPT = `(function(){var d=document.documentElement;try{if(matchMedia("(display-mode: standalone)").matches||navigator.standalone)d.dataset.standalone="1"}catch(e){}try{var p=JSON.parse(localStorage.getItem(${JSON.stringify(PREFS_KEY)})||"{}");${DISPLAY_KEYS.map(
   (k) => `if(typeof p.${k}==="string")d.dataset.${k}=p.${k};`,
-).join("")}if(p.profile==="kids"||p.branch||p.onShelfOnly||(p.audioFormat&&p.audioFormat!=="all"))d.dataset.prefFiltering="1";if(localStorage.getItem(${JSON.stringify(WELCOMED_KEY)}))d.dataset.welcomed="1";(${setThemeColor.toString()})(p.theme,p.contrast)}catch(e){}})()`;
+).join("")}if(p.profile==="kids"||p.branch||p.onShelfOnly||(p.audioFormat&&p.audioFormat!=="all")||(p.bookFormat&&p.bookFormat!=="all"))d.dataset.prefFiltering="1";if(localStorage.getItem(${JSON.stringify(WELCOMED_KEY)}))d.dataset.welcomed="1";(${setThemeColor.toString()})(p.theme,p.contrast)}catch(e){}})()`;

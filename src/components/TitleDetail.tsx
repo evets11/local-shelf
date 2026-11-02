@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { PeopleLinks } from "./PeopleLinks";
-import { BorrowOnline, HeroBackdrop, Row } from "./DetailParts";
+import { HeroBackdrop, Row } from "./DetailParts";
+import { BorrowOnline } from "./BorrowOnline";
 import { ExternalLink } from "lucide-react";
 import type { Title } from "@/lib/types";
 import { similarTitles } from "@/lib/catalog";
@@ -11,7 +12,7 @@ import {
   formatRuntime,
   formatSeries,
   isEItem,
-  libraryUrl,
+  borrowLink,
   posterUrl,
   tidySummary,
   trailerId,
@@ -32,7 +33,8 @@ export function TitleDetail({
   headingLevel?: "h1" | "h2";
 }) {
   const Heading = headingLevel;
-  const record = libraryUrl(t);
+  const borrow = borrowLink(t);
+  const record = borrow.href;
   const art = posterUrl(t);
   const similar = similarTitles(t, 36).map(toCard);
   const by = t.kind === "film" ? t.directors : (t.authors ?? []);
@@ -83,7 +85,7 @@ export function TitleDetail({
                   rel="noopener"
                   className="inline-flex items-center gap-2 rounded-full bg-sea px-5 py-2.5 font-semibold text-on-sea transition hover:bg-sea-dark"
                 >
-                  {isEItem(t) ? "Borrow online" : "Reserve at the library"}{" "}
+                  {borrow.label}{" "}
                   <ExternalLink className="h-4 w-4" />
                 </a>
               )}
@@ -107,7 +109,13 @@ export function TitleDetail({
         {/* First in the DOM so phones (one column) read and tab to it before the synopsis. */}
         <aside className="lg:col-start-2 lg:row-start-1">
           {isEItem(t) ? (
-            <BorrowOnline />
+            <BorrowOnline
+              title={t.title}
+              format={t.format}
+              isbn={t.isbn ?? null}
+              coverUrl={t.coverUrl}
+              author={t.authors?.[0] ?? null}
+            />
           ) : (
             <LiveAvailability
               irn={t.irn}

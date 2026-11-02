@@ -34,9 +34,9 @@ Runs one search per list, newest first, walks result pages, then fetches full re
 | --- | --- |
 | Films | every DVD/Blu-ray (`BTYP: G`, about 1,600) |
 | Audiobooks | newest 1,000 audiobook CDs + newest 500 eAudiobooks |
-| Books | newest 400 junior fiction, 300 young adult, 800 adult fiction, 600 adult non-fiction print books (eBooks skipped) |
+| Books | newest 400 junior fiction, 300 young adult, 800 adult fiction, 600 adult non-fiction print books + newest 500 eBooks |
 
-- **Incremental:** full records are fetched only for new titles, or ones whose earlier fetch failed (`--full` refetches all); holdings are refreshed every run for every physical item (eAudiobooks have none).
+- **Incremental:** full records are fetched only for new titles, or ones whose earlier fetch failed (`--full` refetches all); holdings are refreshed every run for every physical item (eBooks and eAudiobooks have none).
 - **Polite:** at most two requests at a time with a delay, backing off harder after 429/5xx.
 - **Resilient:** a collection that fails or looks partial keeps its previous catalogue and later collections continue. But 8 consecutive request failures abort the whole run: collections already written are kept, later ones are skipped (order: films, audiobooks, books). Catalogue files are written atomically (temp file + rename).
 - Raw HTML is cached in `.cache/spydus/`, so `npm run sync -- --offline` re-parses without any requests.
@@ -68,6 +68,9 @@ Matches films to Wikidata for IMDb ids, Rotten Tomatoes and Metacritic scores, Y
 | `/api/availability/[irn]` | XHLD (plus a BRN lookup when the shared set id expires) | catalogue IRNs only; 120/min per server; cached 5 min; a breaker stops calling for 60s after 5 upstream failures; concurrent set-id refreshes are shared |
 | `/api/library/search` | one keyword search | 30/min per server; cached 10 min; own slot pool so slow searches can't starve shelf checks |
 | `/api/library/record` | FULL + XHLD for a search hit | 60/min per server; cached 10 min in memory and 5 min at the CDN, not cached when live holdings failed; "not a book" remembered per IRN; an expired set recovers through the (cached) original search, only for IRNs that search returned |
+| `/api/eloan` | one BorrowBox `/product/<id>` page + up to two OverDrive (Libby) searches, for an e-item's detail view | BorrowBox 6/min, Libby 30/min per server; cached 15 min (BorrowBox) and 1 h (Libby); a failed side comes back null and isn't cached |
+
+**e-items (BorrowBox and Libby).** Spydus only lists the library's BorrowBox copies, and their cover URL carries the BorrowBox product id (`covers.borrowbox.com/backend/covers/BOL_8384306`), so we link straight to `brighton.borrowbox.com/product/<id>`. BorrowBox's robots.txt allows product pages (not `/_next/` or query strings) and asks for 1 request per 10s, so status is only fetched when someone opens an e-item, never in the sync. Libby is a separate OverDrive collection; `src/lib/eloans.ts` looks the book up through OverDrive's undocumented public "thunder" API (the one the Libby web app uses) and only links a title on an exact ISBN or a strict title, surname and format match, otherwise it offers a Libby search.
 
 `src/app/api/library/errors.ts` returns `{ error, code }` with 400/410/429/502; an unknown IRN on `/api/availability` is a plain 404 `{ error }`. Limits are per server instance, not per visitor; see [Decisions](decisions.md).
 

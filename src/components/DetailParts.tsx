@@ -19,41 +19,6 @@ export function HeroBackdrop({ art }: { art: string | null }) {
   );
 }
 
-/** e-items: where to borrow them. */
-export function BorrowOnline() {
-  return (
-    <div className="space-y-2 rounded-lg border border-line p-4 text-sm">
-      <h3 className="font-semibold">Borrow it online</h3>
-      <p className="text-muted">
-        This is a digital loan. Sign in with your library card on the
-        library&apos;s apps:
-      </p>
-      <ul className="space-y-1">
-        <li>
-          <a
-            className="text-sea underline"
-            href="https://brighton.borrowbox.com/"
-            target="_blank"
-            rel="noopener"
-          >
-            BorrowBox
-          </a>
-        </li>
-        <li>
-          <a
-            className="text-sea underline"
-            href="https://libbyapp.com/library/brightonhovegb"
-            target="_blank"
-            rel="noopener"
-          >
-            Libby
-          </a>
-        </li>
-      </ul>
-    </div>
-  );
-}
-
 /** One label/value pair in a detail list (inside a <dl>). */
 export function Row({ label, children }: { label: string; children: React.ReactNode }) {
   return (

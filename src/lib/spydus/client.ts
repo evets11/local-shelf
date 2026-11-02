@@ -261,9 +261,9 @@ export interface LibrarySearchResult {
   hits: LibraryHit[];
 }
 
-/** QRY filters per kind: print books only (no e-items or audio CDs); all audiobooks (CDs + e). */
+/** QRY filters per kind: print books (no e-items or audio CDs) plus eBooks; all audiobooks (CDs + e). */
 export const SEARCH_FILTERS: Record<SearchKind, string> = {
-  book: "DYN: FBK - BIBITM> (DYN: XDA) - BTYP: I",
+  book: "(DYN: FBK - BIBITM> (DYN: XDA) - BTYP: I) / BIBITM> (DYN: XDA + ITMXDATYP: B + FILTER: 1)",
   audiobook: "BTYP: I",
 };
 
@@ -309,7 +309,7 @@ class TtlLru<V> {
 }
 
 /** Sliding-window cap on library hits per server instance, across all visitors. */
-class WindowLimit {
+export class WindowLimit {
   private hits: number[] = [];
   constructor(
     private readonly max: number,
@@ -377,11 +377,14 @@ export function normaliseQuery(q: unknown): string {
   return t;
 }
 
-const formatOf = (kind: SearchKind, r: Pick<ListRecord, "formatIcon">): Title["format"] =>
+/** A search card's format, from its icon. */
+export const formatOf = (kind: SearchKind, r: Pick<ListRecord, "formatIcon">): Title["format"] =>
   kind === "book"
-    ? r.formatIcon === "Large Print"
-      ? "Large print"
-      : "Book"
+    ? r.formatIcon === "eBook"
+      ? "eBook"
+      : r.formatIcon === "Large Print"
+        ? "Large print"
+        : "Book"
     : r.formatIcon === "eAudioBook"
       ? "eAudiobook"
       : "Audiobook CD";
@@ -445,7 +448,7 @@ export function rankHits(query: string, hits: LibraryHit[]): LibraryHit[] {
     .map((x) => x.h);
 }
 
-const NO_HITS = /did not find any records/i;
+export const NO_HITS = /did not find any records/i;
 
 /** One uncached library search (counts against the rate cap). */
 async function runSearch(kind: SearchKind, query: string, audience: SearchAudience): Promise<LibrarySearchResult> {
@@ -514,7 +517,7 @@ async function recoverExpired(get: Fetcher, irn: string, ctx: RecordContext): Pr
 }
 
 /** A ListRecord rebuilt from the full page, so this works on any server instance. */
-function recordFromFull(irn: string, pos: number, full: ReturnType<typeof parseFullRecord>): ListRecord {
+export function recordFromFull(irn: string, pos: number, full: ReturnType<typeof parseFullRecord>): ListRecord {
   return {
     irn,
     position: pos,
@@ -535,6 +538,7 @@ function recordFromFull(irn: string, pos: number, full: ReturnType<typeof parseF
 const KIND_BY_ICON: Record<string, Kind> = {
   Book: "book",
   "Large Print": "book",
+  eBook: "book",
   Audiobooks: "audiobook",
   eAudioBook: "audiobook",
 };

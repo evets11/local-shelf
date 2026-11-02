@@ -26,9 +26,32 @@ export const urls = {
     `${SPYDUS_BASE}${CGI}/ENQ/OPAC/BIBENQ?SETLVL=&BRN=${encodeURIComponent(brn)}`,
 };
 
+export const BORROWBOX_BASE = "https://brighton.borrowbox.com";
+/** The library's OverDrive/Libby key. */
+export const LIBBY_LIBRARY = "brightonhovegb";
+
+/** BorrowBox product ids look like "BOL_8384306" or "CGB_7247542". */
+export const isBorrowBoxId = (id: string) => /^[A-Z]{2,5}_\d{3,10}$/.test(id);
+
+/** e-items' Spydus cover URL carries the BorrowBox product id (covers.borrowbox.com/backend/covers/<id>). */
+export function borrowBoxIdFromCover(coverUrl: string | null | undefined): string | null {
+  const id = coverUrl && /^https:\/\/covers\.borrowbox\.com\/backend\/covers\/([A-Z]{2,5}_\d{3,10})(?:[?/]|$)/.exec(coverUrl)?.[1];
+  return id || null;
+}
+
+export const eloanLinks = {
+  /** Redirects to the product's slugged page. */
+  borrowBox: (id: string) => `${BORROWBOX_BASE}/product/${id}`,
+  libbyTitle: (id: string) => `https://libbyapp.com/library/${LIBBY_LIBRARY}/everything/page-1/${encodeURIComponent(id)}`,
+  libbySearch: (q: string) =>
+    `https://libbyapp.com/search/${LIBBY_LIBRARY}/search/query-${encodeURIComponent(q)}/page-1`,
+};
+
 /** Official library pages we link to (catalogue, joining, council info). */
 export const LIBRARY_LINKS = {
   catalogue: `${SPYDUS_BASE}${CGI}/MSGTRN/OPAC/HOME`,
   join: `${SPYDUS_BASE}${CGI}/MSGTRN/OPAC/JOIN`,
   home: "https://www.brighton-hove.gov.uk/libraries-leisure-and-arts/libraries",
+  borrowBox: `${BORROWBOX_BASE}/`,
+  libby: `https://libbyapp.com/library/${LIBBY_LIBRARY}`,
 } as const;
