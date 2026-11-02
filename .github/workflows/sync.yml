@@ -26,7 +26,7 @@ jobs:
       # Raw FULL-record HTML and enrichment caches live in the Actions cache, not git.
       # Lists and holdings are refetched every run, so only FULL records are worth keeping.
       - name: Restore caches
-        uses: actions/cache/restore@v4
+        uses: actions/cache/restore@v6
         with:
           path: |
             .cache/spydus/full
@@ -53,7 +53,7 @@ jobs:
           CONTACT_URL: ${{ github.server_url }}/${{ github.repository }}
       - name: Save caches
         if: always()
-        uses: actions/cache/save@v4
+        uses: actions/cache/save@v6
         with:
           path: |
             .cache/spydus/full
