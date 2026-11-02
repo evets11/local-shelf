@@ -6,6 +6,8 @@ on:
     # The nightly sync only changes data/; Vercel's build covers that.
     paths-ignore: ["data/**"]
   pull_request:
+  # Manual runs (force pushes can skip the path-filtered push trigger).
+  workflow_dispatch:
 
 permissions:
   contents: read
