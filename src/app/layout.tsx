@@ -6,6 +6,7 @@ import { Footer } from "@/components/Footer";
 import { Welcome } from "@/components/Welcome";
 import { InstallSheet } from "@/components/Install";
 import { OfflineNotice } from "@/components/OfflineNotice";
+import { ProfileSheet } from "@/components/ProfileSheet";
 import { getBranches } from "@/lib/catalog";
 import { PREFS_SCRIPT } from "@/lib/prefs-script";
 import { STARTUP_IMAGES } from "@/lib/pwa-splash";
@@ -73,7 +74,7 @@ export default function RootLayout({ children, modal }: LayoutProps<"/">) {
       <head>
         <script dangerouslySetInnerHTML={{ __html: PREFS_SCRIPT }} />
       </head>
-      <body className="flex min-h-dvh flex-col pb-[calc(3.75rem+env(safe-area-inset-bottom))] font-sans lg:pb-0">
+      <body className="flex min-h-dvh flex-col pb-[calc(5.5rem+env(safe-area-inset-bottom))] font-sans lg:pb-0">
         <a
           href="#main"
           className="sr-only z-50 rounded-full bg-ink px-4 py-2 text-paper focus:not-sr-only focus:fixed focus:left-4 focus:top-3"
@@ -87,6 +88,7 @@ export default function RootLayout({ children, modal }: LayoutProps<"/">) {
         </main>
         <Footer />
         <BottomNav />
+        <ProfileSheet branches={getBranches()} />
         <Hydrated />
         <InstallSheet />
         <OfflineNotice />

@@ -76,7 +76,7 @@ export function InstallSheet() {
       aria-modal="false"
       aria-labelledby="install-title"
     >
-      <div className="sheet-in pointer-events-auto mx-2 sm:mx-auto sm:max-w-md mb-[calc(env(safe-area-inset-bottom)+4.25rem)] rounded-3xl border border-line bg-card/95 p-5 shadow-2xl backdrop-blur-xl">
+      <div className="sheet-in pointer-events-auto mx-2 sm:mx-auto sm:max-w-md mb-[calc(env(safe-area-inset-bottom)+4.75rem)] rounded-3xl border border-line bg-card/95 p-5 shadow-2xl backdrop-blur-xl">
         <div className="flex items-start gap-4">
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img

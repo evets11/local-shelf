@@ -288,6 +288,19 @@ html[data-standalone] [data-welcome] {
 .status-band {
   height: env(safe-area-inset-top);
 }
+/* Phones: the header scrolls away, so the band stays fixed over the status bar and the
+   header starts below it. */
+@media (max-width: 1023px) {
+  .status-band {
+    position: fixed;
+    inset: 0 0 auto;
+    z-index: 45;
+    background: var(--color-paper);
+  }
+  header:has(> .status-band) {
+    padding-top: env(safe-area-inset-top);
+  }
+}
 html[data-theme="light"] .status-band {
   background: var(--color-hero);
 }

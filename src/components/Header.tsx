@@ -2,10 +2,12 @@
 
 import Link from "next/link";
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
-import { Bookmark, Heart, Home, LayoutGrid, Search, Settings as SettingsIcon, X } from "lucide-react";
+import { Bookmark, Check, ChevronDown, Heart, Home, LayoutGrid, MapPin, Search, Settings as SettingsIcon, Star, UserRound, X } from "lucide-react";
 import { Suspense, useEffect, useRef, useState } from "react";
 import { MODES, type Mode, modeFromPath } from "@/lib/modes";
 import { PrefsControl } from "./PrefsControl";
+import { openProfileSheet } from "./ProfileSheet";
+import { setPrefs, usePrefs } from "@/lib/prefs";
 import { AudioFormatBar, KidsBanner, ProfileToggle, ThemeToggle } from "./QuickToggles";
 
 /** Current mode from the path; shared pages (title, my list, settings) keep the last one. */
@@ -29,10 +31,11 @@ export function Header({ branches }: { branches: string[] }) {
   const { mode, pathMode } = useCurrentMode();
 
   return (
-    <header className="sticky top-0 z-40 border-b border-line bg-paper/85 backdrop-blur-xl backdrop-saturate-150">
+    <header className="z-40 border-b border-line bg-paper/85 backdrop-blur-xl backdrop-saturate-150 lg:sticky lg:top-0">
       {/* Fills the area under the status bar in the installed app (0px tall elsewhere). */}
       <div aria-hidden className="status-band" />
-      <div className="mx-auto flex h-16 max-w-[1800px] items-center gap-3 px-4 sm:gap-5 sm:px-8">
+      <MobileHeader />
+      <div className="mx-auto hidden h-16 max-w-[1800px] items-center gap-3 px-4 sm:gap-5 sm:px-8 lg:flex">
         <Link href={mode.home} className="flex shrink-0 items-center gap-2" aria-label="Local Shelf home">
           <Logo />
           <span className="hidden font-display text-2xl font-semibold tracking-tight xl:inline">Local Shelf</span>
@@ -84,7 +87,7 @@ export function Header({ branches }: { branches: string[] }) {
           </Link>
         </div>
       </div>
-      <div className="flex items-center justify-between gap-2 px-4 pb-2 sm:px-8 xl:hidden">
+      <div className="hidden items-center justify-between gap-2 px-4 pb-2 sm:px-8 lg:flex xl:hidden">
         <ProfileToggle />
         <PrefsControl branches={branches} />
       </div>
@@ -122,31 +125,35 @@ function ModeSwitch({ pathname, active, q }: { pathname: string; active: Mode | 
   );
 }
 
-/** Phone tab bar. The header hides these links below lg. */
+/** Phone tab bar: a slim floating bar, like iOS apps. Search lives in the header's field. */
 export function BottomNav() {
   const pathname = usePathname();
   const { mode } = useCurrentMode();
   const tabs = [
-    { href: mode.home, label: "Home", icon: Home, active: modeFromPath(pathname) !== null && !/^\/(browse|search)/.test(pathname) },
-    { href: `/browse/${mode.slug}`, label: "Browse", icon: LayoutGrid, active: pathname.startsWith("/browse") },
-    { href: `/search/${mode.slug}`, label: "Search", icon: Search, active: pathname.startsWith("/search") },
+    {
+      href: mode.home,
+      label: "Home",
+      icon: Home,
+      active: modeFromPath(pathname) !== null && !/^\/(browse|search)/.test(pathname),
+    },
+    { href: `/browse/${mode.slug}`, label: "Browse", icon: LayoutGrid, active: /^\/(browse|search)/.test(pathname) },
     { href: "/my-list", label: "My List", icon: Bookmark, active: pathname === "/my-list" },
     { href: "/settings", label: "Settings", icon: SettingsIcon, active: pathname === "/settings" },
   ];
   return (
     <nav
       aria-label="Main"
-      className="fixed inset-x-0 bottom-0 z-40 border-t border-line/70 bg-paper/80 pb-[env(safe-area-inset-bottom)] pl-[env(safe-area-inset-left)] pr-[env(safe-area-inset-right)] backdrop-blur-xl backdrop-saturate-150 lg:hidden"
+      className="fixed bottom-[calc(env(safe-area-inset-bottom)+0.6rem)] left-1/2 z-40 w-[min(21rem,calc(100%-2rem))] -translate-x-1/2 rounded-full border border-line/70 bg-card/80 shadow-[0_10px_30px_rgba(0,0,0,0.35)] backdrop-blur-xl backdrop-saturate-150 lg:hidden"
     >
-      <ul className="grid h-[3.25rem] grid-cols-5">
+      <ul className="grid h-14 grid-cols-4 px-1.5">
         {tabs.map((t) => (
           <li key={t.label}>
             <Link
               href={t.href}
               aria-current={t.active ? "page" : undefined}
-              className={`flex h-full flex-col items-center justify-center gap-0.5 text-[10px] font-medium tracking-wide transition-colors ${t.active ? "text-sea" : "text-muted"}`}
+              className={`flex h-full flex-col items-center justify-center gap-0.5 rounded-full text-[10px] font-medium transition-colors ${t.active ? "text-sea" : "text-muted"}`}
             >
-              <t.icon className="h-6 w-6" strokeWidth={t.active ? 2.4 : 1.8} aria-hidden />
+              <t.icon className="h-[22px] w-[22px]" strokeWidth={t.active ? 2.3 : 1.8} aria-hidden />
               {t.label}
             </Link>
           </li>
@@ -194,7 +201,8 @@ function Logo() {
   );
 }
 
-function SearchBox({ mode }: { mode: Mode }) {
+/** `bar`: the desktop header's rounded box. `field`: a full-width iOS-style search field for phones. */
+function SearchBox({ mode, variant = "bar" }: { mode: Mode; variant?: "bar" | "field" }) {
   const router = useRouter();
   const pathname = usePathname();
   const params = useSearchParams();
@@ -249,11 +257,15 @@ function SearchBox({ mode }: { mode: Mode }) {
 
   return (
     <div
-      className={`flex items-center gap-1 rounded-full border transition-all ${
-        open
-          ? "w-44 border-line bg-card pl-1 pr-3 shadow-sm focus-within:border-sea focus-within:ring-2 focus-within:ring-sea/25 sm:w-72"
-          : "w-9 border-transparent"
-      }`}
+      className={
+        variant === "field"
+          ? "flex h-10 w-full items-center gap-1 rounded-xl bg-paper-2 pl-0.5 pr-3 focus-within:ring-2 focus-within:ring-sea/30"
+          : `flex items-center gap-1 rounded-full border transition-all ${
+              open
+                ? "w-44 border-line bg-card pl-1 pr-3 shadow-sm focus-within:border-sea focus-within:ring-2 focus-within:ring-sea/25 sm:w-72"
+                : "w-9 border-transparent"
+            }`
+      }
     >
       <button
         type="button"
@@ -277,8 +289,11 @@ function SearchBox({ mode }: { mode: Mode }) {
             }}
             placeholder={placeholder}
             aria-label={`Search ${mode.label}`}
-            className="h-9 min-w-0 flex-1 bg-transparent text-sm outline-none placeholder:text-muted"
-            
+            type="search"
+            enterKeyHint="search"
+            className={`h-9 min-w-0 flex-1 bg-transparent outline-none placeholder:text-muted [&::-webkit-search-cancel-button]:hidden ${
+              variant === "field" ? "text-base" : "text-sm"
+            }`}
           />
           {value && (
             <button
@@ -293,6 +308,148 @@ function SearchBox({ mode }: { mode: Mode }) {
             </button>
           )}
         </>
+      )}
+    </div>
+  );
+}
+
+/**
+ * Phones: an iOS-style large title that switches collection, a profile button (opens the
+ * profile sheet), a search field and filter chips. Pages outside a collection get a compact row.
+ */
+function MobileHeader() {
+  const pathname = usePathname();
+  const { mode, pathMode } = useCurrentMode();
+  const prefs = usePrefs();
+
+  if (!pathMode) {
+    return (
+      <div className="flex h-14 items-center justify-between px-4 lg:hidden">
+        <Link href={mode.home} className="flex items-center gap-2" aria-label="Local Shelf home">
+          <Logo />
+          <span className="font-display text-xl font-semibold">Local Shelf</span>
+        </Link>
+        <ProfileButton />
+      </div>
+    );
+  }
+
+  const shortBranch = prefs.branch.replace(/ Library$/, "");
+  return (
+    <div className="space-y-3 px-4 pb-3 pt-3 lg:hidden">
+      <div className="flex items-center justify-between gap-3">
+        <Suspense fallback={<CollectionMenu pathname={pathname} active={pathMode} q={null} />}>
+          <CollectionMenuWithQuery pathname={pathname} active={pathMode} />
+        </Suspense>
+        <ProfileButton />
+      </div>
+      <Suspense fallback={<div className="h-10 rounded-xl bg-paper-2" />}>
+        <SearchBox mode={pathMode} variant="field" />
+      </Suspense>
+      <div className="flex gap-2 overflow-x-auto no-scrollbar">
+        <button
+          type="button"
+          onClick={openProfileSheet}
+          className={`flex h-8 shrink-0 items-center gap-1.5 rounded-full border px-3 text-[13px] font-medium ${
+            prefs.branch ? "border-sea bg-sea/10 text-sea" : "border-line text-ink"
+          }`}
+        >
+          <MapPin className="h-3.5 w-3.5" aria-hidden />
+          {shortBranch || "Any library"}
+          <span className="sr-only">, change library</span>
+        </button>
+        <button
+          type="button"
+          aria-pressed={prefs.onShelfOnly}
+          onClick={() => setPrefs({ onShelfOnly: !prefs.onShelfOnly })}
+          className={`h-8 shrink-0 rounded-full px-3 text-[13px] font-semibold ${
+            prefs.onShelfOnly ? "bg-sea text-on-sea" : "border border-line text-ink"
+          }`}
+        >
+          On the shelf
+        </button>
+        {prefs.profile === "kids" && (
+          <button
+            type="button"
+            onClick={openProfileSheet}
+            className="flex h-8 shrink-0 items-center gap-1.5 rounded-full bg-sea px-3 text-[13px] font-semibold text-on-sea"
+          >
+            <Star className="h-3.5 w-3.5" aria-hidden /> Kids
+          </button>
+        )}
+      </div>
+    </div>
+  );
+}
+
+function ProfileButton() {
+  const { profile } = usePrefs();
+  return (
+    <button
+      type="button"
+      onClick={openProfileSheet}
+      aria-label="Profile, library and appearance"
+      className="relative grid h-10 w-10 shrink-0 place-items-center rounded-full bg-paper-2 text-ink"
+    >
+      {profile === "kids" ? <Star className="h-5 w-5 text-sea" aria-hidden /> : <UserRound className="h-5 w-5" aria-hidden />}
+    </button>
+  );
+}
+
+function CollectionMenuWithQuery({ pathname, active }: { pathname: string; active: Mode }) {
+  const params = useSearchParams();
+  return <CollectionMenu pathname={pathname} active={active} q={params.get("q")} />;
+}
+
+/** The large title doubles as the collection switcher, like an iOS title menu. */
+function CollectionMenu({ pathname, active, q }: { pathname: string; active: Mode; q: string | null }) {
+  const [open, setOpen] = useState(false);
+  const root = useRef<HTMLDivElement>(null);
+  useEffect(() => {
+    if (!open) return;
+    const away = (e: PointerEvent) => {
+      if (!root.current?.contains(e.target as Node)) setOpen(false);
+    };
+    const esc = (e: KeyboardEvent) => e.key === "Escape" && setOpen(false);
+    document.addEventListener("pointerdown", away);
+    document.addEventListener("keydown", esc);
+    return () => {
+      document.removeEventListener("pointerdown", away);
+      document.removeEventListener("keydown", esc);
+    };
+  }, [open]);
+
+  return (
+    <div ref={root} className="relative min-w-0">
+      <button
+        type="button"
+        aria-haspopup="true"
+        aria-expanded={open}
+        onClick={() => setOpen((o) => !o)}
+        className="flex min-w-0 items-center gap-1.5"
+      >
+        <span className="truncate font-display text-[2rem] font-semibold leading-tight tracking-tight">{active.label}</span>
+        <ChevronDown className={`mt-1 h-5 w-5 shrink-0 text-muted transition-transform ${open ? "rotate-180" : ""}`} aria-hidden />
+        <span className="sr-only">, switch collection</span>
+      </button>
+      {open && (
+        <nav
+          aria-label="Collection"
+          className="sheet-in absolute left-0 top-full z-50 mt-2 w-60 overflow-hidden rounded-2xl border border-line bg-card/95 shadow-2xl backdrop-blur-xl"
+        >
+          {MODES.map((m) => (
+            <Link
+              key={m.kind}
+              href={modeHref(m, pathname, q)}
+              onClick={() => setOpen(false)}
+              aria-current={m.kind === active.kind ? "page" : undefined}
+              className="flex items-center justify-between border-b border-line px-4 py-3 text-base last:border-0"
+            >
+              {m.label}
+              {m.kind === active.kind && <Check className="h-4 w-4 text-sea" aria-hidden />}
+            </Link>
+          ))}
+        </nav>
       )}
     </div>
   );

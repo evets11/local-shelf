@@ -1,14 +1,14 @@
 "use client";
 
-import { Moon, Sun } from "lucide-react";
+import { Disc3, Moon, Smartphone, Star, Sun, Users } from "lucide-react";
 import { setPrefs, usePrefs } from "@/lib/prefs";
 
 /** Everyone / Kids profile switch for the top bar. Both options are always labelled. */
 export function ProfileToggle() {
   const { profile } = usePrefs();
   const options = [
-    { value: "everyone", label: "Everyone", icon: "👥" },
-    { value: "kids", label: "Kids", icon: "🧸" },
+    { value: "everyone", label: "Everyone", Icon: Users },
+    { value: "kids", label: "Kids", Icon: Star },
   ] as const;
   return (
     <div role="radiogroup" aria-label="Profile" className="flex rounded-full border border-line bg-card p-0.5 text-sm">
@@ -25,7 +25,7 @@ export function ProfileToggle() {
               active ? "bg-sea text-on-sea shadow-sm" : "text-muted hover:text-ink"
             }`}
           >
-            <span aria-hidden>{o.icon}</span>
+            <o.Icon className="h-3.5 w-3.5" aria-hidden />
             {o.label}
           </button>
         );
@@ -42,7 +42,7 @@ export function KidsBanner() {
     <div role="status" className="border-b border-line bg-sea text-on-sea">
       <div className="mx-auto flex max-w-[1800px] flex-wrap items-center justify-between gap-2 px-4 py-2 text-sm sm:px-8">
         <p className="font-semibold">
-          <span aria-hidden>🧸 </span>Kids profile is on. Only children&apos;s films, books and audiobooks are showing.
+          <Star className="mr-1.5 inline h-4 w-4 align-[-2px]" aria-hidden />Kids profile is on. Only children&apos;s films, books and audiobooks are showing.
         </p>
         <button
           type="button"
@@ -73,9 +73,9 @@ export function ThemeToggle() {
 }
 
 const AUDIO_OPTIONS = [
-  { value: "all", label: "All" },
-  { value: "eaudiobook", label: "📱 eAudiobooks" },
-  { value: "cd", label: "💿 CDs" },
+  { value: "all", label: "All", Icon: null },
+  { value: "eaudiobook", label: "eAudiobooks", Icon: Smartphone },
+  { value: "cd", label: "CDs", Icon: Disc3 },
 ] as const;
 
 /** Sub-filter shown on Audiobooks pages: both formats, just eAudiobooks, or just CDs. */
@@ -97,10 +97,11 @@ export function AudioFormatBar() {
                 role="radio"
                 aria-checked={active}
                 onClick={() => setPrefs({ audioFormat: o.value })}
-                className={`rounded-full border px-3 py-1 font-medium transition ${
+                className={`inline-flex items-center gap-1.5 rounded-full border px-3 py-1 font-medium transition ${
                   active ? "border-sea bg-sea text-on-sea" : "border-line bg-card text-ink hover:border-sea"
                 }`}
               >
+                {o.Icon && <o.Icon className="h-3.5 w-3.5" aria-hidden />}
                 {o.label}
               </button>
             );

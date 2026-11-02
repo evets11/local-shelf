@@ -152,7 +152,6 @@ export function Explorer({ kind, titles, heading, partial = false }: Props) {
 
   return (
     <div className="mx-auto max-w-[1800px] px-4 py-6 sm:px-8">
-      {pathname.startsWith("/search") && <MobileSearch initial={q} onChange={(v) => set("q", v)} />}
 
       <div className="mb-4 flex flex-wrap items-end justify-between gap-3">
         <div>
@@ -374,30 +373,3 @@ function Select({
 }
 
 /** Search box for phones, where the header search is hidden. Keeps its own text while typing. */
-function MobileSearch({ initial, onChange }: { initial: string; onChange: (v: string) => void }) {
-  const [value, setValue] = useState(initial);
-  // Follow the URL when q changes from elsewhere (a cast link, the Search tab). Our own
-  // typing lands late, so the prefix check stops it clobbering keystrokes.
-  const [prevInitial, setPrevInitial] = useState(initial);
-  if (initial !== prevInitial) {
-    setPrevInitial(initial);
-    const own = value.trim();
-    if (!(own && (own.startsWith(initial) || initial.startsWith(own)) && initial !== "")) setValue(initial);
-  }
-  return (
-    <div className="mb-5 lg:hidden">
-      <input
-        type="search"
-        value={value}
-        onChange={(e) => {
-          setValue(e.target.value);
-          onChange(e.target.value.trim());
-        }}
-        placeholder="Search titles, people, genres"
-        aria-label="Search"
-        autoFocus={!initial}
-        className="h-12 w-full rounded-xl border border-line bg-card px-4 text-base outline-none placeholder:text-muted focus:border-sea"
-      />
-    </div>
-  );
-}
