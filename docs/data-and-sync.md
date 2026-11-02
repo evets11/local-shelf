@@ -92,4 +92,4 @@ The catalogue refuses requests from outside the UK (HTTP 405). Vercel functions 
 
 ## The GitHub Action (`.github/workflows/sync.yml`)
 
-Nightly at 03:30 UTC (and on demand): restore caches, `npm run sync`, `npm run enrich`, save caches, commit `data/` if it changed (as `localshelf-bot`), then fail the job if either step failed. A sync or enrichment failure never blocks committing what did succeed. Secrets: `SPYDUS_RELAY_TOKEN` (required, see above), `TMDB_API_KEY`, `OMDB_API_KEY` (both optional). The relay address defaults to the Vercel URL; set the repository variable `SPYDUS_RELAY_URL` to change it (e.g. `https://localshelf.uk/api/relay`).
+Nightly at 03:30 UTC (and on demand): restore caches, `npm run sync`, `npm run enrich`, save caches, commit `data/` if it changed (as `localshelf-bot`), then fail the job if either step failed. A sync or enrichment failure never blocks committing what did succeed. Secrets: `SPYDUS_RELAY_TOKEN` (required, see above), `TMDB_API_KEY`, `OMDB_API_KEY` (both optional). The relay address defaults to `https://localshelf.uk/api/relay`; set the repository variable `SPYDUS_RELAY_URL` to override it.

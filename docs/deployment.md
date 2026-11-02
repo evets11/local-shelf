@@ -17,7 +17,7 @@ The nightly sync reaches the library through the site (see [Data and sync](data-
 - Vercel: Settings > Environment Variables > `SPYDUS_RELAY_TOKEN` (Production), then redeploy.
 - GitHub: Settings > Secrets and variables > Actions > New repository secret > `SPYDUS_RELAY_TOKEN`.
 
-Once localshelf.uk is live, set the Actions variable `SPYDUS_RELAY_URL` to `https://localshelf.uk/api/relay`.
+The sync uses `https://localshelf.uk/api/relay` by default (Actions variable `SPYDUS_RELAY_URL` overrides it).
 
 ## Function region
 
@@ -25,7 +25,7 @@ Once localshelf.uk is live, set the Actions variable `SPYDUS_RELAY_URL` to `http
 
 ## Connecting localshelf.uk
 
-1. Vercel project > **Settings > Domains** > add `localshelf.uk` and `www.localshelf.uk` (redirect `www` to the apex).
+1. Vercel project > **Settings > Domains** > add `localshelf.uk` (connected to Production, no redirect) and `www.localshelf.uk` (**redirect** to `localshelf.uk`, 308). Not the other way round: canonical URLs, the sitemap and social cards all use the apex.
 2. Vercel shows the DNS records it needs (an `A` record for the apex and a `CNAME` for `www`). In Namecheap > Domain List > Manage > **Advanced DNS**, delete the parking records and add those exactly.
 3. Wait for Vercel to show both as valid (minutes to a few hours). It issues HTTPS automatically.
 
