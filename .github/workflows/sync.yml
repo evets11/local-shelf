@@ -1,0 +1,84 @@
+name: Sync library catalogue
+
+on:
+  schedule:
+    - cron: "30 3 * * *" # nightly, 03:30 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150 # ~1h nightly; first run of a new kind is longer
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      # Raw FULL-record HTML and enrichment caches live in the Actions cache, not git.
+      # Lists and holdings are refetched every run, so only FULL records are worth keeping.
+      - name: Restore caches
+        uses: actions/cache/restore@v4
+        with:
+          path: |
+            .cache/spydus/full
+            data/wikidata-cache.json
+            data/tmdb-cache.json
+          key: sync-caches-${{ github.run_id }}
+          restore-keys: sync-caches-
+      - name: Sync from Spydus
+        id: sync
+        # A refused/aborted kind keeps its previous catalog; kinds that finished are still
+        # enriched and committed below, then the job is marked failed.
+        continue-on-error: true
+        run: npm run sync
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          CONTACT_URL: ${{ github.server_url }}/${{ github.repository }}
+      - name: Enrich films (Wikidata/OMDb)
+        id: enrich
+        # A Wikidata/OMDb outage mustn't stop a good sync being committed.
+        continue-on-error: true
+        run: npm run enrich
+        env:
+          OMDB_API_KEY: ${{ secrets.OMDB_API_KEY }} # optional
+          CONTACT_URL: ${{ github.server_url }}/${{ github.repository }}
+      - name: Save caches
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: |
+            .cache/spydus/full
+            data/wikidata-cache.json
+            data/tmdb-cache.json
+          key: sync-caches-${{ github.run_id }}
+      - name: Commit catalogue if changed
+        run: |
+          git config user.name "localshelf-bot"
+          git config user.email "localshelf-bot@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "chore: nightly catalogue sync"
+            git pull --rebase
+            git push
+          fi
+      - name: Fail if the sync or enrichment failed
+        if: steps.sync.outcome == 'failure' || steps.enrich.outcome == 'failure'
+        run: |
+          if [ "${{ steps.sync.outcome }}" = "failure" ]; then
+            echo "::error::Sync refused or aborted at least one kind; see the Sync step log (look for !!! or ABORT)."
+          fi
+          if [ "${{ steps.enrich.outcome }}" = "failure" ]; then
+            echo "::error::Film enrichment failed; film-extras.json was left as it was."
+          fi
+          exit 1
