@@ -21,13 +21,7 @@ import {
   type FullRecord,
   type ListRecord,
 } from "../src/lib/spydus/parse";
-import type {
-  Catalog,
-  Holding,
-  Kind,
-  Title,
-  TmdbInfo,
-} from "../src/lib/types";
+import type { Catalog, Holding, Kind, Title, TmdbInfo } from "../src/lib/types";
 
 const ROOT = join(import.meta.dirname, "..");
 const CACHE = join(ROOT, ".cache", "spydus");
@@ -43,7 +37,9 @@ const NO_HOLDINGS = args.includes("--no-holdings");
 const limitIdx = args.indexOf("--limit");
 const LIMIT = limitIdx >= 0 ? Number(args[limitIdx + 1]) : Infinity;
 if (limitIdx >= 0 && !(Number.isInteger(LIMIT) && LIMIT > 0)) {
-  console.error(`--limit needs a positive integer, got ${JSON.stringify(args[limitIdx + 1])}`);
+  console.error(
+    `--limit needs a positive integer, got ${JSON.stringify(args[limitIdx + 1])}`,
+  );
   process.exit(64);
 }
 const ALL_KINDS: Kind[] = ["film", "audiobook", "book"];
@@ -210,7 +206,11 @@ async function loadList(
   log(
     `  list ${spec.name}: ${Math.min(records.length, limit)} kept, ${dropped} dropped (of ${total})`,
   );
-  return { records: records.slice(0, limit), total, cards: records.length + dropped };
+  return {
+    records: records.slice(0, limit),
+    total,
+    cards: records.length + dropped,
+  };
 }
 
 // ---------- full records + holdings ----------
@@ -272,7 +272,24 @@ async function fetchHoldings(irn: string): Promise<string> {
 }
 // ---------- TMDB ----------
 
-type TmdbCache = Record<string, TmdbInfo | null>;
+/** One TMDB lookup, dated: TMDB's terms allow caching their data for at most 6 months. */
+interface TmdbCacheEntry {
+  at: string;
+  info: TmdbInfo | null;
+}
+// Older caches stored bare TmdbInfo | null with no date; those count as expired.
+type TmdbCache = Record<string, TmdbCacheEntry | TmdbInfo | null>;
+const TMDB_MAX_AGE_DAYS = 150;
+
+/** The entry if it's young enough. Lifetimes vary by up to 30 days per key, so refreshes spread out. */
+function freshTmdb(cache: TmdbCache, ck: string): TmdbCacheEntry | undefined {
+  const e = cache[ck];
+  if (!e || !("at" in e)) return undefined;
+  let h = 0;
+  for (const c of ck) h = (h * 31 + c.charCodeAt(0)) >>> 0;
+  const ageDays = (Date.now() - Date.parse(e.at)) / 86_400_000;
+  return ageDays < TMDB_MAX_AGE_DAYS - (h % 30) ? e : undefined;
+}
 /** Loose shape covering the search and details responses we read. */
 interface TmdbJson {
   results?: { id: number }[];
@@ -281,7 +298,9 @@ interface TmdbJson {
   vote_average?: number;
   vote_count?: number;
   tagline?: string;
-  videos?: { results?: { site: string; type: string; key: string; official?: boolean }[] };
+  videos?: {
+    results?: { site: string; type: string; key: string; official?: boolean }[];
+  };
 }
 
 async function tmdbEnrich(titles: Title[]) {
@@ -324,7 +343,7 @@ async function tmdbEnrich(titles: Title[]) {
       .replace(/\s*\(\d{4}\)\s*$/, "")
       .replace(/:\s.*$/, (m) => (t.title.length > 40 ? "" : m));
     const ck = `${isTv ? "tv" : "movie"}|${q.toLowerCase()}|${t.year ?? ""}`;
-    if (!(ck in cache)) {
+    if (!freshTmdb(cache, ck)) {
       queried++;
       try {
         let kind: "movie" | "tv" = isTv ? "tv" : "movie";
@@ -347,7 +366,8 @@ async function tmdbEnrich(titles: Title[]) {
           r = await search("tv", true);
         }
         const hit = r.results?.[0];
-        if (!hit) cache[ck] = null;
+        const at = new Date().toISOString();
+        if (!hit) cache[ck] = { at, info: null };
         else {
           const d = await tmdb(`/${kind}/${hit.id}`, {
             append_to_response: "videos",
@@ -365,15 +385,18 @@ async function tmdbEnrich(titles: Title[]) {
             vids.find((v) => v.site === "YouTube" && v.type === "Trailer") ??
             vids.find((v) => v.site === "YouTube" && v.type === "Teaser");
           cache[ck] = {
-            id: hit.id,
-            posterPath: d.poster_path ?? null,
-            backdropPath: d.backdrop_path ?? null,
-            voteAverage:
-              typeof d.vote_average === "number" && (d.vote_count ?? 0) > 0
-                ? d.vote_average
-                : null,
-            trailerKey: trailer?.key ?? null,
-            tagline: d.tagline || null,
+            at,
+            info: {
+              id: hit.id,
+              posterPath: d.poster_path ?? null,
+              backdropPath: d.backdrop_path ?? null,
+              voteAverage:
+                typeof d.vote_average === "number" && (d.vote_count ?? 0) > 0
+                  ? d.vote_average
+                  : null,
+              trailerKey: trailer?.key ?? null,
+              tagline: d.tagline || null,
+            },
           };
         }
       } catch (e) {
@@ -382,7 +405,7 @@ async function tmdbEnrich(titles: Title[]) {
       }
       if (queried % 50 === 0) writeJsonAtomic(TMDB_CACHE, cache);
     }
-    const info = cache[ck];
+    const info = freshTmdb(cache, ck)?.info;
     if (info) {
       t.tmdb = info;
       hits++;
@@ -410,7 +433,8 @@ async function syncKind(kind: Kind, now: string) {
     // the limit, or parsed ~all cards (junk included, since `total` counts junk too).
     // No total (broken/unknown page) is never "complete" on card count alone.
     const complete =
-      records.length >= Math.min(spec.limit, LIMIT) || (total !== null && cards >= total * 0.9);
+      records.length >= Math.min(spec.limit, LIMIT) ||
+      (total !== null && cards >= total * 0.9);
     if (!Number.isFinite(LIMIT) && !complete) {
       log(
         `!!! REFUSING to write ${kind}: list ${spec.name} parsed ${cards} of ${total} cards. ` +
@@ -534,7 +558,9 @@ async function main() {
       await syncKind(kind, now);
     } catch (e) {
       // e.g. a list page that failed after retries: keep this kind's previous catalog, carry on.
-      log(`!!! ${kind} FAILED, keeping the previous ${kind} catalog: ${(e as Error).stack ?? e}`);
+      log(
+        `!!! ${kind} FAILED, keeping the previous ${kind} catalog: ${(e as Error).stack ?? e}`,
+      );
       process.exitCode = 3;
     }
   }

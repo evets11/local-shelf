@@ -59,7 +59,7 @@ Matches films to Wikidata for IMDb ids, Rotten Tomatoes and Metacritic scores, Y
 
 - Decisions are cached in `data/wikidata-cache.json` with a fingerprint of title, year, release year, directors and TV-ness; a film is re-matched when that changes, or (if unmatched) when its cast changes.
 - Matching rules and confidence tiers are in `src/lib/enrich/match.ts`, with tests in `tests/enrich.test.ts`.
-- `TMDB_API_KEY` (optional, used by the sync) adds posters, backdrops and trailers for most films.
+- `TMDB_API_KEY` (optional, used by the sync) adds posters, backdrops and trailers for most films. TMDB's terms allow caching their data for at most 6 months, so `data/tmdb-cache.json` entries are dated and refetched after about 120-150 days (staggered per title); undated entries count as expired. Their terms also require their logo and disclaimer wording, shown by `TmdbCredit` in the footer and on About.
 
 ## Live lookups (`src/lib/spydus/client.ts`)
 

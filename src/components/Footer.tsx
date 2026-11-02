@@ -2,6 +2,7 @@ import Link from "next/link";
 import { LIBRARY_LINKS } from "@/lib/spydus/urls";
 import { MODES } from "@/lib/modes";
 import { SupportLink } from "./Support";
+import { TmdbCredit } from "./TmdbCredit";
 
 export function Footer() {
   return (
@@ -65,16 +66,9 @@ export function Footer() {
             >
               Wikidata
             </a>{" "}
-            (CC0). Film posters and trailers from{" "}
-            <a
-              className="underline hover:text-ink"
-              href="https://www.themoviedb.org/"
-            >
-              TMDB
-            </a>
-            . This product uses the TMDB API but is not endorsed or certified by
-            TMDB.
+            (CC0).
           </p>
+          <TmdbCredit className="pt-2 text-xs" />
         </div>
       </div>
     </footer>

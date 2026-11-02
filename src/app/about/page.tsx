@@ -5,6 +5,7 @@ import { OG_BASE } from "@/lib/site";
 import { getCatalog } from "@/lib/catalog";
 import { ShowWelcomeButton } from "@/components/Welcome";
 import { BackButton } from "@/components/BackButton";
+import { TmdbCredit } from "@/components/TmdbCredit";
 import { SupportBlurb, SupportLink } from "@/components/Support";
 
 export const metadata: Metadata = {
@@ -201,16 +202,9 @@ export default function AboutPage() {
           >
             Wikidata
           </a>
-          , and film posters and trailers from{" "}
-          <a
-            className="underline hover:text-ink"
-            href="https://www.themoviedb.org/"
-          >
-            TMDB
-          </a>
-          . This product uses the TMDB API but is not endorsed or certified by
-          TMDB.
+          .
         </p>
+        <TmdbCredit className="text-sm text-muted" />
         <p className="text-sm text-muted">
           Catalogue last refreshed {updated}.
         </p>
