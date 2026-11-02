@@ -10,6 +10,10 @@ Local Shelf is built for Vercel and served at https://localshelf.uk (registered 
 
 The free Hobby plan is enough for the traffic and build size (about 10,000 static pages, ~1 minute). Check Vercel's terms about donations if the site starts taking significant money.
 
+## Function region
+
+`vercel.json` runs functions in London (`lhr1`), next to the library's catalogue. The catalogue refused requests from Vercel's default US region with HTTP 405, and London is faster anyway.
+
 ## Connecting localshelf.uk
 
 1. Vercel project > **Settings > Domains** > add `localshelf.uk` and `www.localshelf.uk` (redirect `www` to the apex).
