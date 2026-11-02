@@ -58,6 +58,17 @@ export function getAllTitles(): Title[] {
   return [...byIrn.values()];
 }
 
+/**
+ * Titles prerendered at build: the newest per collection (what the home pages feature). Every
+ * other title renders on its first visit and is cached, which keeps each deploy small (all
+ * ~5,000 titles twice over, page and sheet, made deploys about 2.6 GB).
+ */
+export function getPrerenderedTitles(perKind = 100): Title[] {
+  return (["film", "book", "audiobook"] as const).flatMap((kind) =>
+    [...catalogs[kind].titles].sort((a, b) => b.firstSeen.localeCompare(a.firstSeen)).slice(0, perKind),
+  );
+}
+
 export function getTitle(irn: string): Title | undefined {
   return byIrn.get(irn);
 }
