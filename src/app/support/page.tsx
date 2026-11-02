@@ -39,7 +39,7 @@ export default function SupportPage() {
           </p>
         </div>
         <p className="text-sm text-muted">
-          Payments are handled securely by Ko-fi with PayPal or card. Local Shelf never sees your payment details.
+          Payments are handled securely by Ko-fi with PayPal or card. Local Shelf never sees your payment details. The form is loaded from Ko-fi and covered by Ko-fi&apos;s own privacy policy.
         </p>
       </section>
 
