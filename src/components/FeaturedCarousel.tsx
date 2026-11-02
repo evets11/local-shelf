@@ -59,7 +59,8 @@ export function FeaturedCarousel({
           role="group"
           aria-roledescription="slide"
           aria-label={`${current + 1} of ${count}: ${t.title}`}
-          className="animate-fade-in relative mx-auto flex max-w-[1800px] items-start gap-4 px-4 pb-20 pt-5 sm:items-center sm:gap-12 sm:px-8 sm:pb-28 sm:pt-14 lg:min-h-[34rem]"
+          // Fixed height with clamped text, so the arrows, dots and the page below never shift between picks.
+        className="animate-fade-in relative mx-auto flex max-w-[1800px] items-start gap-4 px-4 pb-20 pt-5 sm:items-center sm:gap-12 sm:px-8 sm:pb-28 sm:pt-14 lg:h-[41rem]"
         >
           <Link
             href={`/title/${t.irn}`}
@@ -78,10 +79,10 @@ export function FeaturedCarousel({
             <p className="text-xs font-semibold uppercase tracking-[0.25em] text-white/70">
               {intro}
             </p>
-            <h2 className="font-display text-3xl font-semibold leading-[1.05] drop-shadow-lg sm:text-6xl lg:text-7xl">
+            <h2 className="line-clamp-2 font-display text-3xl font-semibold leading-[1.05] drop-shadow-lg sm:text-6xl lg:text-7xl">
               {t.title}
             </h2>
-            <div className="flex flex-wrap items-center gap-2 text-sm text-white/80">
+            <div className="flex h-6 flex-wrap items-center gap-2 overflow-hidden text-sm text-white/80">
               {t.certificate && (
                 <span
                   className={`rounded px-1.5 text-xs font-bold leading-5 ${CERT_STYLES[t.certificate] ?? "bg-slate-500 text-white"}`}
@@ -97,7 +98,7 @@ export function FeaturedCarousel({
               ))}
             </div>
             {t.summary && (
-              <p className="line-clamp-3 text-sm text-white/90 sm:line-clamp-4 sm:text-lg">
+              <p className="line-clamp-3 min-h-[5.25rem] text-sm text-white/90 sm:text-lg">
                 {tidySummary(t.summary)}
               </p>
             )}
