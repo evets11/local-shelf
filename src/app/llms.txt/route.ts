@@ -24,16 +24,15 @@ ${MODES.map((m) => `- [${m.label}](${absolute(m.home)}): new arrivals, critics' 
 
 ## Title pages
 
-- Every title has a page at ${absolute("/title/{id}")} with format, availability by library, fees, a link to reserve it on the library catalogue and, for films, IMDb, Rotten Tomatoes and trailer links where known.
+- Every title has a page at ${absolute("/title/{id}")} with format, availability by library, a link to reserve it on the library catalogue and, for films, IMDb, Rotten Tomatoes and trailer links where known.
 - [The sitemap](${absolute("/sitemap.xml")}) lists every title page; each one is plain server-rendered HTML with schema.org Movie or Book data.
 - Browse and search pages filter in the browser with JavaScript, so fetch title pages instead.
 
 ## About
 
-- [About Local Shelf](${absolute("/about")}): how to borrow, library fees, accessibility settings and where the data comes from
+- [About Local Shelf](${absolute("/about")}): how to borrow, accessibility settings and where the data comes from
 - [Brighton & Hove Libraries catalogue](${LIBRARY_LINKS.catalogue}): the official catalogue and library account
-- [Library opening times](${LIBRARY_LINKS.openingTimes})
-- [Library fees](${LIBRARY_LINKS.fees})
+- [Brighton & Hove Libraries](${LIBRARY_LINKS.home}): opening times, fees, joining and everything else about the library
 
 ## Optional
 

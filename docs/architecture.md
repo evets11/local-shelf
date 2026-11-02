@@ -27,7 +27,7 @@ static pages ──► browser
 | `/title/[irn]` | Title page (`TitleDetail`). Also intercepted as a sheet by `@modal/(.)title/[irn]` |
 | `/item?irn&set&pos&kind&q` | A live whole-catalogue result (`ExternalItem`). Also intercepted as a sheet by `@modal/(.)item` |
 | `/my-list` | Saved titles (localStorage), cards from `/api/cards` |
-| `/settings`, `/about`, `/support` | Preferences, about/fees/accessibility, donations (Ko-fi embed) |
+| `/settings`, `/about`, `/support` | Preferences, about/accessibility, donations (Ko-fi embed) |
 | `/manifest.webmanifest`, `/sitemap.xml`, `/robots.txt`, `/llms.txt`, `/opengraph-image` | Generated metadata routes, see [SEO](seo.md) and [PWA](pwa.md) |
 
 Modes (films, books, audiobooks) are defined once in `src/lib/modes.ts`. `/browse` and `/search` redirect to `/browse/films` and `/search/films` (`next.config.ts`).
@@ -47,7 +47,7 @@ Clicking a title or a catalogue result keeps you on the page and opens it in a s
 - `src/lib/types.ts`: the data contract (`Title`, `Holding`, `Catalog`, `FilmExtras`).
 - `src/lib/catalog.ts` (server only): loads the catalogue JSON, merges film extras, builds home shelves, featured picks and "More like this".
 - `src/lib/card.ts`: slim `CardTitle` / `SearchTitle` shapes sent to the client.
-- `src/lib/format.ts` (client safe): poster URLs, fees, availability labels, e-item checks, text tidying.
+- `src/lib/format.ts` (client safe): poster URLs, availability labels, e-item checks, text tidying.
 - `src/lib/prefs.ts` + `prefs-script.ts`: per-device preferences and the pre-paint script. See [UI](ui.md).
 - `src/lib/site.ts`: site name, URL, page title/description helpers and JSON-LD builders. See [SEO](seo.md).
 - `src/lib/pwa.ts`: service worker registration, install prompt state, external links in the installed app. See [PWA](pwa.md).

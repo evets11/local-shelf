@@ -3,7 +3,6 @@ import Link from "next/link";
 import { LIBRARY_LINKS } from "@/lib/spydus/urls";
 import { OG_BASE } from "@/lib/site";
 import { getCatalog } from "@/lib/catalog";
-import { FEES } from "@/lib/format";
 import { ShowWelcomeButton } from "@/components/Welcome";
 import { BackButton } from "@/components/BackButton";
 import { SupportBlurb, SupportLink } from "@/components/Support";
@@ -11,7 +10,7 @@ import { SupportBlurb, SupportLink } from "@/components/Support";
 export const metadata: Metadata = {
   title: "About Local Shelf",
   description:
-    "What Local Shelf is, how to borrow from Brighton & Hove Libraries, library fees, accessibility settings and where the data comes from.",
+    "What Local Shelf is, how to borrow from Brighton & Hove Libraries, accessibility settings and where the data comes from.",
   alternates: { canonical: "/about" },
   openGraph: { ...OG_BASE, title: "About Local Shelf", url: "/about" },
 };
@@ -172,37 +171,6 @@ export default function AboutPage() {
         </p>
       </section>
 
-      <section id="fees" className="scroll-mt-24 space-y-3">
-        <h2 className="font-display text-3xl font-semibold">What it costs</h2>
-        <p className="text-muted">
-          Books are free. These are the library&apos;s published fees for the
-          rest:
-        </p>
-        <table className="w-full overflow-hidden rounded-lg text-left text-sm">
-          <tbody className="divide-y divide-line bg-card">
-            <FeeRow label="DVD, adults" fee={FEES.adultDvd} />
-            <FeeRow label="DVD box set, adults" fee={FEES.adultBoxSet} />
-            <FeeRow label="DVD, children" fee={FEES.childDvd} />
-            <FeeRow
-              label="Spoken word (audiobook CDs), adults"
-              fee={FEES.adultSpokenWord}
-            />
-            <FeeRow label="Spoken word, under-16s" fee="Free" />
-            <FeeRow
-              label="Reservations"
-              fee={`${FEES.reserveAdult} adults, ${FEES.reserveChild} children`}
-            />
-          </tbody>
-        </table>
-        <p className="text-sm text-muted">
-          Overdue fees and concessions apply. Always check the{" "}
-          <a className="underline hover:text-ink" href={LIBRARY_LINKS.fees}>
-            official fees page
-          </a>
-          .
-        </p>
-      </section>
-
       <section id="support" className="scroll-mt-24 space-y-3">
         <h2 className="font-display text-3xl font-semibold">
           Supporting Local Shelf
@@ -254,14 +222,5 @@ export default function AboutPage() {
         </Link>
       </p>
     </div>
-  );
-}
-
-function FeeRow({ label, fee }: { label: string; fee: string }) {
-  return (
-    <tr>
-      <th className="p-3 font-medium">{label}</th>
-      <td className="p-3">{fee}</td>
-    </tr>
   );
 }

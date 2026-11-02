@@ -6,14 +6,23 @@ import type { Title } from "@/lib/types";
 import { similarTitles } from "@/lib/catalog";
 import { toCard } from "@/lib/card";
 import { browseHref } from "@/lib/modes";
-import { CERT_STYLES, FEES, feeFor, formatRuntime, formatSeries, isEItem, libraryUrl, posterUrl, tidySummary, trailerId, trailerSearchUrl } from "@/lib/format";
+import {
+  CERT_STYLES,
+  formatRuntime,
+  formatSeries,
+  isEItem,
+  libraryUrl,
+  posterUrl,
+  tidySummary,
+  trailerId,
+  trailerSearchUrl,
+} from "@/lib/format";
 import { Poster } from "./Poster";
 import { MyListButton } from "./MyListButton";
 import { LiveAvailability } from "./LiveAvailability";
 import { FilteredGrid } from "./FilteredGrid";
 import { Ratings } from "./Ratings";
 import { TrailerButton } from "./Trailer";
-
 
 export function TitleDetail({
   t,
@@ -88,10 +97,7 @@ export function TitleDetail({
               <MyListButton irn={t.irn} />
             </div>
             {!isEItem(t) && (
-              <p className="text-xs text-muted">
-                On the shelf? Just pop in. Reserving costs {FEES.reserveAdult}{" "}
-                for adults, {FEES.reserveChild} for children.
-              </p>
+              <p className="text-xs text-muted">On the shelf? Just pop in.</p>
             )}
           </div>
         </div>
@@ -100,7 +106,9 @@ export function TitleDetail({
       <div className="grid gap-8 bg-card p-5 sm:p-8 lg:grid-cols-[1.6fr_1fr]">
         <div className="space-y-5">
           {t.summary ? (
-            <p className="text-base leading-relaxed">{tidySummary(t.summary)}</p>
+            <p className="text-base leading-relaxed">
+              {tidySummary(t.summary)}
+            </p>
           ) : (
             <p className="text-muted">
               No description from the library for this one.
@@ -137,15 +145,6 @@ export function TitleDetail({
             )}
             {t.publisher && <Row label="Publisher">{t.publisher}</Row>}
             {t.isbn && <Row label="ISBN">{t.isbn}</Row>}
-            <Row label="To borrow">
-              {feeFor(t)}{" "}
-              <Link
-                href="/about#fees"
-                className="text-muted underline hover:text-ink"
-              >
-                (fees)
-              </Link>
-            </Row>
           </dl>
         </div>
         <aside>
@@ -172,5 +171,3 @@ export function TitleDetail({
     </article>
   );
 }
-
-

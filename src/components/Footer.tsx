@@ -2,7 +2,6 @@ import Link from "next/link";
 import { LIBRARY_LINKS } from "@/lib/spydus/urls";
 import { MODES } from "@/lib/modes";
 import { SupportLink } from "./Support";
-import { SOURCE_URL } from "@/lib/source";
 
 export function Footer() {
   return (
@@ -36,7 +35,7 @@ export function Footer() {
             </li>
             <li>
               <Link href="/about" className="hover:text-ink">
-                About &amp; fees
+                About
               </Link>
             </li>
           </ul>
@@ -45,32 +44,19 @@ export function Footer() {
           <p className="font-semibold text-ink">The library</p>
           <ul className="space-y-1">
             <li>
+              <a className="hover:text-ink" href={LIBRARY_LINKS.home}>
+                Brighton &amp; Hove Libraries
+              </a>
+            </li>
+            <li>
               <a className="hover:text-ink" href={LIBRARY_LINKS.catalogue}>
-                Library catalogue &amp; account
-              </a>
-            </li>
-            <li>
-              <a className="hover:text-ink" href={LIBRARY_LINKS.openingTimes}>
-                Opening times
-              </a>
-            </li>
-            <li>
-              <a className="hover:text-ink" href={LIBRARY_LINKS.fees}>
-                Fees
+                Catalogue &amp; your account
               </a>
             </li>
           </ul>
           <p className="pt-3">
             <SupportLink className="font-medium text-ink hover:text-sea" />
           </p>
-          {SOURCE_URL && (
-            <p className="pt-2 text-xs">
-              <a className="underline hover:text-ink" href={SOURCE_URL}>
-                Source code
-              </a>{" "}
-              (AGPL-3.0)
-            </p>
-          )}
           <p className="pt-2 text-xs">
             Film links and scores from{" "}
             <a

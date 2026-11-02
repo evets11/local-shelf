@@ -30,8 +30,5 @@ export const urls = {
 export const LIBRARY_LINKS = {
   catalogue: `${SPYDUS_BASE}${CGI}/MSGTRN/OPAC/HOME`,
   join: `${SPYDUS_BASE}${CGI}/MSGTRN/OPAC/JOIN`,
-  openingTimes:
-    "https://www.brighton-hove.gov.uk/libraries-leisure-and-arts/libraries/directories/our-libraries-and-their-opening-times",
-  fees: "https://www.brighton-hove.gov.uk/libraries-leisure-and-arts/libraries/fees-library-services",
   home: "https://www.brighton-hove.gov.uk/libraries-leisure-and-arts/libraries",
 } as const;

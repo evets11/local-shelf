@@ -5,7 +5,7 @@ Local Shelf is built for Vercel and served at https://localshelf.uk (registered 
 ## First deploy
 
 1. Push the repo to GitHub.
-2. In Vercel, **Add New > Project**, import the repo. The defaults work (framework Next.js, `npm run build`). No environment variables are required: `CONTACT_URL` (sent to the library) and the footer's "Source code" link default to the GitHub repo Vercel deploys from (`src/lib/source.ts`).
+2. In Vercel, **Add New > Project**, import the repo. The defaults work (framework Next.js, `npm run build`). No environment variables are required: `CONTACT_URL` (sent to the library) defaults to the GitHub repo Vercel deploys from (`src/lib/source.ts`).
 3. In the GitHub repo settings, optionally add the Actions secrets `TMDB_API_KEY` and `OMDB_API_KEY`. The nightly sync commits refreshed `data/` files, which triggers a Vercel redeploy.
 
 The free Hobby plan is enough for the traffic and build size (about 10,000 static pages, ~1 minute). Check Vercel's terms about donations if the site starts taking significant money.

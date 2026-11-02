@@ -56,4 +56,4 @@ You're welcome to, for another library service or to try changes. Please:
 
 ## Licence
 
-[GNU Affero General Public License v3.0 or later](LICENSE). In short: use it, change it and share it, but if you run a modified copy as a public website, you must make your source code available to its users under the same licence. The site footer links to the source of whichever repo it was deployed from.
+[GNU Affero General Public License v3.0 or later](LICENSE). In short: use it, change it and share it, but if you run a modified copy as a public website, you must make your source code available to its users under the same licence.

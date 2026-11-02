@@ -3,8 +3,8 @@
 const env = process.env;
 
 /**
- * Public source repo: NEXT_PUBLIC_SOURCE_URL, else the GitHub repo Vercel deployed from (so a
- * fork's copy links to the fork, as the AGPL expects). Null when unknown, e.g. local dev.
+ * This deployment's source repo: NEXT_PUBLIC_SOURCE_URL, else the GitHub repo Vercel deployed from
+ * (so a fork identifies itself, not us). Null when unknown, e.g. local dev.
  */
 export const SOURCE_URL: string | null =
   env.NEXT_PUBLIC_SOURCE_URL ||

@@ -28,7 +28,7 @@ Please read [Data and sync](data-and-sync.md) before running a full sync: it mak
 | `CONTACT_URL` | sync, enrich, live lookups | how the library and Wikidata can reach whoever runs this (sent in the User-Agent). Defaults to the deployed GitHub repo; never use a personal email |
 | `TMDB_API_KEY` or `TMDB_READ_TOKEN` | sync | optional: posters, backdrops and trailers for most films (v3 key or v4 read token) |
 | `OMDB_API_KEY` | enrich | optional: IMDb ratings |
-| `NEXT_PUBLIC_SOURCE_URL` | build | optional: the footer's "Source code" link (defaults to the GitHub repo Vercel deploys from) |
+| `NEXT_PUBLIC_SOURCE_URL` | build | optional: the repo URL, used as the default `CONTACT_URL` (defaults to the GitHub repo Vercel deploys from) |
 | `NEXT_PUBLIC_SITE_URL` | build | optional override for the public URL. Production builds default to https://localshelf.uk |
 
 ## Adding or updating packages
