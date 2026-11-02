@@ -39,3 +39,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# spydus raw html cache
+/.cache/
+!.env.example
+/data/catalog-*.sample.json
+
+# enrichment caches: kept in the GitHub Actions cache, rebuilt locally by npm run sync / enrich
+/data/wikidata-cache.json
+/data/tmdb-cache.json

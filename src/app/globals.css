@@ -1,26 +1,338 @@
 @import "tailwindcss";
 
+/* Local Shelf. Accent is Albion blue. Dark (cinema) is the default; light, kids and high contrast override tokens on <html>. */
+@theme {
+  --color-paper: #0e1014;
+  --color-paper-2: #1a1d24;
+  --color-card: #15181e;
+  --color-ink: #eef0f3;
+  --color-muted: #a3aab7;
+  --color-line: #2b303a;
+  /* Brighton & Hove Albion blue (#0057B8), brightened for dark backgrounds; navy text on it passes AA. */
+  --color-sea: #3d8ae8;
+  --color-sea-dark: #2b7de0;
+  --color-on-sea: #03122b;
+  --color-coral: #ff7a59;
+  --color-hero: #0b1a33;
+  --font-sans: var(--font-inter);
+  --font-display: var(--font-fraunces);
+}
+
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  color-scheme: dark;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+html[data-theme="light"] {
+  color-scheme: light;
+  --color-paper: #f7f2e8;
+  --color-paper-2: #efe7d7;
+  --color-card: #fffdf8;
+  --color-ink: #1c2230;
+  --color-muted: #5d6474;
+  --color-line: #e2d8c4;
+  --color-sea: #0057b8;
+  --color-sea-dark: #00469a;
+  --color-on-sea: #ffffff;
+  --color-coral: #e0573a;
+  --color-hero: #0057b8;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+/* Kids profile: same layout, sunnier accent so it's obvious which profile you're in. */
+html[data-profile="kids"] {
+  --color-sea: #ffc23d;
+  --color-sea-dark: #f5a700;
+  --color-on-sea: #2a1a00;
+  --color-coral: #ff6b9a;
+  --color-hero: #3b1d6e;
+}
+html[data-theme="light"][data-profile="kids"] {
+  --color-sea: #b4530a;
+  --color-sea-dark: #8f4108;
+  --color-on-sea: #ffffff;
+  --color-coral: #d6336c;
+  --color-hero: #5b2a9e;
+}
+
+/* html too, so iOS rubber-band overscroll shows the page colour, never white. */
+html,
+body {
+  background: var(--color-paper);
+  color: var(--color-ink);
+}
+body {
+  /* Landscape iPhone: keep content clear of the notch. */
+  padding-left: env(safe-area-inset-left);
+  padding-right: env(safe-area-inset-right);
+}
+
+/* Horizontal shelves: hide scrollbars but keep scrolling. */
+.no-scrollbar {
+  scrollbar-width: none;
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+dialog::backdrop {
+  background: rgb(28 34 48 / 0.55);
+  backdrop-filter: blur(3px);
+}
+
+@keyframes fade-up {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+.animate-fade-up {
+  animation: fade-up 220ms ease-out both;
+}
+
+/* Loading placeholders (components/Skeleton). Reduced motion leaves them as flat blocks. */
+.skeleton {
+  background: linear-gradient(
+      100deg,
+      transparent 30%,
+      color-mix(in oklab, var(--color-ink) 7%, transparent) 50%,
+      transparent 70%
+    )
+    var(--color-paper-2);
+  background-size: 200% 100%;
+  animation: skeleton-shimmer 1.4s ease-in-out infinite;
+}
+@keyframes skeleton-shimmer {
+  from {
+    background-position: 150% 0;
+  }
+  to {
+    background-position: -50% 0;
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+/* OS "reduce motion" gets the same treatment as the in-app setting below. */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation: none !important;
+    transition: none !important;
+    scroll-behavior: auto !important;
+  }
+  .group\/card:hover > div {
+    transform: none !important;
+  }
+}
+
+/* ---- Accessibility preferences (set on <html data-*> by the prefs script) ---- */
+html[data-text-size="large"] {
+  font-size: 112.5%;
+}
+html[data-text-size="xlarge"] {
+  font-size: 125%;
+}
+
+html[data-font="readable"] {
+  --font-sans: var(--font-atkinson);
+  --font-display: var(--font-atkinson);
+  letter-spacing: 0.01em;
+}
+
+html[data-contrast="high"] {
+  --color-paper: #000000;
+  --color-paper-2: #111111;
+  --color-card: #000000;
+  --color-ink: #ffffff;
+  --color-muted: #e6e6e6;
+  --color-line: #ffffff;
+  --color-sea: #8cc4ff;
+  --color-sea-dark: #6fb2ff;
+  --color-on-sea: #000000;
+  --color-hero: #000000;
+}
+html[data-theme="light"][data-contrast="high"] {
+  --color-paper: #ffffff;
+  --color-paper-2: #f1f1f1;
+  --color-card: #ffffff;
+  --color-ink: #000000;
+  --color-muted: #2b2b2b;
+  --color-line: #000000;
+  --color-sea: #00387a;
+  --color-sea-dark: #002a5c;
+  --color-on-sea: #ffffff;
+  --color-hero: #00387a;
+}
+html[data-contrast="high"] a {
+  text-decoration-line: underline;
+}
+
+html[data-motion="reduce"] *,
+html[data-motion="reduce"] *::before,
+html[data-motion="reduce"] *::after {
+  animation: none !important;
+  transition: none !important;
+  scroll-behavior: auto !important;
+}
+html[data-motion="reduce"] .group\/card:hover > div {
+  transform: none !important;
+}
+
+/* Visible keyboard focus everywhere, not just where we remembered to add it.
+   In base so an element's own focus style (outline-none + border/ring) wins. */
+@layer base {
+  :focus-visible {
+    outline: 2px solid var(--color-sea);
+    outline-offset: 2px;
+  }
+  /* Text fields show focus through their own border/ring (or their wrapper's), not an outline. */
+  input:focus-visible,
+  select:focus-visible,
+  textarea:focus-visible {
+    outline: none;
+  }
+}
+
+/* First-visit welcome; hidden before paint for returning visitors (see PREFS_SCRIPT). */
+html[data-welcomed] [data-welcome] {
+  display: none;
+}
+
+/* Lock the page behind open modals (title dialog, trailer) so only the dialog scrolls. */
+html:has(dialog[open]) {
+  overflow: hidden;
+}
+
+/* ---- Cover size (Settings > Cover size). Shelves and grids size cards from --card-w. ---- */
+:root {
+  --card-w: clamp(124px, 13vw, 205px);
+}
+html[data-cover="big"] {
+  --card-w: clamp(150px, 17vw, 260px);
+}
+html[data-cover="compact"] {
+  --card-w: clamp(104px, 10vw, 165px);
+}
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(var(--card-w), 42%), 1fr));
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.animate-fade-in {
+  animation: fade-in 500ms ease-out both;
+}
+
+/*
+ * Server HTML is unfiltered (prefs live in localStorage). When saved prefs filter content, hide
+ * filtered regions until hydration so e.g. the Kids profile never flashes adult covers.
+ */
+html[data-pref-filtering]:not([data-hydrated]) [data-pref-filtered] {
+  visibility: hidden;
+}
+
+/* ---- Touch devices and the installed app ---- */
+html {
+  -webkit-tap-highlight-color: transparent;
+  -webkit-text-size-adjust: 100%;
+}
+/* App chrome is controls, not text: no selection or long-press callouts. */
+header,
+nav,
+button,
+[role="tab"],
+[role="radio"] {
+  -webkit-user-select: none;
+  user-select: none;
+  -webkit-touch-callout: none;
+}
+@media (pointer: coarse) {
+  /* iOS zooms into any field under 16px when focused. */
+  input,
+  select,
+  textarea {
+    font-size: max(16px, 1em) !important;
+  }
+  a,
+  button,
+  select,
+  input {
+    touch-action: manipulation;
+  }
+  /* Press feedback, iOS-style: buttons dim, cards give a little. */
+  button:not(:disabled):active,
+  nav a:active {
+    opacity: 0.6;
+  }
+  .group\/card:active > div {
+    transform: scale(0.97);
+    transition-duration: 80ms;
+  }
+}
+
+/* The installed app (home screen): no first-visit welcome; it's already been chosen. */
+html[data-standalone] [data-welcome] {
+  display: none;
+}
+/* Status bar text is white over our content. On light themes, sit it on a band of brand
+   colour so it stays readable (zero height outside the installed app). */
+.status-band {
+  height: env(safe-area-inset-top);
+}
+html[data-theme="light"] .status-band {
+  background: var(--color-hero);
+}
+
+/* Bottom sheets (install prompt, notices). */
+@keyframes sheet-in {
+  from {
+    transform: translateY(24px);
+    opacity: 0;
+  }
+  to {
+    transform: none;
+    opacity: 1;
+  }
+}
+.sheet-in {
+  animation: sheet-in 320ms cubic-bezier(0.32, 0.72, 0, 1) both;
+}
+/* Title sheet on phones slides up like an iOS sheet. */
+@keyframes sheet-up {
+  from {
+    transform: translateY(100%);
+  }
+  to {
+    transform: none;
+  }
+}
+@media (max-width: 639px) {
+  /* `backwards`, not `both`: a filled transform would override the swipe-to-close drag. */
+  .sheet-up {
+    animation: sheet-up 380ms cubic-bezier(0.32, 0.72, 0, 1) backwards;
+  }
+}
+
+/* Controls only the installed app needs (e.g. Back, which browsers already provide). */
+.standalone-only {
+  display: none;
+}
+html[data-standalone] .standalone-only {
+  display: inline-flex;
+}
+html[data-standalone] .browser-only {
+  display: none;
+}
+/* The install sheet already covers this spot; don't stack the offline pill on it. */
+body:has(#install-title) .offline-pill {
+  display: none;
 }
