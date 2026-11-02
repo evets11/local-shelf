@@ -48,7 +48,9 @@ export function Explorer({ kind, titles, heading, partial = false }: Props) {
   // Library and on-shelf default to the saved preferences; changing them here overrides
   // for this view only (via the URL), so the controls always show what's applied.
   const filters = {
-    available: params.has("available") ? params.get("available") === "1" : prefs.onShelfOnly,
+    available: params.has("available")
+      ? params.get("available") === "1"
+      : prefs.onShelfOnly,
     branch: params.has("branch") ? (params.get("branch") ?? "") : prefs.branch,
     genre: params.get("genre") ?? "",
     cert: params.get("cert") ?? "",
@@ -58,9 +60,20 @@ export function Explorer({ kind, titles, heading, partial = false }: Props) {
     format: params.get("format") ?? "",
   };
   // Only honour sorts the select actually offers here, so the UI and the order always agree.
-  const offered: SortKey[] = [...(q ? (["relevance"] as const) : []), "new", "year", "az", ...(isFilm ? (["critics"] as const) : [])];
+  const offered: SortKey[] = [
+    ...(q ? (["relevance"] as const) : []),
+    "new",
+    "year",
+    "az",
+    ...(isFilm ? (["critics"] as const) : []),
+  ];
   const requested = params.get("sort") as SortKey | null;
-  const sort: SortKey = requested && offered.includes(requested) ? requested : q ? "relevance" : "new";
+  const sort: SortKey =
+    requested && offered.includes(requested)
+      ? requested
+      : q
+        ? "relevance"
+        : "new";
 
   // Indexing thousands of titles is only worth it once someone actually searches.
   const hasQuery = q !== "";
@@ -107,7 +120,14 @@ export function Explorer({ kind, titles, heading, partial = false }: Props) {
         ? index.search(q).map((r) => byIrn.get(r.id as string)!)
         : titles;
     list = list.filter((t) => {
-      if (!matchesPrefs(t, { ...prefs, branch: filters.branch, onShelfOnly: filters.available })) return false;
+      if (
+        !matchesPrefs(t, {
+          ...prefs,
+          branch: filters.branch,
+          onShelfOnly: filters.available,
+        })
+      )
+        return false;
       if (filters.genre && !t.genres.includes(filters.genre)) return false;
       if (filters.cert && t.certificate !== filters.cert) return false;
       if (filters.language && !t.languages.includes(filters.language))
@@ -148,11 +168,12 @@ export function Explorer({ kind, titles, heading, partial = false }: Props) {
     router.replace(`${pathname}?${next.toString()}`, { scroll: false });
   }
 
-  const activeCount = [...params.keys()].filter((k) => k !== "q" && k !== "sort").length;
+  const activeCount = [...params.keys()].filter(
+    (k) => k !== "q" && k !== "sort",
+  ).length;
 
   return (
     <div className="mx-auto max-w-[1800px] px-4 py-6 sm:px-8">
-
       <div className="mb-4 flex flex-wrap items-end justify-between gap-3">
         <div>
           <h1 className="font-display text-3xl font-semibold sm:text-4xl">
@@ -237,16 +258,16 @@ export function Explorer({ kind, titles, heading, partial = false }: Props) {
           />
         )}
         {prefs.profile !== "kids" && (
-        <Select
-          label="Audience"
-          value={filters.audience}
-          onChange={(v) => set("audience", v)}
-          options={["children", "adult"]}
-          labels={{
-            children: isFilm ? "Kids & family" : "Children's",
-            adult: "Grown-ups",
-          }}
-        />
+          <Select
+            label="Audience"
+            value={filters.audience}
+            onChange={(v) => set("audience", v)}
+            options={["children", "adult"]}
+            labels={{
+              children: isFilm ? "Kids & family" : "Children's",
+              adult: "Grown-ups",
+            }}
+          />
         )}
         {isFilm && (
           <div className="flex gap-1" role="group" aria-label="Certificate">
@@ -278,28 +299,38 @@ export function Explorer({ kind, titles, heading, partial = false }: Props) {
             }
             className="text-sm text-muted underline hover:text-ink"
           >
-            {prefs.branch || prefs.onShelfOnly ? "Reset to my settings" : "Clear filters"}
+            {prefs.branch || prefs.onShelfOnly
+              ? "Reset to my settings"
+              : "Clear filters"}
           </button>
         )}
       </div>
 
       {prefs.profile === "kids" && (
         <p className="mb-4 text-sm text-muted" role="status">
-          <span className="font-semibold text-sea">Kids profile:</span> only children&apos;s titles are shown.
+          <span className="font-semibold text-sea">Kids profile:</span> only
+          children&apos;s titles are shown.
         </p>
       )}
 
       {partial && !q && (
         <p className="mb-6 rounded-lg border border-line bg-card px-4 py-3 text-sm text-muted">
-          Browsing shows the library&apos;s newest {kind === "book" ? "books" : "audiobooks"}.{" "}
-          <strong className="font-semibold text-ink">Search covers the whole catalogue.</strong>
+          Browsing shows the library&apos;s newest{" "}
+          {kind === "book" ? "books" : "audiobooks"}.{" "}
+          <strong className="font-semibold text-ink">
+            Search covers the whole catalogue.
+          </strong>
         </p>
       )}
 
       {titles.length === 0 ? (
         <div className="py-20 text-center text-muted">
-          <p className="font-display text-2xl text-ink">Stocking the shelves…</p>
-          <p className="text-sm">This collection hasn&apos;t been synced yet. Check back soon.</p>
+          <p className="font-display text-2xl text-ink">
+            Stocking the shelves…
+          </p>
+          <p className="text-sm">
+            This collection hasn&apos;t been synced yet. Check back soon.
+          </p>
         </div>
       ) : results.length === 0 ? (
         partial && q ? (
@@ -333,7 +364,11 @@ export function Explorer({ kind, titles, heading, partial = false }: Props) {
       )}
 
       {kind !== "film" && q && (
-        <LibraryResults kind={kind} q={q} exclude={new Set(results.map((r) => r.irn))} />
+        <LibraryResults
+          kind={kind}
+          q={q}
+          exclude={new Set(results.map((r) => r.irn))}
+        />
       )}
     </div>
   );
@@ -371,5 +406,3 @@ function Select({
     </select>
   );
 }
-
-/** Search box for phones, where the header search is hidden. Keeps its own text while typing. */

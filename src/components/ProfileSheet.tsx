@@ -4,7 +4,7 @@ import Link from "next/link";
 import { Heart, Star, Users } from "lucide-react";
 import { useEffect, useRef, useState } from "react";
 import { setPrefs, usePrefs } from "@/lib/prefs";
-import { Switch } from "./PrefsControl";
+import { branchOptions, Switch } from "./PrefsControl";
 
 const OPEN_EVENT = "localshelf:profile-sheet";
 
@@ -31,16 +31,16 @@ export function ProfileSheet({ branches }: { branches: string[] }) {
   useEffect(() => {
     const d = ref.current;
     if (!d) return;
-    if (open && !d.open) d.showModal();
+    if (open && !d.open) {
+      d.showModal();
+      // The heading, not "Done", so touch users don't see a focus ring straight away.
+      document.getElementById("profile-sheet-title")?.focus();
+    }
     if (!open && d.open) d.close();
   }, [open]);
 
   const close = () => setOpen(false);
-  // A saved library that's dropped out of the list still shows as chosen.
-  const options =
-    prefs.branch && !branches.includes(prefs.branch)
-      ? [prefs.branch, ...branches]
-      : branches;
+  const options = branchOptions(prefs.branch, branches);
 
   return (
     <dialog
@@ -61,9 +61,7 @@ export function ProfileSheet({ branches }: { branches: string[] }) {
           <div className="flex items-center justify-between">
             <h2
               id="profile-sheet-title"
-              // Focused on open (not "Done"), so touch users don't see a focus ring straight away.
               tabIndex={-1}
-              autoFocus
               className="font-display text-2xl font-semibold outline-none"
             >
               You
@@ -162,7 +160,9 @@ export function ProfileSheet({ branches }: { branches: string[] }) {
                   aria-checked={prefs.theme === v}
                   onClick={() => setPrefs({ theme: v })}
                   className={`rounded-lg text-sm font-semibold capitalize transition ${
-                    prefs.theme === v ? "bg-ink/15 text-ink shadow-sm" : "text-muted"
+                    prefs.theme === v
+                      ? "bg-ink/15 text-ink shadow-sm"
+                      : "text-muted"
                   }`}
                 >
                   {v}

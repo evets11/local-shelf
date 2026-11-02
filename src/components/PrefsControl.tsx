@@ -5,7 +5,35 @@ import { MapPin, Settings2 } from "lucide-react";
 import { useEffect, useId, useRef, useState } from "react";
 import { setPrefs, usePrefs } from "@/lib/prefs";
 
-const short = (b: string) => b.replace(/ Library$/, "");
+/** "Jubilee Library" -> "Jubilee", for chips. */
+export const shortBranch = (b: string) => b.replace(/ Library$/, "");
+
+/** Branch choices, keeping a saved library that's since dropped out of the list so it still shows as chosen. */
+export const branchOptions = (saved: string, branches: string[]) =>
+  saved && !branches.includes(saved) ? [saved, ...branches] : branches;
+
+/** Close a popover on a tap outside `root` or on Escape, while `open`. */
+export function useDismiss(
+  root: React.RefObject<HTMLElement | null>,
+  open: boolean,
+  close: () => void,
+) {
+  useEffect(() => {
+    if (!open) return;
+    const away = (e: PointerEvent) => {
+      if (!root.current?.contains(e.target as Node)) close();
+    };
+    const esc = (e: KeyboardEvent) => {
+      if (e.key === "Escape") close();
+    };
+    document.addEventListener("pointerdown", away);
+    document.addEventListener("keydown", esc);
+    return () => {
+      document.removeEventListener("pointerdown", away);
+      document.removeEventListener("keydown", esc);
+    };
+  }, [root, open, close]);
+}
 
 /** "My library · On the shelf" chip in the top bar, with a small popover to change it. */
 export function PrefsControl({ branches }: { branches: string[] }) {
@@ -14,23 +42,9 @@ export function PrefsControl({ branches }: { branches: string[] }) {
   const root = useRef<HTMLDivElement>(null);
   const panelId = useId();
 
-  useEffect(() => {
-    if (!open) return;
-    const onDown = (e: PointerEvent) => {
-      if (!root.current?.contains(e.target as Node)) setOpen(false);
-    };
-    const onKey = (e: KeyboardEvent) => {
-      if (e.key === "Escape") setOpen(false);
-    };
-    document.addEventListener("pointerdown", onDown);
-    document.addEventListener("keydown", onKey);
-    return () => {
-      document.removeEventListener("pointerdown", onDown);
-      document.removeEventListener("keydown", onKey);
-    };
-  }, [open]);
+  useDismiss(root, open, () => setOpen(false));
 
-  const label = prefs.branch ? short(prefs.branch) : "Any library";
+  const label = prefs.branch ? shortBranch(prefs.branch) : "Any library";
 
   return (
     <div ref={root} className="relative">
@@ -47,7 +61,9 @@ export function PrefsControl({ branches }: { branches: string[] }) {
       >
         <MapPin className="h-4 w-4" aria-hidden />
         <span className="max-w-32 truncate whitespace-nowrap">{label}</span>
-        {prefs.onShelfOnly && <span className="text-xs opacity-80">· on shelf</span>}
+        {prefs.onShelfOnly && (
+          <span className="text-xs opacity-80">· on shelf</span>
+        )}
         <span className="sr-only">, change library preferences</span>
       </button>
 
@@ -66,7 +82,7 @@ export function PrefsControl({ branches }: { branches: string[] }) {
               className="h-9 w-full rounded-lg border border-line bg-paper px-2 outline-none focus:border-sea"
             >
               <option value="">Any library</option>
-              {branches.map((b) => (
+              {branchOptions(prefs.branch, branches).map((b) => (
                 <option key={b} value={b}>
                   {b}
                 </option>
@@ -80,7 +96,7 @@ export function PrefsControl({ branches }: { branches: string[] }) {
             label="Only show what's on the shelf"
             hint={
               prefs.branch
-                ? `At ${short(prefs.branch)} right now.`
+                ? `At ${shortBranch(prefs.branch)} right now.`
                 : "At any library right now."
             }
           />

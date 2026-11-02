@@ -22,12 +22,22 @@ describe("sync relay", () => {
     vi.stubEnv("SPYDUS_RELAY_TOKEN", TOKEN);
     expect((await GET(req("/cgi-bin/spydus.exe/FULL/OPAC/BIBENQ/1/2,3", "x".repeat(40)))).status).toBe(404);
     expect((await GET(req("/cgi-bin/spydus.exe/FULL/OPAC/BIBENQ/1/2,3"))).status).toBe(404);
+    // Labelled, so the sync can blame the relay config rather than the library.
+    expect((await GET(req("/cgi-bin/spydus.exe/FULL/OPAC/BIBENQ/1/2,3"))).headers.get("x-relay-error")).toBe("unauthorised");
   });
 
   it("only fetches the sync's catalogue paths", async () => {
     vi.stubEnv("SPYDUS_RELAY_TOKEN", TOKEN);
     const f = vi.spyOn(globalThis, "fetch");
-    for (const bad of ["/cgi-bin/spydus.exe/MSGTRN/OPAC/HOME", "https://evil.example/", "/../etc", "/cgi-bin/spydus.exe/FULL/OPAC/BIBENQ/../x"])
+for (const bad of [
+      "/cgi-bin/spydus.exe/MSGTRN/OPAC/HOME",
+      "https://evil.example/",
+      "//evil.example/cgi-bin/spydus.exe/FULL/OPAC/BIBENQ/1/2",
+      "/../etc",
+      "/cgi-bin/spydus.exe/FULL/OPAC/BIBENQ/../x",
+      // Encoded dots fetch() would normalise into "..".
+      "/cgi-bin/spydus.exe/FULL/OPAC/BIBENQ/%2e%2e/%2e%2e/%2e%2e/%2e%2e/MSGTRN/OPAC/HOME",
+    ])
       expect((await GET(req(bad, TOKEN))).status).toBe(400);
     expect(f).not.toHaveBeenCalled();
   });

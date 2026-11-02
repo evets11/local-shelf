@@ -46,6 +46,7 @@ export function FeaturedCarousel({
             src={t.poster}
             alt=""
             aria-hidden
+            loading="lazy"
             referrerPolicy="no-referrer"
             className="animate-fade-in absolute inset-0 h-full w-full scale-125 object-cover opacity-50 blur-2xl"
           />
@@ -70,7 +71,6 @@ export function FeaturedCarousel({
               src={t.poster}
               title={t.title}
               year={t.year}
-              eager
               className="rounded-xl shadow-[0_30px_60px_-15px_rgba(0,0,0,0.7)] ring-1 ring-white/10"
             />
           </Link>
@@ -163,6 +163,8 @@ export function FeaturedCarousel({
   );
 }
 
+// Both layouts render (CSS picks one), so their images are lazy: the hidden one never downloads.
+
 /**
  * Phones: picks as swipeable cards that peek at the next one. Details sit on a solid panel
  * beside the cover, never over the art, so bright covers can't make them unreadable.
@@ -182,10 +184,12 @@ function MobilePicks({
     >
       <div className="flex items-baseline justify-between px-4">
         <h2 className="text-xl font-semibold">{intro}</h2>
-        <span className="text-sm text-muted">{items.length} picks</span>
+        <span className="text-sm text-muted">
+          {items.length} {items.length === 1 ? "pick" : "picks"}
+        </span>
       </div>
       <ul className="no-scrollbar mt-3 flex snap-x snap-mandatory scroll-px-4 gap-3 overflow-x-auto px-4 pb-1">
-        {items.map((t, i) => {
+        {items.map((t) => {
           const rt = t.extras?.rottenTomatoesScore;
           const imdb = t.extras?.imdbRating;
           const facts = [t.certificate, ...t.meta.slice(0, 2)]
@@ -203,7 +207,6 @@ function MobilePicks({
                     src={t.poster}
                     title={t.title}
                     year={t.year}
-                    eager={i < 2}
                     className="rounded-xl"
                   />
                 </div>

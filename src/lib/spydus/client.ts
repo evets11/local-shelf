@@ -93,6 +93,12 @@ async function fetchOnce(url: string, timeoutMs: number): Promise<string> {
   try {
     stats.requests++;
     const res = await syncRequest(url, timeoutMs);
+    const relayError = res.headers.get("x-relay-error");
+    if (relayError)
+      throw new SpydusError(
+        `Sync relay refused the request (${relayError}): check SPYDUS_RELAY_URL, and that SPYDUS_RELAY_TOKEN is the same 32+ character value on Vercel and GitHub`,
+        res.status,
+      );
     if (res.status === 429 || res.status >= 500) {
       penaltyMs = Math.min(penaltyMs + 1000, 10_000);
       const ra = parseInt(res.headers.get("retry-after") ?? "", 10);

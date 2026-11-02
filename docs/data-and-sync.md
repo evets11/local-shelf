@@ -84,8 +84,9 @@ Matches films to Wikidata for IMDb ids, Rotten Tomatoes and Metacritic scores, Y
 
 The catalogue refuses requests from outside the UK (HTTP 405). Vercel functions run in London (`vercel.json`), so live lookups work. GitHub's runners are in the US, so the nightly sync fetches through the site's `/api/relay`:
 
-- Off unless `SPYDUS_RELAY_TOKEN` is set on Vercel. Requests need it as a `Bearer` token (wrong or missing: 404).
-- Only the sync's catalogue paths: `ENQ/OPAC/BIBENQ?…` list searches and BRN lookups, and `PAGE`/`FULL`/`XHLD` pages. Anything else: 400.
+- Off unless `SPYDUS_RELAY_TOKEN` (32+ characters) is set on Vercel. Requests need it as a `Bearer` token; a wrong or missing one gets a 404 marked `X-Relay-Error`, which the sync reports as a relay config problem.
+- Only the sync's catalogue paths: `ENQ/OPAC/BIBENQ?…` list searches and BRN lookups, and `PAGE`/`FULL`/`XHLD` pages, checked after URL parsing (encoded `..` is refused). Anything else: 400.
+- Upstream timeout 95s (above the sync's longest, 90s), and it stops as soon as the sync gives up, so a retry never overlaps the request it replaces.
 - Passes the library's status through, so the sync's pacing, retries and back-off still apply.
 - The sync uses it when `SPYDUS_RELAY_URL` and `SPYDUS_RELAY_TOKEN` are set (`syncRequest` in `client.ts`). Running the sync from a UK machine needs neither.
 

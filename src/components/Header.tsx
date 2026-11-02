@@ -2,13 +2,32 @@
 
 import Link from "next/link";
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
-import { Bookmark, Check, ChevronDown, Heart, Home, LayoutGrid, MapPin, Search, Settings as SettingsIcon, Star, UserRound, X } from "lucide-react";
+import {
+  Bookmark,
+  Check,
+  ChevronDown,
+  Heart,
+  Home,
+  LayoutGrid,
+  MapPin,
+  Search,
+  Settings as SettingsIcon,
+  Star,
+  UserRound,
+  X,
+} from "lucide-react";
 import { Suspense, useEffect, useRef, useState } from "react";
 import { MODES, type Mode, modeFromPath } from "@/lib/modes";
-import { PrefsControl } from "./PrefsControl";
+import { SITE_NAME } from "@/lib/site";
+import { PrefsControl, shortBranch, useDismiss } from "./PrefsControl";
 import { openProfileSheet } from "./ProfileSheet";
 import { setPrefs, usePrefs } from "@/lib/prefs";
-import { AudioFormatBar, KidsBanner, ProfileToggle, ThemeToggle } from "./QuickToggles";
+import {
+  AudioFormatBar,
+  KidsBanner,
+  ProfileToggle,
+  ThemeToggle,
+} from "./QuickToggles";
 
 /** Current mode from the path; shared pages (title, my list, settings) keep the last one. */
 export function useCurrentMode(): { mode: Mode; pathMode: Mode | null } {
@@ -22,7 +41,8 @@ export function useCurrentMode(): { mode: Mode; pathMode: Mode | null } {
 /** Switching collection keeps you in the same section (browse stays browse, search keeps its text). */
 function modeHref(m: Mode, pathname: string, q: string | null): string {
   if (pathname.startsWith("/browse")) return `/browse/${m.slug}`;
-  if (pathname.startsWith("/search")) return `/search/${m.slug}${q ? `?q=${encodeURIComponent(q)}` : ""}`;
+  if (pathname.startsWith("/search"))
+    return `/search/${m.slug}${q ? `?q=${encodeURIComponent(q)}` : ""}`;
   return m.home;
 }
 
@@ -36,17 +56,33 @@ export function Header({ branches }: { branches: string[] }) {
       <div aria-hidden className="status-band" />
       <MobileHeader />
       <div className="mx-auto hidden h-16 max-w-[1800px] items-center gap-3 px-4 sm:gap-5 sm:px-8 lg:flex">
-        <Link href={mode.home} className="flex shrink-0 items-center gap-2" aria-label="Local Shelf home">
+        <Link
+          href={mode.home}
+          className="flex shrink-0 items-center gap-2"
+          aria-label={`${SITE_NAME} home`}
+        >
           <Logo />
-          <span className="hidden font-display text-2xl font-semibold tracking-tight xl:inline">Local Shelf</span>
+          <span className="hidden font-display text-2xl font-semibold tracking-tight xl:inline">
+            {SITE_NAME}
+          </span>
         </Link>
 
-        <Suspense fallback={<ModeSwitch pathname={pathname} active={pathMode} q={null} />}>
+        <Suspense
+          fallback={
+            <ModeSwitch pathname={pathname} active={pathMode} q={null} />
+          }
+        >
           <ModeSwitchWithQuery pathname={pathname} active={pathMode} />
         </Suspense>
 
-        <nav aria-label="Main" className="hidden items-center gap-5 text-sm lg:flex">
-          <NavLink href={`/browse/${mode.slug}`} active={pathname.startsWith("/browse")}>
+        <nav
+          aria-label="Main"
+          className="hidden items-center gap-5 text-sm lg:flex"
+        >
+          <NavLink
+            href={`/browse/${mode.slug}`}
+            active={pathname.startsWith("/browse")}
+          >
             Browse
           </NavLink>
           <NavLink href="/my-list" active={pathname === "/my-list"}>
@@ -66,7 +102,7 @@ export function Header({ branches }: { branches: string[] }) {
           </div>
           <Link
             href="/support"
-            aria-label="Donate to Local Shelf"
+            aria-label={`Donate to ${SITE_NAME}`}
             title="Donate"
             aria-current={pathname === "/support" ? "page" : undefined}
             className="grid h-9 w-9 place-items-center rounded-full text-ink hover:bg-paper-2 aria-[current=page]:bg-paper-2 xl:flex xl:w-auto xl:gap-1.5 xl:border xl:border-line xl:px-3 xl:text-sm xl:font-medium"
@@ -97,14 +133,31 @@ export function Header({ branches }: { branches: string[] }) {
   );
 }
 
-function ModeSwitchWithQuery({ pathname, active }: { pathname: string; active: Mode | null }) {
+function ModeSwitchWithQuery({
+  pathname,
+  active,
+}: {
+  pathname: string;
+  active: Mode | null;
+}) {
   const params = useSearchParams();
   return <ModeSwitch pathname={pathname} active={active} q={params.get("q")} />;
 }
 
-function ModeSwitch({ pathname, active, q }: { pathname: string; active: Mode | null; q: string | null }) {
+function ModeSwitch({
+  pathname,
+  active,
+  q,
+}: {
+  pathname: string;
+  active: Mode | null;
+  q: string | null;
+}) {
   return (
-    <nav aria-label="Collection" className="flex rounded-full bg-paper-2 p-1 text-sm">
+    <nav
+      aria-label="Collection"
+      className="flex rounded-full bg-paper-2 p-1 text-sm"
+    >
       {MODES.map((m) => {
         const isActive = active?.kind === m.kind;
         return (
@@ -113,7 +166,9 @@ function ModeSwitch({ pathname, active, q }: { pathname: string; active: Mode | 
             href={modeHref(m, pathname, q)}
             aria-current={isActive ? "page" : undefined}
             className={`whitespace-nowrap rounded-full px-3 py-1.5 font-medium transition-colors sm:px-4 ${
-              isActive ? "bg-sea text-on-sea shadow-sm" : "text-muted hover:text-ink"
+              isActive
+                ? "bg-sea text-on-sea shadow-sm"
+                : "text-muted hover:text-ink"
             }`}
           >
             <span className="sm:hidden">{m.short}</span>
@@ -134,11 +189,27 @@ export function BottomNav() {
       href: mode.home,
       label: "Home",
       icon: Home,
-      active: modeFromPath(pathname) !== null && !/^\/(browse|search)/.test(pathname),
+      active:
+        modeFromPath(pathname) !== null && !/^\/(browse|search)/.test(pathname),
     },
-    { href: `/browse/${mode.slug}`, label: "Browse", icon: LayoutGrid, active: /^\/(browse|search)/.test(pathname) },
-    { href: "/my-list", label: "My List", icon: Bookmark, active: pathname === "/my-list" },
-    { href: "/settings", label: "Settings", icon: SettingsIcon, active: pathname === "/settings" },
+    {
+      href: `/browse/${mode.slug}`,
+      label: "Browse",
+      icon: LayoutGrid,
+      active: /^\/(browse|search)/.test(pathname),
+    },
+    {
+      href: "/my-list",
+      label: "My List",
+      icon: Bookmark,
+      active: pathname === "/my-list",
+    },
+    {
+      href: "/settings",
+      label: "Settings",
+      icon: SettingsIcon,
+      active: pathname === "/settings",
+    },
   ];
   return (
     <nav
@@ -153,7 +224,11 @@ export function BottomNav() {
               aria-current={t.active ? "page" : undefined}
               className={`flex h-full flex-col items-center justify-center gap-0.5 rounded-full text-[10px] font-medium transition-colors ${t.active ? "text-sea" : "text-muted"}`}
             >
-              <t.icon className="h-[22px] w-[22px]" strokeWidth={t.active ? 2.3 : 1.8} aria-hidden />
+              <t.icon
+                className="h-[22px] w-[22px]"
+                strokeWidth={t.active ? 2.3 : 1.8}
+                aria-hidden
+              />
               {t.label}
             </Link>
           </li>
@@ -202,7 +277,13 @@ function Logo() {
 }
 
 /** `bar`: the desktop header's rounded box. `field`: a full-width iOS-style search field for phones. */
-function SearchBox({ mode, variant = "bar" }: { mode: Mode; variant?: "bar" | "field" }) {
+function SearchBox({
+  mode,
+  variant = "bar",
+}: {
+  mode: Mode;
+  variant?: "bar" | "field";
+}) {
   const router = useRouter();
   const pathname = usePathname();
   const params = useSearchParams();
@@ -325,20 +406,29 @@ function MobileHeader() {
   if (!pathMode) {
     return (
       <div className="flex h-14 items-center justify-between px-4 lg:hidden">
-        <Link href={mode.home} className="flex items-center gap-2" aria-label="Local Shelf home">
+        <Link
+          href={mode.home}
+          className="flex items-center gap-2"
+          aria-label={`${SITE_NAME} home`}
+        >
           <Logo />
-          <span className="font-display text-xl font-semibold">Local Shelf</span>
+          <span className="font-display text-xl font-semibold">
+            {SITE_NAME}
+          </span>
         </Link>
         <HeaderActions />
       </div>
     );
   }
 
-  const shortBranch = prefs.branch.replace(/ Library$/, "");
   return (
     <div className="space-y-3 px-4 pb-3 pt-3 lg:hidden">
       <div className="flex items-center justify-between gap-3">
-        <Suspense fallback={<CollectionMenu pathname={pathname} active={pathMode} q={null} />}>
+        <Suspense
+          fallback={
+            <CollectionMenu pathname={pathname} active={pathMode} q={null} />
+          }
+        >
           <CollectionMenuWithQuery pathname={pathname} active={pathMode} />
         </Suspense>
         <HeaderActions />
@@ -351,11 +441,13 @@ function MobileHeader() {
           type="button"
           onClick={openProfileSheet}
           className={`flex h-8 shrink-0 items-center gap-1.5 rounded-full border px-3 text-[13px] font-medium ${
-            prefs.branch ? "border-sea bg-sea/10 text-sea" : "border-line text-ink"
+            prefs.branch
+              ? "border-sea bg-sea/10 text-sea"
+              : "border-line text-ink"
           }`}
         >
           <MapPin className="h-3.5 w-3.5" aria-hidden />
-          {shortBranch || "Any library"}
+          {prefs.branch ? shortBranch(prefs.branch) : "Any library"}
           <span className="sr-only">, change library</span>
         </button>
         <button
@@ -363,7 +455,9 @@ function MobileHeader() {
           aria-pressed={prefs.onShelfOnly}
           onClick={() => setPrefs({ onShelfOnly: !prefs.onShelfOnly })}
           className={`h-8 shrink-0 rounded-full px-3 text-[13px] font-semibold ${
-            prefs.onShelfOnly ? "bg-sea text-on-sea" : "border border-line text-ink"
+            prefs.onShelfOnly
+              ? "bg-sea text-on-sea"
+              : "border border-line text-ink"
           }`}
         >
           On the shelf
@@ -391,33 +485,41 @@ function ProfileButton() {
       aria-label="Profile, library and appearance"
       className="relative grid h-10 w-10 shrink-0 place-items-center rounded-full bg-paper-2 text-ink"
     >
-      {profile === "kids" ? <Star className="h-5 w-5 text-sea" aria-hidden /> : <UserRound className="h-5 w-5" aria-hidden />}
+      {profile === "kids" ? (
+        <Star className="h-5 w-5 text-sea" aria-hidden />
+      ) : (
+        <UserRound className="h-5 w-5" aria-hidden />
+      )}
     </button>
   );
 }
 
-function CollectionMenuWithQuery({ pathname, active }: { pathname: string; active: Mode }) {
+function CollectionMenuWithQuery({
+  pathname,
+  active,
+}: {
+  pathname: string;
+  active: Mode;
+}) {
   const params = useSearchParams();
-  return <CollectionMenu pathname={pathname} active={active} q={params.get("q")} />;
+  return (
+    <CollectionMenu pathname={pathname} active={active} q={params.get("q")} />
+  );
 }
 
 /** The large title doubles as the collection switcher, like an iOS title menu. */
-function CollectionMenu({ pathname, active, q }: { pathname: string; active: Mode; q: string | null }) {
+function CollectionMenu({
+  pathname,
+  active,
+  q,
+}: {
+  pathname: string;
+  active: Mode;
+  q: string | null;
+}) {
   const [open, setOpen] = useState(false);
   const root = useRef<HTMLDivElement>(null);
-  useEffect(() => {
-    if (!open) return;
-    const away = (e: PointerEvent) => {
-      if (!root.current?.contains(e.target as Node)) setOpen(false);
-    };
-    const esc = (e: KeyboardEvent) => e.key === "Escape" && setOpen(false);
-    document.addEventListener("pointerdown", away);
-    document.addEventListener("keydown", esc);
-    return () => {
-      document.removeEventListener("pointerdown", away);
-      document.removeEventListener("keydown", esc);
-    };
-  }, [open]);
+  useDismiss(root, open, () => setOpen(false));
 
   return (
     <div ref={root} className="relative min-w-0">
@@ -428,8 +530,13 @@ function CollectionMenu({ pathname, active, q }: { pathname: string; active: Mod
         onClick={() => setOpen((o) => !o)}
         className="flex min-w-0 items-center gap-1.5"
       >
-        <span className="truncate font-display text-[2rem] font-semibold leading-tight tracking-tight">{active.label}</span>
-        <ChevronDown className={`mt-1 h-5 w-5 shrink-0 text-muted transition-transform ${open ? "rotate-180" : ""}`} aria-hidden />
+        <span className="truncate font-display text-[2rem] font-semibold leading-tight tracking-tight">
+          {active.label}
+        </span>
+        <ChevronDown
+          className={`mt-1 h-5 w-5 shrink-0 text-muted transition-transform ${open ? "rotate-180" : ""}`}
+          aria-hidden
+        />
         <span className="sr-only">, switch collection</span>
       </button>
       {open && (
@@ -446,7 +553,9 @@ function CollectionMenu({ pathname, active, q }: { pathname: string; active: Mod
               className="flex items-center justify-between border-b border-line px-4 py-3 text-base last:border-0"
             >
               {m.label}
-              {m.kind === active.kind && <Check className="h-4 w-4 text-sea" aria-hidden />}
+              {m.kind === active.kind && (
+                <Check className="h-4 w-4 text-sea" aria-hidden />
+              )}
             </Link>
           ))}
         </nav>
@@ -462,7 +571,7 @@ function HeaderActions() {
     <div className="flex shrink-0 items-center gap-1.5">
       <Link
         href="/support"
-        aria-label="Donate to Local Shelf"
+        aria-label={`Donate to ${SITE_NAME}`}
         aria-current={pathname === "/support" ? "page" : undefined}
         className="grid h-10 w-10 place-items-center rounded-full text-coral aria-[current=page]:bg-paper-2"
       >
