@@ -5,7 +5,12 @@ The aim is a streaming-app feel that's useful rather than salesy: big covers, si
 ## Layout
 
 - **Desktop header:** logo, collection switch (Films & TV / Books / Audiobooks), Browse, My List, an always-open search box, Everyone/Kids, My library, Donate, theme toggle, Settings.
-- **Narrower screens:** below 1280px wide, Everyone/Kids and My library move to a second header row. Below 1024px (phones and small tablets) the search box, Browse, My List and Settings move to a bottom tab bar (Home, Browse, Search, My List, Settings).
+- **Between 1024px and 1280px wide:** Everyone/Kids and My library move to a second header row.
+- **Phones (below 1024px):** an iOS-style layout.
+  - **Header:** a large collection title that opens a menu to switch collection, a profile button, a search field, and filter chips (library, "On the shelf", Kids). Pages outside a collection get a compact logo row instead.
+  - **Profile sheet** (`ProfileSheet.tsx`, a bottom-sheet `<dialog>`): Everyone/Kids, my library, "on the shelf only", theme, and links to Settings, About and Donate. Opened with `openProfileSheet()`.
+  - **Featured picks:** swipeable cards with details beside the cover, never over the art.
+  - **Tab bar:** a slim floating bar with Home, Browse, My List and Settings.
 - **Audiobooks** get a sub-bar to show All, eAudiobooks or CDs.
 - Switching collection keeps you in the same section (Browse stays Browse, search keeps its text).
 - **First visit:** a dismissible welcome banner under the header explains what the site is (`Welcome.tsx`). Hidden before paint once dismissed; never shown in the installed app.
