@@ -1,0 +1,123 @@
+{{Short description|British literary award given in 2026}}
+{{Use British English|date=July 2026}}
+{{Use dmy dates|date=July 2026}}
+{{Infobox award
+| name             = 2026 [[Booker Prize]]
+| image            =
+| caption          =
+| date             = 9 November 2026
+| location         = [[Old Billingsgate]], London
+| country          = United Kingdom & Ireland
+| presenter        = 
+| previous         = [[2025 Booker Prize|2025]]
+| next             = [[2027 Booker Prize|2027]]
+| main             = {{nowrap|[[Booker Prize|The Booker Prize]]}}
+}}
+The '''2026 Booker Prize''' is a [[literary award]] worth £50,000 given for the best [[English language|English-language]] novel published between 1 October 2025 and 30 September 2026 in either the United Kingdom or Ireland.
+
+The longlist for the 2026 [[Booker Prize]] was released on 28 July 2026.<ref name=GuardJul2026>{{cite news|last=Loffhagen|first=Emma|url=https://www.theguardian.com/books/2026/jul/28/previous-winners-douglas-stuart-and-marlon-james-lead-a-brit-heavy-booker-prize-longlist|archive-url=|title=Previous winners Douglas Stuart and Marlon James lead Booker prize longlist|date=28 July 2026|work=[[The Guardian]]|accessdate=28 July 2026|archivedate=}}</ref>
+
+The shortlist was announced at a ceremony at [[Southbank Centre]] in London on 22 September, and the winner will be announced at [[Old Billingsgate]] in the City of London on 9 November 2026.<ref name='Booker2026'>{{cite web|title=The Booker Prize 2026|url=https://thebookerprizes.com/the-booker-library/prize-years/2026|archive-url=|work=The Booker Prize website|publisher=[[The Booker Prize]]|accessdate=28 July 2026|archivedate=}}</ref>
+
+==Judging panel==
+* [[Mary Beard (classicist)|Mary Beard]] (chair)
+* [[Raymond Antrobus]]
+* [[Jarvis Cocker]]
+* [[Patricia Lockwood]]
+* [[Rebecca Liu]]
+
+==Nominees==
+All 2026 nominees are novels.
+
+{{legend|gold|indicates the winner}}
+{{legend|lightgrey|indicates shortlisted}}
+
+{| class="wikitable plainrowheaders sortable"
+! scope="col" | Author
+! scope="col" | Title
+! scope="col" | Country
+! scope="col" | Publisher
+|-
+| data-sort-value="Aridjis, Chloe" | [[Chloe Aridjis]]
+| ''[[The Shadow of the Object]]''
+| Mexico/USA
+| [[Chatto & Windus]]
+|-
+| data-sort-value="Cline, Emma" | [[Emma Cline]]
+| ''[[Switzy]]''
+| USA
+| Chatto & Windus
+|-
+| data-sort-value="Goodman, Makenna" | [[Makenna Goodman]]
+| ''[[Helen of Nowhere]]''
+| USA
+| [[Fitzcarraldo Editions]]
+|-
+|-style="background: lightgrey"
+| data-sort-value="Harrison, M. John" | [[M. John Harrison]]
+| ''[[The End of Everything (Harrison novel)|The End of Everything]]''
+| UK
+| [[Serpent's Tail]]
+|-
+|-style="background: lightgrey"
+| data-sort-value="James, Marlon" | [[Marlon James (novelist)|Marlon James]]
+| ''[[The Disappearers]]''
+| Jamaica
+| [[Hamish Hamilton]]
+|-
+|-style="background: lightgrey"
+| data-sort-value="Kennard, Luke" | [[Luke Kennard (poet)|Luke Kennard]]
+| ''[[Black Bag (novel)|Black Bag]]''
+| UK
+| [[John Murray (publishing house)|John Murray]]
+|-
+| data-sort-value="Orhan, Kenan" | [[Kenan Orhan]]
+| ''[[The Renovation (novel)|The Renovation]]''
+| Turkey/USA
+| Hamish Hamilton
+|-
+|-style="background: lightgrey"
+| data-sort-value="Perry, Rebecca" | [[Rebecca Perry]]
+| ''[[May We Feed the King]]''
+| UK
+| [[Granta]]
+|-
+| data-sort-value="Riley, Gwendoline" | [[Gwendoline Riley]]
+| ''[[The Palm House]]''
+| UK
+| [[Picador (imprint)|Picador]]
+|-
+|-style="background: lightgrey"
+| data-sort-value="Strout, Elizabeth" | [[Elizabeth Strout]]
+| ''[[The Things We Never Say]]''
+| USA
+| [[Viking Press]]
+|-
+|-style="background: lightgrey"
+| data-sort-value="Stuart, Douglas" | [[Douglas Stuart (writer)|Douglas Stuart]]
+| ''[[John of John]]''
+| UK/USA
+| Picador
+|-
+| data-sort-value="White, Djamel" | [[Djamel White]]
+| ''[[All Them Dogs]]''
+| Ireland
+| John Murray
+|-
+| data-sort-value="Williams, Missouri" | [[Missouri Williams]]
+| ''[[The Vivisectors]]''
+| UK
+| [[4th Estate (imprint)|4th Estate]]
+|}
+
+==See also==
+* [[List of winners and nominated authors of the Booker Prize]]
+
+==References==
+{{Reflist|30em}}
+{{Booker Prize}}
+
+[[Category:2026 literary awards|Booker]]
+[[Category:Booker Prizes by year]]
+[[Category:2026 awards in the United Kingdom]]
+[[Category:November 2026 in the United Kingdom|Booker]]

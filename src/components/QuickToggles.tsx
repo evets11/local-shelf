@@ -1,6 +1,7 @@
 "use client";
 
-import { BookOpen, Disc3, Moon, Smartphone, Star, Sun, Users } from "lucide-react";
+import Link from "next/link";
+import { Award, BookOpen, Disc3, Moon, Smartphone, Star, Sun, Users } from "lucide-react";
 import { setPrefs, usePrefs, type Prefs } from "@/lib/prefs";
 
 /** Everyone / Kids profile switch for the top bar. Both options are always labelled. */
@@ -93,11 +94,12 @@ export function FormatBar({ kind }: { kind: "audiobook" | "book" }) {
     setPrefs(kind === "audiobook" ? { audioFormat: v as Prefs["audioFormat"] } : { bookFormat: v as Prefs["bookFormat"] });
   return (
     <div className="border-b border-line bg-paper-2/60">
-      <div className="mx-auto flex max-w-[1800px] items-center gap-3 px-4 py-2 text-sm sm:px-8">
-        <span id="format-bar-label" className="text-muted">
+      <div className="mx-auto flex max-w-[1800px] items-center gap-2 px-4 py-2 text-sm sm:gap-3 sm:px-8">
+        {/* Visible from sm up; phones need the room for the buttons and the prizes link. */}
+        <span id="format-bar-label" className="sr-only text-muted sm:not-sr-only">
           Show:
         </span>
-        <div role="radiogroup" aria-labelledby="format-bar-label" className="flex flex-wrap gap-1.5">
+        <div role="radiogroup" aria-labelledby="format-bar-label" className="flex gap-1.5">
           {options.map((o) => {
             const active = current === o.value;
             return (
@@ -117,6 +119,16 @@ export function FormatBar({ kind }: { kind: "audiobook" | "book" }) {
             );
           })}
         </div>
+        {/* Prizes are books and audiobooks only, so they live on this bar rather than the main nav. */}
+        <Link
+          href="/prizes"
+          className="ml-auto inline-flex shrink-0 items-center gap-1.5 rounded-full px-2 py-1 font-medium text-sea hover:underline"
+        >
+          <Award className="h-4 w-4" aria-hidden />
+          {/* Short on phones so it stays on one line with the format buttons. */}
+          <span className="sm:hidden">Prizes</span>
+          <span className="hidden sm:inline">Book prizes</span>
+        </Link>
       </div>
     </div>
   );

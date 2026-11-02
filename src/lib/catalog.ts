@@ -65,7 +65,10 @@ export function getAllTitles(): Title[] {
  */
 export function getPrerenderedTitles(perKind = 100): Title[] {
   return (["film", "book", "audiobook"] as const).flatMap((kind) =>
-    [...catalogs[kind].titles].sort((a, b) => b.firstSeen.localeCompare(a.firstSeen)).slice(0, perKind),
+    catalogs[kind].titles
+      .filter((t) => !t.pinned)
+      .sort((a, b) => b.firstSeen.localeCompare(a.firstSeen))
+      .slice(0, perKind),
   );
 }
 
@@ -130,7 +133,7 @@ export function getHomeShelves(kind: Kind): Shelf[] {
 
   // On-order titles aren't here yet but are reservable, so they get their own row.
   const comingSoon = titles.filter(isOnOrder);
-  const newest = [...titles.filter((t) => !isOnOrder(t))]
+  const newest = [...titles.filter((t) => !isOnOrder(t) && !t.pinned)]
     .sort(
       (a, b) =>
         b.firstSeen.localeCompare(a.firstSeen) ||

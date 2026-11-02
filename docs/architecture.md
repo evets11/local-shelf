@@ -3,10 +3,10 @@
 Local Shelf is a Next.js 16 App Router site. Almost everything is static: the catalogue is JSON in `data/`. Collection and browse pages, plus the newest 100 titles per collection (`getPrerenderedTitles`), are prerendered at build time. Every other title page renders on its first visit (`instant = false`, so it renders in full rather than via a generic shell) and is then cached. Prerendering all ~5,000 titles twice (page and sheet) made each deploy about 2.6 GB, past Vercel Hobby's 10 GB storage after a few deploys; now it's about 300 MB. A few small API routes do live lookups against the library.
 
 ```
-Spydus OPAC (brighton-hove.spydus.co.uk)
-   │  nightly GitHub Action: npm run sync, npm run enrich
+Spydus OPAC (brighton-hove.spydus.co.uk) + Wikipedia (prize lists)
+   │  nightly GitHub Action: npm run prizes (weekly), npm run sync, npm run enrich
    ▼
-data/catalog-{films,books,audiobooks}.json + data/film-extras.json
+data/catalog-{films,books,audiobooks}.json + data/film-extras.json + data/prizes.json
    │  imported at build time by src/lib/catalog.ts (server only)
    ▼
 static pages ──► browser
@@ -27,6 +27,7 @@ static pages ──► browser
 | `/title/[irn]` | Title page (`TitleDetail`). Also intercepted as a sheet by `@modal/(.)title/[irn]` |
 | `/item?irn&set&pos&kind&q` | A live whole-catalogue result (`ExternalItem`). Also intercepted as a sheet by `@modal/(.)item` |
 | `/my-list` | Saved titles (localStorage), cards from `/api/cards` |
+| `/prizes` | Books from UK prize lists that the library holds, a row per prize and year (`PrizeSections`) |
 | `/settings`, `/about`, `/support` | Preferences, about/accessibility, donations (Ko-fi embed) |
 | `/manifest.webmanifest`, `/sitemap.xml`, `/robots.txt`, `/llms.txt`, `/opengraph-image` | Generated metadata routes, see [SEO](seo.md) and [PWA](pwa.md) |
 
@@ -53,6 +54,7 @@ Clicking a title or a catalogue result keeps you on the page and opens it in a s
 - `src/lib/pwa.ts`: service worker registration, install prompt state, external links in the installed app. See [PWA](pwa.md).
 - `src/lib/spydus/*`: talking to the library. `urls.ts` builds robots-safe URLs, `parse.ts` turns HTML into data, `build.ts` turns parsed records into `Title`s, `client.ts` does fetching, caching and rate limits. See [Data and sync](data-and-sync.md).
 - `src/lib/enrich/*`: Wikidata/OMDb matching for films (IMDb, Rotten Tomatoes, trailers).
+- `src/lib/prizes/*`: prize lists. `config.ts` (which prizes, the `prizes.json` shape), `wikitext.ts` (Wikipedia tables), `match.ts` and `update.ts` (matching and merging, used by `scripts/prizes.ts`), `shelves.ts` (server only: rows and badges for the UI). See [Data and sync](data-and-sync.md#prize-lists).
 - `src/lib/concurrency.ts`: `Limiter` (slot semaphore) and `pool`, shared by the client and scripts.
 
 ## Rendering notes

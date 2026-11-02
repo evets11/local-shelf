@@ -1,0 +1,3800 @@
+{{Short description|Annual award for writing a children's book published in the UK}}
+{{distinguish|Andrew Carnegie Medals for Excellence in Fiction and Nonfiction}}
+{{Use dmy dates|date=November 2019}}{{Use British English|date=November 2015}}
+
+{{Infobox award <!-- for literary awards -->
+| name = The Carnegie Medal for Writing
+| image = 
+| imagesize = 
+| alt = 
+| caption = 
+| awarded_for = Outstanding new English-language book for children or young adults
+| host = 
+| location = <!-- where venue of ceremony if different from host -->
+| presenter = <!-- who presents the award if different from host -->
+| sponsor = [[Scholastic Corporation|Scholastic]], [[Authors' Licensing and Collecting Society|ALCS]]
+| reward = {{currency|5,000|GBP}}
+| date = <!-- date of the award ceremony {{Start date|YYYY|MM|DD}} (optional if date is variable) -->
+| country = 
+| year = {{start date and age|1936}}
+| year2 = Active<!-- year last awarded (use only if defunct otherwise keep 'Active')-->
+| website = {{URL|carnegies.co.uk}}
+}}
+
+The '''Carnegie Medal for Writing''', established in 1936 as the '''Carnegie Medal''', is an annual British [[literary award]] for English-language [[children's literature|books for children or young adults]]. It is conferred upon the author by the [[Chartered Institute of Library and Information Professionals]] (CILIP), who in 2016 called it "the UK's oldest and most prestigious book award for children's writing".<ref name=about2>{{cite web|url=https://carnegiegreenaway.org.uk/about-the-awards.php|title=About the Awards|publisher=The CILIP Carnegie and Kate Greenaway Awards|archive-url=https://web.archive.org/web/20160318171456/https://carnegiegreenaway.org.uk/about-the-awards.php|archive-date=18 March 2016}}</ref>
+
+Nominated books must be written in English and first published in the UK during the preceding school year (September to August).<ref name="rules" /> Until 1969, the award was limited to books by British authors first published in England.<ref name="cullinan">{{cite book|last1=Cullinan|first1=Bernice E.|first2=Diane|last2=Goetz Person|date=2005|title=The Continuum Encyclopedia of Children's Literature |publisher=Continuum International Publishing Group|page=149}}</ref> The first non-British medalist was Australian author [[Ivan Southall]] for ''[[Josh (novel)|Josh]]'' (1972). The original rules also prohibited winning authors from future consideration.<ref name="cullinan" /> The first author to win a second Carnegie Medal was [[Peter Dickinson]] in 1981, who won consecutively for ''[[Tulku (novel)|Tulku]]'' and ''[[City of Gold (book)|City of Gold]]''. As of 2024, eight authors had received the Medal more than once.<!-- source is inspection of our list sorted by author -->
+
+The winner is awarded a gold medal and £500 worth of books donated to the winner's chosen library. In addition, since 2016 the winner has received a £5,000 cash prize from the Colin Mears bequest.<ref name="about">{{cite web |title=The CILIP Carnegie Medal |url=https://www.carnegiegreenaway.org.uk/carnegie.php |archive-url=https://web.archive.org/web/20160318171524/https://www.carnegiegreenaway.org.uk/carnegie.php |archive-date=18 March 2016 |publisher=The CILIP Carnegie and Kate Greenaway Awards}}</ref><ref name="mears">{{cite web|url=https://archive.cilip.org.uk/news/colin-mears-bequest-consultation|title=Colin Mears bequest consultation|author=<!--Contact: Mark Taylor, Director of External Relations, CILIP-->|date=17 April 2015|publisher=[[Chartered Institute of Library and Information Professionals]]|access-date=15 March 2019|archive-url=https://web.archive.org/web/20190823113613/https://archive.cilip.org.uk/news/colin-mears-bequest-consultation|archive-date=23 August 2019|url-status=dead}}</ref>
+
+== History ==
+The Medal is named after the Scottish-born American [[philanthropist]] [[Andrew Carnegie]] (1835–1919), who founded more than 2,800 libraries in the English-speaking world, including at least one in more than half of British library authorities.<ref name="about" /> It was established in 1936 by the British [[CILIP#History|Library Association]], to celebrate the centenary of Carnegie's birth,<ref name="about" /><ref name="CCSU" /> and inaugurated in 1937 with the award to [[Arthur Ransome]] for ''[[Pigeon Post]]'' (1936) and the identification of two "commended" books.<ref name="CCSU" /> This first Medal was dated 1936, but since 2007 the award has been dated by its year of presentation, not year of publication.<ref name="winners" />
+
+In 1955, the [[Kate Greenaway Medal]], for "distinguished illustration in a book for children", was established as a companion to the Carnegie Medal.<ref>{{cite web|url=https://www.carnegiegreenaway.org.uk/greenaway.php|title=The CILIP Kate Greenaway Medal|author=<!--Not stated-->|date=<!--Not stated-->|publisher=The CILIP Carnegie and Kate Greenaway Awards|access-date=14 March 2019|archive-date=7 July 2019|archive-url=https://web.archive.org/web/20190707134945/https://www.carnegiegreenaway.org.uk/greenaway.php|url-status=dead}}</ref>
+
+Both awards were established and administered by the Library Association, which was succeeded by the [[Chartered Institute of Library and Information Professionals]] (CILIP) in 2002.<ref name="CCSU" /> In 2022, the two awards were renamed to the Carnegie Medal for Writing and the Carnegie Medal for Illustration.<ref>{{Cite web |title=CILIP Partners with Yoto to Unlock New Future for Carnegie Greenaway Awards |url=https://yotocarnegies.co.uk/cilip-partners-with-yoto-to-unlock-new-future-for-carnegie-greenaway-awards/ |url-status=live |archive-url=https://web.archive.org/web/20230507124113/https://yotocarnegies.co.uk/cilip-partners-with-yoto-to-unlock-new-future-for-carnegie-greenaway-awards/ |archive-date=7 May 2023 |access-date=5 June 2023 |website=Yoto Carnegies}}</ref>
+
+From 2022 to 2024, the award was sponsored by the audio technology company Yoto and was called the Yoto Carnegie Medal for Writing.<ref>{{Cite web |title=Yoto to sponsor Carnegie and Greenaway Book Awards |url=https://www.thebookseller.com/news/yoto-to-sponsor-carnegie-and-greenaway-book-awards |access-date=2024-11-17 |website=The Bookseller |language=En}}</ref> As of 2025 the awards are sponsored by [[Scholastic Corporation|Scholastic]] and the [[Authors' Licensing and Collecting Society]] (ALCS).<ref>{{Cite web |title=Partners and Sponsors |url=https://yotocarnegies.co.uk/about-the-awards/partners-and-sponsors/ |access-date=2024-11-17 |website=The Carnegies |language=}}</ref>
+
+Since 2019 two '''Shadowers' Choice Awards''' have been given, for writing and illustration, chosen by young people in school and library reading groups who "shadow" the judging process.<ref name=winners2026 /><ref name=shadow-list>{{cite web |title=Archive: Shadowers' Choice Winners |url=https://carnegies.co.uk/archive/shadowers-choice-winners/ |website=The Carnegies |access-date=29 June 2026}}</ref>
+
+== Process ==
+
+CILIP members may nominate books each September and October, with the full list of valid nominations published in November.<ref name=CGprocess>{{cite web|url=https://www.carnegiegreenaway.org.uk/awards-process.php|title=Awards Process|author=<!--Not stated-->|date=<!--Not stated-->|publisher=The CILIP Carnegie and Kate Greenaway Awards|access-date=14 March 2019|archive-date=4 January 2020|archive-url=https://web.archive.org/web/20200104024529/https://www.carnegiegreenaway.org.uk/awards-process.php|url-status=dead}}</ref> The longlist, chosen by the judges from the nominated books, is published in February. The judging panel comprises 12 children's librarians, all of whom are members of CILIP's Youth Libraries Group (YLG). The shortlist is announced in March and the winner in June.<ref name=CGprocess/>
+
+Titles must be English-language works first published in the UK during the preceding year (1 September to 31 August). According to CILIP, "all categories of books, including poetry, non-fiction and graphic novels, in print or ebook format, for children and young people are eligible".<ref name=rules>{{cite web|url=https://www.carnegiegreenaway.org.uk/awards-process.php#criteria|title=Criteria: Carnegie Medal|author=<!--Not stated-->|date=<!--Not stated-->|publisher=The CILIP Carnegie and Kate Greenaway Awards|access-date=14 March 2019|archive-date=4 January 2020|archive-url=https://web.archive.org/web/20200104024529/https://www.carnegiegreenaway.org.uk/awards-process.php#criteria|url-status=dead}}</ref> Multiple-author anthologies are excluded; however, co-authored single works are eligible.<ref name=rules/>
+
+Young people from across the UK take part in shadowing groups organised by [[secondary school]]s and [[public library|public libraries]], to read and discuss the shortlisted books.<ref name=CGprocess/>
+
+CILIP instructs the judging panel to consider plot, characterisation, and style.<ref name=rules/> Furthermore, it states that "the book that wins the Carnegie Medal should be a book of outstanding literary quality. The whole work should provide pleasure, not merely from the surface enjoyment of a good read, but also the deeper subconscious satisfaction of having gone through a vicarious, but at the time of reading, a real experience that is retained afterwards."<ref name=rules/>
+
+A diversity review in 2018 led to changes in the nomination and judging process to promote better representation of ethnic minority authors and books.<ref>{{cite web|url=https://www.theguardian.com/books/2018/sep/27/carnegie-medal-promises-immediate-action-over-lack-of-diversity|first=Alison|last=Flood|title=Carnegie medal promises immediate action over lack of diversity|website=[[The Guardian]]|date=27 September 2018|access-date=27 August 2020|archive-date=26 September 2020|archive-url=https://web.archive.org/web/20200926221429/https://www.theguardian.com/books/2018/sep/27/carnegie-medal-promises-immediate-action-over-lack-of-diversity|url-status=live}}</ref>
+
+==Winners==
+From 1936 to 2025, 86 medals were awarded.  No eligible book published in 1943, 1945, or 1966 was considered suitable by the judging panel.<ref name="winners" />
+
+From 2007 onward, the medals are dated by the year of presentation.  Before this, they were dated by the calendar year of their British publication.<ref name="winners">{{cite web |author= |date= |title=Medal for Writing Winners |url=https://carnegies.co.uk/archive/writing-winners/ |access-date=17 November 2024 |website=The Carnegies |publisher=}}</ref>
+
+Forty-one winning books were illustrated in their first editions, including every one during the first three decades. Six from 1936 to 1953 were illustrated or co-illustrated by their authors; none since then.
+{| class="wikitable sortable" style="font-size:1.00em; line-height:1.5em;"
+|+ Carnegie Medal winners<ref name=winners/>
+! Year || Author || Title || Publisher
+!Ref.
+|-
+ | '''1936'''||{{sortname|Arthur |Ransome}} ||''[[Pigeon Post]]'' ||[[Jonathan Cape]]
+|
+|-
+|'''1937{{Efn|1=This book was named to the 70th Anniversary Top Ten in 2007.<ref name="70th">{{cite web |author= |date= |title=70 Years Celebration |url=http://www.carnegiegreenaway.org.uk/celebration/ |url-status=dead |archive-url=https://web.archive.org/web/20171206041730/http://www.carnegiegreenaway.org.uk/celebration/ |archive-date=2017-12-06 |access-date=2019-03-14 |website=The CILIP Carnegie and Kate Greenaway Awards}}</ref>|name=Top10}}'''
+|{{sortname|Eve |Garnett}}
+|''[[The Family from One End Street]]''
+|[[Frederick Muller Ltd|Frederick Muller]]
+|<ref name=":2">{{Cite news |last=Eccleshare |first=Julia |date=2016-06-13 |title=Eighty years of children's books: the best Carnegie medal winners |language=en-GB |work=[[The Guardian]] |url=https://www.theguardian.com/childrens-books-site/2016/jun/13/carnegie-medal-winners-1936 |access-date=2023-06-06 |issn=0261-3077 |archive-date=12 February 2023 |archive-url=https://web.archive.org/web/20230212115510/https://www.theguardian.com/childrens-books-site/2016/jun/13/carnegie-medal-winners-1936 |url-status=live }}</ref>
+|-
+|'''1938'''
+|{{sortname|Noel |Streatfeild}}
+|''[[The Circus Is Coming]]''
+|[[J. M. Dent]]
+|
+|-
+|'''1939'''
+|{{sortname|Eleanor |Doorly}}
+|''[[The Radium Woman]]''
+|[[Heinemann (publisher)|Heinemann]]
+|
+|-
+|'''1940'''
+|{{sortname|last=Barne|first=Kitty}}
+|''[[Visitors from London]]''
+|[[J. M. Dent]]
+|
+|-
+|'''1941'''
+|{{sortname|last=Treadgold|first=Mary}}
+|''[[We Couldn't Leave Dinah]]''
+|[[Jonathan Cape]]
+|
+|-
+|'''1942'''
+|[[D. J. Watkins-Pitchford|BB]]
+|''{{sort|1=Little Grey Men|2=[[The Little Grey Men]]}}''
+|[[Eyre & Spottiswoode]]
+|<ref name=":2" />
+|-
+|'''1943'''
+| colspan="3" |''(Prize withheld as no book considered suitable)''
+|
+|-
+ | '''1944'''||{{sortname|Eric |Linklater}} ||''[[The Wind on the Moon]]''||[[Macmillan Publishers|Macmillan]]
+|
+|-
+ | '''1945'''|| colspan="3" | ''(Prize withheld as no book considered suitable)''
+|
+|-
+ | '''1946'''||{{sortname|Elizabeth |Goudge}}||''[[The Little White Horse]]''||[[University of London]]
+|<ref name=":2" />
+|-
+ | '''1947'''||{{sortname|Walter |de la Mare}}||''[[Collected Stories for Children]]''||[[Faber & Faber|Faber]]
+|
+|-
+ | '''1948'''||{{sort|armstrong, richard|[[Richard Armstrong (author)|Richard Armstrong]]}}||''[[Sea Change (Armstrong novel)|Sea Change]]''||[[J. M. Dent]]
+|
+|-
+ | '''1949'''||{{sort|allen, agnes|[[Agnes Allen (author)|Agnes Allen]]}} <br />illus. Agnes and Jack Allen{{efn |name=self}}||''[[The Story of Your Home]]''||
+|
+|-
+|'''1950'''
+|{{sortname|Elfrida |Vipont}}
+|''[[The Lark on the Wing]]''
+|[[Oxford University Press]]
+|
+|-
+|'''1951'''
+|{{sortname|Cynthia |Harnett}} <br />illus. by the author{{efn |name=self}}
+|''[[The Wool-Pack]]''
+|[[Methuen Publishing|Methuen]]
+|
+|-
+|'''1952{{Efn|name=Top10}}'''
+|{{sort|norton, mary|[[Mary Norton (author)|Mary Norton]]}}
+|''[[The Borrowers (novel)|The Borrowers]]''
+|[[J. M. Dent]]
+|<ref name=":2" />
+|-
+|'''1953'''
+|{{sortname|Edward |Osmond}} <br />illus. by the author{{efn |name=self}}
+|''[[A Valley Grows Up]]''
+|[[Oxford University Press]]
+|
+|-
+|'''1954'''
+|{{sortname|Ronald |Welch}} <small>(Felton Ronald Oliver)</small>
+|''[[Knight Crusader]]''
+|[[Oxford University Press]]
+|
+|-
+|'''1955'''
+|{{sortname|Eleanor |Farjeon}}
+|''[[The Little Bookroom]]''
+|[[Oxford University Press]]
+|
+|-
+|'''1956'''
+|{{sortname|C. S. |Lewis}}
+|''[[The Last Battle]]''
+|[[The Bodley Head]]
+|<ref name=":2" />
+|-
+|'''1957'''
+|{{sortname|William |Mayne}}
+|''[[A Grass Rope]]''
+|[[Oxford University Press]]
+|
+|-
+|'''1958{{Efn|name=Top10}}'''
+|{{sortname|Philippa |Pearce}}
+|''[[Tom's Midnight Garden]]''
+|[[Oxford University Press]]
+|<ref name=":2" />
+|-
+|'''1959'''
+|{{sortname|Rosemary |Sutcliff}}
+|''[[The Lantern Bearers (Sutcliff novel)|The Lantern Bearers]]''
+|[[Oxford University Press]]
+|<ref name=":2" />
+|-
+|'''1960'''
+|{{sort|cornwall, ian wolfram|[[Ian Wolfran Cornwall]]}} <br />illus. [[Marjorie Maitland Howard]]
+|''The Making of Man''
+|Phoenix House
+|
+|-
+|'''1961'''
+|{{sortname|Lucy M. |Boston}}
+|''[[Green Knowe|A Stranger at Green Knowe]]''
+|[[Faber & Faber|Faber]]
+|<ref name=":2" />
+|-
+|'''1962'''
+|{{sortname|Pauline |Clarke}}
+|''[[The Twelve and the Genii]]''
+|[[Faber & Faber|Faber]]
+|
+|-
+|'''1963'''
+|{{sortname|Hester |Burton}}
+|''[[Time of Trial]]''
+|[[Oxford University Press]]
+|
+|-
+|'''1964'''
+|{{sortname|Sheena |Porter}}
+|''[[Nordy Bank (novel)|Nordy Bank]]''
+|[[Oxford University Press]]
+|
+|-
+|'''1965'''
+|{{sort|turner, philip|[[Philip Turner (writer)|Philip Turner]]}}
+|''[[The Grange at High Force]]''
+|[[Oxford University Press]]
+|
+|-
+|'''1966'''
+| colspan="3" |''(Prize withheld as no book considered suitable''{{efn |name=HC1966}})
+|
+|-
+|'''1967{{Efn|name=Top10}}'''
+|{{sortname|Alan |Garner}}
+|''[[The Owl Service]]''
+|[[HarperCollins|Collins]]
+|<ref name=":2" />
+|-
+|'''1968'''
+|{{sort|harris, rosemary|[[Rosemary Harris (writer)|Rosemary Harris]]}}
+|''[[The Moon in the Cloud]]''
+|[[Faber & Faber|Faber]]
+|
+|-
+|'''1969'''
+|{{sortname|K. M. |Peyton}}
+|''[[The Edge of the Cloud]]''
+|[[Oxford University Press]]
+|<ref name=":2" />
+|-
+|'''1970'''
+|{{sortname|Leon |Garfield}} and [[Edward Blishen]]<br />illustrated by [[Charles Keeping]]
+|''[[The God Beneath the Sea]]''
+|[[Longman]]
+|
+|-
+|'''1971'''
+|{{sortname|Ivan |Southall}}
+|''[[Josh (novel)|Josh]]''
+|[[Angus & Robertson]]
+|
+|-
+|'''1972'''
+|{{sort|adams, richard|[[Richard Adams (author)|Richard Adams]]}}
+|''[[Watership Down]]''
+|[[Rex Collings]]
+|<ref name=":2" />
+|-
+|'''1973'''
+|{{sortname|Penelope |Lively}}
+|''[[The Ghost of Thomas Kempe]]''
+|[[Heinemann (publisher)|Heinemann]]
+|
+|-
+|'''1974'''
+|{{sortname|Mollie |Hunter}}
+|''[[The Stronghold (novel)|The Stronghold]]''
+|[[Hamish Hamilton]]
+|
+|-
+|'''1975{{Efn|name=Top10}}'''
+|{{sortname|Robert |Westall}}
+|''[[The Machine Gunners]]''
+|[[Macmillan Publishers|Macmillan]]
+|
+|-
+|'''1976'''
+|{{sortname|Jan |Mark}}
+|''[[Thunder and Lightnings]]''
+|Kestrel
+|<ref name=":2" />
+|-
+|'''1977'''
+|{{sortname|Gene |Kemp}}
+|''[[The Turbulent Term of Tyke Tiler]]''
+|[[Faber & Faber|Faber]]
+|<ref name=":2" />
+|-
+|'''1978'''
+|{{sort|rees, david|[[David Rees (author)|David Rees]]}}
+|''[[The Exeter Blitz]]''
+|[[Hamish Hamilton]]
+|
+|-
+|'''1979'''
+|{{sortname|Peter |Dickinson}}
+|''[[Tulku (novel)|Tulku]]''
+|[[Victor Gollancz Ltd|Gollancz]]
+|<ref name=":2" />
+|-
+|'''1980'''
+|{{sortname|Peter |Dickinson}} <br />illus. [[Michael Foreman (author/illustrator)|Michael Foreman]]
+|''[[City of Gold (novel)|City of Gold and other stories from the Old Testament]]''
+|[[Victor Gollancz Ltd|Gollancz]]
+|
+|-
+|'''1981'''
+|{{sortname|Robert |Westall}}
+|''[[The Scarecrows]]''
+|[[Chatto & Windus]]
+|
+|-
+|'''1982'''
+|{{sortname|Margaret |Mahy}}
+|''[[The Haunting (Mahy novel)|The Haunting]]''
+|[[J. M. Dent]]
+|<ref name=":2" />
+|-
+|'''1983'''
+|{{sortname|Jan |Mark}}
+|''[[Handles (novel)|Handles]]''
+|[[Viking Press|Kestrel]]
+|
+|-
+|'''1984'''
+|{{sortname|Margaret |Mahy}}
+|''[[The Changeover]]''
+|[[J. M. Dent]]
+|
+|-
+|'''1985{{Efn|name=Top10}}'''
+|{{sortname|Kevin |Crossley-Holland}} <br />illus. [[Alan Marks]]
+|''[[Storm (novella)|Storm]]''
+|[[Heinemann (publisher)|Heinemann]]
+|<ref name=":2" />
+|-
+|'''1986'''
+|{{sortname|Berlie |Doherty}}
+|''[[Granny Was a Buffer Girl]]''
+|[[Methuen Publishing|Methuen]]
+|<ref name=":2" />
+|-
+|'''1987'''
+|{{sortname|Susan |Price}}
+|''[[The Ghost Drum]]''
+|[[Faber and Faber|Faber]]
+|
+|-
+|'''1988'''
+|{{sortname|Geraldine |McCaughrean}}
+|''[[A Pack of Lies]]''
+|[[Oxford University Press]]
+|<ref name=":2" />
+|-
+|'''1989'''
+|{{sortname|Anne |Fine}}
+|''[[Goggle-Eyes]]''
+|[[Hamish Hamilton]]
+|<ref name=":2" />
+|-
+|'''1990'''
+|{{sortname|Gillian |Cross}}
+|''[[Wolf (novel)|Wolf]]''
+|[[Oxford University Press]]
+|<ref name=":2" />
+|-
+|'''1991'''
+|{{sortname|Berlie |Doherty}}
+|''[[Dear Nobody]]''
+|[[Hamish Hamilton]]
+|
+|-
+|'''1992'''
+|{{sortname|Anne |Fine}}
+|''[[Flour Babies]]''
+|[[Hamish Hamilton]]
+|
+|-
+|'''1993'''
+|{{sortname|Robert |Swindells}}
+|''[[Stone Cold (Swindells novel)|Stone Cold]]''
+|[[Hamish Hamilton]]
+|
+|-
+|'''1994'''
+|{{sortname|Theresa |Breslin}}
+|''[[Whispers in the Graveyard]]''
+|[[Methuen Publishing|Methuen]]
+|<ref>{{Cite web |title=The Yoto Carnegies |url=https://yotocarnegies.co.uk/archive/writing-winners/ |access-date=2023-09-09 |language=en-GB}}</ref>
+|-
+|'''1995{{Efn|name=Top10}}'''
+|{{sortname|Philip |Pullman}}
+|''[[Northern Lights (Pullman novel)|Northern Lights]]''
+|[[Scholastic Corporation|Scholastic]]
+|<ref name=":2" />
+|-
+|'''1996{{Efn|name=Top10}}'''
+|{{sortname|Melvin |Burgess}}
+|''[[Junk (novel)|Junk]]''
+|[[Andersen Press]]
+|<ref name=":2" />
+|-
+|'''1997'''
+|{{sortname|Tim |Bowler}}
+|''[[River Boy]]''
+|[[Oxford University Press]]
+|
+|-
+|'''1998{{Efn|name=Top10}}'''
+|{{sortname|David |Almond}} <br />illus. Adam Fisher
+|''[[Skellig]]''
+|[[Hodder & Stoughton]]
+|<ref name=":2" />
+|-
+|'''1999'''
+|{{sortname|Aidan |Chambers}}
+|''[[Postcards from No Man's Land]]''
+|[[The Bodley Head]]
+|
+|-
+|'''2000'''
+|{{sortname|Beverley |Naidoo}}
+|''[[The Other Side of Truth]]''
+|[[Puffin Books|Puffin]]
+|<ref name=":2" />
+|-
+|'''2001'''
+|{{sortname|Terry |Pratchett}}
+|''[[The Amazing Maurice and his Educated Rodents]]''
+|[[Doubleday (publisher)|Doubleday]]
+|
+|-
+|'''2002'''
+|{{sortname|Sharon |Creech}}
+|''[[Ruby Holler]]''
+|[[Bloomsbury Publishing|Bloomsbury]]
+|
+|-
+|'''2003{{Efn|name=Top10}}'''
+|{{sortname|Jennifer |Donnelly}}
+|''[[A Gathering Light]]''
+|[[Bloomsbury Publishing|Bloomsbury]]
+|
+|-
+|'''2004'''
+|{{sortname|Frank Cottrell |Boyce}}
+|''[[Millions (novel)|Millions]]''
+|[[Macmillan Publishers|Macmillan]]
+|<ref name=":2" /><ref name=":6">{{Cite news |last= |date=2005-07-08 |title=Carnegie medal for Millions |language=en-GB |work=[[The Guardian]] |url=https://www.theguardian.com/books/2005/jul/08/carnegiemedal2004.carnegiemedal |access-date=2023-06-06 |issn=0261-3077 |archive-date=6 December 2021 |archive-url=https://web.archive.org/web/20211206115035/https://www.theguardian.com/books/2005/jul/08/carnegiemedal2004.carnegiemedal |url-status=live }}</ref>
+|-
+|'''2005'''
+|{{sortname|Mal |Peet}}
+|''[[Tamar (novel)|Tamar]]''
+|[[Walker Books]]
+|<ref name=":2" /><ref name=":7">{{Cite news |last=Crown |first=Sarah |date=2006-07-07 |title=Carnegie newcomer beats veteran shortlist |language=en-GB |work=[[The Guardian]] |url=https://www.theguardian.com/books/2006/jul/07/carnegiemedal2005.carnegiemedal |access-date=2023-06-06 |issn=0261-3077 |archive-date=27 March 2021 |archive-url=https://web.archive.org/web/20210327023432/https://www.theguardian.com/books/2006/jul/07/carnegiemedal2005.carnegiemedal |url-status=live }}</ref>
+|-
+|'''2006'''
+| colspan="3" |''(The award date is the year of publication before 2006, the year of presentation after 2006.)''
+|
+|-
+|'''2007'''
+|{{sortname|Meg |Rosoff}}
+|''[[Just in Case (novel)|Just in Case]]''
+|[[Penguin Books|Penguin]]
+|<ref name=":2" />
+|-
+|'''2008'''
+|{{sortname|Philip |Reeve}}
+|''[[Here Lies Arthur]]''
+|[[Scholastic Corporation|Scholastic]]
+|<ref name=":2" />
+|-
+|'''2009'''
+|{{sortname|Siobhan |Dowd}}
+|''[[Bog Child]]''
+|[[David Fickling Books|David Fickling]]
+|<ref name=":2" /><ref name=":8">{{Cite news |last=Flood |first=Alison |date=2009-06-25 |title=Carnegie medal posthumously awarded to Siobhan Dowd |language=en-GB |work=[[The Guardian]] |url=https://www.theguardian.com/books/2009/jun/25/siobhan-down-carnegie-medal-childrens-literature |access-date=2023-06-06 |issn=0261-3077 |archive-date=20 March 2022 |archive-url=https://web.archive.org/web/20220320030115/https://www.theguardian.com/books/2009/jun/25/siobhan-down-carnegie-medal-childrens-literature |url-status=live }}</ref>
+|-
+|'''2010'''
+|{{sortname|Neil |Gaiman}} <br />two illustrators{{efn|[[Dave McKean]] illustrated the UK Adult edition and the US edition of ''The Graveyard Book'', while [[Chris Riddell]] illustrated the UK Children's edition, all published in October 2008. Riddell was shortlisted for the companion [[Kate Greenaway Medal]], recognising the year's best illustration.}}
+|''[[The Graveyard Book]]''
+|[[Bloomsbury Publishing|Bloomsbury]]
+|<ref name=":2" /><ref name=":9">{{Cite news |last=Flood |first=Alison |date=2010-06-24 |title=Neil Gaiman wins Carnegie medal |language=en-GB |work=[[The Guardian]] |url=https://www.theguardian.com/books/2010/jun/24/neil-gaiman-carnegie-graveyard-book |access-date=2023-06-06 |issn=0261-3077 |archive-date=26 October 2013 |archive-url=https://web.archive.org/web/20131026001809/http://www.theguardian.com/books/2010/jun/24/neil-gaiman-carnegie-graveyard-book |url-status=live }}</ref>
+|-
+|'''2011'''
+|{{sortname|Patrick |Ness}}
+|''[[Monsters of Men]]''
+|[[Walker Books]]
+|<ref name=":2" /><ref name=":10">{{Cite news |last=Pauli |first=Michelle |date=2011-06-23 |title=Patrick Ness accepts Carnegie medal with fierce defence of libraries |language=en-GB |work=[[The Guardian]] |url=https://www.theguardian.com/books/2011/jun/23/patrick-ness-carnegie-medal-libraries |access-date=2023-06-06 |issn=0261-3077 |archive-date=5 October 2022 |archive-url=https://web.archive.org/web/20221005054753/https://www.theguardian.com/books/2011/jun/23/patrick-ness-carnegie-medal-libraries |url-status=live }}</ref>
+|-
+|'''2012'''
+|{{sortname|Patrick |Ness}} <br />illustrated by [[Jim Kay]]
+|''[[A Monster Calls]]''
+|[[Walker Books]]
+|<ref name=":2" /><ref name=":11">{{Cite news |last=Flood |first=Alison |date=2012-06-14 |title=Patrick Ness wins Carnegie medal for second year running |language=en-GB |work=[[The Guardian]] |url=https://www.theguardian.com/books/2012/jun/14/carnegie-patrick-ness |access-date=2023-06-06 |issn=0261-3077}}</ref>
+|-
+|'''2013'''
+|{{sortname|Sally |Gardner}}
+|''[[Maggot Moon]]''
+|[[Bonnier Group|Hot Key Books]]
+|<ref name=":2" /><ref name=":12">{{Cite news |date=2013-06-19 |title=Sally Gardner's Maggot Moon wins the Carnegie medal |language=en-GB |work=[[The Guardian]] |url=https://www.theguardian.com/childrens-books-site/2013/jun/19/sally-gardner-maggot-moon-carnegie |access-date=2023-06-06 |issn=0261-3077 |archive-date=14 June 2021 |archive-url=https://web.archive.org/web/20210614071850/https://www.theguardian.com/childrens-books-site/2013/jun/19/sally-gardner-maggot-moon-carnegie |url-status=live }}</ref>
+|-
+|'''2014'''
+|{{sort|brooks, kevin|[[Kevin Brooks (writer)|Kevin Brooks]]}}
+|''[[The Bunker Diary]]''
+|[[Penguin Books]]
+|<ref name=":2" /><ref name=":13">{{Cite news |date=2014-06-25 |title=Why we're glad The Bunker Diary won the Carnegie |language=en-GB |work=[[The Guardian]] |url=https://www.theguardian.com/childrens-books-site/2014/jun/25/carnegie-the-bunker-diary-unsuitable |access-date=2023-06-06 |issn=0261-3077 |archive-date=1 October 2022 |archive-url=https://web.archive.org/web/20221001065121/https://www.theguardian.com/childrens-books-site/2014/jun/25/carnegie-the-bunker-diary-unsuitable |url-status=live }}</ref>
+|-
+|'''2015'''
+|{{sortname|Tanya |Landman}}
+|''Buffalo Soldier''
+|[[Walker Books]]
+|<ref name=":2" /><ref name=":14">{{Cite news |last=Drabble |first=Emily |date=2015-06-22 |title=Carnegie and Kate Greenaway medals: Tanya Landman and William Grill win UK's oldest children's book awards |language=en-GB |work=[[The Guardian]] |url=https://www.theguardian.com/childrens-books-site/2015/jun/22/carnegie-and-kate-greenaway-medals-tanya-landman-and-william-grill-win-uks-oldest-childrens-book-awards |access-date=2023-06-06 |issn=0261-3077 |archive-date=13 December 2022 |archive-url=https://web.archive.org/web/20221213115345/https://www.theguardian.com/childrens-books-site/2015/jun/22/carnegie-and-kate-greenaway-medals-tanya-landman-and-william-grill-win-uks-oldest-childrens-book-awards |url-status=live }}</ref>
+|-
+|'''2016'''
+|{{sortname|Sarah |Crossan}}
+|''[[One (Crossan novel)|One]]''
+|[[Bloomsbury Publishing|Bloomsbury Children's]]
+|<ref name=":15">{{Cite news |last=Drabble |first=Emily |date=2016-06-20 |title=Sarah Crossan wins the Carnegie medal with verse novel One |language=en-GB |work=[[The Guardian]] |url=https://www.theguardian.com/childrens-books-site/2016/jun/20/sarah-crossan-carnegie-medal-2016-one |access-date=2023-06-06 |issn=0261-3077 |archive-date=26 March 2023 |archive-url=https://web.archive.org/web/20230326195152/https://www.theguardian.com/childrens-books-site/2016/jun/20/sarah-crossan-carnegie-medal-2016-one |url-status=live }}</ref>
+|-
+|'''2017'''
+|{{sortname|Ruta |Sepetys}}
+|''[[Salt to the Sea]]''
+|[[Penguin Books]]
+|
+|-
+|'''2018'''
+|{{sortname|Geraldine |McCaughrean}} <br />illustrated by Jane Milloy
+|''[[Where the World Ends]]''
+|[[Usborne Publishing]]
+|
+|-
+|'''2019'''
+|{{Sortname|Elizabeth|Acevedo}}
+|''[[The Poet X]]''
+|[[HarperTeen]]
+|<ref name=":0">{{Cite news |last=Flood |first=Alison |date=18 June 2019 |title=Carnegie medal goes to first writer of colour in its 83-year history |language=en-GB |work=The Guardian |url=https://www.theguardian.com/books/2019/jun/18/carnegie-medal-first-writer-of-colour-elizabeth-acevedo-the-poet-x |url-status=live |access-date=19 June 2019 |archive-url=https://web.archive.org/web/20190618215846/https://www.theguardian.com/books/2019/jun/18/carnegie-medal-first-writer-of-colour-elizabeth-acevedo-the-poet-x |archive-date=18 June 2019 |issn=0261-3077}}</ref>
+|-
+|'''2020'''
+|{{sortname|Anthony |McGowan}}
+|''Lark''
+|[[Barrington Stoke]]
+|
+|-
+|'''2021'''
+|{{sortname|last=Reynolds|first=Jason}}
+|''[[Look Both Ways (novel)|Look Both Ways]]''
+|[[Knights Of]]
+|<ref name=":3">{{Cite web |last=Flood |first=Alison |date=2021-06-16 |title=Jason Reynolds wins Carnegie medal for 'breathtaking' Look Both Ways |url=http://www.theguardian.com/books/2021/jun/16/jason-reynolds-wins-carnegie-medal-look-both-ways-sydney-smith-kate-greenaway |url-status=live |archive-url=https://web.archive.org/web/20210616120632/https://www.theguardian.com/books/2021/jun/16/jason-reynolds-wins-carnegie-medal-look-both-ways-sydney-smith-kate-greenaway |archive-date=16 June 2021 |access-date=2021-06-17 |website=The Guardian |language=en}}</ref>
+|-
+|'''2022'''
+|{{sortname|last=Balen|first=Katya}}
+|''[[October, October]]''
+|[[Bloomsbury Publishing|Bloomsbury]]
+|<ref name=":4">{{Cite web |last= |date=2022-06-20 |title=Balen, Novgorodoff win Carnegie, Greenaway medals |url=https://www.booksandpublishing.com.au/articles/2022/06/20/215961/balen-novgorodoff-win-carnegie-greenaway-medals/ |url-status=live |archive-url=https://web.archive.org/web/20220929205703/https://www.booksandpublishing.com.au/articles/2022/06/20/215961/balen-novgorodoff-win-carnegie-greenaway-medals/ |archive-date=29 September 2022 |access-date=2022-06-20 |website=Books+Publishing |language=en-AU}}</ref>
+|-
+|'''2023'''
+|{{sortname|last=Ros|first=Manon Steffan}}
+|''The Blue Book of Nebo''
+|Firefly Press
+|-
+|'''2024'''
+|{{sortname|last=Coelho|first=Joseph}}
+|''[[The Boy Lost in the Maze]]''
+|[[Otter-Barry Books]]
+|<ref>{{cite web | url=https://yotocarnegies.co.uk/writing-shortlist-2024 | title=The Yoto Carnegies | access-date=20 June 2024 | archive-date=28 August 2024 | archive-url=https://web.archive.org/web/20240828104807/https://yotocarnegies.co.uk/writing-shortlist-2024/ | url-status=dead }}</ref>
+|-
+|'''2025'''
+|[[Margaret McDonald (writer)|Margaret McDonald]]
+|''[[Glasgow Boys (novel)|Glasgow Boys]]''
+|Faber
+|<ref>{{Cite web |date=2025-06-23 |title=McDonald, Gill win Carnegie medals |url=https://www.booksandpublishing.com.au/articles/2025/06/23/274498/mcdonald-gill-lessore-parish-win-carnegie-medals/ |access-date=2025-06-24 |publisher=Books+Publishing}}</ref>
+|-
+|'''2026'''
+|[[Beth O'Brien]]
+|''[[Wolf Siren]]''
+|HarperCollins Children’s Books
+|<ref name=winners2026 />
+|}
+
+==Carnegie of Carnegies==
+
+To commemorate the 70th anniversary of the Carnegie Medal in 2007, CILIP created a 'Living Archive' on the Carnegie Medal website with information about each of the winning books and conducted a poll to identify the nation's favourite Carnegie Medal winner, to be named the "Carnegie of Carnegies". The winner, announced on 21 June 2007 at the [[British Library]], was ''[[Northern Lights (Pullman novel)|Northern Lights]]'' by [[Philip Pullman]] (1995). It was the expected winner, garnering 40% of the votes in the UK, and 36% worldwide.<ref name=eccleshare>{{cite news|url=http://www.publishersweekly.com/article/CA6454463.html|url-status=dead|title=Rosoff, Grey Win Carnegie, Greenaway Medals in U.K.|last=Eccleshare|first=Julia|author-link=Julia Eccleshare|newspaper=[[Publishers Weekly]]|date=21 June 2007|archive-url=https://web.archive.org/web/20081007185734/http://www.publishersweekly.com/article/CA6454463.html|archive-date=7 October 2008|access-date=15 March 2019}}</ref>
+
+'''70th Anniversary Top Ten'''
+* [[David Almond]], ''[[Skellig]]'', ([[Hodder & Stoughton|Hodder]], 1998)
+* [[Melvin Burgess]], ''[[Junk (novel)|Junk]]'', ([[Penguin Books|Penguin]], 1996)
+* [[Kevin Crossley-Holland]], ''[[Storm (novella)|Storm]]'', ([[Egmont Group|Egmont]], 1985)
+* [[Jennifer Donnelly]], ''[[A Gathering Light]]'', ([[Bloomsbury Publishing|Bloomsbury]], 2003)
+* [[Alan Garner]], ''[[The Owl Service]]'', ([[HarperCollins]], 1967)
+* [[Eve Garnett]], ''[[The Family from One End Street]]'', (Penguin, 1937)
+* [[Mary Norton (author)|Mary Norton]], ''[[The Borrowers (novel)|The Borrowers]]'', (Penguin, 1952)
+* [[Philippa Pearce]], ''[[Tom's Midnight Garden]]'', ([[Oxford Press|Oxford]], 1958)
+* '''[[Philip Pullman]], ''[[Northern Lights (Pullman novel)|Northern Lights]]'', ([[Scholastic Press|Scholastic]], 1995)'''
+* [[Robert Westall]], ''[[The Machine Gunners]]'', ([[Macmillan Publishers|Macmillan]], 1975)
+
+''Northern Lights'', with 40% of the public vote, was followed by 16% for ''Tom's Midnight Garden'' by Philippa Pearce and 8% for ''Skellig'' by David Almond. As those three books had won the 70-year-old Medal in its year 60, year 23, and year 63, some commentary observed that ''Tom's Midnight Garden'' had passed a test of time that the others had not yet faced.<ref name=cofc>{{cite news|url=https://www.theguardian.com/uk/2007/jun/22/books.booksnews|title=Pullman children's book voted best in 70 years|last=Ezard|first=John|newspaper=[[The Guardian]]|date=22 June 2007|access-date=15 March 2019|archive-date=29 June 2018|archive-url=https://web.archive.org/web/20180629155055/https://www.theguardian.com/uk/2007/jun/22/books.booksnews|url-status=live}}</ref>
+
+== Honorees ==
+Before 2007, the selection process for the award was structured such that the year in which the award was given aligned with the year of publication for the books being considered. The books would be nominated and chosen during the year following their release, with the winners being announced and the medals presented in the early months of the subsequent year.<ref name=Archives>{{Cite web |date= |title=Carnegie Winner Archives |url=http://www.carnegiegreenaway.org.uk/archive-full-list.php |url-status=dead |archive-url=https://web.archive.org/web/20181017234144/http://www.carnegiegreenaway.org.uk/archive-full-list.php |archive-date=2018-10-17 |access-date=2023-06-04 |website=The CILIP Carnegie and Kate Greenaway Awards}}</ref>
+
+=== 1930s ===
+{| class="wikitable sortable mw-collapsible"
+|+Medal winners and commended titles, 1936-1939<ref name="CCSU">{{Cite web |title=Carnegie Medal Award |url=http://web.ccsu.edu/library/nadeau/award%20books/CarnegieMedal.htm |url-status=dead |archive-url=https://web.archive.org/web/20160303231442/http://web.ccsu.edu/library/nadeau/award%20books/CarnegieMedal.htm#Carnegie%20Medal |archive-date=2016-03-03 |access-date=2023-06-04 |website=[[Central Connecticut State University]]}}</ref>
+!Year
+!Author
+!Title
+!Publisher
+!Result
+!Ref.
+|- style="background:#cddeff"
+! rowspan="3" |[[1936 in literature|1936]]
+|{{sortname|last=Ransome|first=Arthur}}
+|''[[Pigeon Post]]''
+|[[Jonathan Cape]]
+|Winner
+|
+|-
+|{{Sortname|Howard|Spring}}
+|''Sampson's Circus''
+|
+|Commended
+|
+|-
+|{{Sortname|Noel|Streatfeild}}
+|''[[Ballet Shoes (novel)|Ballet Shoes]]''
+|
+|Commended
+|
+|- style="background:#cddeff"
+![[1937 in literature|1937]]
+|{{sortname|last=Garnett|first=Eve}}{{Efn|name=Top10}}
+|''{{sort|1=Family from One End Street|2=[[The Family from One End Street]]}}''
+|[[Frederick Muller Ltd|Frederick Muller]]
+|Winner
+|<ref name=":2" />
+|- style="background:#cddeff"
+![[1938 in literature|1938]]
+|{{sortname|last=Streatfeild|first=Noel}}
+|''{{sort|1=Circus Is Coming|2=[[The Circus Is Coming]]}}''
+|[[J. M. Dent]]
+|Winner
+|
+|- style="background:#cddeff"
+![[1939 in literature|1939]]
+|{{sortname|last=Doorly|first=Eleanor}}
+|''{{sort|1=Radium Woman|2=[[The Radium Woman]]}}''
+|[[Heinemann (publisher)|Heinemann]]
+|Winner
+|
+|}
+
+=== 1940s ===
+{| class="wikitable sortable mw-collapsible"
+|+Medal winners and commended titles, 1940-1949<ref name="CCSU" />
+!Year
+!Author
+!Title
+!Publisher
+!Result
+!Ref.
+|- style="background:#cddeff"
+![[1940 in literature|1940]]
+|{{sortname|last=Barne|first=Kitty}}
+|''[[Visitors from London]]''
+|[[J. M. Dent]]
+|Winner
+|
+|- style="background:#cddeff"
+![[1941 in literature|1941]]
+|{{sortname|last=Treadgold|first=Mary}}
+|''[[We Couldn't Leave Dinah]]''
+|[[Jonathan Cape]]
+|Winner
+|
+|- style="background:#cddeff"
+![[1942 in literature|1942]]
+|[[D. J. Watkins-Pitchford|BB]]
+|''{{sort|1=Little Grey Men|2=[[The Little Grey Men]]}}''
+|[[Eyre & Spottiswoode]]
+|Winner
+|<ref name=":2" />
+|-
+![[1943 in literature|1943]]
+| colspan="4" |''Prize withheld as no book considered suitable''
+|
+|- style="background:#cddeff"
+![[1944 in literature|1944]]
+|{{sortname|last=Linklater|first=Eric}}
+|''{{sort|1=Wind on the Moon|2=[[The Wind on the Moon]]}}''
+|[[Macmillan Publishers|Macmillan]]
+|Winner
+|
+|-
+![[1945 in literature|1945]]
+| colspan="4" |''Prize withheld as no book considered suitable''
+|
+|- style="background:#cddeff"
+![[1946 in literature|1946]]
+|{{sortname|last=Goudge|first=Elizabeth}}
+|''{{sort|1=Little White Horse|2=The Little White Horse}}''
+|[[University of London]]
+|Winner
+|<ref name=":2" />
+|- style="background:#cddeff"
+![[1947 in literature|1947]]
+|{{sortname|last=de la Mare|first=Walter}}
+|''[[Collected Stories for Children]]''
+|[[Faber & Faber]]
+|Winner
+|
+|- style="background:#cddeff"
+![[1948 in literature|1948]]
+|{{sortname|last=Armstrong|first=Richard|dab=writer}}
+|''[[Sea Change (Armstrong novel)|Sea Change]]''
+|[[J. M. Dent]]
+|Winner
+|
+|- style="background:#cddeff"
+![[1949 in literature|1949]]
+|{{sortname|last=Allen|first=Agnes|dab=author}}, illus. [[Agnes Allen (author)|Agnes and Jack Allen]]
+|''{{sort|1=Story of Your Home|2=[[The Story of Your Home]]}}''
+|[[Faber & Faber]]
+|Winner
+|
+|}
+
+=== 1950s ===
+{| class="wikitable sortable mw-collapsible"
+|+Medal winners and commended titles, 1950-1959<ref name="CCSU" />
+!Year
+!Author
+!Title
+!Publisher
+!Result
+!Ref.
+|- style="background:#cddeff"
+![[1950 in literature|1950]]
+|{{sortname|last=Vipont|first=Elfrida}}
+|''{{sort|1=Lark on the Wing|2=[[The Lark on the Wing]]}}''
+|[[Oxford University Press]]
+|Winner
+|
+|- style="background:#cddeff"
+![[1951 in literature|1951]]
+|{{sortname|last=Harnett|first=Cynthia}}
+|''{{sort|1=Wool-Pack|2=[[The Wool-Pack]]}}''
+|[[Methuen Publishing]]
+|Winner
+|
+|- style="background:#cddeff"
+![[1952 in literature|1952]]
+|{{sortname|last=Norton|first=Mary|dab=writer}}
+|''{{sort|1=Borrowers|2=[[The Borrowers (novel)|The Borrowers]]}}{{Efn|name=Top10}}''
+|[[J. M. Dent]]
+|Winner
+|<ref name=":2" />
+|- style="background:#cddeff"
+![[1953 in literature|1953]]
+|{{sortname|last=Osmond|first=Edward}}
+|''{{sort|1=Valley Grows Up|2=[[A Valley Grows Up]]}}''
+|[[Oxford University Press]]
+|Winner
+|
+|- style="background:#cddeff"
+! rowspan="8" |[[1954 in literature|1954]]{{Efn|The special commendation to Harold Jones in 1955 for his 1954 illustration of Lavender's Blue was "a major reason" for the Library Association to establish the Kate Greenaway Medal that year; no 1955 work was judged worthy in 1956, so the Medal was actually inaugurated one year later.<ref name=70th/>}}
+|{{sortname|last=Welch|first=Ronald}} 
+|''[[Knight Crusader]]''
+|[[Oxford University Press]]
+|Winner
+|
+|- style="background:LemonChiffon;" color:black
+|{{Sortname|Harold|Jones|dab=artist}} and  [[Kathleen Lines]]
+|''Lavender's Blue: A Book of Nursery Rhymes''
+|
+|Special commendation
+|
+|-
+|{{Sortname|Lucy M.|Boston}}
+|''[[Children of Green Knowe]]''
+|
+|Commended
+|
+|-
+|{{Sortname|Nicholas Stuart|Gray}}
+|''Over the Hills to Fabylon''
+|
+|Commended
+|
+|-
+|{{Sortname|C. S.|Lewis}}
+|{{Sort|Horse and his Boy|''[[The Horse and His Boy]]''}}
+|
+|Commended
+|
+|-
+|{{Sortname|Barbara Leonie|Picard}}
+|{{Sort|LADY OF THE LINDEN TREE|''The Lady of the Linden Tree''}}
+|
+|Commended
+|
+|-
+|{{Sortname|James|Reeves|dab=writer}}
+|''English Fables and Fairy Stories''
+|
+|Commended
+|
+|-
+|{{Sortname|Rosemary|Sutcliff}}
+|{{Sort|Eagle of the Ninth|''[[The Eagle of the Ninth]]''}}
+|
+|Commended
+|
+|- style="background:#cddeff"
+! rowspan="6" |[[1955 in literature|1955]]
+|{{sortname|last=Farjeon|first=Eleanor}}
+|''{{sort|1=Little Bookroom|2=[[The Little Bookroom]]}}''
+|[[Oxford University Press]]
+|Winner
+|
+|-
+|{{Sortname|Lancelot|Hogben}}
+|''Man Must Measure: The Wonderful World of Mathematics''
+|
+|Commended
+|
+|-
+|{{Sortname|Margaret|Jowett}}
+|''Candidate for Fame''
+|
+|Commended
+|
+|-
+|{{Sortname|Jo|Manton}}
+|{{Sort|Story of Albert Schweitzer|''The Story of Albert Schweitzer''}}
+|
+|Commended
+|
+|-
+|{{sortname|last=Mayne|first=William}}
+|{{Sort|SWARM IN MAY|''A Swarm in May''}}
+|
+|Commended
+|
+|-
+|{{Sortname|A. Philippa|Pearce}}
+|''[[Minnow on the Say (novel)|Minnow on the Say]]''
+|
+|Commended
+|
+|- style="background:#cddeff"
+! rowspan="7" |[[1956 in literature|1956]]
+|{{sortname|last=Lewis|first=C. S.}}
+|''{{sort|1=Last Battle|2=[[The Last Battle]]}}''
+|[[The Bodley Head]]
+|Winner
+|<ref name=":2" />
+|-
+|{{Sortname|Rumer|Godden}}
+|{{Sort|FAIRY DOLL|''The Fairy Doll''}}
+|
+|Commended
+|
+|-
+|{{sortname|last=Mayne|first=William}}
+|''Choristers' Cake''
+|
+|Commended
+|
+|-
+|{{sortname|last=Mayne|first=William}}
+|''{{sort|1=MEMBER FOR THE MARSH|2=The Member for the Marsh}}''
+|
+|Commended
+|
+|-
+|{{Sortname|Barbara Leonie|Picard}}
+|''Ransom for a Knight''
+|
+|Commended
+|
+|-
+|{{Sortname|Ian|Serraillier}}
+|''{{sort|1=SILVER SWORD|2=[[The Silver Sword]]}}''
+|
+|Commended
+|
+|-
+|{{Sortname|Rosemary|Sutcliff}}
+|''{{sort|1=SHIELD RING|2=[[The Shield Ring]]}}''
+|
+|Commended
+|
+|- style="background:#cddeff"
+! rowspan="7" |[[1957 in literature|1957]]
+|{{sortname|last=Mayne|first=William}}
+|''{{sort|1=Grass Rope|2=[[A Grass Rope]]}}''
+|[[Oxford University Press]]
+|Winner
+|
+|-
+|{{sortname|last=Avery|first=Gillian}}
+|''{{sort|1=WARDEN'S NIECE|2=The Warden's Niece}}''
+|
+|Commended
+|
+|-
+|{{sortname|last=Barrett|first=Anne}}
+|''Sogberd's Grove''
+|
+|Commended
+|
+|-
+|{{Sortname|Antonia|Forest}}
+|''[[Falconer's Lure]]''
+|
+|Commended
+|
+|-
+|{{sortname|last=Mayne|first=William}}
+|''{{sort|1=BLUE BOAT|2=The Blue Boat}}''
+|
+|Commended
+|
+|-
+|{{Sortname|Katharine|Savage}}
+|''{{sort|1=STORY OF THE SECOND WORLD WAR|2=The Story of the Second World War}}''
+|
+|Commended
+|
+|-
+|{{sortname|last=Sutcliff|first=Rosemary}}
+|''{{sort|1=SILVER BRANCH|2=The Silver Branch}}''
+|
+|Commended
+|
+|- style="background:#cddeff"
+! rowspan="3" |[[1958 in literature|1958]]
+|{{sortname|last=Pearce|first=Philippa}}
+|''[[Tom's Midnight Garden|Tom's Midnight Garden{{Efn|name=Top10}}]]''
+|[[Oxford University Press]]
+|Winner
+|<ref name=":2" />
+|-
+|{{Sortname|Lucy M.|Boston}}
+|''{{sort|1=Chimneys of Green Knowe|2=[[The Chimneys of Green Knowe]]}}''
+|
+|Commended
+|
+|-
+|{{sortname|last=Sutcliff|first=Rosemary}}
+|''[[Warrior Scarlet]]''
+|
+|Commended
+|
+|- style="background:#cddeff"
+! rowspan="6" |[[1959 in literature|1959]]
+|{{sortname|last=Sutcliff|first=Rosemary}}
+|''{{sort|1=Lantern Bearers|2=[[The Lantern Bearers (Sutcliff novel)|The Lantern Bearers]]}}''
+|[[Oxford University Press]]
+|Winner
+|<ref name=":2" />
+|-
+|{{sortname|last=Harnett|first=Cynthia}}
+|''{{sort|1=LOAD OF UNICORN|2=[[The Load of Unicorn]]}}''
+|
+|Commended
+|
+|-
+|{{sortname|last=Norton|first=Mary|dab=writer}}
+|''{{sort|1=BORROWERS AFLOAT |2=[[The Borrowers Afloat]]}}''
+|
+|Commended
+|
+|-
+|{{Sortname|Margery|Sharp}}
+|''{{sort|1=RESCUERS|2=[[The Rescuers (book)|The Rescuers]]}}''
+|
+|Commended
+|
+|-
+|{{sortname|last=Verney|first=John|dab=author}}
+|''Friday's Tunnel''
+|
+|Commended
+|
+|-
+|{{sortname|last=Young|first=Andres}}
+|''Quiet as Moss: 36 Poems''
+|
+|Commended
+|
+|}
+
+=== 1960s ===
+{| class="wikitable sortable mw-collapsible"
+|+Medal winners and commended titles, 1960-1969<ref name="CCSU" />
+!Year
+!Author
+!Title
+!Publisher
+!Result
+!Ref.
+|- style="background:#cddeff"
+! rowspan="6" |[[1960 in literature|1960]]
+|{{sortname|last=Cornwall|first=Ian Wolfran}}, illus. by [[Marjorie Maitland Howard]]
+|''{{sort|1=Making of Man|2=The Making of Man}}''
+|Phoenix House
+|Winner
+|
+|-
+|{{Sortname|Hester|Burton}}
+|''{{sort|1=GREAT GALE|2=The Great Gale}}''
+|
+|Commended
+|
+|-
+|{{Sortname|Robert|Graves}}
+|''{{sort|1=PENNY FIDDLE|2=The Penny Fiddle}}''
+|
+|Commended
+|
+|-
+|{{Sortname|Frederick|Grice}}
+|''{{sort|1=BONNY PIT LADDIE|2=The Bonny Pit Laddie}}''
+|
+|Commended
+|
+|-
+|{{Sortname|Mary K.|Harris}}
+|''Seraphina''
+|
+|Commended
+|
+|-
+|{{Sortname|Ian|Serraillier}}
+|''{{sort|1=IVORY HORN|2=The Ivory Horn}}''
+|
+|Commended
+|
+|- style="background:#cddeff"
+! rowspan="5" |[[1961 in literature|1961]]
+|{{sortname|last=Boston|first=Lucy M.}}
+|''{{sort|1=Stranger at Green Knowe|2=[[A Stranger at Green Knowe]]}}''
+|[[Faber & Faber]]
+|Winner
+|<ref name=":2" />
+|-
+|{{Sortname|Antonia|Forest}}
+|''[[Peter's Room]]''
+|
+|Commended
+|
+|-
+|{{Sortname|Rumer|Godden}}
+|''Miss Happiness and Miss Flower''
+|
+|Commended
+|
+|-
+|{{Sortname|James|Reeves|dab=writer}}
+|''Ragged Robin''
+|
+|Commended
+|
+|-
+|{{sortname|last=Verney|first=John|dab=author}}
+|''February's Road''
+|
+|Commended
+|
+|- style="background:#cddeff"
+! rowspan="7" |[[1962 in literature|1962]]
+|{{sortname|last=Clarke|first=Pauline}}
+|''{{sort|1=Twelve and the Genii|2=[[The Twelve and the Genii]]}}''
+|[[Faber & Faber]]
+|Winner
+|
+|-
+|{{sortname|last=Avery|first=Gillian}}
+|{{Sort|GREATEST GRESHAM|''The Greatest Gresham''}}
+|
+|Commended
+|
+|-
+|{{sortname|last=Burton|first=Hester}}
+|''Castors Away''
+|
+|Commended
+|
+|-
+|{{Sortname|Samuel E.|Ellacott}}
+|''Armour and Blade''
+|
+|Commended
+|
+|-
+|{{Sortname|Penelope|Farmer}}
+|{{Sort|Summer Birds|''[[The Summer Birds]]''}}
+|
+|Commended
+|
+|-
+|{{Sortname|Jo|Manton}}
+|{{Sort|STORY OF JOHN KEATS|''The Story of John Keats''}}
+|
+|Commended
+|
+|-
+|{{sortname|last=Peyton|first=K. M.}}
+|''Windfall''
+|
+|Commended
+|
+|- style="background:#cddeff"
+! rowspan="6" |[[1963 in literature|1963]]
+|{{sortname|last=Burton|first=Hester}}
+|''[[Time of Trial]]''
+|[[Oxford University Press]]
+|Winner
+|
+|-
+|{{sortname|last=Allan|first=Eric|nolink=1}}
+|{{Sort|LATCHKEY CHILDREN|''The Latchkey Children''}}
+|
+|Commended
+|
+|-
+|{{Sortname|Ralph|Arnold|dab=publisher}}
+|''Kings, Bishops, Knights, and Pawns: Life in a Feudal Society''
+|
+|Commended
+|
+|-
+|{{Sortname|Margaret J.|Baker}}
+|''Castaway Christmas''
+|
+|Commended
+|
+|-
+|{{Sortname|Antonia|Forest}}
+|{{Sort|THURSDAY KIDNAPPING|''The Thursday Kidnapping''}}
+|
+|Commended
+|
+|-
+|{{sortname|last=Townsend|first=John Rowe}}
+|''Hell's Edge''
+|
+|Commended
+|
+|- style="background:#cddeff"
+! rowspan="5" |[[1964 in literature|1964]]
+|{{sortname|last=Porter|first=Sheena}}
+|''[[Nordy Bank (novel)|Nordy Bank]]''
+|[[Oxford University Press]]
+|Winner
+|
+|-
+|{{Sortname|first=Eric S.|last=de Mare}}
+|''London's Riverside''
+|
+|Commended
+|
+|-
+|{{Sortname|first=Jenny Grace|last=Fyson}}
+|{{Sort|THREE BROTHERS OF UR|''The Three Brothers of Ur''}}
+|
+|Commended
+|
+|-
+|{{Sortname|C. Walter|Hodges}}
+|''Namesake''
+|
+|Commended
+|
+|-
+|{{sortname|last=Peyton|first=K. M.}}
+|{{Sort|Maplin Bird|''The Maplin Bird''}}
+|
+|Commended
+|
+|- style="background:#cddeff"
+! rowspan="7" |[[1965 in literature|1965]]
+|{{sortname|last=Turner|first=Philip|dab=writer}}
+|''{{sort|1=Grange at High Force|2=[[The Grange at High Force]]}}''
+|[[Oxford University Press]]
+|Winner
+|
+|-
+|{{Sortname|Alan|Garner}}
+|''[[Elidor]]''
+|
+|Commended
+|
+|-
+|{{Sortname|Jenny Grace|Fyson}}
+|{{Sort|JOURNEY OF THE ELDEST SON|''The Journey of the Eldest Son''}}
+|
+|Commended
+|
+|-
+|{{Sortname|Mary K.|Harris}}
+|{{Sort|Bus Girls|''The Bus Girls''}}
+|
+|Commended
+|
+|-
+|{{Sortname|C.|Headington}}
+|{{Sort|ORCHESTRA AND ITS INSTRUMENTS|''The Orchestra and Its Instruments''}}
+|
+|Commended
+|
+|-
+|{{sortname|last=Peyton|first=K. M.}}
+|{{Sort|Plan for Birdmarsh|''The Plan for Birdmarsh''}}
+|
+|Commended
+|
+|-
+|{{Sortname|Barbara Leonie|Picard}}
+|''One is One''
+|
+|Commended
+|
+|-
+! rowspan="5" |[[1965 in literature|1966]]
+| colspan="4" |''Prize withheld as no book considered suitable''{{Efn|Although no medal was awarded, one book was "Highly commended", the first time this designation was used.|name=HC1966}}
+|
+|- style="background:LemonChiffon;" color:black
+|{{sortname|last=Denny|first=Norman}} and [[Josephine Filmer-Sankey]]
+|''{{sort|1=Bayeux Tapestry: The Story of the Norman Conquest, 1066|2=The Bayeux Tapestry: The Story of the Norman Conquest, 1066}}''
+|
+|Highly commended
+|
+|-
+|{{sortname|last=Griffith|first=Helen|nolink=1}}
+|{{Sort|WILD HORSE OF SANTANDER|''The Wild Horse of Santander''}}
+|
+|Commended
+|
+|-
+|{{sortname|last=Peyton|first=K. M.}}
+|''Thunder in the Sky''
+|
+|Commended
+|
+|-
+|{{sortname|last=Stuart|first=Morna}}
+|''Marassa and Midnight''
+|
+|Commended
+|
+|- style="background:#cddeff"
+! rowspan="5" |[[1967 in literature|1967]]
+|{{sortname|last=Garner|first=Alan}}
+|''{{sort|1=Owl Service|2=[[The Owl Service]]}}'''{{Efn|name=Top10}}'''''
+|[[HarperCollins|Collins]]
+|Winner
+|<ref name=":2" />
+|- style="background:LemonChiffon;" color:black
+|{{sortname|last=Treece|first=Henry}}
+|''{{sort|1=Dream Time|2=The Dream Time}}''
+|
+|Highly commended
+|
+|-
+|{{sortname|last=Cresswell|first=Helen}}
+|{{Sort|Piemakers|''The Piemakers''}}
+|
+|Commended
+|
+|-
+|{{sortname|last=Garfield|first=Leon}}
+|''Smith''
+|
+|Commended
+|
+|-
+|{{sortname|last=Peyton|first=K. M.}}
+|''[[Flambards]]''
+|
+|Commended
+|
+|- style="background:#cddeff"
+! rowspan="4" |[[1968 in literature|1968]]
+|{{sortname|last=Harris|first=Rosemary|dab=writer}}
+|''{{sort|1=Moon in the Cloud|2=[[The Moon in the Cloud]]}}''
+|[[Faber & Faber]]
+|Winner
+|
+|-
+|{{sortname|last=Aiken|first=Joan}}
+|{{Sort|WHISPERING MOUNTAIN|''[[The Whispering Mountain]]''}}
+|
+|Commended
+|
+|-
+|{{sortname|last=Balderson|first=Margaret}}
+|''[[When Jays Fly to Barbmo]]''
+|
+|Commended
+|
+|-
+|{{sortname|last=Garfield|first=Leon}}
+|''Black Jack''
+|
+|Commended
+|
+|- style="background:#cddeff"
+! rowspan="4" |[[1969 in literature|1969]]
+|{{sortname|last=Peyton|first=K. M.}}
+|''{{sort|1=Edge of the Cloud|2=[[The Edge of the Cloud]]}}''
+|[[Oxford University Press]]
+|Winner
+|<ref name=":2" />
+|-
+|{{sortname|last=Cresswell|first=Helen}}
+|{{Sort|Night Watchman|''The Night Watchman''}}
+|
+|Commended
+|
+|-
+|{{sortname|last=Peyton|first=K. M.}}
+|''[[Flambards in Summer]]''
+|
+|Commended
+|
+|-
+|{{sortname|last=Townsend|first=John Rowe}}
+|{{Sort|INTRUDER|''[[The Intruder (Townsend novel)|The Intruder]]''}}
+|
+|Commended
+|
+|}
+
+=== 1970s ===
+{| class="wikitable sortable mw-collapsible"
+|+Medal winners and commended titles, 1970-1979<ref name="CCSU" />
+!Year
+!Author
+!Title
+!Publisher
+!Result
+!Ref.
+|- style="background:#cddeff"
+! rowspan="4" |[[1970 in literature|1970]]
+|{{sortname|last=Garfield|first=Leon}} and [[Edward Blishen]], illus. by [[Charles Keeping]]
+|''{{sort|1=God Beneath the Sea|2=[[The God Beneath the Sea]]}}''
+|[[Longman]]
+|Winner
+|
+|-
+|{{sortname|last=Dickinson|first=Peter}}
+|{{Sort|DEVIL'S CHILDREN|''The Devil's Children''}}
+|
+|Commended
+|
+|-
+|{{sortname|last=Garfield|first=Leon}}
+|{{Sort|Drummer Boy|''The Drummer Boy''}}
+|
+|Commended
+|
+|-
+|{{sortname|last=Mayne|first=William}}
+|''Ravensgill''
+|
+|Commended
+|
+|- style="background:#cddeff"
+! rowspan="4" |[[1971 in literature|1971]]
+|{{sortname|last=Southall|first=Ivan}}
+|''[[Josh (novel)|Josh]]''
+|[[Angus & Robertson]]
+|Winner
+|
+|-
+|{{sortname|last=Avery|first=Gillian}}
+|{{Sort|Likely Lad|''A Likely Lad''}}
+|
+|Commended
+|
+|-
+|{{sortname|last=Cresswell|first=Helen}}
+|''Up the Pier''
+|
+|Commended
+|
+|-
+|{{Sortname|Rosemary|Sutcliff}}
+|''[[Tristan and Iseult (novel)|Tristan and Iseult]]''
+|
+|Commended
+|
+|- style="background:#cddeff"
+! rowspan="3" |[[1972 in literature|1972]]
+|{{sortname|last=Adams|first=Richard}}
+|''[[Watership Down]]''
+|[[Rex Collings]]
+|Winner
+|<ref name=":2" />
+|-
+|{{sortname|last=Dickinson|first=Peter}}
+|{{Sort|Dancing Bear|''The Dancing Bear''}}
+|
+|Commended
+|
+|-
+|{{Sortname|Emma|Smith|dab=author}}
+|''No Way of Telling''
+|
+|Commended
+|
+|- style="background:#cddeff"
+! rowspan="4" |[[1973 in literature|1973]]
+|{{sortname|last=Lively|first=Penelope}}
+|''{{sort|1=Ghost of Thomas Kempe|2=[[The Ghost of Thomas Kempe]]}}''
+|[[Heinemann (publisher)|Heinemann]]
+|Winner
+|
+|-
+|{{sortname|last=Bawden|first=Nina}}
+|''[[Carrie's War]]''
+|
+|Commended
+|
+|-
+|{{sortname|last=Cooper|first=Susan}}
+|''[[The Dark Is Rising]]''
+|
+|Commended
+|
+|-
+|{{sortname|last=Cresswell|first=Helen}}
+|''The Bongleweed''
+|
+|Commended
+|
+|- style="background:#cddeff"
+! rowspan="4" |[[1974 in literature|1974]]
+|{{sortname|last=Hunter|first=Mollie}}
+|''{{sort|1=Stronghold|2=[[The Stronghold (novel)|The Stronghold]]}}''
+|[[Hamish Hamilton]]
+|Winner
+|
+|- style="background:LemonChiffon;" color:black
+|{{sortname|last=Ribbons|first=Ian}}
+|''{{sort|1=Battle of Gettysburg, 1–3 July 1963 |2=The Battle of Gettysburg, 1–3 July 1963 }}''
+|[[Oxford University Press]]
+|Highly commended
+|
+|-
+|{{sortname|last=Cawley|first=Winifred}}
+|''[[Gran at Coalgate]]''
+|
+|Commended
+|
+|-
+|{{sortname|last=Walsh|first=Jill Paton}}
+|{{Sort|Emperor's Winding Sheet|''The Emperor's Winding Sheet''}}
+|
+|Commended
+|
+|- style="background:#cddeff"
+! rowspan="3" |[[1975 in literature|1975]]
+|{{sortname|last=Westall|first=Robert}}
+|''{{sort|1=Machine Gunners|2=[[The Machine Gunners]]}}'''{{Efn|name=Top10}}'''''
+|[[Macmillan Publishers|Macmillan]]
+|Winner
+|
+|-
+|{{sortname|last=Cooper|first=Susan}}
+|{{Sort|Grey King|''[[The Grey King]]''}}
+|
+|Commended
+|
+|-
+|{{sortname|last=Jones|first=Diana Wynne}}
+|''[[Dogsbody (novel)|Dogsbody]]''
+|
+|Commended
+|
+|- style="background:#cddeff"
+! rowspan="2" |[[1976 in literature|1976]]
+|{{sortname|last=Mark|first=Jan}}
+|''[[Thunder and Lightnings]]''
+|Kestrel
+|Winner
+|<ref name=":2" />
+|-
+|{{sortname|last=Dickinson|first=Peter}}
+|{{Sort|Blue Hawk|''The Blue Hawk''}}
+|
+|Commended
+|
+|- style="background:#cddeff"
+! rowspan="4" |[[1977 in literature|1977]]
+|{{sortname|last=Kemp|first=Gene}}
+|''{{sort|1=Turbulent Term of Tyke Tiler|2=[[The Turbulent Term of Tyke Tiler]]}}''
+|[[Faber & Faber]]
+|Winner
+|<ref name=":2" />
+|-
+|{{Sortname|Peter|Carter|dab=author}}
+|''Under Goliath''
+|
+|Commended
+|
+|-
+|{{sortname|last=Jones|first=Diana Wynne}}
+|''[[Charmed Life (novel)|Charmed Life]]''
+|
+|Commended
+|
+|-
+|{{sortname|last=Pearce|first=Philippa}}
+|{{Sort|Shadow-Cage and Other Tales of the Supernatural|''The Shadow-Cage and Other Tales of the Supernatural''}}
+|
+|Commended
+|
+|- style="background:#cddeff"
+![[1978 in literature|1978]]
+|{{sortname|last=Rees|first=David|dab=author}}
+|''{{sort|1=Exeter Blitz|2=[[The Exeter Blitz]]}}''
+|[[Hamish Hamilton]]
+|Winner
+|
+|- style="background:#cddeff"
+! rowspan="5" |[[1979 in literature|1979]]
+|{{sortname|last=Dickinson|first=Peter}}
+|''[[Tulku (novel)|Tulku]]''
+|[[Victor Gollancz|Gollancz]]
+|Winner
+|<ref name=":2" />
+|- style="background:LemonChiffon;" color:black
+|{{sortname|last=Sancha|first=Sheila}}
+|''{{sort|1=Castle Story|2=The Castle Story}}''
+|
+|Highly commended
+|
+|-
+|{{sortname|last=Ashley|first=Bernard|dab=author}}
+|''{{Sort|Wild Kind of Justice|A Wild Kind of Justice}}''
+|
+|Commended
+|
+|-
+|{{sortname|last=Pearce|first=Philippa}}
+|''{{Sort|BATTLE OF BUBBLE AND SQUEAK|The Battle of Bubble and Squeak}}''
+|
+|Commended
+|
+|-
+|{{sortname|last=Westall|first=Robert}}
+|''{{Sort|DEVIL ON THE ROAD|The Devil on the Road}}''
+|
+|Commended
+|
+|}
+
+=== 1980s ===
+{| class="wikitable sortable mw-collapsible"
+|+Medal winners and commended titles, 1980-1989<ref name="CCSU" />
+!Year
+!Author
+!Title
+!Publisher
+!Result
+!Ref.
+|- style="background:#cddeff"
+! rowspan="4" |[[1980 in literature|1980]]
+|{{sortname|last=Dickinson|first=Peter}}, illus. by [[Michael Foreman (illustrator)|Michael Foreman]]
+|''City of Gold and other stories from the Old Testament''
+|[[Victor Gollancz|Gollancz]]
+|Winner
+|
+|- style="background:LemonChiffon;" color:black
+|{{sortname|last=Mark|first=Jan}}
+|''Nothing To Be Afraid Of''
+|
+|Highly commended
+|
+|-
+|{{sortname|last=Branfield|first=John}}
+|{{Sort|Fox in Winter|''The Fox in Winter''}}
+|
+|Commended
+|
+|-
+|{{sortname|last=Needle|first=Jan}}
+|{{Sort|Sense of Shame|''A Sense of Shame''}}
+|
+|Commended
+|
+|- style="background:#cddeff"
+! rowspan="4" |[[1981 in literature|1981]]
+|{{sortname|last=Westall|first=Robert}}
+|''{{sort|1=Scarecrows|2=The Scarecrows}}''
+|[[Chatto & Windus]]
+|Winner
+|
+|- style="background:LemonChiffon;" color:black
+|{{sortname|last=Gardam|first=Jane}}
+|''{{sort|1=Hollow Land|2=The Hollow Land}}''
+|
+|Highly commended
+|
+|-
+|{{sortname|last=Gardam|first=Jane}}
+|''Bridget and William''
+|
+|Commended
+|
+|-
+|{{sortname|last=Magorian|first=Michelle}}
+|''[[Goodnight Mister Tom]]''
+|
+|Commended
+|
+|- style="background:#cddeff"
+! rowspan="3" |[[1982 in literature|1982]]
+|{{sortname|last=Mahy|first=Margaret}}
+|''{{sort|1=Haunting|2=[[The Haunting (Mahy novel)|The Haunting]]}}''
+|[[J. M. Dent]]
+|Winner
+|<ref name=":2" />
+|- style="background:LemonChiffon;" color:black
+|{{sortname|last=Cross|first=Gillian}}
+|''{{sort|1=Dark Behind the Curtain|2=The Dark Behind the Curtain}}''
+|
+|Highly commended
+|
+|-
+|{{sortname|last=Kennemore|first=Tim}}
+|''Wall of Words''
+|
+|Commended
+|
+|- style="background:#cddeff"
+! rowspan="4" |[[1983 in literature|1983]]
+|{{sortname|last=Mark|first=Jan}}
+|''[[Handles (novel)|Handles]]''
+|Kestrel
+|Winner
+|
+|- style="background:LemonChiffon;" color:black
+|{{sortname|last=Watson|first=James|dab=author}}
+|''Talking in Whispers''
+|
+|Highly commended
+|
+|-
+|{{sortname|last=Pearce|first=Philippa}}
+|{{Sort|Way to Sattin Shore|''The Way to Sattin Shore''}}
+|
+|Commended
+|
+|-
+|{{sortname|last=Wrightson|first=Patricia}}
+|''A Little Fear''
+|
+|Commended
+|
+|- style="background:#cddeff"
+! rowspan="2" |[[1984 in literature|1984]]
+|{{sortname|last=Mahy|first=Margaret}}
+|''{{sort|1=Changeover|2=[[The Changeover]]}}''
+|[[J. M. Dent]]
+|Winner
+|
+|- style="background:LemonChiffon;" color:black
+|{{sortname|last=Swindells|first=Robert}}
+|''[[Brother in the Land]]''
+|[[Oxford University Press]]
+|Highly commended
+|
+|- style="background:#cddeff"
+! rowspan="2" |[[1985 in literature|1985]]
+|{{sortname|last=Crossley-Holland|first=Kevin}}, illus. [[Alan Marks]]
+|''[[Storm (novella)|Storm]][[1985 in literature|{{Efn|name=Top10}}]]''
+|[[Heinemann (publisher)|Heinemann]]
+|Winner
+|<ref name=":2" />
+|- style="background:LemonChiffon;" color:black
+|{{sortname|last=Howker|first=Janni}}
+|''Nature of the Beast''
+|
+|Highly commended
+|
+|- style="background:#cddeff"
+! rowspan="5" |[[1986 in literature|1986]]
+|{{sortname|last=Doherty|first=Berlie}}
+|''[[Granny Was a Buffer Girl]]''
+|[[Methuen Publishing]]
+|Winner
+|<ref name=":2" />
+|- style="background:LemonChiffon;" color:black
+|{{sortname|last=Howker|first=Janni}}
+|''Isaac Campion''
+|
+|Highly commended
+|
+|-
+|{{sortname|last=Ashley|first=Bernard|dab=author}}
+|''Running Scared''
+|
+|Commended
+|
+|-
+|{{sortname|last=Cross|first=Gillian}}
+|''Chartbreaker''
+|
+|Commended
+|
+|-
+|{{sortname|last=Taylor|first=Andrew|dab=author}}
+|''Coal House''
+|
+|Commended
+|
+|- style="background:#cddeff"
+! rowspan="5" |[[1987 in literature|1987]]
+|{{sortname|last=Price|first=Susan}}
+|''{{sort|1=Ghost Drum|2=[[The Ghost Drum]]}}''
+|[[Faber & Faber]]
+|Winner
+|
+|- style="background:LemonChiffon;" color:black
+|{{sortname|last=Mahy|first=Margaret}}
+|''Memory''
+|
+|Highly commended
+|
+|-
+|{{sortname|last=Dunlop|first=Eileen}}
+|{{Sort|House on the Hill|''The House on the Hill''}}
+|
+|Commended
+|
+|-
+|{{sortname|last=Furlong|first=Monica}}
+|''Wise Child''
+|
+|Commended
+|
+|-
+|{{sortname|last=Morpurgo|first=Michael}}
+|''[[King of the Cloud Forests]]''
+|
+|Commended
+|
+|- style="background:#cddeff"
+! rowspan="7" |[[1988 in literature|1988]]
+|{{sortname|last=McCaughrean|first=Geraldine}}
+|''{{sort|1=Pack of Lies|2=[[A Pack of Lies]]}}''
+|[[Oxford University Press]]
+|Winner
+|<ref name=":2" />
+|- style="background:LemonChiffon;" color:black
+|{{sortname|last=Cross|first=Gillian}}
+|''{{sort|1=Map of Nowhere|2=A Map of Nowhere}}''
+|
+|Highly commended
+|
+|- style="background:LemonChiffon;" color:black
+|{{sortname|last=Dickinson|first=Peter}}
+|''[[Eva (novel)|Eva]]''
+|[[Victor Gollancz|Gollancz]]
+|Highly commended
+|
+|- style="background:LemonChiffon;" color:black
+|{{sortname|last=Laird|first=Elizabeth|dab=author}}
+|''[[Red Sky in the Morning]]''
+|
+|Highly commended
+|
+|-
+|{{sortname|last=Alcock|first=Vivien}}
+|{{Sort|Monster Garden|''The Monster Garden''}}
+|
+|Commended
+|
+|-
+|{{sortname|last=Allen|first=Judy}}
+|''Awaiting Developments''
+|
+|Commended
+|
+|-
+|{{sortname|last=Jones|first=Diana Wynne}}
+|{{Sort|Lives of Christopher Chant|''The Lives of Christopher Chant''}}
+|
+|Commended
+|
+|- style="background:#cddeff"
+! rowspan="4" |[[1989 in literature|1989]]
+|{{sortname|last=Fine|first=Anne}}
+|''[[Goggle-Eyes]]''
+|[[Hamish Hamilton]]
+|Winner
+|<ref name=":2" />
+|- style="background:LemonChiffon;" color:black
+|{{sortname|last=Fine|first=Anne}}, illus. by [[Philippe Dupasquier]]
+|''[[Bill's New Frock]]''
+|[[Egmont Group|Egmont]]
+|Highly commended
+|
+|- style="background:LemonChiffon;" color:black
+|{{sortname|last=Lloyd|first=Carole}}
+|''{{sort|1=Charlie Barber Treatment|2=The Charlie Barber Treatment}}''
+|
+|Highly commended
+|
+|-
+|{{sortname|last=Alcock|first=Vivien}}
+|{{Sort|Trial of Anna Cotman|''The Trial of Anna Cotman''}}
+|
+|Commended
+|
+|}
+
+=== 1990s ===
+{| class="wikitable sortable mw-collapsible"
+|+Medal winners and commended titles, 1990-1999<ref name="CCSU" />
+!Year
+!Author
+!Title
+!Publisher
+!Result
+!Ref.
+|- style="background:#cddeff"
+! rowspan="4" |[[1990 in literature|1990]]
+|{{sortname|last=Cross|first=Gillian}}
+|''[[Wolf (novel)|Wolf]]''
+|[[Oxford University Press]]
+|Winner
+|<ref name=":2" />
+|- style="background:LemonChiffon;" color:black
+|{{sortname|last=Burgess|first=Melvin}}
+|''{{sort|1=Cry of the Wolf|2=[[The Cry of the Wolf]]}}''
+|[[Andersen Press]]
+|Highly commended
+|
+|- style="background:LemonChiffon;" color:black
+|{{sortname|last=Westall|first=Robert}}
+|''{{sort|1=Kingdom by the Sea|2=The Kingdom by the Sea}}''
+|
+|Highly commended
+|
+|-
+|{{sortname|last=Tomlinson|first=Theresa}}
+|''Riding the Waves''
+|
+|Commended
+|
+|- style="background:#cddeff"
+! rowspan="4" |[[1991 in literature|1991]]
+|{{sortname|last=Doherty|first=Berlie}}
+|''[[Dear Nobody]]''
+|[[Hamish Hamilton]]
+|Winner
+|
+|- style="background:LemonChiffon;" color:black
+|{{sortname|last=Wilson|first=Jacqueline}}, illus. by [[Nick Sharratt]]
+|''{{sort|1=Story of Tracy Beaker|2=[[The Story of Tracy Beaker]]}}''
+|[[Doubleday (publisher)|Doubleday]]
+|Highly commended
+|
+|-
+|{{sortname|last=Dalton|first=Annie}}
+|''Real Tilly Beany''
+|
+|Commended
+|
+|-
+|{{sortname|last=Kilworth|first=Garry}}
+|{{Sort|Drowners|''The Drowners''}}
+|
+|Commended
+|
+|- style="background:#cddeff"
+! rowspan="4" |[[1992 in literature|1992]]
+|{{sortname|last=Fine|first=Anne}}
+|''[[Flour Babies]]''
+|[[Hamish Hamilton]]
+|Winner
+|
+|- style="background:LemonChiffon;" color:black
+|{{sortname|last=Westall|first=Robert}}
+|''Gulf''
+|
+|Highly commended
+|
+|-
+|{{sortname|last=Dickinson|first=Peter}}
+|{{Sort|Bone from a Dry Sea|''A Bone from a Dry Sea''}}
+|
+|Commended
+|
+|-
+|{{sortname|last=Cross|first=Gillian}}
+|{{Sort|Great Elephant Chase|''[[The Great Elephant Chase]]''}}
+|
+|Commended
+|
+|- style="background:#cddeff"
+! rowspan="4" |[[1993 in literature|1993]]
+|{{sortname|last=Swindells|first=Robert}}
+|''[[Stone Cold (Swindells novel)|Stone Cold]]''
+|[[Hamish Hamilton]]
+|Winner
+|
+|- style="background:LemonChiffon;" color:black
+|{{sortname|last=Burgess|first=Melvin}}
+|''{{sort|1=Baby and Fly Pie|2=The Baby and Fly Pie}}''
+|
+|Highly commended
+|
+|- style="background:LemonChiffon;" color:black
+|{{sortname|last=Nimmo|first=Jenny}}
+|''{{sort|1=Stone Mouse|2=The Stone Mouse}}''
+|
+|Highly commended
+|
+|-
+|{{sortname|last=Merrick|first=Anne}}
+|''Someone Came Knocking''
+|
+|Commended
+|
+|- style=background:#cddeff
+! rowspan="3" |[[1994 in literature|1994]]
+|{{sortname|last=Breslin|first=Theresa}}
+|''[[Whispers in the Graveyard]]''
+|[[Methuen Publishing|Methuen Young Books]]
+|Winner
+|
+|-style=background:LemonChiffon; color:black
+|{{sortname|last=Doherty|first=Berlie}}
+|''Willa And Old Miss Annie''
+|
+|Highly commended
+|
+|-style=background:LemonChiffon; color:black
+|{{sortname|last=Howarth|first=Lesley}}
+|''Maphead''
+|
+|Highly commended
+|
+|- style=background:#cddeff
+! rowspan="3" |[[1995 in literature|1995]]
+|{{sortname|last=Pullman|first=Philip}}
+|''[[Northern Lights (Pullman novel)|Northern Lights'''{{Efn|name=Top10}}''']]''
+|[[Scholastic Point]]
+|Winner
+|<ref name=":2" />
+|-style=background:LemonChiffon; color:black
+|{{sortname|last=Wilson|first=Jacqueline}}
+|''[[Double Act (novel)|Double Act]]''
+|
+|Highly commended
+|
+|-
+|{{sortname|last=Gates|first=Susan}}
+|''[[Raider (novel)|Raider]]''
+|
+|Commended
+|
+|- style=background:#cddeff
+! rowspan="3" |[[1996 in literature|1996]]
+|{{sortname|last=Burgess|first=Melvin}}
+|''[[Junk (novel)|Junk'''{{Efn|name=Top10}}''']]''
+|[[Andersen Press]]
+|Winner
+|<ref name=":2" />
+|-style=background:LemonChiffon; color:black
+|{{sortname|last=Fine|first=Anne}}
+|{{sort|1=Tulip Touch|2=''[[The Tulip Touch]]''}}
+|
+|Highly commended
+|
+|-
+|{{sortname|last=Pratchett|first=Terry}}
+|''[[Johnny and the Bomb]]''
+|
+|Commended
+|
+|- style=background:#cddeff
+! rowspan="3" |[[1997 in literature|1997]]
+|{{sortname|last=Bowler|first=Tim}}
+|''[[River Boy]]''
+|[[Oxford University Press]]
+|Winner
+|
+|-style=background:LemonChiffon; color:black
+|{{sortname|last=Branford|first=Henrietta}}
+|''[[Fire, Bed, and Bone]]''
+|
+|Highly commended
+|
+|-
+|{{sortname|last=Rowling|first=J. K.}}
+|''[[Harry Potter and the Philosopher's Stone|Harry Potter And The Philosopher's Stone]]'' 
+|
+|Commended
+|
+|- style=background:#cddeff
+![[1998 in literature|1998]]
+|{{sortname|last=Almond|first=David}}
+|''[[Skellig|Skellig'''{{Efn|name=Top10}}''']]''
+|[[Hodder Headline|Hodder Children's Books]]
+|Winner
+|<ref name=":2" />
+|- style=background:#cddeff
+![[1999 in literature|1999]]
+|{{sortname|last=Chambers|first=Aidan}}
+|''[[Postcards from No Man's Land]]''  
+|[[The Bodley Head]]
+|Winner
+|
+|}
+
+=== 2000s ===
+Beginning in 2003, commendations were not presented, only short and longlists; only the shortlists are presented below.
+{| class="wikitable sortable mw-collapsible"
+|+Medal honorees, 2000-2009<ref name="CCSU" />
+!Year
+!Author
+!Title
+!Publisher
+!Age
+!Result
+!Ref.
+|- style="background:#cddeff"
+! rowspan="4" |[[2000 in literature|2000]]
+|{{sortname|last=Naidoo|first=Beverley}}
+|{{Sort|Other Side Of Truth|''[[The Other Side of Truth]]''}}
+|[[Puffin Books]]
+|
+|Winner
+|<ref name="CCSU" /><ref name=":2" />
+|- style="background:LemonChiffon;" color:black
+|{{sortname|last=Geras|first=Adèle}}
+|''[[Troy (novel)|Troy]]''
+|
+|
+|Highly commended
+|<ref name="CCSU" />
+|- style="background:LemonChiffon;" color:black
+|{{sortname|last=Pullman|first=Philip}}
+|{{Sort|Amber Spyglass|''[[The Amber Spyglass]]''}}
+|
+|
+|Highly commended
+|<ref name="CCSU" />
+|-
+|{{sortname|last=Burgess|first=Melvin}}
+|{{Sort|Ghost Behind The Wall|''The Ghost Behind The Wall''}}
+|
+|
+|Commended
+|<ref name="CCSU" />
+|- style="background:#cddeff"
+! rowspan="3" |[[2001 in literature|2001]]
+|{{sortname|last=Pratchett|first=Terry}}
+|''[[The Amazing Maurice and His Educated Rodents]]''
+|[[Doubleday (publisher)|Doubleday]]
+|
+|Winner
+|<ref name="CCSU" />
+|- style="background:LemonChiffon;" color:black
+|{{sortname|last=McCaughrean|first=Geraldine}}
+|''[[Stop the Train|Stop The Train]]'' 
+|
+|
+|Highly commended
+|<ref name="CCSU" />
+|-
+|{{sortname|last=Creech|first=Sharon}}
+|''[[Love That Dog]]''  
+|
+|
+|Commended
+|<ref name="CCSU" />
+|- style="background:#cddeff"
+! rowspan="2" |[[2002 in literature|2002]]
+|{{sortname|last=Creech|first=Sharon}}
+|''[[Ruby Holler]]'' 
+|[[HarperCollins]] 
+|
+|Winner
+|<ref name="CCSU" />
+|- style="background:LemonChiffon;" color:black
+|{{sortname|last=Fine|first=Anne}}
+|''Up On Cloud Nine''
+|
+|
+|Highly commended
+|<ref name="CCSU" />
+|- style="background:#cddeff"
+! rowspan="6" |[[2003 in literature|2003]]
+|{{sortname|last=Donnelly|first=Jennifer}}
+|{{Sort|Gathering Light|''[[A Gathering Light]]''}}'''{{Efn|name=Top10}}'''
+|[[Bloomsbury Publishing|Bloomsbury]]
+|12+
+|Winner
+|<ref name="CCSU" />
+|-
+|{{sortname|last=Almond|first=David}}
+|''{{sort|1=Fire Eaters|2=[[The Fire-Eaters]]}}''
+|[[Hodder & Stoughton|Hooder]]
+|10+
+|Shortlist
+|
+|-
+|{{sortname|last=Haddon|first=Mark}}
+|''{{sort|1=Curious Incident of the Dog in the Night-Time|2=[[The Curious Incident of the Dog in the Night-Time]]}}''
+|[[David Fickling Books|David Fickling]]
+|12+
+|Shortlist
+|
+|-
+|{{sortname|last=Laird|first=Elizabeth|dab=author}}
+|''{{sort|1=Garbage King|2=[[The Garbage King]]}}''
+|[[Macmillan Publishers|Macmillan]]
+|10+
+|Shortlist
+|
+|-
+|{{sortname|last=Morpurgo|first=Michael}}
+|''[[Private Peaceful]]''
+|[[Collins Publishers]]
+|10+
+|Shortlist
+|
+|-
+|{{sortname|last=Newbery|first=Linda}}
+|''Sisterland''
+|[[David Fickling Books|David Fickling]]
+|13+
+|Shortlist
+|
+|- style="background:#cddeff"
+! rowspan="6" |[[2004 in literature|2004]]
+|{{sortname|last=Cottrell-Boyce|first=Frank}}
+|''[[Millions (novel)|Millions]]''
+|[[Macmillan Publishers|Macmillan]]
+|9+
+|Winner
+|<ref name="CCSU" /><ref name=":2" /><ref name=":6" />
+|-
+|{{sortname|last=Cassidy|first=Anne}}
+|''[[Looking for JJ]]''
+|[[Scholastic Corporation|Scholastic]]
+|13+
+|Shortlist
+|
+|-
+|{{sortname|last=Choldenko|first=Gennifer}}
+|''[[Al Capone Does My Shirts]]''
+|[[Bloomsbury Publishing|Bloomsbury]]
+|11+
+|Shortlist
+|
+|-
+|{{sortname|last=Creech|first=Sharon}}
+|''[[Heartbeat (Creech novel)|Heartbeat]]''
+|[[Bloomsbury Publishing|Bloomsbury]]
+|10+
+|Shortlist
+|
+|-
+|{{sortname|last=Ibbotson|first=Eva}}
+|''{{sort|1=Star of Kazan|2=[[The Star of Kazan]]}}''
+|[[Macmillan Publishers|Macmillan]]
+|10+
+|Shortlist
+|
+|-
+|{{sortname|last=Pullman|first=Philip}}
+|''{{sort|1=Scarecrow and his Servant|2=[[The Scarecrow and His Servant]]}}''
+|[[Doubleday (publisher)|Doubleday]]
+|8+
+|Shortlist
+|
+|- style="background:#cddeff"
+! rowspan="5" |[[2005 in literature|2005]]
+|{{sortname|last=Peet|first=Mal}}
+|''[[Tamar (novel)|Tamar]]''
+|[[Walker Books]]
+|14+
+|Winner
+|<ref name="CCSU" /><ref name=":2" /><ref name=":7" />
+|-
+|{{sortname|last=Almond|first=David}}
+|''[[Clay (novel)|Clay]]''
+|[[Hodder & Stoughton|Hooder]]
+|11+
+|Shortlist
+|<ref name=":16">{{Cite news |last=Pauli |first=Michelle |date=2006-05-05 |title=Veterans dominate Carnegie medal shortlist |language=en-GB |work=[[The Guardian]] |url=https://www.theguardian.com/books/2006/may/05/carnegiemedal2005.carnegiemedal |access-date=2023-06-06 |issn=0261-3077 |archive-date=10 October 2015 |archive-url=https://web.archive.org/web/20151010195049/http://www.theguardian.com/books/2006/may/05/carnegiemedal2005.carnegiemedal |url-status=live }}</ref>
+|-
+|{{sortname|last=Cottrell-Boyce|first=Frank}}
+|''[[Framed (Cottrell-Boyce novel)|Framed]]''
+|[[Macmillan Publishers|Macmillan]]
+|9+
+|Shortlist
+|<ref name=":16" />
+|-
+|{{sortname|last=Mark|first=Jan}}
+|''[[Turbulence (Mark novel)|Turbulence]]''
+|[[Hodder & Stoughton|Hooder]]
+|12+
+|Shortlist
+|<ref name=":16" />
+|-
+|{{sortname|last=McCaughrean|first=Geraldine}}
+|''{{sort|1=White Darkness|2=[[The White Darkness (novel)|The White Darkness]]}}''
+|[[Oxford University Press]]
+|12+
+|Shortlist
+|<ref name=":16" />
+|- style="background:#cddeff"
+! rowspan="6" |[[2007 in literature|2007]]{{Efn|Prior to 2007, the award year aligned with eligible books' year of publication; in 2007 and later years, the award year followed eligible books' year of publication.}}
+|{{sortname|last=Rosoff|first=Meg}}
+|''[[Just in Case (novel)|Just in Case]]''
+|[[Penguin Books|Penguin]]
+|14+
+|Winner
+|<ref name=":2" />
+|-
+|{{sortname|last=Brooks|first=Kevin|dab=writer}}
+|{{sort|1=Road of the Dead|2=''[[The Road of the Dead]]''}}
+|{{sort|1=Chicken House|2=[[The Chicken House]]}}
+|14+
+|Shortlist
+|<ref name="CILIP2007">{{Cite web |date= |title=The CILIP Carnegie Medal Shortlist for 2007 |url=http://www.carnegiegreenaway.org.uk/2007awards/carnegie_shortlist.php |url-status=dead |archive-url=https://web.archive.org/web/20120504055800/http://www.carnegiegreenaway.org.uk/2007awards/carnegie_shortlist.php |archive-date=2012-05-04 |access-date=2023-06-06 |website=The CILIP Carnegie & Kate Greenaway Children's Book Awards}}</ref>
+|-
+|{{sortname|last=Dowd|first=Siobhan}}
+|{{sort|1=Swift Pure Cry|2=''[[A Swift Pure Cry]]''}}
+|[[David Fickling Books|David Fickling]]
+|13+
+|Shortlist
+|<ref name="CILIP2007"/>
+|-
+|{{sortname|last=Fine|first=Anne}}
+|{{sort|1=Road of Bones|2=''[[The Road of Bones]]''}}
+|[[Doubleday (publisher)|Doubleday]]
+|12+
+|Shortlist
+|<ref name="CILIP2007"/>
+|-
+|{{sortname|last=Kennen|first=Ally}}
+|''[[Beast (Kennen novel)|Beast]]''
+|Marion Lloyd
+|12+
+|Shortlist
+|<ref name="CILIP2007"/>
+|-
+|{{sortname|last=Sedgwick|first=Marcus}}
+|''[[My Swordhand Is Singing|My Swordhand is Singing]]''
+|[[Orion Publishing Group|Orion]]
+|10+
+|Shortlist
+|<ref name="CILIP2007"/>
+|- style="background:#cddeff"
+! rowspan="7" |[[2008 in literature|2008]]
+|{{sortname|last=Reeve|first=Philip}}
+|''[[Here Lies Arthur]]''
+|[[Scholastic Corporation|Scholastic]]
+|12+
+|Winner
+|<ref name=":2" />
+|-
+|{{sortname|last=Crossley-Holland|first=Kevin}}
+|''Gatty's Tale''
+|[[Orion Publishing Group|Orion]]
+|10+
+|Shortlist
+|<ref name="CILIP2008">{{Cite web |date= |title=The CILIP Carnegie Medal Shortlist for 2008 |url=http://www.carnegiegreenaway.org.uk/2008awards/carnegie_shortlist.php |url-status=dead |archive-url=https://web.archive.org/web/20120524084711/http://www.carnegiegreenaway.org.uk/2008awards/carnegie_shortlist.php |archive-date=2012-05-24 |access-date=2023-06-06 |website=The CILIP Carnegie & Kate Greenaway Children's Book Awards}}</ref><ref name=":17">{{Cite news |last=Pauli |first=Michelle |date=2008-04-18 |title=Carnegie shortlist takes children back in time |language=en-GB |work=[[The Guardian]] |url=https://www.theguardian.com/books/2008/apr/18/carnegiemedal.culture |access-date=2023-06-06 |issn=0261-3077 |archive-date=12 March 2016 |archive-url=https://web.archive.org/web/20160312111332/http://www.theguardian.com/books/2008/apr/18/carnegiemedal.culture |url-status=live }}</ref>
+|-
+|{{sortname|last=Glass|first=Linzi}}
+|''Ruby Red''
+|[[Penguin Books|Penguin]]
+|12+
+|Shortlist
+|<ref name="CILIP2008" /><ref name=":17" />
+|-
+|{{sortname|last=Laird|first=Elizabeth|dab=author}}
+|''[[Crusade (Laird novel)|Crusade]]''
+|[[Macmillan Publishers|Macmillan]]
+|10+
+|Shortlist
+|<ref name="CILIP2008" /><ref name=":17" />
+|-
+|{{sortname|last=Landman|first=Tanya}}
+|''Apache: Girl Warrior''
+|[[Walker Books|Walker]]
+|12+
+|Shortlist
+|<ref name="CILIP2008" /><ref name=":17" />
+|-
+|{{sortname|last=Rosoff|first=Meg}}
+|''[[What I Was]]''
+|[[Penguin Books|Penguin]]
+|12+
+|Shortlist
+|<ref name="CILIP2008" /><ref name=":17" />
+|-
+|{{sortname|last=Valentine|first=Jenny}}
+|''[[Finding Violet Park]]''
+|[[HarperCollins]]
+|12+
+|Shortlist
+|<ref name="CILIP2008" /><ref name=":17" />
+|- style="background:#cddeff"
+! rowspan="7" |[[2009 in literature|2009]]
+|{{sortname|last=Dowd|first=Siobhan}}
+|''[[Bog Child]]''
+|[[David Fickling Books|David Fickling]]
+|12+
+|Winner
+|<ref name=":2" /><ref name=":8" />
+|-
+|{{sortname|last=Brooks|first=Kevin|dab=writer}}
+|''Black Rabbit Summer''
+|[[Puffin Books|Puffin]]
+|14+
+|Shortlist
+|<ref name="CILIP2009">{{Cite web |date= |title=The CILIP Carnegie Medal Shortlist for 2009 |url=http://carnegiegreenaway.org.uk/2009awards/carnegie_shortlist.php |url-status=dead |archive-url=https://web.archive.org/web/20160311004455/http://carnegiegreenaway.org.uk/2009awards/carnegie_shortlist.php |archive-date=2016-03-11 |access-date=2023-06-06 |website=The CILIP Carnegie & Kate Greenaway Children's Book Awards}}</ref><ref name=":18">{{Cite news |last=Flood |first=Alison |date=2009-04-23 |title=Carnegie medal judges draw up 'boysy' shortlist |language=en-GB |work=[[The Guardian]] |url=https://www.theguardian.com/books/2009/apr/24/carnegie-medal-shortlist |access-date=2023-06-06 |issn=0261-3077 |archive-date=21 October 2021 |archive-url=https://web.archive.org/web/20211021093605/https://www.theguardian.com/books/2009/apr/24/carnegie-medal-shortlist |url-status=live }}</ref>
+|-
+|{{sortname|last=Colfer|first=Eoin}}
+|''[[Airman (novel)|Airman]]''
+|[[Puffin Books|Puffin]]
+|9+
+|Shortlist
+|<ref name="CILIP2009" /><ref name=":18" />
+|-
+|{{sortname|last=Cottrell-Boyce|first=Frank}}
+|''Cosmic''
+|[[Macmillan Publishers|Macmillan]]
+|8+
+|Shortlist
+|<ref name="CILIP2009" /><ref name=":18" />
+|-
+|{{sortname|last=Gray|first=Keith}}
+|''Ostrich Boys''
+|Definitions
+|12+
+|Shortlist
+|<ref name="CILIP2009" /><ref name=":18" />
+|-
+|{{sortname|last=Ness|first=Patrick}}
+|{{sort|1=Knife of Never Letting Go|2=''[[The Knife of Never Letting Go]]''}}
+|[[Walker Books|Walker]]
+|14+
+|Shortlist
+|<ref name="CILIP2009" /><ref name=":18" />
+|-
+|{{sortname|last=Thompson|first=Kate|dab=author}}
+|''[[Creature of the Night (novel)|Creature of the Night]]''
+|[[Bodley Head]]
+|14+
+|Shortlist
+|<ref name="CILIP2009" /><ref name=":18" />
+|}
+
+=== 2010s ===
+{| class="wikitable sortable mw-collapsible"
+|+Winning and shortlisted books, 2010-2019
+!Year
+!Author
+!Title
+!Publisher
+!Age
+!Result
+!Ref.
+|- style=background:#cddeff
+! rowspan="8" |[[2010 in literature|2010]]
+|{{sortname|last=Gaiman|first=Neil}}, illus. by [[Dave McKean]] and [[Chris Riddell]]
+|''{{sort|1=Graveyard Book|2=[[The Graveyard Book]]}}''
+|[[Bloomsbury Publishing|Bloomsbury]]
+|9+
+|Winner
+|<ref name=":2" /><ref name=":9" />
+|-
+|{{sortname|last=Anderson|first=Laurie Halse}}
+|''[[Chains (novel)|Chains]]''
+|[[Bloomsbury Publishing|Bloomsbury]]
+|11+
+|Shortlist
+|<ref name=":CILIP2010">{{Cite web |date= |title=The CILIP Carnegie Medal Shortlist for 2010 |url=http://www.carnegiegreenaway.org.uk/2010awards/carnegie_shortlist.php |url-status=dead |archive-url=https://web.archive.org/web/20151006134259/http://www.carnegiegreenaway.org.uk/2010awards/carnegie_shortlist.php |archive-date=2015-10-06 |access-date=2023-06-06 |website=The CILIP Carnegie & Kate Greenaway Children's Book Awards}}</ref><ref name=":19">{{Cite news |date=2010-04-23 |title=Gallery: Carnegie medal 2010 shortlist |language=en-GB |work=[[the Guardian]] |url=http://www.theguardian.com/books/gallery/2010/apr/23/carnegie-medal-2010-shortlist |access-date=2023-06-06 |issn=0261-3077 |archive-date=14 March 2021 |archive-url=https://web.archive.org/web/20210314192136/http://www.theguardian.com/books/gallery/2010/apr/23/carnegie-medal-2010-shortlist |url-status=live }}</ref>
+|-
+|{{sortname|last=Grant|first=Helen|dab=author}}
+|''{{sort|1=Vanishing of Katharina Linden|2=The Vanishing of Katharina Linden}}''
+|[[Penguin Books|Penguin]]
+|14+
+|Shortlist
+|<ref name=":CILIP2010" /><ref name=":19" />
+|-
+|{{sortname|last=Hearn|first=Julie}}
+|''Rowan the Strange''
+|[[Oxford University Press]]
+|12+
+|Shortlist
+|<ref name=":CILIP2010" /><ref name=":19" />
+|-
+|{{sortname|last=Ness|first=Patrick}}
+|{{sort|1=Ask and the Answer|2=''[[The Ask and the Answer]]''}}
+|[[Walker Books|Walker]]
+|14+
+|Shortlist
+|<ref name=":CILIP2010" /><ref name=":19" />
+|-
+|{{sortname|last=Pratchett|first=Terry}}
+|''[[Nation (novel)|Nation]]''
+|[[Doubleday (publisher)|Doubleday]]
+|11+
+|Shortlist
+|<ref name=":CILIP2010" /><ref name=":19" />
+|-
+|{{sortname|last=Reeve|first=Philip}}
+|''[[Fever Crumb]]''
+|[[Scholastic Corporation|Scholastic]]
+|9+
+|Shortlist
+|<ref name=":CILIP2010" /><ref name=":19" />
+|-
+|{{sortname|last=Sedgwick|first=Marcus}}
+|''[[Revolver (novel)|Revolver]]''
+|[[Orion Publishing Group|Orion]]
+|12+
+|Shortlist
+|<ref name=":CILIP2010" /><ref name=":19" />
+|- style=background:#cddeff
+! rowspan="6" |[[2011 in literature|2011]]
+|{{sortname|last=Ness|first=Patrick}}
+|''[[Monsters of Men]]''
+|[[Walker Books|Walker]]
+|14+
+|Winner
+|<ref name=":2" /><ref name=":10" />
+|-
+|{{sortname|last=Breslin|first=Theresa}}
+|''Prisoner of the Inquisition''
+|[[Doubleday (publisher)|Doubleday]]
+|12+
+|Shortlist
+|<ref name="CILIP2011">{{Cite web |date= |title=The CILIP Carnegie Medal Shortlist for 2011 |url=http://www.carnegiegreenaway.org.uk/2011awards/carnegie_shortlist.php |url-status=dead |archive-url=https://web.archive.org/web/20120529000242/http://www.carnegiegreenaway.org.uk/2011awards/carnegie_shortlist.php |archive-date=2012-05-29 |access-date=2023-06-06 |website=The CILIP Carnegie Medal}}</ref>
+|-
+|{{sortname|last=McCaughrean|first=Geraldine}}
+|''{{sort|1=Death-Defying Pepper Roux|2=[[The Death-Defying Pepper Roux]]}}''
+|[[Oxford University Press]]
+|10+
+|Shortlist
+|<ref name="CILIP2011"/>
+|-
+|{{sortname|last=Rosoff|first=Meg}}
+|''{{sort|1=Bride's Farewell|2=The Bride's Farewell}}''
+|[[Puffin Books|Puffin]]
+|12+
+|Shortlist
+|<ref name="CILIP2011"/>
+|-
+|{{sortname|last=Sedgwick|first=Marcus}}
+|''White Crow''
+|[[Orion Publishing Group|Orion]]
+|12+
+|Shortlist
+|<ref name="CILIP2011"/>
+|-
+|{{sortname|last=Wallace|first=Jason}}
+|''[[Out of Shadows]]''
+|[[Andersen Press]]
+|14+
+|Shortlist
+|<ref name="CILIP2011"/>
+|- style=background:#cddeff
+! rowspan="8" |[[2012 in literature|2012]]
+|{{sortname|last=Ness|first=Patrick}}
+|{{sort|1=Monster Calls|2=''[[A Monster Calls]]''}}
+|[[Walker Books|Walker]]
+|9+
+|Winner
+|<ref name=":2" /><ref name=":11" />
+|-
+|{{sortname|last=Almond|first=David}}
+|''[[My Name Is Mina|My Name is Mina]]''
+|[[Hodder & Stoughton|Hodder]]
+|9+
+|Shortlist
+|<ref name="CILIP2012">{{Cite web |date= |title=The CILIP Carnegie Medal Shortlist for 2012 |url=http://www.carnegiegreenaway.org.uk/2012awards/carnegie_shortlist.php |url-status=dead |archive-url=https://web.archive.org/web/20140222051027/http://www.carnegiegreenaway.org.uk/2012awards/carnegie_shortlist.php |archive-date=2014-02-22 |access-date=2023-06-06 |website=The CILIP Carnegie Medal}}</ref><ref name=":20">{{Cite news |last=Flood |first=Alison |date=2012-03-27 |title=Carnegie shortlist includes Andy Mulligan's controversial Trash |language=en-GB |work=The Guardian |url=https://www.theguardian.com/books/2012/mar/27/carnegie-medal-shortlist-andy-mulligan |access-date=2023-06-06 |issn=0261-3077 |archive-date=5 September 2019 |archive-url=https://web.archive.org/web/20190905105644/https://www.theguardian.com/books/2012/mar/27/carnegie-medal-shortlist-andy-mulligan |url-status=live }}</ref>
+|-
+|{{sortname|last=Evans|first=Lissa|nolink=1}}
+|''Small Change for Stuart''
+|[[Doubleday (publisher)|Doubleday]]
+|8+
+|Shortlist
+|<ref name="CILIP2012" /><ref name=":20" />
+|-
+|{{sortname|last=Hartnett|first=Sonya}}
+|{{sort|1=Midnight Zoo|2=''[[The Midnight Zoo]]''}}
+|[[Walker Books|Walker]]
+|9+
+|Shortlist
+|<ref name="CILIP2012" /><ref name=":20" />
+|-
+|{{sortname|last=Lewis|first=Ali}}
+|''Everybody Jam''
+|[[Andersen Press]]
+|12+
+|Shortlist
+|<ref name="CILIP2012" /><ref name=":20" />
+|-
+|{{sortname|last=Mulligan|first=Andy|dab=author}}
+|''[[Trash (novel)|Trash]]''
+|[[David Fickling Books]]
+|12+
+|Shortlist
+|<ref name="CILIP2012" /><ref name=":20" />
+|-
+|{{sortname|last=Pitcher|first=Annabel}}
+|''[[My Sister Lives on the Mantelpiece]]''
+|[[Orion Publishing Group|Orion]]
+|10+
+|Shortlist
+|<ref name="CILIP2012" /><ref name=":20" />
+|-
+|{{sortname|last=Sepetys|first=Ruta}}
+|''[[Between Shades of Gray|Between Shades of Grey]]''
+|[[Puffin Books|Puffin]]
+|12+
+|Shortlist
+|<ref name="CILIP2012" /><ref name=":20" />
+|- style=background:#cddeff
+! rowspan="8" |[[2013 in literature|2013]]
+|{{sortname|last=Gardner|first=Sally}}
+|''[[Maggot Moon]]''
+|[[Hot Key Books]]
+|11+
+|Winner
+|<ref name=":2" /><ref name=":12" />
+|-
+|{{sortname|last=Crossan|first=Sarah}}
+|''The Weight of Water''
+|[[Bloomsbury Publishing|Bloomsbury]]
+|9+
+|Shortlist
+|<ref name="CILIP2013">{{Cite web |date= |title=The CILIP Carnegie Medal Shortlist for 2013 |url=http://www.carnegiegreenaway.org.uk/2013awards/carnegie_shortlist.php |url-status=dead |archive-url=https://web.archive.org/web/20140714174528/http://www.carnegiegreenaway.org.uk/2013awards/carnegie_shortlist.php |archive-date=2014-07-14 |access-date=2023-06-06 |website=The CILIP Carnegie Medal}}</ref><ref name=":21">{{Cite news |date=2013-03-12 |title=Kate Greenaway medal 2013 shortlist - in pictures |language=en-GB |work=[[The Guardian]] |url=http://www.theguardian.com/childrens-books-site/gallery/2013/mar/12/kate-greenaway-medal-shortlist-2013-gallery |access-date=2023-06-06 |issn=0261-3077 |archive-date=26 February 2016 |archive-url=https://web.archive.org/web/20160226154851/http://www.theguardian.com/childrens-books-site/gallery/2013/mar/12/kate-greenaway-medal-shortlist-2013-gallery |url-status=live }}</ref>
+|-
+|{{sortname|last=Doyle|first=Roddy}}
+|''{{sort|1=Greyhound of a Girl|2=A Greyhound of a Girl}}''
+|Marion Lloyd Books
+|9+
+|Shortlist
+|<ref name="CILIP2013" /><ref name=":21" />
+|-
+|{{sortname|last=Lake|first=Nick}}
+|''In Darkness''
+|[[Bloomsbury Publishing|Bloomsbury]]
+|13+
+|Shortlist
+|<ref name="CILIP2013" /><ref name=":21" />
+|-
+|{{sortname|last=Palacio|first=R. J.}}
+|''[[Wonder (Palacio novel)|Wonder]]''
+|[[Bodley Head]]
+|10+
+|Shortlist
+|<ref name="CILIP2013" /><ref name=":21" />
+|-
+|{{sortname|last=Sedgwick|first=Marcus}}
+|''[[Midwinterblood]]''
+|Indigo
+|11+
+|Shortlist
+|<ref name="CILIP2013" /><ref name=":21" />
+|-
+|{{sortname|last=Shelton|first=Dave|nolink=1}}
+|''{{sort|1=Boy and a Bear in a Boat|2=A Boy and a Bear in a Boat}}''
+|[[David Fickling Books]]
+|8+
+|Shortlist
+|<ref name="CILIP2013" /><ref name=":21" />
+|-
+|{{sortname|last=Wein|first=Elizabeth}}
+|''[[Code Name Verity]]''
+|[[Electric Monkey]]
+|13+
+|Shortlist
+|<ref name="CILIP2013" /><ref name=":21" />
+|- style=background:#cddeff
+! rowspan="8" |[[2014 in literature|2014]]
+|{{sortname|last=Brooks|first=Kevin|dab=writer}}
+|''{{sort|1=Bunker Diary|2=[[The Bunker Diary]]}}{{Efn|1=The award to Brooks roused some controversy because of the bleak nature of the novel.<ref name=Guardian2014/>}}''
+|[[Puffin Books|Puffin]]
+|14+
+|Winner
+|<ref name=":2" /><ref name=":13" /><ref name="Guardian2014">{{Cite news |last=Flood |first=Alison |date=2014-06-24 |title=Carnegie medal under fire after 'vile and dangerous' Bunker Diary wins |language=en-GB |work=[[The Guardian]] |url=https://www.theguardian.com/books/2014/jun/24/carnegie-medal-the-bunker-diary-kevin-brooks |url-status=live |access-date=2023-06-06 |archive-url=https://web.archive.org/web/20170310093446/https://www.theguardian.com/books/2014/jun/24/carnegie-medal-the-bunker-diary-kevin-brooks |archive-date=10 March 2017 |issn=0261-3077 |ref=Guardian2014}}</ref>
+|-
+|{{sortname|last=Berry|first=Julie}}
+|''[[All the Truth That's in Me]]''
+|Templar
+|14+
+|Shortlist
+|<ref name="CILIP2014">{{Cite web |date= |title=The CILIP Carnegie Medal Shortlist for 2014 |url=http://www.carnegiegreenaway.org.uk/2014awards/carnegie_shortlist.php |url-status=dead |archive-url=https://web.archive.org/web/20150822212441/http://www.carnegiegreenaway.org.uk/2014awards/carnegie_shortlist.php |archive-date=2015-08-22 |access-date=2023-06-06 |website=The CILIP Carnegie Medal}}</ref><ref name=":22">{{Cite news |date=2014-03-18 |title=Carnegie medal and Kate Greenaway shortlists 2014 announced! |language=en-GB |work=[[The Guardian]] |url=https://www.theguardian.com/childrens-books-site/2014/mar/17/cilip-carnegie-medal-kate-greenaway-medal-shortlist |access-date=2023-06-06 |issn=0261-3077 |archive-date=18 February 2023 |archive-url=https://web.archive.org/web/20230218175305/https://www.theguardian.com/childrens-books-site/2014/mar/17/cilip-carnegie-medal-kate-greenaway-medal-shortlist |url-status=live }}</ref>
+|-
+|{{sortname|last=Campbell-Johnston|first=Rachel}}
+|''{{sort|1=Child's Elephant|2=The Child's Elephant}}''
+|[[David Fickling Books]]
+|11+
+|Shortlist
+|<ref name="CILIP2014" /><ref name=":22" />
+|-
+|{{sortname|last=Cooper|first=Susan}}
+|''Ghost Hawk''
+|[[Bodley Head]]
+|11+
+|Shortlist
+|<ref name="CILIP2014" /><ref name=":22" />
+|-
+|{{sortname|last=Fine|first=Anne}}
+|''Blood Family''
+|[[Doubleday (publisher)|Doubleday]]
+|14+
+|Shortlist
+|<ref name="CILIP2014" /><ref name=":22" />
+|-
+|{{sortname|last=Rundell|first=Katherine}}
+|''Rooftoppers''
+|[[Faber & Faber]]
+|11+
+|Shortlist
+|<ref name="CILIP2014" /><ref name=":22" />
+|-
+|{{sortname|last=Stead|first=Rebecca}}
+|''[[Liar & Spy]]''
+|[[Andersen Press]]
+|9+
+|Shortlist
+|<ref name="CILIP2014" /><ref name=":22" />
+|-
+|{{sortname|last=Sutcliffe|first=William}}
+|''The Wall''
+|[[Bloomsbury Publishing|Bloomsbury]]
+|11+
+|Shortlist
+|<ref name="CILIP2014" /><ref name=":22" />
+|- style=background:#cddeff
+! rowspan="8" |[[2015 in literature|2015]]
+|{{sortname|last=Landman|first=Tanya}}
+|''Buffalo Soldier''
+|[[Walker Books|Walker]]
+|14+
+|Winner
+|<ref name=":2" /><ref name=":14" />
+|-
+|{{sortname|last=Conaghan|first=Brian}}
+|''When Mr Dog Bites''
+|[[Bloomsbury Publishing|Bloomsbury]]
+|14+
+|Shortlist
+|<ref name="CILIP2015">{{Cite web |date= |title=The CILIP Carnegie Medal Shortlist for 2015 |url=http://www.carnegiegreenaway.org.uk/2015awards/carnegie_shortlist.php |url-status=dead |archive-url=https://web.archive.org/web/20160405005033/http://www.carnegiegreenaway.org.uk/2015awards/carnegie_shortlist.php |archive-date=2016-04-05 |access-date=2023-06-06 |website=The CILIP Carnegie Medal}}</ref><ref name=":23">{{Cite news |last=Drabble |first=Emily |date=2015-03-17 |title=Carnegie medal and Kate Greenaway 2015 shortlists announced |language=en-GB |work=The Guardian |url=https://www.theguardian.com/childrens-books-site/2015/mar/17/carnegie-medal-and-kate-greenaway-2015-shortlists-announced |access-date=2023-06-06 |issn=0261-3077 |archive-date=22 January 2023 |archive-url=https://web.archive.org/web/20230122122714/https://www.theguardian.com/childrens-books-site/2015/mar/17/carnegie-medal-and-kate-greenaway-2015-shortlists-announced |url-status=live }}</ref>
+|-
+|{{sortname|last=Crossan|first=Sarah}}
+|''Apple and Rain''
+|[[Bloomsbury Publishing|Bloomsbury]]
+|11+
+|Shortlist
+|<ref name="CILIP2015" /><ref name=":23" />
+|-
+|{{sortname|last=Gardner|first=Sally}}
+|''Tinder''
+|[[Orion Publishing Group|Orion]]
+|11+
+|Shortlist
+|<ref name="CILIP2015" /><ref name=":23" />
+|-
+|{{sortname|last=Hardinge|first=Frances}}
+|''[[Cuckoo Song (novel)|Cuckoo Song]]''
+|[[Macmillan Publishers|Macmillan]]
+|11+
+|Shortlist
+|<ref name="CILIP2015" /><ref name=":23" />
+|-
+|{{sortname|last=Laird|first=Elizabeth|dab=author}}
+|''{{sort|1=Fastest Boy in the World|2=The Fastest Boy in the World}}''
+|[[Macmillan Publishers|Macmillan]]
+|9+
+|Shortlist
+|<ref name="CILIP2015" /><ref name=":23" />
+|-
+|{{sortname|last=McCaughrean|first=Geraldine}}
+|''{{sort|1=Middle of Nowhere|2=The Middle of Nowhere}}''
+|[[Usborne Publishing|Usborne]]
+|11+
+|Shortlist
+|<ref name="CILIP2015" /><ref name=":23" />
+|-
+|{{sortname|last=Ness|first=Patrick}}
+|''[[More Than This (novel)|More Than This]]''
+|[[Walker Books|Walker]]
+|14+
+|Shortlist
+|<ref name="CILIP2015" /><ref name=":23" />
+|- style=background:#cddeff
+! rowspan="8" |[[2016 in literature|2016]]
+|{{sortname|last=Crossan|first=Sarah}}
+|''[[One (Crossan novel)|One]]''
+|[[Bloomsbury Publishing|Bloomsbury]]
+|
+|Winner
+|<ref name=":15" />
+|-
+|{{sortname|last=Hardinge|first=Frances}}
+|{{sort|1=Lie Tree|2=''[[The Lie Tree]]''}}
+|[[Macmillan Publishers|Macmillan]]
+|
+|Shortlist
+|<ref name="FourGiants">{{Cite web |date=2016-03-15 |title=Four Giants of "A Gold Age of Children's Books" Look for a Record Third Medal Win in CILIP Carnegie & Kate Greenaway Shortlists |url=https://www.carnegiegreenaway.org.uk/press.php?release=pres_2016_short_announce.html |url-status=dead |archive-url=https://web.archive.org/web/20160528162107/https://www.carnegiegreenaway.org.uk/press.php?release=pres_2016_short_announce.html |archive-date=2016-05-28 |access-date=2023-06-06 |website=The CILIP Carnegie and Kate Greenaway Awards}}</ref><ref name=":24">{{Cite news |last=Waddell |first=Lily |date=2016-03-15 |title=Carnegie medal and Kate Greenaway shortlists 2016 announced |language=en-GB |work=[[The Guardian]] |url=https://www.theguardian.com/childrens-books-site/2016/mar/15/carnegie-medal-kate-greenaway-shortlists-2016 |access-date=2023-06-06 |issn=0261-3077 |archive-date=7 May 2023 |archive-url=https://web.archive.org/web/20230507125322/https://www.theguardian.com/childrens-books-site/2016/mar/15/carnegie-medal-kate-greenaway-shortlists-2016 |url-status=live }}</ref>
+|-
+|{{sortname|last=Lake|first=Nick}}
+|''There Will Be Lies''
+|[[Bloomsbury Publishing|Bloomsbury]]
+|
+|Shortlist
+|<ref name="FourGiants" /><ref name=":24" />
+|-
+|{{sortname|last=Ness|first=Patrick}}
+|{{Sort|Rest of Us Just Live Here|''The Rest of Us Just Live Here''}}
+|[[Walker Books|Walker]]
+|
+|Shortlist
+|<ref name="FourGiants" /><ref name=":24" />
+|-
+|{{sortname|last=Saunders|first=Kate}}
+|''Five Children on the Western Front''
+|[[Faber & Faber]]
+|
+|Shortlist
+|<ref name="FourGiants" /><ref name=":24" />
+|-
+|{{sortname|last=Sedgwick|first=Marcus}}
+|{{sort|1=Ghosts of Heaven|2=''[[The Ghosts of Heaven]]''}}
+|Indigo
+|
+|Shortlist
+|<ref name="FourGiants" /><ref name=":24" />
+|-
+|{{sortname|last=Talley|first=Robin}}
+|''Lies We Tell Ourselves''
+|[[HarperCollins]]
+|
+|Shortlist
+|<ref name="FourGiants" /><ref name=":24" />
+|-
+|{{sortname|last=Valentine|first=Jenny}}
+|''Fire Colour One''
+|[[HarperCollins]]
+|
+|Shortlist
+|<ref name="FourGiants" /><ref name=":24" />
+|- style=background:#cddeff
+! rowspan="8" |[[2017 in literature|2017]]
+|{{sortname|last=Sepetys|first=Ruta}}
+|''[[Salt to the Sea]]''
+|[[Puffin Books|Puffin]]
+|
+|Winner
+|<ref name=Carnegie2017>{{Cite web |date= |title=First Double American Win for the CILIP Carnegie and Kate Greenaway Medals |url=http://www.carnegiegreenaway.org.uk/press.php?release=pres_2017_winners_announcement.html |url-status=dead |archive-url=https://web.archive.org/web/20181120095515/http://www.carnegiegreenaway.org.uk/press.php?release=pres_2017_winners_announcement.html |archive-date=2018-11-20 |access-date=2023-06-06 |website=The CILIP Carnegie and Kate Greenaway Awards}}</ref><ref>{{Cite news |last=Kean |first=Danuta |date=2017-06-19 |title=Carnegie and Kate Greenaway medals: US double in children's book awards |language=en-GB |work=[[The Guardian]] |url=https://www.theguardian.com/books/2017/jun/19/carnegie-and-kate-greenaway-medals-childrens-books-awards-rutas-sepetys-lane-smith |access-date=2023-06-06 |issn=0261-3077 |archive-date=21 June 2017 |archive-url=https://web.archive.org/web/20170621205209/https://www.theguardian.com/books/2017/jun/19/carnegie-and-kate-greenaway-medals-childrens-books-awards-rutas-sepetys-lane-smith |url-status=live }}</ref>
+|-
+|{{sortname|last=Cottrell-Boyce|first=Frank}}
+|''Sputnik's Guide to Life on Earth''
+|[[Pan Books|Pan Macmillan]]
+|
+|Shortlist
+|<ref name="CILIP2017">{{Cite web |date= |title=Shortlists for 2017 CILIP Carnegie and Kate Greenaway Medals Announced |url=http://www.carnegiegreenaway.org.uk/press.php?release=pres_2017_shortlists_announced.html |url-status=dead |archive-url=https://web.archive.org/web/20180928201036/http://www.carnegiegreenaway.org.uk/press.php?release=pres_2017_shortlists_announced.html |archive-date=2018-09-28 |access-date=2023-06-06 |website=The CILIP Carnegie and Kate Greenaway Awards}}</ref><ref name=":25">{{Cite news |last=Cain |first=Sian |date=2017-03-16 |title=Mal Peet in line for posthumous win as Carnegie shortlist announced |language=en-GB |work=[[The Guardian]] |url=https://www.theguardian.com/books/2017/mar/16/carnegie-kate-greenaway-shortlist-possible-posthumous-win-mal-peet-chris-riddell |access-date=2023-06-06 |issn=0261-3077 |archive-date=12 February 2023 |archive-url=https://web.archive.org/web/20230212115508/https://www.theguardian.com/books/2017/mar/16/carnegie-kate-greenaway-shortlist-possible-posthumous-win-mal-peet-chris-riddell |url-status=live }}</ref>
+|-
+|{{sortname|last=Fraillon|first=Zana}}
+|''{{sort|1=Bone Sparrow|2=The Bone Sparrow}}''{{Efn|The Bone Sparrow received an Amnesty CILIP Honour commendation.<ref name=Carnegie2017/>}}
+|[[Orion Publishing Group|Orion Children's Books]]
+|
+|Shortlist
+|<ref name="CILIP2017" /><ref name=":25" />
+|-
+|{{sortname|last=Hitchcock|first=Bonnie-Sue}}
+|''{{sort|1=Smell of Other People's Houses|2=The Smell of Other People's Houses}}''
+|[[Faber & Faber]]
+|
+|Shortlist
+|<ref name="CILIP2017" /><ref name=":25" />
+|-
+|{{sortname|last=Millard|first=Glenda}}
+|''{{sort|1=Stars at Oktober Bend|2=The Stars at Oktober Bend}}''
+|Old Barn Books
+|
+|Shortlist
+|<ref name="CILIP2017" /><ref name=":25" />
+|-
+|{{sortname|last=Peet|first=Mal}} and [[Meg Rosoff]]
+|''Beck''
+|[[Walker Books|Walker]]
+|
+|Shortlist
+|<ref name="CILIP2017" /><ref name=":25" />
+|-
+|{{sortname|last=Reeve|first=Philip}}
+|''Railhead''
+|[[Oxford University Press]]
+|
+|Shortlist
+|<ref name="CILIP2017" /><ref name=":25" />
+|-
+|{{sortname|last=Wolk|first=Lauren}}
+|''[[Wolf Hollow (novel)|Wolf Hollow]]''
+|[[Corgi Books|Corgi]]
+|
+|Shortlist
+|<ref name="CILIP2017" /><ref name=":25" />
+|- style=background:#cddeff
+! rowspan="8" |[[2018 in literature|2018]]
+|{{sortname|last=McCaughrean|first=Geraldine}}, illus. by [[Jane Milloy]]
+|''[[Where the World Ends]]''
+|[[Usborne Publishing|Usborne]]
+|
+|Winner
+|<ref name="Yoto2018">{{Cite web |title=Geraldine McCaughrean scoops second CILIP Carnegie Medal 30 years after first win and champions triumph of 'literary' fiction |url=https://yotocarnegies.co.uk/geraldine-mccaughrean-scoops-second-cilip-carnegie-medal-30-years-after-first-win-and-champions-triumph-of-literary-fiction/ |access-date=2023-06-06 |website=[[The Yoto Carnegies]] |language=en-GB}}</ref><ref>{{Cite news |last=Flood |first=Alison |date=2018-06-18 |title=Carnegie medal winner slams children's book publishers for 'accessible' prose |language=en-GB |work=[[The Guardian]] |url=https://www.theguardian.com/books/2018/jun/18/carnegie-medal-winner-slams-publishers-easy-reading-geraldine-mccaughrean |access-date=2023-06-06 |issn=0261-3077 |archive-date=19 March 2023 |archive-url=https://web.archive.org/web/20230319171105/https://www.theguardian.com/books/2018/jun/18/carnegie-medal-winner-slams-publishers-easy-reading-geraldine-mccaughrean |url-status=live }}</ref>
+|-
+|{{sortname|last=Evans|first=Lissa|nolink=1}}
+|''Wed Wabbit''
+|[[David Fickling Books]]
+|
+|Shortlist
+|<ref name="CILIP2018">{{Cite web |title=Shortlists for 2018 CILIP Carnegie and Kate Greenaway Medals Announced |url=https://yotocarnegies.co.uk/shortlists-for-2018-cilip-carnegie-and-kate-greenaway-medals-announced/ |url-status=live |archive-url=https://web.archive.org/web/20230408030420/https://yotocarnegies.co.uk/shortlists-for-2018-cilip-carnegie-and-kate-greenaway-medals-announced/ |archive-date=8 April 2023 |access-date=2023-06-06 |website=[[The Yoto Carnegies]] |language=en-GB}}</ref><ref name=":26">{{Cite news |last=Flood |first=Alison |date=2018-03-15 |title=Patrick Ness could land first ever Carnegie medal hat-trick |language=en-GB |work=[[The Guardian]] |url=https://www.theguardian.com/books/2018/mar/15/patrick-ness-carnegie-medal-hat-trick-angie-thomas |access-date=2023-06-06 |issn=0261-3077 |archive-date=17 October 2018 |archive-url=https://web.archive.org/web/20181017123659/https://www.theguardian.com/books/2018/mar/15/patrick-ness-carnegie-medal-hat-trick-angie-thomas |url-status=live }}</ref>
+|-
+|{{sortname|last=Hill|first=Will|nolink=1}}
+|''After the Fire''
+|[[Usborne Publishing|Usborne]]
+|
+|Shortlist
+|<ref name="CILIP2018" /><ref name=":26" />
+|-
+|{{sortname|last=McGowan|first=Anthony}}
+|''Rook''
+|[[Barrington Stoke]]
+|
+|Shortlist
+|<ref name="CILIP2018" /><ref name=":26" />
+|-
+|{{sortname|last=Ness|first=Patrick}}
+|''Release''
+|[[Walker Books|Walker]]
+|
+|Shortlist
+|<ref name="CILIP2018" /><ref name=":26" />
+|-
+|{{sortname|last=Sedgwick|first=Marcus}}
+|''Saint Death''
+|[[Orion Publishing Group|Orion]]
+|
+|Shortlist
+|<ref name="CILIP2018" /><ref name=":26" />
+|-
+|{{sortname|last=Thomas|first=Angie}}
+|{{sort|1=Hate U Give|2=''[[The Hate U Give]]''}}{{Efn|1=The Hate U Give received an Amnesty CILIP Honour commendation.<ref name=Yoto2018/>}}
+|[[Walker Books|Walker]]
+|
+|Shortlist
+|<ref name="CILIP2018" /><ref name=":26" />
+|-
+|{{sortname|last=Wolk|first=Lauren}}
+|''[[Beyond the Bright Sea]]''
+|[[Corgi Books|Corgi]]
+|
+|Shortlist
+|<ref name="CILIP2018" /><ref name=":26" />
+|- style=background:#cddeff
+! rowspan="8" |[[2019 in literature|2019]]
+|{{sortname|last=Acevedo|first=Elizabeth}}
+|{{sort|1=Poet X|2=''[[The Poet X]]''}}
+|[[HarperTeen|Harper Teen]]
+|
+|Winner and Shadowers' Choice Winner
+|<ref name=":0" /><ref name=shadow-list />
+|-
+|{{sortname|last=Alexander|first=Kwame}}, illus. by [[Dawud Anyabwile]]
+|''Rebound''
+|[[Andersen Press]]
+|
+|Shortlist
+|<ref name="Carnegie2019">{{Cite web |last= |date=2019-03-20 |title=2019 Carnegie and Kate Greenaway medals shortlists announced |url=https://www.booksandpublishing.com.au/articles/2019/03/20/130168/2019-carnegie-and-kate-greenaway-medals-shortlists-announced/ |access-date=2023-06-06 |website=[[Books+Publishing]] |language=en-AU |archive-date=26 March 2019 |archive-url=https://web.archive.org/web/20190326042153/https://www.booksandpublishing.com.au/articles/2019/03/20/130168/2019-carnegie-and-kate-greenaway-medals-shortlists-announced/ |url-status=live }}</ref><ref name=":27">{{Cite news |last=Flood |first=Alison |date=2019-03-19 |title=Carnegie medal shortlist celebrates novels in free verse |language=en-GB |work=[[The Guardian]] |url=https://www.theguardian.com/books/2019/mar/19/carnegie-medal-shortlist-celebrates-novels-in-free-verse |access-date=2023-06-06 |issn=0261-3077 |archive-date=3 June 2019 |archive-url=https://web.archive.org/web/20190603152041/https://www.theguardian.com/books/2019/mar/19/carnegie-medal-shortlist-celebrates-novels-in-free-verse |url-status=live }}</ref>
+|-
+|{{sortname|last=Anderson|first=Sophie|link=Sophie Anderson (author)}}, illus. by [[Elisa Paganelli]]
+|''{{sort|1=House with Chicken Legs|2=[[The House with Chicken Legs]]}}''
+|[[Usborne Publishing|Usborne]]
+|
+|Shortlist
+|<ref name="Carnegie2019" /><ref name=":27" />
+|-
+|{{sortname|last=Gourlay|first=Candy}}
+|''Bone Talk''
+|[[David Fickling Books]]
+|
+|Shortlist
+|<ref name="Carnegie2019" /><ref name=":27" />
+|-
+|{{sortname|last=Hardinge|first=Frances}}
+|{{sort|1=Skinful of Shadows|2=''[[A Skinful of Shadows]]''}}
+|[[Macmillan Children's Books]]
+|
+|Shortlist
+|<ref name="Carnegie2019" /><ref name=":27" />
+|-
+|{{sortname|last=Nicholls|first=Sally}}
+|''Things a Bright Girl Can Do''
+|[[Andersen Press]]
+|
+|Shortlist
+|<ref name="Carnegie2019" /><ref name=":27" />
+|-
+|{{sortname|last=Reynolds|first=Jason}}
+|''[[Long Way Down (book)|Long Way Down]]''
+|[[Faber & Faber|Faber Child]]
+|
+|Shortlist
+|<ref name="Carnegie2019"/><ref name=":27" />
+|-
+|{{sortname|last=Saunders|first=Kate}}
+|''{{sort|1=Land of Neverendings|2=The Land of Neverendings}}''
+|[[Faber & Faber|Faber Child]]
+|
+|Shortlist
+|<ref name="Carnegie2019" /><ref name=":27" />
+|}
+
+=== 2020s ===
+{| class="wikitable sortable mw-collapsible"
+|+Medal winners and Shortlists, 2020-2029
+!Year
+!Author
+!Title
+!Publisher
+!Result
+!Ref.
+|- style="background:#cddeff"
+! rowspan="8" |[[2020 in literature|2020]]
+|{{sortname|last=McGowan|first=Anthony}}
+|''Lark''
+|[[Barrington Stoke]]
+|Winner
+|<ref>{{Cite web |last=Cowdrey |first=Katherine |date=2020-06-17 |title=McGowan and Tan awarded CILIP Carnegie and Kate Greenaway Medals |url=https://www.thebookseller.com/news/mcgowan-and-tan-awarded-cilip-carnegie-and-kate-greenaway-medals-1207135 |access-date=2023-06-06 |website=The Bookseller |language=En |archive-date=18 June 2020 |archive-url=https://web.archive.org/web/20200618010330/https://www.thebookseller.com/news/mcgowan-and-tan-awarded-cilip-carnegie-and-kate-greenaway-medals-1207135 |url-status=live }}</ref>
+|-style="background:LemonChiffon"
+|{{sortname|last=Atta|first=Dean}}, illus. by [[Anshika Khullar]] 
+|{{sort|1=Black Flamingo|2=''[[The Black Flamingo]]''}}
+|[[Hachette (publisher)|Hachette Children's Group]]
+|Shortlist and Shadowers' Choice Winner
+|<ref name="CILIP2020">{{Cite web |date=2020-03-19 |title=Shortlists for 2020 CILIP Carnegie and Kate Greenaway Medals Announced |url=https://yotocarnegies.co.uk/shortlists-for-2020-cilip-carnegie-and-kate-greenaway-medals-announced/ |access-date=2023-06-06 |website=[[The Yoto Carnegies]] |language=en-GB |archive-date=1 October 2022 |archive-url=https://web.archive.org/web/20221001200626/https://yotocarnegies.co.uk/shortlists-for-2020-cilip-carnegie-and-kate-greenaway-medals-announced/ |url-status=live }}</ref><ref name=shadow-list />
+|-
+|{{sortname|last=Lake|first=Nick}}
+|''Nowhere on Earth''
+|[[Hachette (publisher)|Hachette Children's Group]]
+|Shortlist
+|<ref name="CILIP2020"/>
+|-
+|{{sortname|last=Ribay|first=Randy}}
+|''Patron Saints of Nothing''
+|[[Little Tiger Press|Little Tiger]]
+|Shortlist
+|<ref name="CILIP2020"/>
+|-
+|{{sortname|last=Schaap|first=Annet}}, trans. by [[Laura Watkinson]] 
+|''Lampie''
+|[[Pushkin Children’s Books|Pushkin Children's Books]]
+|Shortlist
+|<ref name="CILIP2020"/>
+|-
+|{{sortname|last=Sedgwick|first=Marcus}} and [[Julian Sedgwick]],  illus. by [[Alexis Deacon]] 
+|''Voyages in the Underworld of Orpheus Black''
+|[[Walker Books|Walker]]
+|Shortlist
+|<ref name="CILIP2020"/>
+|-
+|{{sortname|last=Thomas|first=Angie}}
+|''[[On the Come Up]]''
+|[[Walker Books|Walker]]
+|Shortlist
+|<ref name="CILIP2020"/>
+|-
+|{{sortname|last=Vick|first=Chris|nolink=1}}
+|''Girl. Boy. Sea.''
+|[[Head of Zeus]]
+|Shortlist
+|<ref name="CILIP2020"/>
+|- style="background:#cddeff"
+! rowspan="8" |[[2021 in literature|2021]]
+|{{sortname|last=Reynolds|first=Jason}}
+|''[[Look Both Ways (novel)|Look Both Ways]]''
+|[[Knights Of]]
+|Winner
+|<ref name=":3" /><ref>{{Cite web |last= |date=2021-06-17 |title=Reynolds, Smith win 2021 Carnegie, Greenaway medals |url=https://www.booksandpublishing.com.au/articles/2021/06/17/188171/reynolds-smith-win-2021-carnegie-greenaway-medals/ |access-date=2023-06-06 |website=[[Books+Publishing]] |language=en-AU |archive-date=17 June 2021 |archive-url=https://web.archive.org/web/20210617023606/https://www.booksandpublishing.com.au/articles/2021/06/17/188171/reynolds-smith-win-2021-carnegie-greenaway-medals/ |url-status=live }}</ref>
+|- style="background:LemonChiffon"
+|{{sortname|last=Mann|first=Manjeet}}
+|''Run, Rebel''
+|[[Penguin Books|Penguin]]
+|Shortlist and Shadowers' Choice Winner
+|<ref name="BooksPublishing2021" /><ref name=":28" /><ref name=shadow-list />
+|-
+|{{sortname|last=Acevedo|first=Elizabeth}}
+|''[[Clap When You Land]]''
+|[[Hot Key Books]]
+|Shortlist
+|<ref name="BooksPublishing2021">{{Cite web |last= |date=2021-03-19 |title=Greenaway, Carnegie Medal shortlists announced |url=https://www.booksandpublishing.com.au/articles/2021/03/19/182561/greenaway-carnegie-medal-shortlists-announced/ |access-date=2023-06-06 |website=[[Books+Publishing]] |language=en-AU |archive-date=19 March 2021 |archive-url=https://web.archive.org/web/20210319004306/https://www.booksandpublishing.com.au/articles/2021/03/19/182561/greenaway-carnegie-medal-shortlists-announced/ |url-status=live }}</ref><ref name=":28">{{Cite news |last=Flood |first=Alison |date=2021-03-18 |title=Shortlist for Carnegie medal offers locked-down children 'hope and escapism' |language=en-GB |work=[[The Guardian]] |url=https://www.theguardian.com/books/2021/mar/18/shortlist-carnegie-medal-offers-children-escapism-kate-greenaway-medal-illustration |access-date=2023-06-06 |issn=0261-3077 |archive-date=19 March 2023 |archive-url=https://web.archive.org/web/20230319171106/https://www.theguardian.com/books/2021/mar/18/shortlist-carnegie-medal-offers-children-escapism-kate-greenaway-medal-illustration |url-status=live }}</ref>
+|-
+|{{sortname|last=Anderson|first=Sophie|nolink=1}},  illus. by [[Kathrin Honesta]] 
+|''{{sort|1=Girl Who Speaks Bear|2=The Girl Who Speaks Bear}}''
+|[[Usborne Publishing|Usborne]]
+|Shortlist
+|<ref name="BooksPublishing2021" /><ref name=":28" />
+|-
+|{{sortname|last=Coelho|first=Joseph}},  illus. by [[Kate Milner]] 
+|''{{sort|1=Girl Who Became A Tree|2=The Girl Who Became A Tree}}''
+|Otter-Barry Books
+|Shortlist
+|<ref name="BooksPublishing2021" /><ref name=":28" />
+|-
+|{{sortname|last=Fitzpatrick|first=Marie-Louise}}
+|''On Midnight Beach''
+|[[Faber & Faber]]
+|Shortlist
+|<ref name="BooksPublishing2021" /><ref name=":28" />
+|-
+|{{sortname|last=Sepetys|first=Ruta}}
+|''{{sort|1=Fountains of Silence|2=The Fountains of Silence}}''
+|[[Penguin Books|Penguin]]
+|Shortlist
+|<ref name="BooksPublishing2021" /><ref name=":28" />
+|-
+|{{sortname|last=Wolk|first=Lauren}}
+|''Echo Mountain''
+|[[Penguin Books|Penguin]]
+|Shortlist
+|<ref name="BooksPublishing2021" /><ref name=":28" />
+|- style="background:#cddeff"
+! rowspan="8" |[[2022 in literature|2022]]
+|{{sortname|last=Balen|first=Katya}},  illus. by [[Angela Harding]] 
+|''[[October, October]]''
+|[[Bloomsbury Publishing|Bloomsbury]]
+|Winner and Shadowers' Choice Winner
+|<ref name=":4" /><ref name=shadow-list />
+|-
+|{{sortname|last=Divin|first=Sue}}
+|''Guard Your Heart''
+|[[Pan Macmillan]]
+|Shortlist
+|<ref name="CILIP2022">{{Cite web |date=2022-03-16 |title=The CILIP Carnegie & Kate Greenaway Medals shortlists 2022 |url=https://www.readings.com.au/news/the-cilip-carnegie-and-kate-greenaway-medals-shortlists-2022 |access-date=2023-06-06 |website=Readings Books |language=en |archive-date=17 March 2022 |archive-url=https://web.archive.org/web/20220317044222/https://www.readings.com.au/news/the-cilip-carnegie-and-kate-greenaway-medals-shortlists-2022 |url-status=live }}</ref><ref name=":29">{{Cite news |last=Knight |first=Lucy |date=2022-03-16 |title=Carnegie medal shortlist spotlights real-life stories of friendship in challenging times |language=en-GB |work=[[The Guardian]] |url=https://www.theguardian.com/books/2022/mar/16/carnegie-medal-prize-shortlist |access-date=2023-06-06 |issn=0261-3077 |archive-date=29 March 2023 |archive-url=https://web.archive.org/web/20230329050645/https://www.theguardian.com/books/2022/mar/16/carnegie-medal-prize-shortlist |url-status=live }}</ref>
+|-
+|{{sortname|last=Earle|first=Phil}}
+|''When the Sky Falls''
+|[[Andersen Press]]
+|Shortlist
+|<ref name="CILIP2022" /><ref name=":29" />
+|-
+|{{sortname|last=Hitchcock|first=Bonnie-Sue}}
+|''Everyone Dies Famous in a Small Town''
+|[[Faber & Faber]]
+|Shortlist
+|<ref name="CILIP2022" /><ref name=":29" />
+|-
+|{{sortname|last=Mann|first=Manjeet}}
+|{{sort|1=Crossing|2=''The Crossing''}}
+|[[Penguin Books|Penguin]]
+|Shortlist
+|<ref name="CILIP2022" /><ref name=":29" />
+|-
+|{{sortname|last=Sedgwick|first=Julian}},  illus. by [[Chie Kutsuwada]] 
+|''Tsunami Girl''
+|Guppy Publishing
+|Shortlist
+|<ref name="CILIP2022" /><ref name=":29" />
+|-
+|{{sortname|last=Wheatle|first=Alex}}
+|''Cane Warriors''
+|[[Andersen Press]]
+|Shortlist
+|<ref name="CILIP2022" /><ref name=":29" />
+|-
+|{{sortname|last=Zoboi|first=Ibi}} and [[Yusef Salaam]]
+|''[[Punching the Air]]''
+|[[HarperCollins]]
+|Shortlist
+|<ref name="CILIP2022" /><ref name=":29" />
+|- style="background:#cddeff"
+! rowspan="7" |[[2023 in literature|2023]]
+|{{Sortname|Manon Steffan|Ros}}
+|{{Sort|Blue Book of Nebo|''The Blue Book of Nebo''}}
+|Firefly Press
+|Winner
+|<ref>{{Cite web |date=2023-06-22 |title=Ros, Zdung win Yoto Carnegie medals |url=https://www.booksandpublishing.com.au/articles/2023/06/22/232914/ros-zdung-win-yoto-carnegie-medals/ |access-date=2023-06-29 |publisher=Books+Publishing}}</ref>
+|- style="background:LemonChiffon"
+|{{Sortname|Ruta|Sepetys}}
+|''I Must Betray You''
+|[[Hodder Children's Books]]
+|Shortlist and Shadowers' Choice Winner
+|<ref name=":1" /><ref name=":30" /><ref name=shadow-list />
+|-
+|{{sortname|last=Balen|first=Katya}}
+|{{Sort|Light in Everything|''The Light in Everything''}}
+|[[Bloomsbury Children’s Books]]
+|Shortlist
+|<ref name=":1">{{Cite web |title=The Yoto Carnegie Medal for Writing Shortlist 2023 |url=https://yotocarnegies.co.uk/writing-shortlist-2023/ |access-date=2023-06-06 |website=The Yoto Carnegies |language=en-GB |archive-date=8 April 2023 |archive-url=https://web.archive.org/web/20230408030849/https://yotocarnegies.co.uk/writing-shortlist-2023/ |url-status=live }}</ref><ref name=":30">{{Cite news |last=Shaffi |first=Sarah |date=2023-03-17 |title=Carnegie medal for writing announces all-female shortlist |language=en-GB |work=[[The Guardian]] |url=https://www.theguardian.com/books/2023/mar/17/carnegie-medal-for-writing-announces-all-female-shortlist |access-date=2023-06-06 |issn=0261-3077 |archive-date=25 May 2023 |archive-url=https://web.archive.org/web/20230525003208/https://www.theguardian.com/books/2023/mar/17/carnegie-medal-for-writing-announces-all-female-shortlist |url-status=live }}</ref>
+|-
+|{{Sortname|Sita|Brahmachari}}
+|''When Shadows Fall''
+|[[Little Tiger Press|Little Tiger]]
+|Shortlist
+|<ref name=":1" /><ref name=":30" />
+|-
+|{{Sortname|Jessie|Burton}}
+|''Medusa''
+|[[Bloomsbury Children’s Books]]
+|Shortlist
+|<ref name=":1" /><ref name=":30" />
+|-
+|{{Sortname|Louise|Finch}}
+|{{Sort|Eternal Return of Clara Hart|''The Eternal Return of Clara Hart''}}
+|Little Island
+|Shortlist
+|<ref name=":1" /><ref name=":30" />
+|-
+|{{Sortname|Patrice|Lawrence}}
+|''Needle''
+|[[Barrington Stoke]]
+|Shortlist
+|<ref name=":1" /><ref name=":30" />
+|- style="background:#cddeff"
+! rowspan="8" |[[2024 in literature|2024]]
+|{{Sortname|Joseph|Coelho}}, illus. by Kate Milner 
+|''[[The Boy Lost in the Maze]]''
+|Otter-Barry Books
+|Winner
+|<ref name=":5" /><ref name=":31" />
+|-style="background:LemonChiffon"
+|{{Sortname|Tia|Fisher}}
+|''Crossing the Line''
+|[[Bonnier Group|Bonnier]]
+|Shortlist and Shadowers' Choice Winner
+|<ref name=":5" /><ref name=":31" /><ref name=shadow-list />
+|-
+|{{Sortname|Kwame|Alexander}}
+|''The Door of No Return''
+|[[Andersen Press|Andersen]]
+|Shortlist
+|<ref name=":5">{{Cite news |last=Creamer |first=Ella |date=2024-03-13 |title=Carnegie medal for children's books shortlist announced |url=https://www.theguardian.com/books/2024/mar/13/carnegie-medal-for-childrens-books-shortlist-announced |access-date=2024-03-13 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref><ref name=":31">{{Cite news |last=Jones |first=Nicolette |date=2024-03-13 |title=Who will win the Carnegie, the most prestigious prize for children's stories? |newspaper=[[The Times]] |url=https://www.thetimes.com/culture/books/article/who-will-win-the-carnegie-the-most-prestigious-prize-for-childrens-stories-c7h879lbg |access-date=2024-03-13 |language=en |issn=0140-0460}}</ref>
+|-
+|{{Sortname|Zillah|Bethell}}
+|''The Song Walker''
+|[[Usborne Publishing|Usborne]]
+|Shortlist
+|<ref name=":5" /><ref name=":31" />
+|-
+|{{Sortname|Sophie|Cameron}}
+|''Away with Words''
+|[[Little Tiger Press|Little Tiger]]
+|Shortlist
+|<ref name=":5" /><ref name=":31" />
+|-
+|{{Sortname|Nicola|Davies|dab=author}}, illus. by Petr Horáček
+|''Choose Love''
+|Graffeg
+|Shortlist
+|<ref name=":5" /><ref name=":31" />
+|-
+|{{Sortname|Hiba Noor|Khan}}
+|''Safiyyah's War''
+|[[Andersen Press|Andersen]]
+|Shortlist
+|<ref name=":5" /><ref name=":31" />
+|-
+|{{Sortname|Nathanael|Lessore}}
+|''Steady for This''
+|[[Bonnier Group|Bonnier]]
+|Shortlist
+|<ref name=":5" /><ref name=":31" />
+|- style="background:#cddeff"
+! rowspan="8" |[[2025 in literature|2025]]
+|{{Sortname|Margaret|McDonald|nolink=1}}
+|''[[Glasgow Boys (novel)|Glasgow Boys]]''
+|Faber Children's
+|Winner
+|<ref>{{Cite web |date=2025-06-23 |title=McDonald, Gill win Carnegie medals |url=https://www.booksandpublishing.com.au/articles/2025/06/23/274498/mcdonald-gill-lessore-parish-win-carnegie-medals/ |access-date=2025-06-24 |publisher=Books+Publishing}}</ref><ref name=":32">{{Cite web |date=2025-03-12 |title=Carnegie 2025 shortlists announced |url=https://www.booksandpublishing.com.au/articles/2025/03/12/267848/carnegie-2025-shortlists-announced/ |access-date=2025-03-16 |publisher=Books+Publishing}}</ref>
+|-style="background:LemonChiffon"
+|{{Sortname|Nathanael|Lessore}}
+|''King of Nothing''
+|Bonnier
+|Shortlist and Shadowers' Choice Winner
+|<ref name=":32"/><ref name=shadow-list />
+|-
+|{{Sortname|Brian|Conaghan}}
+|''Treacle Town''
+|Andersen Press
+| rowspan="6" |Shortlist
+| rowspan="6" |<ref name=":32" />
+|-
+|{{Sortname|Claire|Furniss}}
+|''The Things We Leave Behind''
+|Simon & Schuster
+|-
+|{{Sortname|Matt|Goodfellow}}, illus. by Joe Todd-Stanton
+|''The Final Year''
+|Otter-Barry Books
+
+|-
+|{{Sortname|Kelly|McCaughrain}}
+|''Little Bang''
+|Walker
+|-
+|{{Sortname|Blessing|Musariri}}
+|''All That It Ever Meant''
+|Zephyr
+|-
+|{{Sortname|Luke|Palmer}}
+|''Play''
+|Firefly Press
+|- style="background:#cddeff"
+! rowspan="8" |[[2026 in literature|2026]]
+|{{Sortname|Beth|O'Brien}}
+|''[[Wolf Siren]]''
+|Faber Children's
+|Winner and Shadowers' Choice Winner
+|<ref name=winners2026>{{cite web |title=Medal Winners 2026 |url=https://carnegies.co.uk/2026-winners-announced/ |website=The Carnegies |access-date=29 June 2026}}</ref><ref>{{Cite web |date=2025-06-23 |title=McDonald, Gill win Carnegie medals |url=https://www.booksandpublishing.com.au/articles/2025/06/23/274498/mcdonald-gill-lessore-parish-win-carnegie-medals/ |access-date=2025-06-24 |publisher=Books+Publishing}}</ref><ref name=":32">{{Cite web |date=2025-03-12 |title=Carnegie 2025 shortlists announced |url=https://www.booksandpublishing.com.au/articles/2025/03/12/267848/carnegie-2025-shortlists-announced/ |access-date=2025-03-16 |publisher=Books+Publishing}}</ref><ref name=shadow-list />
+|- 
+|{{Sortname|Katya|Balen}}
+|''Ghostlines''
+|Bloomsbury Children's
+| rowspan="7" |Shortlist
+| rowspan="7" |<ref>{{Cite web |date=2026-03-16 |title=Carnegie Medal 2026 shortlists released |url=https://www.booksandpublishing.com.au/articles/2026/03/16/325929/carnegie-medal-2026-shortlists-released/ |access-date=2026-03-17 |publisher=Books+Publishing}}</ref>
+ 
+|-
+|{{Sortname|Tia|Fisher}}
+|''Not Going to Plan''
+|Hotkey
+|-
+|{{Sortname|Rob|Harrell}}
+|''Popcorn''
+|Picadilly
+|-
+|{{Sortname|William|Hussey|dab=writer}}
+|''The Boy I Love''
+|Andersen Press
+|-
+|{{Sortname|Patrick|Ness}}, illus. by Tim Miller
+|''Chronicles of a Lizard Nobody''
+|Walker
+|-
+|{{Sortname|Jason|Reynolds}}
+|''Twenty-Four Seconds from Now''
+|Faber
+|-
+|{{Sortname|J. P.|Rose}}
+|''Birdie''
+|Andersen Press
+|}
+
+== Repeat honorees ==
+Eight authors have won two Carnegie Medals,<!-- source is inspection of our list sorted by author, nearly reliable --> which was prohibited for many years.{{Citation needed|date=June 2023}} Additionally, several authors have been shortlisted and/or commended multiple times.
+
+The table below provides a list of authors who have been honoured, sorted first by number of honors and the rank of the honor (e.g., win is higher than commendation), then by the authors' last name. For the sake of ease, shortlists are considered of equal rank to commendations, though lower than high commendations. The table was last updated in September 2026.<!-- source is inspection of our list sorted by author, nearly reliable -->
+{| class="wikitable sortable mw-collapsible"
+|+Repeat honorees
+!Author
+!Wins
+!High commendations
+!Commendations
+!Shortlists
+|-
+|{{sortname|Anne |Fine}}
+|2 (1989, 1992)
+|3 (1989, 1996, 2002)
+|
+|2 (2007, 2014)
+|-
+|{{sortname|Robert |Westall}}
+|2 (1975, 1981)
+|2 (1990, 1992)
+|
+|1 (2007){{Efn|Westfall's ''[[The Machine Gunners]]'' was shortlisted for the 2007 Carnegie of Carnegie's award.}}
+|-
+|{{Sortname|Peter|Dickinson}}
+|2 (1979, 1980)
+|1 (1988)
+|4 (1970, 1972, 1976, 1992)
+|
+|-
+|{{sortname|Geraldine |McCaughrean}}
+|2 (1988, 2018)
+|1 (2001)
+|
+|3 (2005, 2011, 2015)
+|-
+|{{sortname|Jan |Mark}}
+|2 (1976, 1983)
+|1 (1980)
+|
+|1 (2005)
+|-
+|{{sortname|Berlie |Doherty}}
+|2 (1986, 1991)
+|1 (1994)
+|
+|
+|-
+|{{sortname|Margaret |Mahy}}
+|2 (1982, 1984)
+|1 (1987)
+|
+|
+|-
+|{{sortname|Patrick |Ness}}
+|2 (2011, 2012)
+|
+|
+|5 (2009, 2010, 2015, 2016, 2018, 2026)
+|-
+|{{sortname|K. M. |Peyton}}
+|1 (1969)
+|6 (1962, 1964, 1965, 1966, 1967, 1969)
+|
+|
+|-
+|{{sortname|William |Mayne}}
+|1 (1957)
+|5 (1955, 1956, 1957, 1970){{Efn|Two of Mayne's books were highly commended in 1956.}}
+|
+|
+|-
+|{{sortname|Rosemary |Sutcliff}}
+|1 (1959)
+|5 (1954, 1956, 1957, 1958, 1971)
+|
+|
+|-
+|{{sortname|Gillian |Cross}}
+|1 (1990)
+|4 (1982, 1986, 1988, 1992)
+|
+|
+|-
+|{{sortname|Melvin |Burgess}}
+|1 (1996)
+|3 (1990, 1993, 2000)
+|
+|2 (1996, 2007){{Efn|Burgess's ''[[Junk (novel)|Junk]]'' was shortlisted for the 2007 Carnegie of Carnegies.<ref name="70th"/>}}
+|-
+|{{sortname|Philippa |Pearce}}
+|1 (1958)
+|3 (1977, 1979, 1983)
+|
+|1 (2007){{Efn|Pearce's ''[[Tom's Midnight Garden]]'' was selected for the 2007 Carnegie of Carnegie Top 10.<ref name="70th"/>}}
+|-
+|{{sortname|Leon |Garfield}}
+|1 (1970)
+|3 (1967, 1968, 1970)
+|
+|
+|-
+|{{sortname|Lucy M. |Boston}}
+|1 (1961)
+|2 (1954, 1958)
+|
+|
+|-
+|{{sortname|Hester |Burton}}
+|1 (1963)
+|2 (1960, 1962)
+|
+|
+|-
+|{{sortname|Philip |Pullman}}
+|1 (1995)
+|1 (2000)
+|
+|2 (2004, 2007)'''{{Efn|1=Pullman's ''[[Northern Lights (Pullman novel)|Northern Lights]]'' was selected for the 2007 Carnegie of Carnegie's Top 10.<ref name="70th"/>}}'''
+|-
+|{{sortname|Sharon |Creech}}
+|1 (2002)
+|1 (2001)
+|
+|1 (2004)
+|-
+|{{sortname|Alan |Garner}}
+|1 (1967)
+|1 (1965)
+|
+|1 (2007){{Efn|Westfall's ''[[The Machine Gunners]]'' was selected for the 2007 Carnegie of Carnegie's award.<ref name="70th"/>}}
+|-
+|{{sort|norton, mary|[[Mary Norton (author)|Mary Norton]]}}
+|1 (1952)
+|1 (1959)
+|
+|1 (2007){{Efn|Norton's ''[[The Borrowers (novel)|The Borrowers]]'' was selected for the 2007 Carnegie of Carnegie's Top 10.<ref name="70th"/>}}
+|-
+|{{sortname|Terry |Pratchett}}
+|1 (2008)
+|1 (1996)
+|
+|1 (2010)
+|-
+|{{sortname|Cynthia |Harnett}}
+|1 (1951)
+|1 (1959)
+|
+|
+|-
+|{{sortname|C. S. |Lewis}}
+|1 (1956)
+|1 (1954)
+|
+|
+|-
+|{{sortname|Noel |Streatfeild}}
+|1 (1938)
+|1 (1936)
+|
+|
+|-
+|{{sortname|Robert |Swindells}}
+|1 (1993)
+|1 (1984)
+|
+|
+|-
+|{{sortname|David |Almond}}
+|1 (1998)
+|
+|
+|4 (2003, 2005, 2007, 2012){{Efn|Almond's ''[[Skellig]]'' was shortlisted for the 2007 Carnegie of Carnegie's award.<ref name="70th"/>}}
+|-
+|{{sortname|last=Cottrell-Boyce|first=Frank}}
+|1 (2004)
+|
+|
+|3 (2005, 2009, 2017)
+|-
+|{{sortname|Ruta |Sepetys}}
+|1 (2017)
+|
+|
+|3 (2012, 2021, 2023)
+|-
+|{{sort|brooks, kevin|[[Kevin Brooks (writer)|Kevin Brooks]]}}
+|1 (2014)
+|
+|
+|2 (2007, 2009)
+|-
+|{{sortname|Sarah |Crossan}}
+|1 (2016)
+|
+|
+|2 (2013, 2015)
+|-
+|{{sortname|Kevin |Crossley-Holland}}
+|1 (1985)
+|
+|
+|2 (1985, 2008){{Efn|Crossley-Holland's ''[[Storm (novella)|Storm]]'' was shortlisted for the 2007 Carnegie of Carnegie award.<ref name="70th"/>}}
+|-
+|{{sortname|Philip |Reeve}}
+|1 (2008)
+|
+|
+|2 (2010, 2017)
+|-
+|{{sortname|Meg |Rosoff}}
+|1 (2007)
+|
+|
+|2 (2008, 2011)
+|-
+|{{sortname|last=Balen|first=Katya}}
+|1 (2022)
+|
+|
+|2 (2023, 2026)
+|-
+|{{sortname|last=Breslin|first=Theresa}}
+|1 (1994)
+|
+|
+|1 (2011)
+|-
+|{{sortname|Siobhan |Dowd}}
+|1 (2009)
+|
+|
+|1 (2007)
+|-
+|{{sortname|Sally |Gardner}}
+|1 (2013)
+|
+|
+|1 (2015)
+|-
+|{{sortname|Tanya |Landman}}
+|1 (2015)
+|
+|
+|1 (2008)
+|-
+|{{sortname|Anthony |McGowan}}
+|1 (2020)
+|
+|
+|1 (2018)
+|-
+|{{sortname|Mal |Peet}}
+|1 (2005)
+|
+|
+|1 (2017)
+|-
+|[[Jason Reynolds]]
+|1 (2021)
+|
+|
+|12 (2019, 2026)
+|-
+|{{sortname|last=Cresswell|first=Helen}}
+|
+|4 (1969, 1971, 1973, 1967)
+|
+|
+|-
+|{{sortname|last=Avery|first=Gillian}}
+|
+|3 (1957, 1962, 1971)
+|
+|
+|-
+|{{Sortname|Antonia|Forest}}
+|
+|3 (1957, 1961, 1963)
+|
+|
+|-
+|{{sortname|last=Jones|first=Diana Wynne}}
+|
+|3 (1975, 1977, 1988)
+|
+|
+|-
+|{{Sortname|Barbara Leonie|Picard}}
+|
+|3 (1954, 1956, 1965)
+|
+|
+|-
+|{{sortname|last=Cooper|first=Susan}}
+|
+|2 (1973, 1975)
+|
+|1 (2014)
+|-
+|{{sortname|last=Alcock|first=Vivien}}
+|
+|2 (1988, 1989)
+|
+|
+|-
+|{{sortname|last=Ashley|first=Bernard|dab=author}}
+|
+|2 (1979, 1986)
+|
+|
+|-
+|{{Sortname|first=Jenny Grace|last=Fyson}}
+|
+|2 (1964, 1965)
+|
+|
+|-
+|{{Sortname|Rumer|Godden}}
+|
+|2 (1956, 1961)
+|
+|
+|-
+|{{Sortname|Mary K.|Harris}}
+|
+|2 (1960, 1965)
+|
+|
+|-
+|{{sortname|last=Howker|first=Janni}}
+|
+|2 (1985, 1986)
+|
+|
+|-
+|{{Sortname|Jo|Manton}}
+|
+|2 (1955, 1962)
+|
+|
+|-
+|{{Sortname|James|Reeves|dab=writer}}
+|
+|2 (1954, 1961)
+|
+|
+|-
+|{{Sortname|Ian|Serraillier}}
+|
+|2 (1956, 1960)
+|
+|
+|-
+|{{sortname|last=Townsend|first=John Rowe}}
+|
+|2 (1963, 1969)
+|
+|
+|-
+|{{sortname|last=Verney|first=John|dab=author}}
+|
+|2 (1959, 1961)
+|
+|
+|-
+|{{sortname|last=Wilson|first=Jacqueline}}
+|
+|2 (1991, 1995)
+|
+|
+|-
+|{{sortname|last=Laird|first=Elizabeth|dab=author}}
+|
+|1 (1988)
+|
+|3 (2003, 2008, 2015)
+|-
+|{{sortname|last=Gardam|first=Jane}}
+|
+|1 (1981)
+|1 (1981)
+|
+|-
+|{{sortname|last=Morpurgo|first=Michael}}
+|
+|1 (1987)
+|
+|1 (2003)
+|-
+|{{sortname|last=Sedgwick|first=Marcus}}
+|
+|
+|
+|7 (2007, 2010, 2011, 2013, 2016, 2018, 2020)
+|-
+|{{sortname|last=Hardinge|first=Frances}}
+|
+|
+|
+|3 (2015, 2016, 2019)
+|-
+|{{sortname|last=Lake|first=Nick}}
+|
+|
+|
+|3 (2013, 2016, 2020)
+|-
+|{{sortname|last=Wolk|first=Lauren}}
+|
+|
+|
+|3 (2017, 2018, 2021)
+|-
+|[[Elizabeth Acevedo]]
+|
+|
+|
+|2 (2019, 2021)
+|-
+|{{sortname|last=Anderson|first=Sophie|nolink=1}}
+|
+|
+|
+|2 (2019, 2021)
+|-
+|{{sortname|last=Evans|first=Lissa|nolink=1}}
+|
+|
+|
+|2 (2012, 2018)
+|-
+|{{sortname|last=Hitchcock|first=Bonnie-Sue}}
+|
+|
+|
+|2 (2017, 2022)
+|-
+|{{sortname|last=Mann|first=Manjeet}}
+|
+|
+|
+|2 (2021, 2022)
+|-
+|{{sortname|last=Saunders|first=Kate}}
+|
+|
+|
+|2 (2016, 2019)
+|-
+|{{sortname|last=Thomas|first=Angie}}
+|
+|
+|
+|2 (2018, 2020)
+|-
+|{{sortname|last=Valentine|first=Jenny}}
+|
+|
+|
+|2 (2008, 2016)
+|-
+|{{sortname|last=Coelho|first=Joseph}}
+|1 (2024)
+|
+|
+|1 (2021)
+|-
+|{{sortname|last=Lessore|first=Nathanael}}
+|
+|
+|
+|2 (2024, 2025)
+|}
+
+== Multiple award recipients ==
+Six books have won both the Carnegie Medal and the annual [[Guardian Children's Fiction Prize]], which was inaugurated 1967.<!-- source is inspection of our lists, errorprone (see Talk) -->(Dates are years of UK publication, and Carnegie award dates before 2006.)
+* [[Alan Garner]], ''[[The Owl Service]]'' (1967)
+* [[Richard Adams]], ''[[Watership Down]]'' (1972)
+* [[Geraldine McCaughrean]], ''[[A Pack of Lies]]'' (1988)
+* [[Anne Fine]], ''[[Goggle-Eyes]]'' (1989)
+* [[Philip Pullman]], ''[[Northern Lights (Pullman novel)|His Dark Materials 1: Northern Lights]]'' (1995)
+* [[Melvin Burgess]], ''[[Junk (novel)|Junk]]'' (1996)
+
+Only ''[[A Monster Calls]]'', written by [[Patrick Ness]] and illustrated by [[Jim Kay]], has won both the Carnegie and Greenaway Medals (2012).
+
+Only ''[[The Graveyard Book]]'' by [[Neil Gaiman]] (2009) has won both the Carnegie Medal and the equivalent American award, the [[Newbery Medal]].<ref>{{cite news |last=Flood |first=Alison |date=24 June 2010 |title=Neil Gaiman wins Carnegie Medal |newspaper=[[The Guardian]] |location=London |url=https://www.theguardian.com/books/2010/jun/24/neil-gaiman-carnegie-graveyard-book |url-status=live |access-date=6 May 2012 |archive-url=https://web.archive.org/web/20131026001809/http://www.theguardian.com/books/2010/jun/24/neil-gaiman-carnegie-graveyard-book |archive-date=26 October 2013}}</ref>
+
+[[Sharon Creech]]<!-- is the only other author to win both? -->, who won the Carnegie for ''[[Ruby Holler]]'' (2002), previously won the Newbery and two UK awards for ''[[Walk Two Moons]]'' (1994).<ref name="creech">
+<!-- copied from our biography and adapted -->
+  {{cite web |title=Walk Two Moons |url=http://sharoncreech.com/novels/06.asp |url-status=dead |archive-url=https://web.archive.org/web/20101012162753/http://www.sharoncreech.com/novels/06.asp |archive-date=12 October 2010 |access-date=13 September 2010 |work=Sharon Creech: Novels |publisher=Sharon Creech |df=dmy-all}}</ref>
+<!-- At [[Newbery Medal]] we name Creech and Gaiman the authors to win both Medals; source may be my own error-prone scan of the two lists -->
+
+Four writers have won both the Carnegie and the US [[Michael L. Printz Award]]. The Printz Award is an [[American Library Association]] [[literary award]] that annually recognises the "best book written for teens, based entirely on its [[literary merit]]". The four writers are [[David Almond]], [[Aidan Chambers]], [[Geraldine McCaughrean]], and [[Meg Rosoff]]. Chambers alone has won both for the same book, the 1999 Carnegie and 2003 Printz for the novel ''[[Postcards from No Man's Land]]''.<ref name="winners" /><ref>{{cite web |title=The Carnegie Medal: Full List of Winners |url=http://www.carnegiegreenaway.org.uk/carnegie/full_list_of_winners.php |url-status=dead |archive-url=https://web.archive.org/web/20070430164320/http://www.carnegiegreenaway.org.uk/carnegie/full_list_of_winners.php |archive-date=30 April 2007 |access-date=6 February 2014 |website=Chartered Institute of Library and Information Professionals ([[CILIP]])}}</ref><ref>{{cite web |date=15 March 2007 |title=Michael L. Printz Winners and Honor Books |url=http://www.ala.org/yalsa/booklistsawards/bookawards/printzaward/previouswinners/winners |url-status=live |archive-url=https://web.archive.org/web/20190328214929/http://www.ala.org/yalsa/booklistsawards/bookawards/printzaward/previouswinners/winners |archive-date=28 March 2019 |access-date=6 February 2014 |website=YALSA. ALA.}}</ref>
+
+In its scope, books for children or young adults, the British Carnegie corresponds to the American Newbery and Printz awards.
+
+== See also ==
+{{Portal|Children's literature}}
+* [[Carnegie Medal for Illustration]]
+* [[Children's Laureate]]
+* [[Blue Peter Book Awards]]
+* [[Guardian Children's Fiction Prize]]
+* [[Nestlé Smarties Book Prize]]
+* [[Newbery Medal]], the primary American Library Association annual children's book award
+* [[Michael L. Printz Award]], the primary ALA annual young adult book award
+
+==Notes==
+{{notelist |25em |notes=
+{{efn |name=self |1=
+The first two Medal-winning books were illustrated by their authors, as were four others to 1953 (six of the first sixteen winners), but none since then.
+}}
+}}
+
+==References==
+{{reflist |25em
+ | refs=
+
+}}
+
+=== Citations ===
+{{refbegin}}
+* [[Marcus Crouch]] and Alec Ellis, ''Chosen for children: an account of the books which have been awarded the Library Association Carnegie Medal, 1936–1975'', Third edition, London: Library Association, 1977. {{ISBN|9780853653493}}. — The second, 1967 edition by Crouch covers the first three decades. The third edition by Crouch and Alec Ellis comprises the second, except a new introduction by Ellis, plus coverage of the fourth decade by Ellis.
+{{refend}}
+
+==External links==
+* [https://carnegies.co.uk/ Official website]
+
+{{Authority control}}
+
+[[Category:Carnegie Medal for Writing]] <!--most cats should be in here, not in this article-->
+[[Category:Awards established in 1936]]
+[[Category:1936 establishments in the United Kingdom]]
+[[Category:British literary awards]]
+[[Category:English-language literary awards]]

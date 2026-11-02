@@ -1,6 +1,8 @@
 import { FeaturedCarousel } from "./FeaturedCarousel";
 import { Shelf } from "./Shelf";
 import { BecauseYouSaved } from "./BecauseYouSaved";
+import { PrizeShelf } from "./PrizeShelf";
+import { getPrizePicks } from "@/lib/prizes/shelves";
 import { getFeaturedCandidates, getHomeShelves } from "@/lib/catalog";
 import { toCard, toFeature } from "@/lib/card";
 import type { Kind } from "@/lib/types";
@@ -15,6 +17,7 @@ const INTROS: Record<Kind, string> = {
 export function HomeView({ kind }: { kind: Kind }) {
   const featured = getFeaturedCandidates(kind).map(toFeature);
   const shelves = getHomeShelves(kind);
+  const prizePicks = kind === "film" ? [] : getPrizePicks(kind);
   if (shelves.length === 0) {
     return (
       <div className="mx-auto max-w-xl px-4 py-24 text-center">
@@ -32,6 +35,7 @@ export function HomeView({ kind }: { kind: Kind }) {
           <Shelf key={s.id} title={s.title} href={s.href} items={s.items.map(toCard)} eager />
         ))}
         <BecauseYouSaved kind={kind} />
+        {prizePicks.length > 0 && <PrizeShelf title="Prize winners and shortlists" href="/prizes" picks={prizePicks} />}
         {shelves.slice(1).map((s) => (
           <Shelf
             key={s.id}

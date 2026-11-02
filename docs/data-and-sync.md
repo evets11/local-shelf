@@ -12,6 +12,7 @@ The catalogue's robots.txt uses longest-match rules. What that means for us:
 So:
 
 - The **sync** makes one disallowed search per list (seven per run) to get a result set, plus at most one re-run per list if its result set expires mid-run, then only uses allowed paths.
+- **Prize lookups** (`scripts/prizes.ts`) make one disallowed search per newly listed prize book that isn't already in our index, at most 40 a run, plus a few monthly retries for books the library hadn't got yet (see [Prize lists](#prize-lists)).
 - **Live full-catalogue search** relays a person's own search: one disallowed search per query, cached 10 minutes and capped. Junk queries (fewer than two letters or digits, or outside 3-100 characters) are rejected before reaching the library.
 - Everything else uses allowed paths. Deep links to the library use BRN bookmark links.
 - **Don't add new Spydus requests on disallowed paths, and don't widen crawling, without the user's agreement.** Tell the library about the project before scaling up (see [Decisions](decisions.md)).
@@ -53,6 +54,21 @@ Flags: `--kind film|book|audiobook` (repeatable), `--offline`, `--full`, `--no-h
 
 Books use the list they came from (junior lists are children's); audiobooks use the record's audience note and subjects.
 
+## Prize lists (`scripts/prizes.ts`)
+
+Finds which books from UK prize lists the library holds, for `/prizes`, the "Prize winners and shortlists" home rows and the prize badges on title pages.
+
+1. **Lists** come from Wikipedia (the latest two years of each prize in `src/lib/prizes/config.ts`), parsed by `src/lib/prizes/wikitext.ts`. Pages differ a lot: per-year pages with coloured rows (Booker), Year and Result columns with rowspans, or year subsections. A prize whose page fails, or whose parse loses more than half of a year's books, keeps its previous list.
+2. **Our own index** is checked first (title plus author surname, `src/lib/prizes/match.ts`). Free, no requests.
+3. **Library searches** only for books not found in the index: one keyword search (title plus surname, books and audiobooks together), then a FULL fetch per matching record for its BRN. Capped at 40 searches a run (`--max-searches`). Books the library doesn't hold are searched again about every 28 days, up to 6 times, since libraries often buy them after a shortlist. Found books aren't searched again.
+4. **Output:** `data/prizes.json`, every listed book with its matches (one record per format).
+
+The nightly sync then **pins** matched records into the book and audiobook catalogues (`pinned: true`) using only allowed paths: the BRN lookup for the full record and XHLD for holdings. A pinned record the library has withdrawn keeps its last known title and doesn't count towards the sync's abort. Pinned titles stay out of "New to the library" and sort after real arrivals in "Newest".
+
+The workflow runs it nightly, but it skips itself unless the lists are at least 6 days old, so it's weekly in practice. Run it by hand with `npm run prizes -- --force`. Raw Wikipedia pages and library searches are cached in `.cache/`, and `--offline` re-parses them without any requests. `npm run sync -- --pinned-only` refreshes just the pinned records, leaving everything else as it was (handy after a local prizes run).
+
+The first run searched for about 150 books, once. After that it's roughly 10 to 30 searches when a longlist or shortlist is announced.
+
 ## Film enrichment (`scripts/enrich.ts`)
 
 Matches films to Wikidata for IMDb ids, Rotten Tomatoes and Metacritic scores, YouTube trailer ids and Wikipedia links, written to `data/film-extras.json`. `OMDB_API_KEY` (optional) adds IMDb ratings.
@@ -80,6 +96,7 @@ Matches films to Wikidata for IMDb ids, Rotten Tomatoes and Metacritic scores, Y
 | --- | --- | --- |
 | `catalog-films.json`, `catalog-books.json`, `catalog-audiobooks.json` | yes | the catalogue, rewritten nightly |
 | `film-extras.json` | yes | Wikidata/OMDb extras by IRN |
+| `prizes.json` | yes | prize-list books and the library records that hold them |
 | `wikidata-cache.json`, `tmdb-cache.json` | no (Actions cache) | enrichment caches |
 | `.cache/spydus/` | no (Actions cache keeps `full/`) | raw HTML |
 
@@ -95,4 +112,4 @@ The catalogue refuses requests from outside the UK (HTTP 405). Vercel functions 
 
 ## The GitHub Action (`.github/workflows/sync.yml`)
 
-Nightly at 03:30 UTC (and on demand): restore caches, `npm run sync`, `npm run enrich`, save caches, commit `data/` if it changed (as `localshelf-bot`), then fail the job if either step failed. A sync or enrichment failure never blocks committing what did succeed. Secrets: `SPYDUS_RELAY_TOKEN` (required, see above), `TMDB_API_KEY`, `OMDB_API_KEY` (both optional). The relay address defaults to `https://localshelf.uk/api/relay`; set the repository variable `SPYDUS_RELAY_URL` to override it.
+Nightly at 03:30 UTC (and on demand): restore caches, `npm run prizes` (weekly in practice, see above), `npm run sync`, `npm run enrich`, save caches, commit `data/` if it changed (as `localshelf-bot`), then fail the job if any of those steps failed. A sync or enrichment failure never blocks committing what did succeed. Secrets: `SPYDUS_RELAY_TOKEN` (required, see above), `TMDB_API_KEY`, `OMDB_API_KEY` (both optional). The relay address defaults to `https://localshelf.uk/api/relay`; set the repository variable `SPYDUS_RELAY_URL` to override it.

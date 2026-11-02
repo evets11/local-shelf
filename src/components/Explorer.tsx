@@ -144,6 +144,8 @@ export function Explorer({ kind, titles, heading, partial = false }: Props) {
     if (sort === "new") {
       list = [...list].sort(
         (a, b) =>
+          // Prize books kept from the backlist aren't new to the library.
+          Number(Boolean(a.pinned)) - Number(Boolean(b.pinned)) ||
           b.firstSeen.localeCompare(a.firstSeen) ||
           (b.year ?? 0) - (a.year ?? 0),
       );

@@ -1,0 +1,1649 @@
+{{short description|International literary award}}
+{{for|the related prize given to an author writing in English|The Booker Prize}}
+{{Use British English|date=June 2022}}
+{{Use dmy dates|date=February 2022}}
+{{Infobox award
+|name           = International Booker Prize
+|current_awards = 
+|image          = Ismail_Kadare (portret).jpg
+|imagesize      = 
+|caption        = Inaugural winner [[Ismail Kadare]]
+|awarded_for    = Best work of fiction translated into English and published in the UK or Ireland
+|presenter      = [[Booker Prize Foundation]]
+|country        = United Kingdom
+|reward         = £100,000<br>£50,000 (2016{{ndash}}2026)
+|year           = {{start date and age|2005}}
+|year2          = 
+|website        = {{URL|https://thebookerprizes.com/the-international-booker-prize}}
+}}
+The '''Bukhman''' '''International Booker Prize''' (formerly known as the '''Man Booker International Prize''', and the '''International Booker Prize''' prior to 2026) is an international [[literary award]] hosted in the [[United Kingdom]]. The introduction of the International Prize to complement the [[Man Booker Prize]], as the [[Booker Prize]] was then known, was announced in June 2004.<ref name="Debate">{{cite news|url=https://news.bbc.co.uk/2/hi/entertainment/4112179.stm|title=Readers debate world Booker prize|date=20 December 2004|publisher=[[BBC News]]|access-date=22 May 2011}}</ref> Sponsored by the [[Man Group]], from 2005 until 2015 the award was given every two years to a living author of any nationality for a body of work published in English or generally available in English translation.<ref name="Times">{{cite news|url=http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/books/article6371639.ece|archive-url=https://web.archive.org/web/20110829042555/http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/books/article6371639.ece|url-status=dead|archive-date=29 August 2011|title=Alice Munro announced as Man Booker International Prize winner|last=Crerar|first=Simon|date=27 May 2009|work=[[The Times]]|access-date=22 May 2011}}</ref> It rewarded one author's "continued creativity, development and overall contribution to fiction on the world stage",<ref name="Spark">{{cite news|url=https://news.bbc.co.uk/1/hi/entertainment/4277897.stm|title=Spark heads world Booker nominees|date=18 February 2005|publisher=[[BBC News]]|access-date=22 May 2011|archive-date=25 May 2018|archive-url=https://web.archive.org/web/20180525065943/http://news.bbc.co.uk/1/hi/entertainment/4277897.stm|url-status=live}}</ref> and was a recognition of the writer's body of work rather than any one title.
+
+Since 2016, the award has been given annually to a single novel or collection of short stories, translated into English and published in the United Kingdom or Ireland, with a £50,000 prize for the winning title, shared equally between author and translator.<ref name="shaffi">{{cite web |url=http://www.thebookseller.com/news/man-booker-306625 |title='Reconfiguration' of Man Booker International Prize |work=The Bookseller |author=Sarah Shaffi |date=7 July 2015 |access-date=8 July 2015 |archive-date=26 October 2020 |archive-url=https://web.archive.org/web/20201026154022/https://www.thebookseller.com/news/man-booker-306625 |url-status=live }}</ref><ref>{{Cite web |title=The International Booker Prize and its History |url=https://thebookerprizes.com/the-international-booker-prize/the-international-booker-prize-and-its-history |access-date=2022-12-08 |website=The Booker Prizes |language=en |archive-date=16 August 2022 |archive-url=https://web.archive.org/web/20220816124421/https://thebookerprizes.com/the-international-booker-prize/the-international-booker-prize-and-its-history |url-status=live }}</ref> From 2027 onwards, the prize will be doubled to £100,000.
+
+Crankstart, the [[charitable foundation]] of [[Michael Moritz|Sir Michael Moritz]] and his wife Harriet Heyman, began supporting The Booker Prizes on 1 June 2019. From this date, the prizes were known as The Booker Prize and The International Booker Prize. Of their support for The Booker Prize Foundation and the prizes, Moritz commented: "Neither of us can imagine a day where we don’t spend time reading a book. The Booker Prizes are ways of spreading the word about the insights, discoveries, pleasures and joy that spring from great fiction". Bukhman Philanthropies, the charitable foundation of [[Dmitry Bukhman]] and his wife Daria, began supporting the International Booker Prize in July 2026, and the prize was renamed to the Bukhman International Booker Prize.
+
+==History==
+
+===Pre-2016===
+Whereas the Man Booker Prize was open only to writers from the [[Commonwealth of Nations|Commonwealth]], Ireland, and Zimbabwe, the International Prize was open to writers of any nationality whose work was available in English, including translations.<ref name="Atwood">{{cite news|url=https://news.bbc.co.uk/1/hi/entertainment/6550001.stm|title=Atwood on World Booker shortlist|date=12 April 2007|publisher=[[BBC News]]|access-date=22 May 2011}}</ref> The award was worth £60,000 and given every two years to a living author for their entire body of literature, in a similar way to the [[Nobel Prize for Literature]].<ref name="Spark"/> The Man Booker International Prize also allowed for a separate award for translating. If applicable, the winning author could direct the organization to present a prize sum of £15,000 to their translator.<ref name="Quit">{{cite news|first=Carmen|last=Callil|author-link=Carmen Callil|url=https://www.theguardian.com/books/2011/may/21/man-booker-international-carmen-callil|title=Why I quit the Man Booker International panel|date=21 May 2011|work=[[The Guardian]]|access-date=21 May 2011}}</ref>
+
+The 2005 inaugural winner of the international prize was Albanian writer [[Ismail Kadare]]. Praising its concerted judgement, the journalist Hephzibah Anderson noted that the Man Booker International Prize was "fast becoming the more significant award, appearing an ever more competent alternative to the Nobel".<ref>{{cite news|last=Anderson|first=Hephzibah|title=Alice Munro: The mistress of all she surveys|url=https://www.theguardian.com/books/2009/may/31/alice-munro-man-booker-prize-profile|access-date=28 May 2012|newspaper=[[The Guardian]]|date=31 May 2009|archive-date=10 October 2013|archive-url=https://web.archive.org/web/20131010115325/http://www.theguardian.com/books/2009/may/31/alice-munro-man-booker-prize-profile|url-status=live}}</ref>
+
+{|class="wikitable plainrowheaders" width=74%
+|- bgcolor="#505050"
+!scope="col" |Year
+!scope="col" |Author
+!scope="col" |Country
+!scope="col" |Translator
+!scope="col" |Language
+!Ref.
+|-
+!scope="row" |2005
+|[[Ismail Kadare]]
+|{{Flag|Albania}}
+|N/A
+|Albanian
+|<ref>{{Cite web |title=Ismail Kadare |url=https://thebookerprizes.com/the-booker-library/authors/ismail-kadare |access-date=2022-12-08 |website=The Booker Prizes |date=28 January 1936 |language=en |archive-date=19 January 2023 |archive-url=https://web.archive.org/web/20230119232247/https://thebookerprizes.com/the-booker-library/authors/ismail-kadare |url-status=live }}</ref>
+|- 
+!scope="row" |2007
+|[[Chinua Achebe]]
+|{{Flag|Nigeria}}
+|N/A
+|English
+|<ref>{{Cite web |title=Chinua Achebe |url=https://thebookerprizes.com/the-booker-library/authors/chinua-achebe |access-date=2022-12-08 |website=The Booker Prizes |language=en}}</ref>
+|-
+!scope="row" |2009
+|[[Alice Munro]]
+|{{Flag|Canada}}
+|N/A
+|English
+|<ref>{{Cite web |title=Alice Munro |url=https://thebookerprizes.com/the-booker-library/authors/alice-munro |access-date=2022-12-08 |website=The Booker Prizes |date=10 July 1931 |language=en |archive-date=2 December 2022 |archive-url=https://web.archive.org/web/20221202140627/https://thebookerprizes.com/the-booker-library/authors/alice-munro |url-status=live }}</ref>
+|-
+!scope="row" |2011
+|[[Philip Roth]]
+|{{Flag|United States}}
+|N/A
+|English
+|<ref>{{Cite web |title=Philip Roth |url=https://thebookerprizes.com/the-booker-library/authors/philip-roth |access-date=2022-12-08 |website=The Booker Prizes |date=19 March 1933 |language=en}}</ref>
+|-
+!scope="row" |2013
+|[[Lydia Davis]]
+|{{Flag|United States}}
+|N/A
+|English
+|<ref>{{Cite web |title=Lydia Davis |url=https://thebookerprizes.com/the-booker-library/authors/lydia-davis |access-date=2022-12-08 |website=The Booker Prizes |date=15 July 1947 |language=en |archive-date=14 November 2022 |archive-url=https://web.archive.org/web/20221114144012/https://thebookerprizes.com/the-booker-library/authors/lydia-davis |url-status=live }}</ref>
+|-
+!scope="row" |2015
+|[[László Krasznahorkai]]
+|{{Flag|Hungary}}
+|[[George Szirtes]] and [[Ottilie Mulzet]]
+|Hungarian
+|<ref>{{Cite web |title=László Krasznahorkai |url=https://thebookerprizes.com/the-booker-library/authors/laszlo-krasznahorkai |access-date=2022-12-08 |website=The Booker Prizes |language=en |archive-date=14 November 2022 |archive-url=https://web.archive.org/web/20221114143255/https://thebookerprizes.com/the-booker-library/authors/laszlo-krasznahorkai |url-status=live }}</ref>
+|}
+
+===2016 onwards===
+In July 2015 it was announced that the [[Independent Foreign Fiction Prize|''Independent'' Foreign Fiction Prize]] would be disbanded and its prize money would be folded into the Man Booker International Prize.<ref name=shaffi/> Starting with the 2016 award, the Man Booker International Prize became annual and changed its remit to perform the same role as the ''Independent'' prize: awarding books of fiction translated into English, in order to encourage the publishing and reading of quality works in translation and to highlight the work of translators.<ref name=orthofer>{{cite web |url=http://www.complete-review.com/saloon/archive/201507a.htm#rv1 |title=Man Booker Independent International Foreign Fiction Prize |work=[[complete review]] |author=Michael Orthofer |date=8 July 2015 |access-date=8 July 2015 |archive-date=28 February 2021 |archive-url=https://web.archive.org/web/20210228093759/https://www.complete-review.com/saloon/archive/201507a.htm#rv1 |url-status=live }}</ref> The £50,000 prize is split between author and translator. Each shortlisted author and translator receives £2,500.<ref>{{Cite web |title=The International Booker Prize and its History |url=https://thebookerprizes.com/the-international-booker-prize/the-international-booker-prize-and-its-history |access-date=2023-04-17 |website=The Booker Prizes |language=en |archive-date=16 August 2022 |archive-url=https://web.archive.org/web/20220816124421/https://thebookerprizes.com/the-international-booker-prize/the-international-booker-prize-and-its-history |url-status=live }}</ref> Judges select a longlist of 12 or 13 books in March ("the Booker Dozen"), followed by a shortlist of six in April,<ref>{{Cite web|url=https://thebookerprizes.com/sites/default/files/2022-08/220815%20Booker%20International%202023%20Rules.pdf|title=Full rules for the international Booker prize, in PDF format|access-date=17 April 2023|archive-date=20 June 2023|archive-url=https://web.archive.org/web/20230620101724/https://thebookerprizes.com/sites/default/files/2022-08/220815%20Booker%20International%202023%20Rules.pdf|url-status=live}}</ref> with the winner announced in May.<ref>{{cite web|title=Evolution of the Man Booker International Prize announced |url=http://themanbookerprize.com/resources/media/pressreleases/2015/07/07/evolution-man-booker-international-prize-announced|website=The Man Booker Prizes|access-date=18 May 2016|archive-date=4 June 2016|archive-url=https://web.archive.org/web/20160604033140/http://themanbookerprize.com/resources/media/pressreleases/2015/07/07/evolution-man-booker-international-prize-announced|url-status=dead}}</ref> 
+
+In July 2026, it was announced that [[Dmitry Bukhman#Philanthropy|Bukhman Philanthropies]] would sponsor the prize for the next 10 years. The prize was renamed the Bukhman International Booker Prize, and the winning prize was increased from £50,000 to £100,000. The shortlist prize remained the same.<ref>{{cite web |title=Bukhman Philanthropies to fund next decade of the International Booker Prize as judges announced for the 2027 prize {{!}} The Booker Prizes |url=https://thebookerprizes.com/media-centre/press-releases/bukhman-philanthropies-fund-next-decade-of-the-international-booker-prize |website=Booker Prizes |access-date=2 July 2026 |language=en |date=2 July 2026}}</ref> 
+
+{|class="wikitable plainrowheaders" width=74%
+|- bgcolor="#505050"
+!scope="col" |Year
+!scope="col" |Author
+!scope="col" |Home country
+!scope="col" |Translator
+!scope="col" |Translation published in (country)
+!scope="col" |Work
+!scope="col" |Language
+!Ref.
+|-
+!scope="row" |2016
+|[[Han Kang]]
+|{{Flag|South Korea}}
+|[[Deborah Smith (translator)|Deborah Smith]]
+|United Kingdom
+|''[[The Vegetarian]]''<br>''{{small|채식주의자}}''
+|Korean
+|<ref>{{Cite web |title=The Vegetarian |url=https://thebookerprizes.com/the-booker-library/books/the-vegetarian |access-date=2022-12-08 |website=The Booker Prizes |date=January 2015 |language=en}}</ref>
+|-
+!scope="row" |2017
+|[[David Grossman]]
+|{{Flag|Israel}}
+|[[Jessica Cohen]]
+|Israel/UK/US
+|''[[A Horse Walks into a Bar]]'' <br>''{{small|סוס אחד נכנס לבר‎}}''
+|Hebrew
+|<ref>{{Cite web |title=A Horse Walks into a Bar |url=https://thebookerprizes.com/the-booker-library/books/a-horse-walks-into-a-bar |access-date=2022-12-08 |website=The Booker Prizes |date=16 June 2017 |language=en |archive-date=25 November 2022 |archive-url=https://web.archive.org/web/20221125213417/https://thebookerprizes.com/the-booker-library/books/a-horse-walks-into-a-bar |url-status=live }}</ref>
+|-
+!scope="row" |2018
+|[[Olga Tokarczuk]]
+|{{Flag|Poland}}
+|[[Jennifer Croft]]
+|United States
+|''[[Flights (novel)|Flights]]'' <br>''{{small|Bieguni}}''
+|Polish
+|<ref>{{Cite web |title=Flights |url=https://thebookerprizes.com/the-booker-library/books/flights |access-date=2022-12-08 |website=The Booker Prizes |date=17 May 2017 |language=en |archive-date=25 November 2022 |archive-url=https://web.archive.org/web/20221125220954/https://thebookerprizes.com/the-booker-library/books/flights |url-status=live }}</ref>
+|-
+!scope="row" |2019
+|[[Jokha al-Harthi]]
+|{{Flag|Oman}}
+|[[Marilyn Booth]]
+|United States
+|''[[Celestial Bodies]]''<br>''{{small|{{lang|ar|سيدات القمر}}}}''
+|Arabic
+|<ref>{{Cite web |title=Celestial Bodies |url=https://thebookerprizes.com/the-booker-library/books/celestial-bodies |access-date=2022-12-08 |website=The Booker Prizes |date=21 June 2018 |language=en}}</ref>
+|-
+!scope="row" |2020
+|[[Lucas Rijneveld]]
+|{{Flag|Netherlands}}
+|[[Michele Hutchison]]
+|United Kingdom
+|''[[The Discomfort of Evening]]''<br>''{{small|De avond is ongemak}}''
+|Dutch
+|<ref>{{Cite web |title=The Discomfort of Evening |url=https://thebookerprizes.com/the-booker-library/books/the-discomfort-of-evening |access-date=2022-12-08 |website=The Booker Prizes |date=5 March 2020 |language=en |archive-date=2 November 2022 |archive-url=https://web.archive.org/web/20221102114243/https://thebookerprizes.com/the-booker-library/books/the-discomfort-of-evening |url-status=live }}</ref>
+|-
+!scope="row" |2021
+|[[David Diop (novelist)|David Diop]]
+|{{Flag|France}}
+|[[Anna Moschovakis]]
+|United States
+|''[[At Night All Blood Is Black]]''<br>''{{small|Frère d'âme}}''
+|French
+|<ref>{{Cite web |title=At Night All Blood Is Black |url=https://thebookerprizes.com/the-booker-library/books/at-night-all-blood-is-black |access-date=2022-12-08 |website=The Booker Prizes |date=5 November 2020 |language=en |archive-date=8 November 2022 |archive-url=https://web.archive.org/web/20221108143345/https://thebookerprizes.com/the-booker-library/books/at-night-all-blood-is-black |url-status=live }}</ref>
+|-
+!scope="row" |2022
+|[[Geetanjali Shree]]
+|{{Flag|India}}
+|[[Daisy Rockwell]]
+|United States
+|''[[Tomb of Sand]]''<br>''{{small|रेत समाधि}}''<ref>{{Cite web |last=Chakrabarti |first=Paromita |date=2022-05-28 |title=Geetanjali Shree's novel is first translated Hindi work to win Int'l Booker |url=https://indianexpress.com/article/books-and-literature/geetanjali-shrees-tomb-of-sand-wins-2022-international-booker-prize-7938661/ |access-date=2022-05-28 |website=The Indian Express |language=en |archive-date=28 May 2022 |archive-url=https://web.archive.org/web/20220528063356/https://indianexpress.com/article/books-and-literature/geetanjali-shrees-tomb-of-sand-wins-2022-international-booker-prize-7938661/ |url-status=live }}</ref>
+|Hindi
+|<ref name=IntBooker2022>{{Cite web |title=The 2022 International Booker Prize |url=https://thebookerprizes.com/the-booker-library/prize-years/international/2022 |access-date=2022-05-28 |website=The Booker Prizes |language=en |archive-date=8 June 2022 |archive-url=https://web.archive.org/web/20220608105257/https://thebookerprizes.com/the-booker-library/prize-years/international/2022 |url-status=live }}</ref><ref>{{Cite web |last=Schaub |first=Michael |date=2022-05-27 |title=Winner of International Booker Prize Is Revealed |url=https://www.kirkusreviews.com/news-and-features/articles/winner-of-international-booker-prize-is-revealed/ |access-date=2022-05-31 |website=Kirkus Reviews |language=en |archive-date=31 May 2022 |archive-url=https://web.archive.org/web/20220531003208/https://www.kirkusreviews.com/news-and-features/articles/winner-of-international-booker-prize-is-revealed/ |url-status=live }}</ref>
+|-
+!scope="row" |2023
+|[[Georgi Gospodinov]]
+|{{Flag|Bulgaria}}
+|[[Angela Rodel]]
+|United Kingdom/ United States
+|''[[Time Shelter]]''<br>''{{small|Времеубежище}}''
+|Bulgarian
+|<ref>{{Cite web |date=2023-04-21 |title=Time Shelter |url=https://thebookerprizes.com/the-booker-library/books/time-shelter |access-date=2023-05-30 |website=The Booker Prizes |language=en |archive-date=4 June 2023 |archive-url=https://web.archive.org/web/20230604081645/https://thebookerprizes.com/the-booker-library/books/time-shelter |url-status=live }}</ref>
+|-
+!scope="row" |2024
+|[[Jenny Erpenbeck]]
+|{{Flag|Germany}}
+|[[Michael Hofmann]]
+|Germany
+|''[[Kairos (novel)|Kairos]]''
+|German
+|<ref>{{Cite web |date=2024-05-22 |title=Kairos |url=https://thebookerprizes.com/the-booker-library/books/kairos |access-date=2024-05-22 |website=The Booker Prizes |language=en}}</ref>
+|-
+!scope="row" |2025
+|[[Banu Mushtaq]]
+|{{Flag|India}}
+|[[Deepa Bhasthi]]
+|India
+|''[[Heart Lamp: Selected Stories]]''<br>''{{small|ಎದೆಯ ಹಣತೆ}}''<br />
+|Kannada
+|<ref>{{Cite web |date=2025-05-20 |title=Heart Lamp |url=https://thebookerprizes.com/the-booker-library/books/heart-lamp |access-date=2024-05-22 |website=The Booker Prizes |language=en}}</ref>
+|-
+!scope="row" |2026
+|[[Yang Shuang-zi]]
+|{{Flag|Taiwan}}
+|[[Lin King]]
+|United Kingdom
+|''[[Taiwan Travelogue]]''<br>''{{small|臺灣漫遊錄}}''<br />
+|Mandarin Chinese
+|<ref>{{Cite web |date=2026-05-19 |title=The International Booker Prize 2026 |url=https://thebookerprizes.com/the-booker-library/prize-years/international/2026 |access-date=2026-05-19 |website=The Booker Prizes |language=en |archive-date=24 February 2026 |archive-url=https://web.archive.org/web/20260224150928/https://thebookerprizes.com/the-booker-library/prize-years/international/2026 |url-status=live }}</ref>
+|}
+
+==Nominations 2005–2015==
+
+===2005===
+The inaugural Man Booker International Prize was judged by [[John Carey (critic)|John Carey]] (chair), [[Alberto Manguel]] and [[Azar Nafisi]].<ref name="FirstB">{{cite news|date=2 June 2005|title=Albanian wins first world Booker|publisher=[[BBC News]]|url=https://news.bbc.co.uk/2/hi/entertainment/4604409.stm|access-date=22 May 2011}}</ref> The nominees were announced on 2 June 2005 at [[Georgetown University]] in Washington, D.C.<ref name="Spark" /> Albanian novelist Ismail Kadare was named the inaugural International Prize winner in 2005.<ref name="FirstB" /> Head judge, Professor John Carey said Kadare is "a universal writer in the tradition of storytelling that goes back to Homer."<ref name="FirstB" /> Kadare said he was "deeply honoured" at being awarded the prize.<ref name="FirstB" /> Kadare was also able to select a translator to receive an additional prize of £15,000.<ref name="FirstB" /> The writer received his award in [[Edinburgh]] on 27 June.<ref name="FirstB" />
+;Winner
+*[[Ismail Kadare]]
+
+;Nominees
+{{col-begin}}
+{{col-break}}
+*[[Margaret Atwood]] (Canada)
+*[[Saul Bellow]] (US)
+*[[Gabriel García Márquez]] (Colombia)
+*[[Günter Grass]] (Germany)
+*[[Ismail Kadare]] (Albania)
+*[[Milan Kundera]] (Czech Republic)
+{{col-break}}
+*[[Stanisław Lem]] (Poland)
+*[[Doris Lessing]] (UK)
+*[[Ian McEwan]] (UK)
+*[[Naguib Mahfouz]] (Egypt)
+*[[Tomás Eloy Martínez]] (Argentina)
+*[[Kenzaburō Ōe]] (Japan)
+{{col-break}}
+*[[Cynthia Ozick]] (US)
+*[[Philip Roth]] (US)
+*[[Muriel Spark]] (UK)
+*[[Antonio Tabucchi]] (Italy)
+*[[John Updike]] (US)
+*[[A. B. Yehoshua]] (Israel)
+{{col-end}}
+
+===2007===
+The 2007 prize was judged by [[Elaine Showalter]], [[Nadine Gordimer]] and [[Colm Tóibín]].<ref name="Atwood" /> The nominees for the second Man Booker International Prize were announced on 12 April 2007 at [[Massey College]] in Toronto.<ref name="Atwood" /> Nigerian author Chinua Achebe was awarded the International Prize for his literary career in 2007.<ref name="Nigeria">{{cite news|date=13 June 2007|title=Nigeria author wins Booker honour|publisher=[[BBC News]]|url=https://news.bbc.co.uk/2/hi/entertainment/6745609.stm|access-date=22 May 2011|archive-date=12 May 2011|archive-url=https://web.archive.org/web/20110512031525/http://news.bbc.co.uk/2/hi/entertainment/6745609.stm|url-status=live}}</ref> Judge Nadine Gordimer said Achebe was "the father of modern African literature" and that he was "integral" to world literature.<ref name="Nigeria" /> Achebe received his award on 28 June in [[Oxford]].<ref name="Nigeria" />
+;Winner
+*[[Chinua Achebe]]
+
+;Nominees
+{{col-begin}}
+{{col-break}}
+*[[Chinua Achebe]] (Nigeria)
+*[[Margaret Atwood]] (Canada)
+*[[John Banville]] (Ireland)
+*[[Peter Carey (novelist)|Peter Carey]] (Australia)
+*[[Don DeLillo]] (US)
+{{col-break}}
+*[[Carlos Fuentes]] (Mexico)
+*[[Doris Lessing]] (UK)
+*[[Ian McEwan]] (UK)
+*[[Harry Mulisch]] (Netherlands)
+*[[Alice Munro]] (Canada)
+{{col-break}}
+*[[Michael Ondaatje]] (Sri Lanka/Canada)
+*[[Amos Oz]] (Israel)
+*[[Philip Roth]] (US)
+*[[Salman Rushdie]] (India/UK)
+*[[Michel Tournier]] (France)
+{{col-end}}
+
+===2009===
+The 2009 prize was judged by [[Jane Smiley]] (chair), [[Amit Chaudhuri]] and [[Andrey Kurkov]].<ref name="Munro">{{cite news|last=Flood|first=Alison|date=27 May 2009|title=Alice Munro wins Man Booker International prize|work=[[The Guardian]]|url=https://www.theguardian.com/books/2009/may/27/alice-munro-man-booker-international-prize|access-date=22 May 2011|archive-date=8 March 2021|archive-url=https://web.archive.org/web/20210308102110/https://www.theguardian.com/books/2009/may/27/alice-munro-man-booker-international-prize|url-status=live}}</ref> The nominees for the third Man Booker International Prize were announced on 18 March 2009 at [[The New York Public Library]].<ref>{{cite news|date=18 March 2009|title=E.L. Doctorow among Man Booker international book prize nominees|work=[[Cleveland.com]]|url=https://www.cleveland.com/books/2009/03/el_doctorow_among_man_booker_i.html|access-date=21 May 2024|archive-date=21 May 2024|archive-url=https://web.archive.org/web/20240521162743/https://www.cleveland.com/books/2009/03/el_doctorow_among_man_booker_i.html|url-status=live}}</ref> Canadian short story writer Alice Munro was named the winner of the prize in 2009 for her lifetime body of work.<ref name="Munro" /> Judge Jane Smiley said picking a winner had been "a challenge", but Munro had won the panel over.<ref name="Munro" /> On Munro's work, Smiley said "Her work is practically perfect. Any writer has to gawk when reading her because her work is very subtle and precise. Her thoughtfulness about every subject is so concentrated."<ref name="Munro" /> Munro, who said she was "totally amazed and delighted" at her win, received the award at [[Trinity College Dublin]] on 25 June.<ref name="Times" /><ref name="Munro" />
+;Winner
+*[[Alice Munro]]
+
+;Nominees
+{{col-begin}}
+{{col-break}}
+*[[Peter Carey (novelist)|Peter Carey]] (Australia)
+*[[Evan S. Connell]] (US)
+*[[Mahasweta Devi]] (India)
+*[[E. L. Doctorow]] (US)
+*[[James Kelman]] (UK)<ref>{{cite news|url=https://www.theguardian.com/books/2009/mar/18/booker-international-prize-shortlist|title=James Kelman is UK's hope for Man Booker international prize|first=Alison|last=Flood|newspaper=[[The Guardian]]|date=18 March 2009|access-date=22 October 2016|archive-date=23 September 2017|archive-url=https://web.archive.org/web/20170923050726/https://www.theguardian.com/books/2009/mar/18/booker-international-prize-shortlist|url-status=live}}</ref>
+{{col-break}}
+*[[Arnošt Lustig]] (Czech Republic)
+*[[Alice Munro]] (Canada)
+*[[V. S. Naipaul]] (Trinidad/UK)
+*[[Ngũgĩ wa Thiong'o]] (Kenya)<ref>[http://themanbookerprize.com/author/ngugi-wa-thiong%E2%80%99o "Ngugi Wa Thiong’o"] {{webarchive|url=https://web.archive.org/web/20161023061714/http://themanbookerprize.com/author/ngugi-wa-thiong%E2%80%99o |date=23 October 2016 }} Booker Prize Foundation. Accessed 22 October 2016</ref>
+*[[Joyce Carol Oates]] (US)
+{{col-break}}
+*[[Antonio Tabucchi]] (Italy)
+*[[Dubravka Ugrešić]] (Croatia)
+*[[Lyudmila Ulitskaya]] (Russia)
+*[[Mario Vargas Llosa]] (Peru)
+{{col-end}}
+
+===2011===
+The 2011 prize was judged by [[Rick Gekoski]] (chair), [[Carmen Callil]] (withdrew in protest over choice of winner) and [[Justin Cartwright]].<ref name="Telegraph">{{cite news|last=Roberts|first=Laura|date=19 May 2011|title=Feminist judge resigns after Philip Roth wins Man Booker International Prize|work=[[The Daily Telegraph]]|url=https://www.telegraph.co.uk/culture/books/booker-prize/8521557/Feminist-judge-resigns-after-Philip-Roth-wins-Man-Booker-International-Prize.html|access-date=22 May 2011|archive-date=22 May 2011|archive-url=https://web.archive.org/web/20110522040634/http://www.telegraph.co.uk/culture/books/booker-prize/8521557/Feminist-judge-resigns-after-Philip-Roth-wins-Man-Booker-International-Prize.html|url-status=live}}</ref> The nominees for the fourth Man Booker International Prize were announced on 30 March 2011 at a ceremony in Sydney, Australia.<ref>{{cite news|last=Lea|first=Richard|author2=Hill, Amelia|date=30 March 2011|title=Man Booker Prize: Shortlist unveiled for the 'Olympics of literature'|work=[[The Guardian]]|url=https://www.theguardian.com/books/2011/mar/30/man-booker-prize-nominees-announced|access-date=22 May 2011}}</ref> [[John le Carré]] asked to be removed from consideration, saying he was "flattered", but that he does not compete for literary prizes.<ref name="Cold">{{cite news|last=Ginnane|first=Virginia|date=30 March 2011|title=Le Carre cold on book prize nomination|work=[[The Sydney Morning Herald]]|url=http://news.smh.com.au/breaking-news-national/le-carre-cold-on-book-prize-nomination-20110330-1cfmn.html|access-date=22 May 2011|archive-date=3 April 2011|archive-url=https://web.archive.org/web/20110403044021/http://news.smh.com.au/breaking-news-national/le-carre-cold-on-book-prize-nomination-20110330-1cfmn.html|url-status=live}}</ref> However, judge Rick Gekoski said although he was disappointed that le Carré wanted to withdraw, his name would remain on the list.<ref name="Cold" /> American novelist Philip Roth was announced as the winner on 18 May 2011 at the Sydney Writers' Festival.<ref name="RothBBC">{{cite news|date=18 May 2011|title=Philip Roth wins the Man Booker International Prize|publisher=[[BBC News]]|url=https://www.bbc.co.uk/news/entertainment-arts-13436735|access-date=18 May 2011|archive-date=18 May 2011|archive-url=https://web.archive.org/web/20110518081856/http://www.bbc.co.uk/news/entertainment-arts-13436735|url-status=live}}</ref> Of his win, Roth said "This is a great honour and I'm delighted to receive it."<ref name="RothBBC" /> The writer said he hoped the prize would bring him to the attention of readers around the world who are not currently familiar with his body of work.<ref name="RothBBC" /> Roth received his award in London on 28 June; however, he was unable to attend in person due to ill health, so he sent a short video instead.<ref name="RothBBC" /><ref>{{cite news|date=29 June 2011|title=Philip Roth win divided panel, Man Booker judge admits|publisher=[[BBC News]]|url=https://www.bbc.co.uk/news/entertainment-arts-13956612|access-date=30 June 2011|archive-date=30 June 2011|archive-url=https://web.archive.org/web/20110630043647/http://www.bbc.co.uk/news/entertainment-arts-13956612|url-status=live}}</ref> After Roth was announced as the winner, Carmen Callil withdrew from the judging panel, saying "I don't rate him as a writer at all... in 20 years' time will anyone read him?" Callil later wrote an editorial in ''[[The Guardian]]'' explaining her position and why she chose to leave the panel.<ref name="Quit" /><ref>{{cite news|last=Flood|first=Alison|date=18 May 2011|title=Judge withdraws over Philip Roth's Booker win|work=[[The Guardian]]|url=https://www.theguardian.com/books/2011/may/18/judge-quits-philip-roth-booker|access-date=18 May 2011}}</ref>
+;Winner
+
+*[[Philip Roth]]
+
+;Nominees
+{{col-begin}}
+{{col-break}}
+*[[Juan Goytisolo]] (Spain)
+*[[James Kelman]] (UK)
+*[[John le Carré]] (UK)
+*[[Amin Maalouf]] (Lebanon)
+*[[David Malouf]] (Australia)
+{{col-break}}
+*[[Dacia Maraini]] (Italy)
+*[[Rohinton Mistry]] (India/Canada)
+*[[Philip Pullman]] (UK)
+*[[Marilynne Robinson]] (US)
+*[[Philip Roth]] (US)
+{{col-break}}
+*[[Su Tong]] (China)
+*[[Wang Anyi]] (China)
+*[[Anne Tyler]] (US)
+{{col-end}}
+
+===2013===
+The 2013 prize was judged by [[Christopher Ricks]] (chair), [[Elif Batuman]], [[Aminatta Forna]], [[Yiyun Li]] and [[Tim Parks]].<ref name="Lea">{{cite news|last=Lea|first=Richard|date=24 January 2013|title=Man Booker International prize 2013 reveals shortlist|work=[[The Guardian]]|url=https://www.theguardian.com/books/2013/jan/24/man-booker-international-prize-2013-shortlist|access-date=26 April 2013}}</ref> The nominees for the fifth Man Booker International Prize were announced on 24 January 2013.<ref name="Prize2013b">{{cite web|date=24 January 2013|title=Man Booker International Prize 2013 Finalists Announced|publisher=The Man Booker Prizes|url=http://www.themanbookerprize.com/news/man-booker-international-prize-2013-finalists-announced|url-status=dead|archive-url=https://web.archive.org/web/20150924192855/http://themanbookerprize.com/news/man-booker-international-prize-2013-finalists-announced|archive-date=24 September 2015|access-date=26 April 2013}}</ref> Marilynne Robinson was the only writer out of the ten nominees who had been nominated for the prize before.<ref name="Prize2013b" /> Lydia Davis, best known as a short story writer, was announced as the winner of the 2013 prize on 22 May at a ceremony at the [[Victoria and Albert Museum]] in [[London]].<ref name="2013win" /> The official announcement of Davis' award on the Man Booker Prize website described her work as having "the brevity and precision of poetry." Judging panel chair Christopher Ricks commented that "There is vigilance to her stories, and great imaginative attention. Vigilance as how to realise things down to the very word or syllable; vigilance as to everybody's impure motives and illusions of feeling."<ref name="Prize2013">{{cite web|date=22 May 2013|title=Lydia Davis wins the Man Booker International Prize 2013|url=http://www.themanbookerprize.com/news/lydia-davis-wins-man-booker-international-prize-2013|url-status=dead|archive-url=https://web.archive.org/web/20140826185202/http://www.themanbookerprize.com/news/lydia-davis-wins-man-booker-international-prize-2013|archive-date=26 August 2014|access-date=2013-05-22|publisher=Man Brooker Prize}}</ref>
+;Winner
+*[[Lydia Davis]]<ref name="2013win">{{cite web |url=https://www.telegraph.co.uk/culture/books/10074108/Man-Booker-International-Prize-2013-Lydia-Davis-wins.html |title=Man Booker International Prize 2013: Lydia Davis wins |work=The Daily Telegraph |location=London |date=22 May 2013 |access-date=2013-05-22 |author=Stock, Jon |archive-date=23 May 2013 |archive-url=https://web.archive.org/web/20130523131345/http://www.telegraph.co.uk/culture/books/10074108/Man-Booker-International-Prize-2013-Lydia-Davis-wins.html |url-status=live }}</ref>
+
+;Nominees
+{{col-begin}}
+{{col-break}}
+*[[U R Ananthamurthy]] (India)
+*[[Aharon Appelfeld]] (Israel)
+*[[Lydia Davis]] (US)
+*[[Intizar Hussain]] (Pakistan)
+*[[Marie NDiaye]] (France)
+{{col-break}}
+*[[Josip Novakovich]] (Croatia/United States)
+*[[Marilynne Robinson]] (United States)
+*[[Vladimir Sorokin]] (Russia)
+*[[Peter Stamm]] (Switzerland)
+*[[Yan Lianke]] (China)
+{{col-end}}
+
+===2015===
+The 2015 prize was judged by [[United Kingdom|British]] author [[Marina Warner]] (chair), [[Nadeem Aslam]], [[Elleke Boehmer]], Edwin Frank and [[Wen-chin Ouyang]].<ref name="2015mbip">{{cite web|date=24 March 2015|title=The Man Booker International Prize 2015 Finalists' List Announced|url=http://www.themanbookerprize.com/news/man-booker-international-prize-2015-finalists%E2%80%99-list-announced|url-status=dead|archive-url=https://web.archive.org/web/20150402090417/http://www.themanbookerprize.com/news/man-booker-international-prize-2015-finalists%E2%80%99-list-announced|archive-date=2 April 2015|access-date=24 March 2015|publisher=The Man Booker Prizes}}</ref> The nominees for the sixth Man Booker International Prize were announced on 24 March 2015.<ref name="2015mbip" /> László Krasznahorkai became the first author from [[Hungary]] to receive the prize, which recognised his "achievement in fiction on the world stage". Warner compared his writing to [[Franz Kafka|Kafka]] and [[Samuel Beckett|Beckett]]. Krasznahorkai's translators, [[George Szirtes]] and [[Ottilie Mulzet]], shared the £15,000 translators' prize.<ref name="visionary">{{cite news|date=19 May 2015|title=Man Booker International prize 2015 won by 'visionary' László Krasznahorkai|work=The Guardian|first=Alison|last=Flood|url=https://www.theguardian.com/books/2015/may/19/man-international-booker-2015-laszlo-krasznahorkai|access-date=21 May 2015}}</ref>
+;Winner
+*[[László Krasznahorkai]]<ref>{{cite web|publisher=BBC News|url=https://www.bbc.co.uk/news/entertainment-arts-32789001|title=Hungarian Laszlo Krasznahorkai wins Man Booker International Prize|date=20 May 2015|access-date=20 June 2018|archive-date=21 April 2019|archive-url=https://web.archive.org/web/20190421114737/https://www.bbc.co.uk/news/entertainment-arts-32789001|url-status=live}}</ref>
+
+;Nominees
+{{col-begin}}
+{{col-break}}
+*[[César Aira]] (Argentina)
+*[[Ibrahim al-Koni]] (Libya)
+*[[Hoda Barakat]] (Lebanon)
+*[[Maryse Condé]] (Guadeloupe)
+*[[Mia Couto]] (Mozambique)
+
+{{col-break}}
+*[[Amitav Ghosh]] (India)
+*[[Fanny Howe]] (United States)
+*[[László Krasznahorkai]] (Hungary)
+*[[Alain Mabanckou]] (Republic of the Congo)
+*[[Marlene van Niekerk]] (South Africa)
+{{col-end}}
+
+==Nominations 2016–present==
+
+The chair of each year's judging panel is shown in bold text.
+
+===2016===
+The nominees for the seventh Man Booker International Prize were announced on 14 April 2016.<ref name="obs">{{cite web|agency=Agência Lusa|title=José Eduardo Agualusa entre os finalistas do Man Booker International Prize 2016|url=http://observador.pt/2016/04/14/jose-eduardo-agualusa-os-finalistas-do-man-booker-international-prize-2016/|access-date=14 April 2016|work=Observador|language=pt}}</ref> The six nominees were chosen from a longlist of thirteen.<ref name="SCain">{{cite web|last=Cain|first=Sian|date=14 April 2016|title='Exhilarating' Man Booker International shortlist spans the world|url=https://www.theguardian.com/books/2016/apr/14/orhan-pamuk-man-booker-internationalprize-2016-shortlist-elena-ferrante-yan-lianke|access-date=15 April 2016|work=[[The Guardian]]}}</ref><ref>{{cite web |url=http://themanbookerprize.com/resources/media/pressreleases/man-booker-international-prize-2016-longlist-announced |title=The Man Booker International Prize 2016 Longlist Announced |archive-url=https://web.archive.org/web/20180228074242/http://themanbookerprize.com/resources/media/pressreleases/man-booker-international-prize-2016-longlist-announced |archive-date=28 February 2018 |url-status=dead |access-date=15 April 2016}}</ref> Han Kang became the first Korean author to win the prize and, under the new format for 2016, Smith became the first translator to share the prize. British journalist [[Boyd Tonkin]], who chaired the judging panel, said that the decision was unanimous. He also said of the book "in a style both lyrical and lacerating, it reveals the impact of this great refusal both on the heroine herself and on those around her. This compact, exquisite and disturbing book will linger long in the minds, and maybe the dreams, of its readers."<ref>{{cite news|title=Han Kang's The Vegetarian wins Man Booker International Prize|publisher=BBC News|url=https://www.bbc.co.uk/news/entertainment-arts-36303604|access-date=16 May 2016|archive-date=22 September 2019|archive-url=https://web.archive.org/web/20190922124957/https://www.bbc.co.uk/news/entertainment-arts-36303604|url-status=live}}</ref>
+
+{|class="sortable wikitable" width=%100
+!Award
+!Author
+!Country
+!Language
+!Translator
+!Title
+!Publisher
+!Judges
+|-
+|style="background:#FAEB86; color:black" |Winner
+|style="background:#FAEB86; color:black" |[[Han Kang]]
+|style="background:#FAEB86; color:black" |{{Flag|South Korea}}
+|style="background:#FAEB86; color:black" |[[Korean language|Korean]]
+|style="background:#FAEB86; color:black" |[[Deborah Smith (translator)|Deborah Smith]]
+|style="background:#FAEB86; color:black" |''[[The Vegetarian]]''<br>''{{small|채식주의자}}''
+|style="background:#FAEB86; color:black" |Portobello Books
+|rowspan=13 |
+*'''[[Boyd Tonkin]]'''
+*[[Tahmima Anam]]
+*[[David Bellos]]
+*Daniel Medin
+*[[Ruth Padel]]
+|-
+|rowspan=5 |Shortlist
+|[[José Eduardo Agualusa]]
+|{{Flag|Angola}}
+|[[Portuguese language|Portuguese]]
+|[[Daniel Hahn]]
+|''[[A General Theory of Oblivion]]''<br>''{{small|Teoria Geral do Esquecimento}}''
+|[[Harvill Secker]]
+|-
+|[[Elena Ferrante]]
+|{{Flag|Italy}}
+|[[Italian language|Italian]]
+|[[Ann Goldstein (translator)|Ann Goldstein]]
+|''[[The Story of the Lost Child]]''<br>''{{small|Storia della bambina perduta}}''
+|[[Europa Editions UK|Europa Editions]]
+|-
+|[[Orhan Pamuk]]
+|{{Flag|Turkey}}
+|[[Turkish language|Turkish]]
+|Ekin Oklap
+|''[[A Strangeness in My Mind]]''<br>''{{small|Kafamda Bir Tuhaflık}}''
+|[[Faber & Faber]]
+|-
+|[[Robert Seethaler]]
+|{{Flag|Austria}}
+|[[German language|German]]
+|[[Charlotte Collins]]
+|''A Whole Life''<br>''{{small|Ein ganzes Leben}}''
+|[[Picador (imprint)|Picador]]
+|-
+|[[Yan Lianke]]
+|{{Flag|China}}
+|[[Mandarin Chinese|Mandarin]]
+|[[Carlos Rojas (sinologist)|Carlos Rojas]]
+|''The Four Books''<br>''{{small|四書}}''
+|[[Chatto & Windus]]
+|-
+|rowspan=7 |Longlist
+|[[Maylis de Kerangal]]
+|{{Flag|France}}
+|[[French language|French]]
+|Jessica Moore
+|''[[The Heart (novel)|Mend the Living]]''<br>''{{small|Réparer les vivants}}''
+|[[Quercus (publisher)|MacLehose Press]]
+|-
+|[[Eka Kurniawan]]
+|{{Flag|Indonesia}}
+|[[Indonesian language|Indonesian]]
+|Labodalih Sembiring
+|''Man Tiger''<br>''{{small|Lelaki Harimau}}''
+|[[Verso Books]]
+|-
+|[[Fiston Mwanza Mujila]]
+|{{Flag|DR Congo}}
+|French
+|[[Roland Glasser]]
+|''Tram 83''
+|[[Jacaranda Books]]
+|-
+|[[Raduan Nassar]]
+|{{Flag|Brazil}}
+|Portuguese
+|Stefan Tobler
+|''A Cup of Rage''<br>''{{small|Um Copo de Cólera}}''
+|[[Penguin Classics|Penguin Modern Classics]]
+|-
+|[[Marie NDiaye]]
+|{{Flag|France}}
+|French
+|Jordan Stump
+|''Ladivine''
+|MacLehose Press
+|-
+|[[Kenzaburō Ōe]]
+|{{Flag|Japan}}
+|[[Japanese language|Japanese]]
+|[[Deborah Boliver Boehm]]
+|''[[Death by Water (novel)|Death by Water]]''<br>''{{small|水死}}''
+|[[Atlantic Books]]
+|-
+|[[Aki Ollikainen]]
+|{{Flag|Finland}}
+|[[Finnish language|Finnish]]
+|Emily Jeremiah & Fleur Jeremiah
+|''White Hunger''<br>''{{small|Nälkävuosi}}''
+|[[Peirene Press]]
+|}
+
+===2017===
+The longlist for the eighth Man Booker International Prize was announced on 14 March 2017, and the shortlist on 20 April 2017. The winner was announced on 14 June 2017.<ref>{{cite web|title=The Man Booker International Prize 2017 Longlist Announced|url=http://themanbookerprize.com/news/man-booker-international-prize-2017-longlist-announced|website=themanbookerprize.com|language=en|access-date=16 March 2017|archive-date=25 January 2018|archive-url=https://web.archive.org/web/20180125023232/http://themanbookerprize.com/news/man-booker-international-prize-2017-longlist-announced|url-status=dead}}</ref><ref>{{cite web|title=The Man Booker International Prize 2017 shortlist announced|url=http://themanbookerprize.com/news/man-booker-international-prize-2017-shortlist-announced|website=themanbookerprize.com|language=en|access-date=25 April 2017|archive-date=25 January 2018|archive-url=https://web.archive.org/web/20180125044558/http://themanbookerprize.com/news/man-booker-international-prize-2017-shortlist-announced|url-status=dead}}</ref> David Grossman became the first Israeli author to win the prize, sharing the £50,000 award with translator Jessica Cohen. Nick Barley, who is the director of the [[Edinburgh International Book Festival]], described the book as "an ambitious high-wire act of a novel [that] shines a spotlight on the effects of grief, without any hint of sentimentality. The central character is challenging and flawed, but completely compelling." The novel won over 126 other contenders.<ref>{{cite news|date=15 June 2017|title=Man Booker International Prize: David Grossman wins for stand-up comic novel|publisher=[[BBC News]]|url=https://www.bbc.com/news/entertainment-arts-40286540|access-date=15 June 2017|archive-date=15 June 2017|archive-url=https://web.archive.org/web/20170615123857/http://www.bbc.com/news/entertainment-arts-40286540|url-status=live}}</ref>
+
+{|class="sortable wikitable" width=%100
+!Award
+!'''Author'''
+!'''Country'''
+!'''Language'''
+!'''Translator'''
+!'''Title'''
+!'''Publisher'''
+!Judges
+|-
+|style="background:#FAEB86; color:black" |Winner 
+|style="background:#FAEB86; color:black" |[[David Grossman]]
+|style="background:#FAEB86; color:black" |{{Flag|Israel}}
+|style="background:#FAEB86; color:black" |[[Hebrew]]
+|style="background:#FAEB86; color:black" |[[Jessica Cohen]]
+|style="background:#FAEB86; color:black" |''[[A Horse Walks into a Bar]]''<br>''{{small|סוס אחד נכנס לבר}}''
+|style="background:#FAEB86; color:black" |[[Jonathan Cape]]
+|rowspan=13 |
+*'''Nick Barley'''
+*[[Daniel Hahn]]
+*[[Helen Mort]]
+*[[Elif Shafak]]
+*[[Chika Unigwe]]
+|-
+|rowspan=5 |Shortlist
+|[[Mathias Énard]]
+|{{Flag|France}}
+|French
+|[[Charlotte Mandell]]
+|''Compass''<br>''{{small|Boussole}}''
+|[[Fitzcarraldo Editions]]
+|-
+|[[Roy Jacobsen]]
+|{{Flag|Norway}}
+|[[Norwegian language|Norwegian]]
+|Don Bartlett & Don Shaw
+|''The Unseen''<br>''{{small|De usynlige}}''
+|MacLehose Press
+|-
+|[[Dorthe Nors]]
+|{{Flag|Denmark}}
+|[[Danish language|Danish]]
+|Misha Hoekstra
+|''Mirror, Shoulder, Signal''<br>''{{small|Spejl, skulder, blink}}''
+|[[Pushkin Press]]
+|-
+|[[Amos Oz]]
+|{{Flag|Israel}}
+|Hebrew
+|[[Nicholas de Lange]]
+|''Judas''<br>''{{small|הבשורה על-פי יהודה}}''
+|Chatto & Windus
+|-
+|[[Samanta Schweblin]]
+|{{Flag|Argentina}}
+|[[Spanish language|Spanish]]
+|[[Megan McDowell]]
+|''[[Fever Dream (Samanta Schweblin novel)|Fever Dream]]''<br>''{{small|Distancia de rescate}}''
+|[[Oneworld Publications|Oneworld]]
+|-
+|rowspan=7 |Longlist
+|[[Wioletta Greg]]
+|{{Flag|Poland}}
+|[[Polish language|Polish]]
+|Eliza Marciniak
+|''Swallowing Mercury''<br>''{{small|Guguły}}''
+|Portobello Books
+|-
+|[[Stefan Hertmans]]
+|{{Flag|Belgium}}
+|[[Dutch language|Dutch]]
+|David McKay
+|''War and Turpentine''<br>''{{small|Oorlog en terpentijn}}''
+|Harvill Secker
+|-
+|[[Ismail Kadare]]
+|{{Flag|Albania}}
+|[[Albanian language|Albanian]]
+|John Hodgson
+|''[[The Traitor's Niche]]''<br>''{{small|Kamarja e turpit}}''
+|Harvill Secker
+|-
+|[[Alain Mabanckou]]
+|{{Flag|France}}
+|French
+|Helen Stevenson
+|''Black Moses''<br>''{{small|Petit Piment}}''
+|[[Serpent's Tail]]
+|-
+|[[Clemens Meyer]]
+|{{Flag|Germany}}
+|German
+|[[Katy Derbyshire]]
+|''Bricks and Mortar''<br>''{{small|Im Stein}}''
+|Fitzcarraldo Editions
+|-
+|[[Jón Kalman Stefánsson]]
+|{{Flag|Iceland}}
+|[[Icelandic language|Icelandic]]
+|Phil Roughton
+|''Fish Have No Feet''<br>''{{small|Fiskarnir hafa enga fætur}}''
+|MacLehose Press
+|-
+|[[Yan Lianke]]
+|{{Flag|China}}
+|Mandarin
+|[[Carlos Rojas (sinologist)|Carlos Rojas]]
+|''The Explosion Chronicles''<br>''{{small|炸裂志}}''
+|Chatto & Windus
+|}
+
+===2018===
+The longlist for the ninth Man Booker International Prize was announced on 12 March 2018. The shortlist of six books was announced on 12 April 2018 at an event at Somerset House in London. The winner was announced on 22 May 2018 at the Victoria & Albert Museum in London. Olga Tokarczuk is the first [[Literature in Poland|Polish author]] to win the award,<ref>{{cite news|title=Man Booker International Prize: Olga Tokarczuk is first Polish winner|url=https://www.bbc.com/news/entertainment-arts-44219438|date=22 May 2018|access-date=24 May 2018|agency=BBC News|archive-date=28 October 2021|archive-url=https://web.archive.org/web/20211028183049/https://www.bbc.com/news/entertainment-arts-44219438|url-status=live}}</ref> and shared the prize with translator Jennifer Croft.<ref>{{cite news|title=Polish novelist Olga Tokarczuk wins Man Booker International Prize for translated novel 'Flights'|url=http://www.dw.com/en/polish-novelist-olga-tokarczuk-wins-man-booker-international-prize-for-translated-novel-flights/a-43887975|date=May 22, 2018|access-date=25 May 2018|agency=DW.com|archive-date=24 May 2018|archive-url=https://web.archive.org/web/20180524223001/http://www.dw.com/en/polish-novelist-olga-tokarczuk-wins-man-booker-international-prize-for-translated-novel-flights/a-43887975|url-status=live}}</ref> [[Lisa Appignanesi]] described Tokarczuk as a "writer of wonderful wit, imagination, and literary panache."<ref>{{cite news|title=Olga Tokarczuk becomes first Polish winner of International Man Booker Prize|url=https://home.bt.com/news/showbiz-news/olga-tokarczuk-becomes-first-polish-winner-of-international-man-booker-prize-11364273590189|access-date=22 May 2018|publisher=BT|date=22 May 2018|archive-date=23 May 2018|archive-url=https://web.archive.org/web/20180523100832/https://home.bt.com/news/showbiz-news/olga-tokarczuk-becomes-first-polish-winner-of-international-man-booker-prize-11364273590189|url-status=live}}</ref>
+
+{|class="sortable wikitable" width=%100
+!Award
+!'''Author'''
+!'''Country'''
+!'''Language'''
+!'''Translator'''
+!'''Title'''
+!'''Publisher'''
+!Judges
+|-
+|style="background:#FAEB86; color:black" |Winner 
+|style="background:#FAEB86; color:black" |[[Olga Tokarczuk]]
+|style="background:#FAEB86; color:black" |{{Flag|Poland}}
+|style="background:#FAEB86; color:black" |Polish
+|style="background:#FAEB86; color:black" |[[Jennifer Croft]]
+|style="background:#FAEB86; color:black" |''[[Flights (novel)|Flights]]''<br>''{{small|Bieguni}}''
+|style="background:#FAEB86; color:black" |Fitzcarraldo Editions
+|rowspan=13 |
+*'''[[Lisa Appignanesi]]'''
+*[[Michael Hofmann]]
+*[[Hari Kunzru]]
+*Tim Martin
+*[[Helen Oyeyemi]]
+|-
+|rowspan=5 |Shortlist
+|[[Virginie Despentes]]
+|{{Flag|France}}
+|French
+|[[Frank Wynne]]
+|style="white-space:nowrap" |''Vernon Subutex 1''
+|MacLehose Press
+|-
+|[[Han Kang]]
+|{{Flag|South Korea}}
+|Korean
+|[[Deborah Smith (translator)|Deborah Smith]]
+|''[[The White Book]]''<br>''{{small|흰}}''
+|Portobello Books
+|-
+|[[László Krasznahorkai]]
+|{{Flag|Hungary}}
+|[[Hungarian language|Hungarian]]
+|[[John Batki]], [[Ottilie Mulzet]] & [[George Szirtes]]
+|''[[The World Goes On]]''<br>''{{small|Megy a világ}}''
+|Tuskar Rock Press
+|-
+|[[Antonio Muñoz Molina]]
+|{{Flag|Spain}}
+|Spanish
+|Camilo A. Ramirez
+|''[[Like a Fading Shadow]]''<br>''{{small|Como la sombra que se va}}''
+|Tuskar Rock Press
+|-
+|[[Ahmed Saadawi]]
+|{{Flag|Iraq}}
+|[[Arabic language|Arabic]]
+|[[Jonathan Wright (translator)|Jonathan Wright]]
+|''[[Frankenstein in Baghdad]]''<br>''{{small|{{lang|ar|فرانكشتاين في بغداد}}}}''
+|Oneworld
+|-
+|rowspan=7 |Longlist
+|[[Laurent Binet]]
+|{{Flag|France}}
+|French
+|Sam Taylor
+|''The 7th Function of Language''<br>''{{small|La Septième Fonction du langage}}''
+|Harvill Secker
+|-
+|[[Javier Cercas]]
+|{{Flag|Spain}}
+|Spanish
+|[[Frank Wynne]]
+|''The Impostor''<br>''{{small|El impostor}}''
+|MacLehose Press
+|-
+|[[Jenny Erpenbeck]]
+|{{Flag|Germany}}
+|German
+|[[Susan Bernofsky]]
+|''Go, Went, Gone''<br>''{{small|Gehen, ging, gegangen}}''
+|Portobello Books
+|-
+|[[Ariana Harwicz]]
+|{{Flag|Argentina}}
+|Spanish
+|Sarah Moses & Carolina Orloff
+|''[[Die, My Love]]''<br>''{{small|Mátate, amor}}''
+|[[Charco Press]]
+|-
+|[[Christoph Ransmayr]]
+|{{Flag|Austria}}
+|German
+|Simon Pare
+|''The Flying Mountain''<br>''{{small|Der fliegende Berg}}''
+|[[Seagull Books]]
+|-
+|[[Wu Ming-Yi]]
+|{{Flag|Taiwan}}
+|Mandarin
+|Darryl Sterk
+|''[[The Stolen Bicycle]]''<br>''{{small|單車失竊記}}''
+|[[Text Publishing]]
+|-
+|[[Gabriela Ybarra]]
+|{{Flag|Spain}}
+|Spanish
+|[[Natasha Wimmer]]
+|''The Dinner Guest''<br>''{{small|El comensal}}''
+|Harvill Secker
+|}
+
+===2019===
+The longlist for the Man Booker International Prize was announced on 13 March 2019.<ref>{{Cite web|url=https://www.booksandpublishing.com.au/articles/2019/03/14/129770/man-booker-international-2019-longlist-announced/|title=Man Booker International 2019 longlist announced|date=2019-03-14|website=Books+Publishing|language=en-AU|access-date=2019-03-18|archive-date=21 July 2019|archive-url=https://web.archive.org/web/20190721190737/https://www.booksandpublishing.com.au/articles/2019/03/14/129770/man-booker-international-2019-longlist-announced/|url-status=live}}</ref> The shortlist was announced on 9 April 2019.<ref>{{cite web |title=Man Booker International Prize 2019 shortlist announced |url=https://themanbookerprize.com/resources/media/pressreleases/man-booker-international-prize-2019-shortlist-announced |website=Man Booker International |access-date=9 May 2019 |archive-date=21 April 2019 |archive-url=https://web.archive.org/web/20190421214123/https://themanbookerprize.com/resources/media/pressreleases/man-booker-international-prize-2019-shortlist-announced |url-status=live }}</ref> The winner was announced on 21 May 2019; [[Jokha al-Harthi|Jokha Alharthi]] is the first author writing in Arabic to have won the Man Booker International Prize. Bettany Hughes said of ''Celestial Bodies'' that, "We felt we were getting access to ideas and thoughts and experiences you aren’t normally given in English. It avoids every stereotype you might expect in its analysis of gender and race and social distinction and slavery."<ref>{{cite web |last1=Flood |first1=Allison |title=Man Booker International prize: Jokha Alharthi wins for Celestial Bodies |url=https://www.theguardian.com/books/2019/may/21/man-booker-international-prize-jokha-alharthi-wins-celestial-bodies-oman |website=The Guardian |date=21 May 2019 |access-date=22 May 2019 |archive-date=7 November 2020 |archive-url=https://web.archive.org/web/20201107231558/https://www.theguardian.com/books/2019/may/21/man-booker-international-prize-jokha-alharthi-wins-celestial-bodies-oman |url-status=live }}</ref>
+
+{|class="sortable wikitable" width=%100
+!Award
+!'''Author'''
+!'''Country'''
+!'''Language'''
+!'''Translator'''
+!'''Title'''
+!'''Publisher'''
+!Judges
+|-
+|style="background:#FAEB86; color:black" |Winner 
+|style="background:#FAEB86; color:black" |[[Jokha al-Harthi|Jokha Alharthi]]
+|style="background:#FAEB86; color:black" |{{Flag|Oman}}
+|style="background:#FAEB86; color:black" |Arabic
+|style="background:#FAEB86; color:black" |[[Marilyn Booth]]
+|style="background:#FAEB86; color:black" |''[[Celestial Bodies]]''<br>''{{small|{{lang|ar|سيدات القمر}}}}''
+|style="background:#FAEB86; color:black" |Sandstone Press
+|rowspan=13 |
+*'''[[Bettany Hughes]]'''
+*[[Maureen Freely]]
+*[[Angie Hobbs]]
+*[[Pankaj Mishra]]
+*[[Elnathan John]]
+|-
+|rowspan=5 |Shortlist
+|[[Annie Ernaux]]
+|{{Flag|France}}
+|French
+|Alison L. Strayer
+|''[[The Years (Ernaux book)|The Years]]''<br>''{{small|Les années}}''
+|Fitzcarraldo Editions
+|-
+|[[Marion Poschmann]]
+|{{Flag|Germany}}
+|German
+|[[Jen Calleja]]
+|''The Pine Islands''<br>''{{small|Die Kieferninseln}}''
+|Serpent's Tail
+|-
+|[[Olga Tokarczuk]]
+|{{Flag|Poland}}
+|Polish
+|[[Antonia Lloyd-Jones]]
+|''[[Drive Your Plow Over the Bones of the Dead|Drive Your Plow over the Bones of the Dead]]''<br>''{{small|Prowadź swój pług przez kości umarłych}}''
+|Fitzcarraldo Editions
+|-
+|[[Juan Gabriel Vásquez]]
+|{{Flag|Colombia}}
+|Spanish
+|[[Anne McLean]]
+|''The Shape of the Ruins''<br>''{{small|La forma de las ruinas}}''
+|MacLehose Press
+|-
+|[[Alia Trabucco Zerán]]
+|{{Flag|Chile}}
+|Spanish
+|[[Sophie Hughes]]
+|''The Remainder''<br>''{{small|La resta}}''
+|[[And Other Stories]]
+|-
+|rowspan=7 |Longlist
+|[[Can Xue]]
+|{{Flag|China}}
+|Mandarin
+|Annelise Finegan Wasmoen
+|''Love in the New Millennium''<br>''{{small|新世纪爱情故事}}''
+|[[Yale University Press]]
+|-
+|[[Hwang Sok-yong]]
+|{{Flag|South Korea}}
+|Korean
+|[[Sora Kim-Russell]]
+|''At Dusk''<br>''{{small|해질무렵}}''
+|[[Scribe (publisher)|Scribe]]
+|-
+|[[Mazen Maarouf]]
+|{{Flag|Palestine}}<br>{{Flag|Iceland}}
+|Arabic
+|[[Jonathan Wright (translator)|Jonathan Wright]]
+|''Jokes for the Gunmen''<br>''{{small|{{lang|ar|نكات للمسلحين}}}}''
+|[[Granta]]
+|-
+|[[Hubert Mingarelli]]
+|{{Flag|France}}
+|French
+|Sam Taylor
+|''Four Soldiers''<br>''{{small|Quatre soldats}}''
+|Portobello Books
+|-
+|[[Samanta Schweblin]]
+|{{Flag|Argentina}} 
+|Spanish
+|[[Megan McDowell]]
+|''[[Mouthful of Birds]]''<br>''{{small|Pájaros en la boca}}''
+|Oneworld
+|-
+|[[Sara Stridsberg]]
+|{{Flag|Sweden}}
+|[[Swedish language|Swedish]]
+|Deborah Bragan-Turner
+|''[[The Faculty of Dreams]]''<br>''{{small|Drömfakulteten}}''
+|MacLehose Press
+|-
+|[[Tommy Wieringa]]
+|{{Flag|Netherlands}}
+|Dutch
+|[[Sam Garrett]]
+|''The Death of Murat Idrissi''<br>''{{small|De dood van Murat Idrissi}}''
+|Scribe
+|}
+
+===2020===
+The longlist for the prize was announced on 27 February 2020.<ref>{{cite web |title=2020 International Booker Prize Longlist Announced |url=https://thebookerprizes.com/international-booker/news/2020-international-booker-prize-longlist-announced |website=The Booker Prizes |access-date=27 February 2020 |archive-date=27 February 2020 |archive-url=https://web.archive.org/web/20200227100828/https://thebookerprizes.com/international-booker/news/2020-international-booker-prize-longlist-announced |url-status=live }}</ref> The shortlist was announced 2 April 2020.<ref>{{cite web|url=https://thebookerprizes.com/international-booker/news/2020-international-booker-prize-shortlist-announced|title=The 2020 International Booker Prize Shortlist Announced|publisher=The Booker Prizes|date=1 April 2020|access-date=2 April 2020|archive-date=7 April 2020|archive-url=https://web.archive.org/web/20200407062709/https://thebookerprizes.com/international-booker/news/2020-international-booker-prize-shortlist-announced|url-status=dead}}</ref> The winner announcement was originally planned for 19 May 2020, however due to the [[COVID-19 pandemic]] it was postponed to 26 August 2020.<ref>{{cite web |last1=The Booker Prizes |title=The 2020 International Booker Prize Winner Announcement Postponed |url=https://thebookerprizes.com/international-booker/news/2020-international-booker-prize-winner-announcement-postponed |publisher=Booker Prizes |access-date=20 April 2020 |archive-date=5 June 2021 |archive-url=https://web.archive.org/web/20210605081004/https://thebookerprizes.com/international-booker/news/2020-international-booker-prize-winner-announcement-postponed |url-status=dead }}</ref>
+
+{|class="sortable wikitable" width=%100
+!Award
+!'''Author'''
+!'''Country'''
+!'''Language'''
+!'''Translator'''
+!'''Title'''
+!'''Publisher'''
+!Judges
+|-
+|style="background:#FAEB86; color:black" |Winner 
+|style="background:#FAEB86; color:black" |[[Marieke Lucas Rijneveld]]
+|style="background:#FAEB86; color:black" |{{Flag|Netherlands}}
+|style="background:#FAEB86; color:black" |Dutch
+|style="background:#FAEB86; color:black" |[[Michele Hutchison]]
+|style="background:#FAEB86; color:black" |''[[The Discomfort of Evening]]''<br>''{{small|De avond is ongemak}}''
+|style="background:#FAEB86; color:black" |Faber & Faber
+|rowspan=13 |
+*'''Ted Hodgkinson'''
+*[[Jennifer Croft]]
+*[[Valeria Luiselli]]
+*[[Jeet Thayil]]
+*Lucie Campos
+|-
+|rowspan=5 |Shortlist
+|[[Shokoofeh Azar]]
+|{{Flag|Iran}}
+|[[Persian language|Persian]]
+|Anonymous
+|''[[The Enlightenment of the Greengage Tree]]''<br>''{{small|{{lang|fa|اشراق درخت گوجه سبز}}}}''
+|Europa Editions
+|-
+|[[Gabriela Cabezón Cámara]]
+|{{Flag|Argentina}}
+|Spanish
+|[[Iona Macintyre]] & Fiona Mackintosh
+|''[[The Adventures of China Iron]]''<br>''{{small|Las aventuras de la China Iron}}''
+|Charco Press
+|-
+|[[Daniel Kehlmann]]
+|{{Flag|Germany}}
+|German
+|[[Ross Benjamin]]
+|''[[Tyll (novel)|Tyll]]''
+|[[Quercus (publisher)|Riverrun, Quercus]]
+|-
+|[[Fernanda Melchor]]
+|{{Flag|Mexico}}
+|Spanish
+|[[Sophie Hughes]]
+|''[[Hurricane Season (novel)|Hurricane Season]]''<br>''{{small|Temporada de huracanes}}''
+|Fitzcarraldo Editions
+|-
+|[[Yōko Ogawa]]
+|{{Flag|Japan}}
+|Japanese
+|Stephen Snyder
+|''[[The Memory Police]]''<br>''{{small|{{lang|ja|密やかな結晶}}}}''
+|Harvill Secker
+|-
+|rowspan=7 |Longlist
+|[[Willem Anker]]
+|{{Flag|South Africa}}
+|[[Afrikaans]]
+|[[Michiel Heyns]]
+|''Red Dog''<br>''{{small|Buys: 'n grensroman}}''
+|Pushkin Press
+|-
+|[[Jon Fosse]]
+|{{Flag|Norway}}
+|Norwegian
+|[[Damion Searls]]
+|''The Other Name: Septology I – II''<br>''{{small|Det andre namnet – Septologien I – II}}''
+|Fitzcarraldo Editions
+|-
+|[[Nino Haratischwili|Nino Haratischvili]]
+|{{Flag|Georgia}}<br>{{Flag|Germany}}
+|German
+|[[Charlotte Collins]] & Ruth Martin
+|''The Eighth Life''<br>''{{small|Das achte Leben (Für Brilka)}}''
+|Scribe
+|-
+|[[Michel Houellebecq]]
+|{{Flag|France}}
+|French
+|[[Shaun Whiteside]] 
+|''[[Serotonin (novel)|Serotonin]]''<br>''{{small|Sérotonine}}''
+|[[Heinemann (publisher)|William Heinemann]]
+|-
+|[[Emmanuelle Pagano]]
+|{{Flag|France}}
+|French
+|Sophie Lewis & Jennifer Higgins 
+|''Faces on the Tip of My Tongue''<br>''{{small|Un renard à mains nues}}''
+|Peirene Press
+|-
+|[[Samanta Schweblin]]
+|{{Flag|Argentina}}
+|Spanish
+|[[Megan McDowell]] 
+|''Little Eyes''<br>''{{small|Kentukis}}''
+|Oneworld
+|-
+|[[Enrique Vila-Matas]]
+|{{Flag|Spain}}
+|Spanish
+|[[Margaret Jull Costa]] & [[Sophie Hughes]]
+|''Mac and His Problem''<br>''{{small|Mac y su contratiempo}}''
+|Harvill Secker
+|}
+
+===2021===
+The longlist was announced on 30 March 2021, the shortlist on 22 April, and the winning author and translator on 2 June 2021.<ref>{{Cite web|date=2 June 2020|title=The 2021 International Booker Prize Winner announcement|url=https://thebookerprizes.com/international-booker/news/2021-international-booker-prize-winner-announcement|access-date=2 June 2021|website=The Booker Prizes|archive-date=13 August 2021|archive-url=https://web.archive.org/web/20210813082316/https://thebookerprizes.com/international-booker/news/2021-international-booker-prize-winner-announcement|url-status=live}}</ref>
+
+{|class="sortable wikitable" width=%100
+!Award
+!'''Author'''
+!'''Country'''
+!'''Language'''
+!'''Translator'''
+!'''Title'''
+!'''Publisher'''
+!Judges
+|-
+|style="background:#FAEB86; color:black" |Winner 
+|style="background:#FAEB86; color:black" |[[David Diop (novelist)|David Diop]]
+|style="background:#FAEB86; color:black" |{{Flag|France}}
+|style="background:#FAEB86; color:black" |French
+|style="background:#FAEB86; color:black" |[[Anna Moschovakis]]
+|style="background:#FAEB86; color:black" |''[[At Night All Blood Is Black]]''<br>''{{small|Frère d'âme}}''
+|style="background:#FAEB86; color:black" |Pushkin Press
+|rowspan=13 |
+*'''[[Lucy Hughes-Hallett]]'''
+*[[Aida Edemariam]]
+*[[Neel Mukherjee (writer)|Neel Mukherjee]]
+*[[Olivette Otele]]
+*[[George Szirtes]]
+|-
+|rowspan=5 |Shortlist
+|[[Mariana Enríquez]]
+|{{Flag|Argentina}}
+|Spanish
+|[[Megan McDowell]]
+|''[[The Dangers of Smoking in Bed]]''<br>''{{small|Los peligros de fumar en la cama}}''
+|Granta
+|-
+|[[Benjamín Labatut]]
+|{{Flag|Chile}}
+|Spanish
+|[[Adrian Nathan West]]
+|''[[When We Cease to Understand the World]]''<br>''{{small|Un verdor terrible}}''
+|Pushkin Press
+|-
+|[[Olga Ravn]]
+|{{Flag|Denmark}}
+|Danish
+|Martin Aitken
+|''[[The Employees]]''<br>''{{small|De ansatte}}''
+|Lolli Editions
+|-
+|[[Maria Stepanova (poet)|Maria Stepanova]]
+|{{Flag|Russia}}
+|[[Russian language|Russian]]
+|[[Sasha Dugdale]]
+|''In Memory of Memory''<br>''{{small|Памяти памяти}}''
+|Fitzcarraldo Editions
+|-
+|[[Éric Vuillard]]
+|{{Flag|France}}
+|French
+|Mark Polizzotti
+|''The War of the Poor''<br>''{{small|La Guerre des pauvres}}''
+|Picador
+|-
+|rowspan=7 |Longlist
+|[[Can Xue]]
+|{{Flag|China}}
+|Mandarin
+|Karen Gernant & Chen Zeping
+|''I Live in the Slums''
+|Yale University Press
+|-
+|[[Nana Ekvtimishvili]]
+|{{Flag|Georgia}}
+|[[Georgian language|Georgian]]
+|Elizabeth Heighway
+|''The Pear Field''<br>''{{small|{{lang|ka|მსხლების მინდორი}}}}''
+|Peirene Press
+|-
+|[[Ngũgĩ wa Thiong'o]]
+|{{Flag|Kenya}}
+|[[Kikuyu language|Kikuyu]]
+|[[Ngũgĩ wa Thiong'o]]
+|''[[The Perfect Nine: The Epic of Gĩkũyũ and Mũmbi]]''<br>''{{small|Kenda Mũiyũru: Rũgano rwa Gĩkũyũ na Mũmbi}}''
+|Harvill Secker
+|-
+|[[Jaap Robben]]
+|{{Flag|Netherlands}}
+|Dutch
+|David Doherty
+|''Summer Brother''<br>''{{small|Zomervacht}}''
+|[[World Editions]]
+|-
+|[[Judith Schalansky]]
+|{{Flag|Germany}}
+|German
+|Jackie Smith
+|''[[An Inventory of Losses]]''<br>''{{small|Verzeichnis einiger Verluste}}''
+|MacLehose Press
+|-
+|[[Adania Shibli]]
+|{{Flag|Palestine}}
+|Arabic
+|[[Elisabeth Jaquette]]
+|''[[Minor Detail (novel)|Minor Detail]]''<br>''{{small|{{lang|ar|تفصيل ثانوي}}}}''
+|Fitzcarraldo Editions
+|-
+|[[Andrzej Tichý]]
+|{{Flag|Sweden}}
+|Swedish
+|Nichola Smalley
+|''Wretchedness''<br>''{{small|Eländet}}''
+|And Other Stories
+|}
+
+===2022===
+The longlist was announced on 10 March 2022; the shortlist on 7 April 2022 and the winner on 26 May 2022.<ref name=IntBooker2022 /> ''[[Tomb of Sand]]'' is the first Hindi-language novel to receive a nomination, and the first novel in an [[Languages of India|Indian language]] to win the International Booker Prize.<ref>{{cite news |last1=Marshall |first1=Alex |title=Hindi Novel Wins International Booker Prize for the First Time |url=https://www.nytimes.com/2022/05/26/arts/international-booker-winner-tomb-of-sand.html |access-date=13 December 2023 |work=[[The New York Times]] |date=26 May 2022 |archive-date=13 February 2023 |archive-url=https://web.archive.org/web/20230213195641/https://www.nytimes.com/2022/05/26/arts/international-booker-winner-tomb-of-sand.html |url-status=live }}</ref>
+
+{|class="sortable wikitable" width=%100
+!Award
+!'''Author'''
+!'''Country'''
+!'''Language'''
+!'''Translator'''
+!'''Title'''
+!'''Publisher'''
+!Judges
+|-
+|style="background:#FAEB86; color:black" |Winner 
+|style="background:#FAEB86; color:black" |[[Geetanjali Shree]]
+|style="background:#FAEB86; color:black" |{{Flag|India}}
+|style="background:#FAEB86; color:black" |[[Hindi]]
+|style="background:#FAEB86; color:black" |[[Daisy Rockwell]]
+|style="background:#FAEB86; color:black" |''[[Tomb of Sand]]''<br>''{{small|रेत समाधि}}''
+|style="background:#FAEB86; color:black" |[[Tilted Axis Press]]
+|rowspan=13 |
+*'''[[Frank Wynne]]'''
+*[[Merve Emre]]
+*[[Petina Gappah]]
+*[[Viv Groskop]]
+*[[Jeremy Tiang]]
+|-
+|rowspan=5 |Shortlist
+|[[Bora Chung]]
+|{{Flag|South Korea}}
+|Korean
+|[[Anton Hur]]
+|''[[Cursed Bunny]]''<br>''{{small|저주토끼}}''
+|Honford Star
+|-
+|[[Jon Fosse]]
+|{{Flag|Norway}}
+|Norwegian
+|Damion Searls
+|''A New Name: Septology VI-VII''<br>''{{small|Eit nytt namn – Septologien VI – VII}}''
+|Fitzcarraldo Editions
+|-
+|[[Mieko Kawakami]]
+|{{Flag|Japan}}
+|Japanese
+|Sam Bett & David Boyd
+|''[[Heaven (Kawakami novel)|Heaven]]''<br>''{{small|{{lang|ja|ヘヴン}}}}''
+|Picador
+|-
+|[[Claudia Piñeiro]]
+|{{Flag|Argentina}}
+|Spanish
+|Frances Riddle
+|''Elena Knows''<br>''{{small|Elena sabe}}''
+|Charco Press
+|-
+|[[Olga Tokarczuk]]
+|{{Flag|Poland}}
+|Polish
+|[[Jennifer Croft]]
+|''[[The Books of Jacob]]''<br>''{{small|Księgi Jakubowe}}''
+|Fitzcarraldo Editions
+|-
+|rowspan=7 |Longlist
+|[[Jonas Eika]]
+|{{Flag|Denmark}}
+|Danish
+|Sherilyn Hellberg
+|''After the Sun''<br>''{{small|Efter solen}}''
+|Lolli Editions
+|-
+|[[David Grossman]]
+|{{Flag|Israel}}
+|Hebrew
+|[[Jessica Cohen]]
+|''More Than I Love My Life''<br>''{{small|אתי החיים משחק הרבה}}''
+|Jonathan Cape
+|-
+|[[Violaine Huisman]]
+|{{Flag|France}}
+|French
+|Leslie Camhi
+|''The Book of Mother''<br>''{{small|Fugitive parce que reine}}''
+|[[Charles Scribner's Sons|Scribner]]
+|-
+|[[Fernanda Melchor]]
+|{{Flag|Mexico}}
+|Spanish
+|[[Sophie Hughes]]
+|''[[Paradais]]''<br>''{{small|Páradais}}''
+|Fitzcarraldo Editions
+|-
+|[[Sang Young Park]]
+|{{Flag|South Korea}}
+|Korean
+|[[Anton Hur]]
+|''[[Love in the Big City (novel)|Love in the Big City]]''<br>''{{small|대도시의 사랑법}}''
+|Tilted Axis Press
+|-
+|[[Norman Erikson Pasaribu]]
+|{{Flag|Indonesia}}
+|Indonesian
+|[[Tiffany Tsao]]
+|''Happy Stories, Mostly''<br>''{{small|Cerita-cerita Bahagia, Hampir Seluruhnya}}''
+|Tilted Axis Press
+|-
+|[[Paulo Scott]]
+|{{Flag|Brazil}}
+|Portuguese
+|[[Daniel Hahn]]
+|''Phenotypes''<br>''{{small|Marrom e Amarelo}}''
+|And Other Stories
+|}
+
+===2023===
+The longlist was announced on 14 March 2023,<ref name=IntBooker2023>{{Cite web |title=The International Booker Prize 2023 |publisher=The Booker Prizes |url=https://thebookerprizes.com/the-booker-library/prize-years/international/2023 |access-date=10 March 2023 |archive-date=25 May 2023 |archive-url=https://web.archive.org/web/20230525050240/https://thebookerprizes.com/the-booker-library/prize-years/international/2023 |url-status=live }}</ref> the shortlist on 18 April 2023,<ref name=IntBooker2023 /> and the winner on 23 May 2023. Gospodinov's ''Time Shelter'' is the first Bulgarian-language book to have won the prize.<ref name="shaffi2023">{{cite news |last1=Shaffi |first1=Sarah |title=International Booker prize announces first ever Bulgarian winner |url=https://www.theguardian.com/books/2023/may/23/international-booker-prize-first-bulgarian-winner-georgi-gospodinov-time-shelter-angela-rodel |access-date=4 June 2023 |work=The Guardian |date=23 May 2023}}</ref>
+
+{|class="sortable wikitable" width=%100
+!Award
+!'''Author'''
+!'''Country'''
+!'''Language'''
+!'''Translator'''
+!'''Title'''
+!'''Publisher'''
+!Judges
+|-
+|style="background:#FAEB86; color:black" |Winner 
+|style="background:#FAEB86; color:black" |[[Georgi Gospodinov]]
+|style="background:#FAEB86; color:black" |{{Flag|Bulgaria}}
+|style="background:#FAEB86; color:black" |[[Bulgarian language|Bulgarian]]
+|style="background:#FAEB86; color:black" |[[Angela Rodel]]
+|style="background:#FAEB86; color:black" |''[[Time Shelter]]''<br>''{{small|Времеубежище}}''
+|style="background:#FAEB86; color:black" |[[Weidenfeld & Nicolson]]
+|rowspan=13 |
+*'''[[Leïla Slimani]]'''
+*Uilleam Blacker
+*[[Tan Twan Eng]]
+*[[Parul Sehgal]]
+*Frederick Studemann
+|-
+|rowspan=5 |Shortlist
+|[[Eva Baltasar]]
+|{{Flag|Spain}}
+|[[Catalan language|Catalan]]
+|Julia Sanches
+|''[[Boulder (novel)|Boulder]]''
+|And Other Stories
+|-
+|[[Cheon Myeong-kwan]]
+|{{Flag|South Korea}}
+|Korean
+|[[Chi-young Kim|Chi-Young Kim]]
+|''[[Whale (novel)|Whale]]''<br>''{{small|고래}}''
+|Europa Editions
+|-
+|[[Maryse Condé]]
+|{{Flag|France}}
+|French
+|Richard Philcox
+|''[[The Gospel According to the New World]]''<br>''{{small|L'Évangile du nouveau monde}}''
+|World Editions
+|-
+|[[GauZ']]
+|{{Flag|Ivory Coast}}
+|French
+|[[Frank Wynne]]
+|''[[Standing Heavy]]''<br>''{{small|Debout-payé}}''
+|MacLehose Press
+|-
+|[[Guadalupe Nettel]]
+|{{Flag|Mexico}}
+|Spanish
+|Rosalind Harvey
+|''[[Still Born (novel)|Still Born]]''<br>''{{small|La hija única}}''
+|Fitzcarraldo Editions
+|-
+|rowspan=7 |Longlist
+|[[Vigdis Hjorth]]
+|{{Flag|Norway}}
+|Norwegian
+|Charlotte Barslund
+|''Is Mother Dead''<br>''{{small|Er mor død}}''
+|Verso Fiction
+|-
+|[[Andrey Kurkov]]
+|{{Flag|Ukraine}}
+|Russian
+|Reuben Woolley
+|''Jimi Hendrix Live in Lviv''<br>''{{small|Львовская гастроль Джими Хендрикса}}''
+|MacLehose Press
+|-
+|[[Laurent Mauvignier]]
+|{{Flag|France}}
+|French
+|[[Daniel Levin Becker]]
+|''The Birthday Party''<br>''{{small|Histoires de la nuit}}''
+|Fitzcarraldo Editions
+|-
+|[[Clemens Meyer]]
+|{{Flag|Germany}}
+|German
+|[[Katy Derbyshire]]
+|''While We Were Dreaming''<br>''{{small|Als wir träumten}}''
+|Fitzcarraldo Editions
+|-
+|[[Perumal Murugan]]
+|{{Flag|India}}
+|[[Tamil language|Tamil]]
+|Aniruddhan Vasudevan
+|''[[Pyre (novel)|Pyre]]''<br>''{{small|{{lang|ta|பூக்குழி}}}}''
+|Pushkin Press
+|-
+|[[Amanda Svensson]]
+|{{Flag|Sweden}}
+|Swedish
+|Nichola Smalley
+|''A System So Magnificent It Is Blinding''<br>''{{small|Ett system så magnifikt att det bländar}}''
+|Scribe
+|-
+|[[Zou Jingzhi]]
+|{{Flag|China}}
+|Mandarin
+|[[Jeremy Tiang]]
+|''[[Ninth Building]]''<br>''{{small|九栋}}''
+|Honford Star
+|}
+
+===2024===
+The longlist was announced on 11 March 2024, the shortlist on 9 April 2024, and the winner on 21 May 2024, at a ceremony at [[Tate Modern]] in London, sponsored by [[Valentino (fashion house)|Maison Valentino]]. The judging panel was chaired by Canadian writer and broadcaster [[Eleanor Wachtel]], and consisted of Mojave American poet [[Natalie Diaz]], Sri Lankan British novelist [[Romesh Gunesekera]], South African artist [[William Kentridge]], and American writer, editor and translator Aaron Robertson. On choosing the six shortlisted books, Eleanor Wachtel said, "Our shortlist, while implicitly optimistic, engages with current realities of racism and oppression, global violence and ecological disaster."<ref>{{Cite web |title=The International Booker Prize 2024 |publisher=The Booker Prizes |url=https://thebookerprizes.com/the-booker-library/prize-years/international/2024 |access-date=22 February 2024 |archive-date=7 August 2024 |archive-url=https://web.archive.org/web/20240807002133/https://thebookerprizes.com/the-booker-library/prize-years/international/2024 |url-status=live }}</ref> The winner was [[Jenny Erpenbeck]] for her novel ''[[Kairos (novel)|Kairos]]'', translated from the German by [[Michael Hofmann]].<ref name="Gdn2024">{{cite news |last1=Creamer |first1=Ella |title=''Kairos'' by Jenny Erpenbeck wins International Booker prize |url=https://www.theguardian.com/books/article/2024/may/21/jenny-erpenbeck-michael-hofmann-win-2024-international-booker-prize-kairos |access-date=21 May 2024 |work=The Guardian |date=21 May 2024}}</ref> The judges' decision marked the first occasion the prize was won by either a German writer or a male translator.<ref name="Gdn2024"/>
+
+{|class="sortable wikitable" width=%100
+!Award
+!'''Author'''
+!'''Country'''
+!'''Language'''
+!'''Translator'''
+!'''Title'''
+!'''Publisher'''
+!Judges
+|-
+|style="background:#FAEB86; color:black" |Winner 
+|style="background:#FAEB86; color:black" |[[Jenny Erpenbeck]]
+|style="background:#FAEB86; color:black" |{{Flag|Germany}}
+|style="background:#FAEB86; color:black" |German
+|style="background:#FAEB86; color:black" |[[Michael Hofmann]]
+|style="background:#FAEB86; color:black" |''[[Kairos (novel)|Kairos]]''
+|style="background:#FAEB86; color:black" |[[Granta]]
+|rowspan=13 |
+*'''[[Eleanor Wachtel]]'''
+*[[Natalie Diaz]]
+*[[Romesh Gunesekera]]
+*[[William Kentridge]]
+*Aaron Robertson
+|-
+|rowspan=5 |Shortlist
+|[[Selva Almada]]
+|{{Flag|Argentina}}
+|Spanish
+|Annie McDermott
+|''[[Not a River]]''<br>''{{small|No es un río}}''
+|Charco Press
+|-
+|[[Ia Genberg]]
+|{{Flag|Sweden}}
+|Swedish
+|Kira Josefsson
+|''The Details''<br>''{{small|Detaljerna}}''
+|Granta
+|-
+|[[Hwang Sok-yong]]
+|{{Flag|South Korea}}
+|Korean
+|[[Sora Kim-Russell]] & Youngjae Josephine Bae
+|''Mater 2-10''<br>''{{small|철도원 삼대}}''
+|Scribe
+|-
+|[[Jente Posthuma]]
+|{{Flag|Netherlands}}
+|Dutch
+|Sarah Timmer Harvey
+|''What I’d Rather Not Think About''<br>''{{small|Waar ik liever niet aan denk}}''
+|Scribe
+|-
+|[[Itamar Vieira Junior]]
+|{{Flag|Brazil}}
+|Portuguese
+|Johnny Lorenz
+|''[[Crooked Plow]]''<br>''{{small|Torto Arado}}''
+|Verso Books
+|-
+|rowspan=7 |Longlist
+|[[Rodrigo Blanco Calderón]]
+|{{Flag|Venezuela}}
+|Spanish
+|Noel Hernández González & [[Daniel Hahn]] 
+|''Simpatía''
+|[[Seven Stories Press]]
+|-
+|[[Urszula Honek]]
+|{{Flag|Poland}}
+|Polish
+|Kate Webster
+|''White Nights''<br>''{{small|Białe noce}}''
+|MTO Press
+|-
+|[[Ismail Kadare]]
+|{{Flag|Albania}}
+|Albanian
+|John Hodgson
+|''A Dictator Calls''<br>''{{small|Kur sunduesit grinden}}''
+|Harvill Secker
+|-
+|[[Andrey Kurkov]]
+|{{Flag|Ukraine}}
+|Russian
+|[[Boris Dralyuk]]
+|''The Silver Bone''<br>''{{small|Самсон и Надежда}}''
+|MacLehose Press
+|-
+|[[Veronica Raimo]]
+|{{Flag|Italy}}
+|Italian
+|Leah Janeczko
+|''Lost on Me''<br>''{{small|Niente di vero}}''
+|[[Virago Press]]
+|-
+|[[Domenico Starnone]]
+|{{Flag|Italy}}
+|Italian
+|Oonagh Stransky
+|''{{ill|The House on Via Gemito|it|Via Gemito}}''<br>''{{small|Via Gemito}}''
+|Europa Editions
+|-
+|[[Gabriela Wiener]]
+|{{Flag|Peru}}
+|Spanish
+|Julia Sanches
+|''{{ill|Undiscovered (novel)|lt=Undiscovered|es|Huaco retrato (novela)}}''<br>''{{small|Huaco retrato}}''
+|Pushkin Press
+|-
+|}
+
+===2025===
+The longlist was announced on 25 February 2025<ref name=Guardian20250225>{{cite news |last1=Creamer |first1=Ella |title=All 13 writers on International Booker longlist are first-time nominees |url=https://www.theguardian.com/books/2025/feb/25/all-13-writers-on-international-booker-longlist-are-first-time-nominees |access-date=25 February 2025 |work=The Guardian |date=25 February 2025}}</ref><ref>{{cite news |last1=Marshall |first1=Alex |title=Short Novels Dominate International Booker Prize Nominees |url=https://www.nytimes.com/2025/02/25/books/international-booker-prize-longlist.html |access-date=25 February 2025 |work=The New York Times |date=25 February 2025 |archive-date=25 February 2025 |archive-url=https://web.archive.org/web/20250225142724/https://www.nytimes.com/2025/02/25/books/international-booker-prize-longlist.html |url-status=live }}</ref> and the shortlist was published on 8 April 2025.<ref name="2025shortlist">{{cite web |last1=Creamer |first1=Ella |title='Mind-expanding books': International Booker prize shortlist announced |url=https://www.theguardian.com/books/2025/apr/08/mind-expanding-books-international-booker-prize-shortlist-announced |website=The Guardian |access-date=8 April 2025 |date=8 April 2025}}</ref> The judging panel was chaired by English writer [[Max Porter (writer)|Max Porter]] and also consisted of Nigerian poet, director and photographer [[Caleb Femi]], writer and publishing director of ''[[Wasafiri]]'' Sana Goyal, South Korean writer and translator [[Anton Hur]], and English singer-songwriter [[Beth Orton]]. The winner, [[Banu Mushtaq]]'s ''[[Heart Lamp: Selected Stories]]'', was announced on 20 May 2025.<ref>{{cite web |title=The International Booker Prize 2025 |url=https://thebookerprizes.com/the-booker-library/prize-years/international/2025 |website=thebookerprizes.com |access-date=1 January 2025 |language=en |archive-date=1 January 2025 |archive-url=https://web.archive.org/web/20250101113122/https://thebookerprizes.com/the-booker-library/prize-years/international/2025 |url-status=live }}</ref><ref>{{cite news |last1=Knight |first1=Lucy |title='Radical translation' of ''Heart Lamp'' by Banu Mushtaq wins International Booker prize |url=https://www.theguardian.com/books/2025/may/20/radical-translation-of-heart-lamp-by-banu-mushtaq-wins-international-booker-prize |access-date=20 May 2025 |work=The Guardian |date=20 May 2025}}</ref><ref>{{cite news |last1=Marshall |first1=Alex |title=In a First, a Story Collection Wins the International Booker Prize |url=https://www.nytimes.com/2025/05/20/books/review/international-booker-prize-winner.html |access-date=20 May 2025 |work=The New York Times |date=20 May 2025 |archive-date=23 July 2025 |archive-url=https://web.archive.org/web/20250723180103/https://www.nytimes.com/2025/05/20/books/review/international-booker-prize-winner.html |url-status=live }}</ref>
+
+All 13 writers on the longlist were first-time nominees. The works selected for 2025 included several other firsts: the prize's first nominated translation from [[Kannada]] (''Heart Lamp''); the first nomination of a Romanian author ([[Mircea Cărtărescu|Cărtărescu]]); and the first nomination for an Iraqi translator ([[Sinan Antoon|Antoon]]). Translator [[Sophie Hughes]] appeared on the longlist for a record fifth time and on the shortlist for a record third time.<ref name=Guardian20250225/><ref name="2025shortlist"/> [[Deepa Bhasthi]] was the first Indian translator to win the award.<ref>{{cite news |last1=Pylas |first1=Pan |title=Indian author Banu Mushtaq wins International Booker Prize with short story collection |url=https://apnews.com/article/international-booker-prize-india-mushtaq-bhasthi-02da7cdb8c0e7c4fa37040f59155bd9e |access-date=21 May 2025 |work=AP News |date=20 May 2025 |language=en |archive-date=21 May 2025 |archive-url=https://web.archive.org/web/20250521052103/https://apnews.com/article/international-booker-prize-india-mushtaq-bhasthi-02da7cdb8c0e7c4fa37040f59155bd9e |url-status=live }}</ref>
+{|class="sortable wikitable" width=%100
+!Award
+!'''Author'''
+!'''Country'''
+!'''Language'''
+!'''Translator'''
+!'''Title'''
+!'''Publisher'''
+!Judges
+|-
+|style="background:#FAEB86; color:black" |Winner 
+|style="background:#FAEB86; color:black" |[[Banu Mushtaq]]
+|style="background:#FAEB86; color:black" |{{Flag|India}}
+|style="background:#FAEB86; color:black" |[[Kannada language|Kannada]]
+|style="background:#FAEB86; color:black" |[[Deepa Bhasthi]]
+|style="background:#FAEB86; color:black" |''[[Heart Lamp: Selected Stories]]''<br>''{{small|{{lang|kn|ಎದೆಯ ಹಣತೆ}}}}''
+|style="background:#FAEB86; color:black" |And Other Stories
+|rowspan=13 |
+*'''[[Max Porter (writer)|Max Porter]]'''
+*[[Caleb Femi]]
+*Sana Goyal
+*[[Anton Hur]]
+*[[Beth Orton]]
+|-
+|rowspan=5 |Shortlist
+|[[Anne Serre]]
+|{{Flag|France}}
+|French
+|Mark Hutchinson
+|''A Leopard-Skin Hat''<br>''{{small|Un chapeau léopard}}''
+|Lolli Editions
+|-
+|[[Vincenzo Latronico]]
+|{{Flag|Italy}}
+|Italian
+|[[Sophie Hughes]]
+|''[[Perfection (Latronico)|Perfection]]''<br>''{{small|Le perfezioni}}''
+|Fitzcarraldo Editions
+|-
+|[[Hiromi Kawakami]]
+|{{Flag|Japan}}
+|Japanese
+|Asa Yoneda
+|''[[Under the Eye of the Big Bird]]''<br>''{{small|{{lang|ja|大きな鳥にさらわれないよう}}}}''
+|Granta
+|-
+|[[Vincent Delecroix]]
+|{{Flag|France}}
+|French
+|Helen Stevenson
+|''Small Boat''<br>''{{small|Naufrage}}''
+|Small Axes
+|-
+|[[Solvej Balle]]
+|{{Flag|Denmark}}
+|Danish
+|Barbara J Haveland
+|''[[On the Calculation of Volume]] I''<br>''{{small|Om udregning af rumfang}}''
+|Faber & Faber
+|-
+|rowspan=7 |Longlist
+|{{ill|Ibtisam Azem|ar|ابتسام عازم}}
+|{{Flag|Palestine}}
+|Arabic
+|[[Sinan Antoon]]
+|''[[The Book of Disappearance]]''<br>''{{small|{{lang|ar|سفر الإختفاء}}}}''
+|And Other Stories
+|-
+|[[Gaëlle Bélem]]
+|{{Flag|France}}
+|French
+|Karen Fleetwood & Laëtitia Saint-Loubert
+|''There's a Monster behind the Door''<br>''{{small|Un monstre est là, derrière la porte}}''
+|Bullaun Press
+|-
+|[[Mircea Cărtărescu]]
+|{{Flag|Romania}}
+|[[Romanian language|Romanian]]
+|Sean Cotter
+|''[[Solenoid (novel)|Solenoid]]''
+|Pushkin Press
+|-
+|[[Dahlia de la Cerda]]
+|{{Flag|Mexico}}
+|Spanish
+|Heather Cleary & Julia Sanches
+|''Reservoir Bitches''<br>''{{small|Perras de reserva}}''
+|Scribe
+|-
+|[[Saou Ichikawa]]
+|{{Flag|Japan}}
+|Japanese
+|[[Polly Barton (author)|Polly Barton]]
+|''[[Hunchback (novella)|Hunchback]]''<br>''{{small|{{lang|ja|ハンチバック}}}}''
+|[[Viking Press]]
+|-
+|[[Christian Kracht]]
+|{{Flag|Switzerland}}
+|German
+|Daniel Bowles
+|''[[Eurotrash (novel)|Eurotrash]]''
+|Serpent's Tail
+|-
+|[[Astrid Roemer]]
+|{{Flag|Suriname}} <br> {{Flag|Netherlands}}
+|Dutch
+|Lucy Scott
+|''On a Woman's Madness''<br>''{{small|Over de gekte van een vrouw}}''
+|Tilted Axis Press
+|}
+
+===2026===
+The longlist was announced on 24 February 2026<ref>{{Cite web |title=The International Booker Prize 2026 |url=https://thebookerprizes.com/the-booker-library/prize-years/international/2026 |access-date=2026-02-24 |website=The Booker Prizes |language=en}}</ref><ref>{{Cite news |last=Creamer |first=Ella |date=2026-02-24 |title=Witches, Nazi collaborators and banned books: International Booker prize announces 2026 longlist |url=https://www.theguardian.com/books/2026/feb/24/ravn-kehlmann-genberg-enard-and-cabezon-camara-longlist-international-booker-prize |access-date=2026-02-24 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref> and the shortlist on 31 March 2026.<ref>{{cite news |last1=Marshall |first1=Alex |title=International Booker Prize Shortlist: 6 Novels With 'Burning Humanity' |url=https://www.nytimes.com/2026/03/31/books/international-booker-prize-shortlist.html |work=The New York Times |date=31 March 2026}}</ref> The winner, Yáng Shuāng-zǐ's ''[[Taiwan Travelogue]]'', was announced on 19 May 2026 at the [[Tate Modern]] in London.<ref>{{Cite web |title=The International Booker Prize 2026 |url=https://thebookerprizes.com/the-booker-library/prize-years/international/2026 |access-date=2026-02-27 |website=The Booker Prizes |language=en}}</ref> ''Taiwan Travelogue'' is the first book written in Mandarin and the first book by a Taiwanese author to win.<ref>{{cite news |last1=Marshall |first1=Alex |title=International Booker Prize 2026: 'Taiwan Travelogue' is First Winner Originally Written in Mandarin |url=https://www.nytimes.com/2026/05/19/books/international-booker-prize-taiwan-travelogue.html |access-date=19 May 2026 |work=The New York Times |date=19 May 2026}}</ref> The judging panel was chaired by British writer [[Natasha Brown (author)|Natasha Brown]] alongside Oxford professor and mathematician [[Marcus du Sautoy]], International Booker Prize-shortlisted translator [[Sophie Hughes]], Kenyan writer and editor [[Troy Onyango]], and Indian novelist and columnist [[Nilanjana Roy]]. 
+
+In 2026, ''The Vegetarian'' was voted the readers' favourite of all the Booker winners in the last ten years.<ref>{{Cite web |date=2026-05-11|title="The Vegetarian" voted most popular International Booker Prize winner|url=https://www.booksandpublishing.com.au/articles/2026/05/11/329348/the-vegetarian-voted-most-popular-international-booker-prize-winner/|access-date=2026-05-12|publisher=Books+Publishing}}</ref> 
+{|class="sortable wikitable" width=%100
+!Award
+!'''Author'''
+!'''Country'''
+!'''Language'''
+!'''Translator'''
+!'''Title'''
+!'''Publisher'''
+!Judges
+|-
+|style="background:#FAEB86; color:black" |Winner 
+|style="background:#FAEB86; color:black" |[[Yang Shuang-zi|Yáng Shuāng-zǐ]]
+|style="background:#FAEB86; color:black" |{{Flag|Taiwan}} 
+|style="background:#FAEB86; color:black" |Mandarin
+|style="background:#FAEB86; color:black" |[[Lin King]] 
+|style="background:#FAEB86; color:black" |''[[Taiwan Travelogue]]''<br>''{{small|{{lang|zh|臺灣漫遊錄}}}}''
+|style="background:#FAEB86; color:black" |[[And Other Stories]]
+|rowspan=14 |
+*'''[[Natasha Brown (author)|Natasha Brown]]'''
+*[[Marcus du Sautoy]]
+*[[Sophie Hughes]]
+*[[Troy Onyango]]
+*[[Nilanjana Roy|Nilanjana S. Roy]]
+|-
+|rowspan=5 |Shortlist
+|[[Marie NDiaye]]
+|{{Flag|France}}
+|French
+|Jordan Stump
+|''[[The Witch (NDiaye novel)|The Witch]]''<br>''{{small|La Sorcière }}''
+|MacLehose Press
+|-
+|[[Ana Paula Maia]]
+|{{Flag|Brazil}}
+|[[Brazilian Portuguese|Portuguese]]
+|[[Padma Viswanathan]]
+
+|''On Earth As It Is Beneath''<br>''{{small|Assim na Terra como embaixo da Terra}}''
+|Charco Press
+|-
+|[[Daniel Kehlmann]]
+|{{Flag|Germany}} <br> {{Flag|Austria}}
+|German
+|[[Ross Benjamin]]
+|''[[The Director (Kehlmann novel)|The Director]]''<br>''{{small|Lichtspiel}}''
+|riverrun
+|-
+|[[Rene Karabash]]
+|{{Flag|Bulgaria}}
+|Bulgarian
+|Izidora Angel
+|''She Who Remains''<br>''{{small|Остайница}}''
+|Peirene Press
+|-
+|[[Shida Bazyar]]
+|{{Flag|Germany}}
+|German
+|Ruth Martin
+|''[[The Nights Are Quiet in Tehran]]''<br>''{{small|Nachts ist es leise in Teheran}}''
+|Scribe UK
+|-
+|rowspan=8 |Longlist
+|-
+|[[Olga Ravn]]
+|{{Flag|Denmark}}
+|Danish
+|Martin Aitken
+|''The Wax Child''<br>''{{small|Voksbarnet}}''
+|[[Viking Press|Viking]]
+|-
+|[[Shahrnush Parsipur]]
+|{{Flag|Iran}}
+|Farsi
+|Faridoun Farrokh
+|''[[Women Without Men (novella)|Women without Men]]''<br>''{{small|{{lang|fa|زنان بدون مردان}}}}''
+|Penguin International Writers
+|-
+|{{ill|Matteo Melchiorre|it}}
+|{{Flag|Italy}}
+|Italian
+|Antonella Lettieri
+|''The Duke''<br>''{{small|Il Duca}}''
+|Foundry Editions
+|-
+|[[Ia Genberg]]
+|{{Flag|Sweden}}
+|[[Swedish language|Swedish]]
+|Kira Josefsson
+|''Small Comfort''<br>''{{small|Klen tröst}}''
+|Wildfire Books
+|-
+|[[Mathias Énard]]
+|{{Flag|France}}
+|French
+|[[Charlotte Mandell]]
+|''The Deserters''<br>''{{small|Déserter}}''
+|Fitzcarraldo Editions
+|-
+|[[Anjet Daanje]]
+|{{Flag|Netherlands}}
+|Dutch
+|David McKay
+|''The Remembered Soldier''<br>''{{small|De herinnerde soldaat}}''
+|Scribe UK
+|-
+|[[Gabriela Cabezón Cámara]]
+|{{Flag|Argentina}}
+|Spanish
+|Robin Myers
+|''[[We Are Green and Trembling]]''<br>''{{small|Las niñas del naranjel}}''
+|Harvill
+|}
+
+===2027===
+In July 2026, it was announced that American writer [[Katie Kitamura]] would chair the judging panel for 2027; she will be joined by writer [[Patrick McGuinness]], British-Ghanaian writer [[Caleb Azumah Nelson]], Danish writer [[Olga Ravn]] and American actress [[Tessa Thompson]]. The longlist will be announced on 16 March 2027, and the shortlist will be announced on 15 April 2027. The winning book will be announced in May 2027.<ref>{{cite web |title=Bukhman Philanthropies to fund next decade of the International Booker Prize as judges announced for the 2027 prize {{!}} The Booker Prizes |url=https://thebookerprizes.com/media-centre/press-releases/bukhman-philanthropies-fund-next-decade-of-the-international-booker-prize |website=thebookerprizes.com |access-date=2 July 2026 |language=en |date=2 July 2026}}</ref>
+
+==See also==
+*[[Booker Prize]]
+*[[Franz Kafka Prize]]
+*[[International Dublin Literary Award]]
+*[[List of literary awards]]
+*[[Man Asian Literary Prize]]
+*[[National Book Award]]
+*[[Neustadt International Prize for Literature]]
+*[[Prix Goncourt]]
+*[[Warwick Prize for Women in Translation]]
+*[[Independent Foreign Fiction Prize|''Independent'' Foreign Fiction Prize]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category}}
+*[https://thebookerprizes.com/the-international-booker-prize Official website]
+*{{Twitter|TheBookerPrizes}}
+*[https://www.brookes.ac.uk/library/collections/special-collections/publishing-and-literary-prizes/booker-prize-archive Booker Prizes archive webpage]
+
+{{International Booker Prize}}
+
+[[Category:2005 establishments in the United Kingdom]]
+[[Category:Awards established in 2005]]
+[[Category:International literary awards]]
+[[Category:British fiction awards]]
+[[Category:Translation awards]]
+[[Category:Booker Prize|International]]
+[[Category:English-language literary awards]]

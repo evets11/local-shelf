@@ -35,6 +35,16 @@ jobs:
             data/tmdb-cache.json
           key: sync-caches-${{ github.run_id }}
           restore-keys: sync-caches-
+      # Weekly in practice: the script skips itself if it ran in the last 6 days. Runs before the
+      # sync so newly found prize books join the catalogue the same night.
+      - name: Prize lists (Wikipedia, plus library lookups for new books)
+        id: prizes
+        continue-on-error: true
+        run: npm run prizes
+        env:
+          SPYDUS_RELAY_URL: ${{ vars.SPYDUS_RELAY_URL || 'https://localshelf.uk/api/relay' }}
+          SPYDUS_RELAY_TOKEN: ${{ secrets.SPYDUS_RELAY_TOKEN }}
+          CONTACT_URL: ${{ github.server_url }}/${{ github.repository }}
       - name: Sync from Spydus
         id: sync
         # A refused/aborted kind keeps its previous catalog; kinds that finished are still
@@ -77,8 +87,11 @@ jobs:
             git push
           fi
       - name: Fail if the sync or enrichment failed
-        if: steps.sync.outcome == 'failure' || steps.enrich.outcome == 'failure'
+        if: steps.sync.outcome == 'failure' || steps.enrich.outcome == 'failure' || steps.prizes.outcome == 'failure'
         run: |
+          if [ "${{ steps.prizes.outcome }}" = "failure" ]; then
+            echo "::error::Prize lists step failed; prizes that failed kept their previous lists. See the Prize lists step log (look for !!!)."
+          fi
           if [ "${{ steps.sync.outcome }}" = "failure" ]; then
             echo "::error::Sync refused or aborted at least one kind; see the Sync step log (look for !!! or ABORT)."
           fi

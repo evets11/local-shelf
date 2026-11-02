@@ -21,6 +21,7 @@ Key facts:
 ## Collections
 
 ${MODES.map((m) => `- [${m.label}](${absolute(m.home)}): new arrivals, critics' picks and what's on the shelf, with links to each title`).join("\n")}
+- [Book prizes](${absolute("/prizes")}): winners and shortlists from the Booker, Women's Prize, Carnegie and other UK book prizes that the library holds
 
 ## Title pages
 

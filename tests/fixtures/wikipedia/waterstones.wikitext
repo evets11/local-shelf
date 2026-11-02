@@ -1,0 +1,718 @@
+{{Short description|Annual literary award}} 
+{{Use dmy dates|date=November 2022}}
+{{Use British English|date=November 2025}}
+The '''Waterstones Book of the Year''', established in 2012,<ref name=":0">{{Cite web |last=Cain |first=Sian |date=2018-11-29 |title=Sally Rooney's Normal People named Waterstones book of the year |url=http://www.theguardian.com/books/2018/nov/29/sally-rooneys-normal-people-named-waterstones-book-of-the-year |access-date=2022-07-23 |website=the Guardian |language=en |archive-date=30 June 2022 |archive-url=https://web.archive.org/web/20220630073030/https://www.theguardian.com/books/2018/nov/29/sally-rooneys-normal-people-named-waterstones-book-of-the-year |url-status=live }}</ref> is an annual award presented to a book published in the previous 12 months. [[Waterstones]]' booksellers nominate and vote to determine the winners and finalists for the prize.
+
+Award winners receive "full and committed backing" from Waterstones both in-person and online.<ref name=":2">{{Cite web |last= |first= |date=2018-11-08 |title=Awards: Waterstones, Blackwell's Books of the Year Finalists |url=https://www.shelf-awareness.com/issue.html?issue=3372 |access-date=2022-07-23 |website=Shelf Awareness |archive-date=23 July 2022 |archive-url=https://web.archive.org/web/20220723234950/https://www.shelf-awareness.com/issue.html?issue=3372 |url-status=live }}</ref>
+
+== Recipients ==
+<ref name=":16">{{Cite web |title=Our Book of the Year Shortlist 2013 |url=https://www.waterstones.com/booklist/265901/waterstones-booksellers-our-bo |access-date=Sep 20, 2024 |website=Waterstones}}</ref>
+{| class="wikitable sortable"
+|+Waterstones Book of the Year winners and finalists
+! scope="col" |Year
+! scope="col" |Author
+! scope="col" | Title
+! scope="col" | Result
+! scope="col" |Ref.
+|- style="background:lightyellow"
+! rowspan="6" |2012
+|{{Sortname|first=Russell|last=Norman|link=Russell Norman (writer)}}
+|''Polpo: A Venetian Cookbook (of Sorts)''
+|{{won}}
+|<ref name=":0" /><ref name=":1">{{Cite web |last=Campbell |first=Lisa |date=30 November 2012 |title=Polpo is Waterstones Book of the Year |url=http://www.thebookseller.com/news/polpo-waterstones-book-year |access-date=1 May 2017 |website=The Bookseller |language=en |archive-date=16 October 2017 |archive-url=https://web.archive.org/web/20171016230106/https://www.thebookseller.com/news/polpo-waterstones-book-year |url-status=live }}</ref>
+|-
+|{{Sortname|first=Laurent|last=Binet|link=}}
+|''[[HHhH]]''
+|{{sho}}
+|<ref name=":7">{{Cite web |last= |first= |date=2012-11-01 |title=Awards: Waterstones Book of the Year & FutureBook Innovation |url=https://www.shelf-awareness.com/issue.html?issue=1861 |access-date=2022-07-23 |website=Shelf Awareness |archive-date=3 November 2022 |archive-url=https://web.archive.org/web/20221103033822/https://www.shelf-awareness.com/issue.html?issue=1861 |url-status=live }}</ref>
+|-
+|{{Sortname|first=Artemis|last=Cooper|link=}}
+|''[[Patrick Leigh Fermor]]'' 
+|{{sho}}
+|<ref name=":7" />
+|-
+|{{Sortname|first=Simon|last=Garfield|link=}}
+|''On the Map'' 
+|{{sho}}
+|<ref name=":7" />
+|-
+|{{Sortname|first=Robert|last=Macfarlane|link=Robert Macfarlane (writer)}}
+|''The Old Ways'' 
+|{{sho}}
+|<ref name=":7" />
+|-
+|{{Sortname|first=Hilary|last=Mantel|link=}}
+|''[[Bring Up the Bodies]]'' 
+|{{sho}}
+|<ref name=":7" />
+|- style="background:lightyellow"
+! rowspan="6" |2013
+|{{Sortname|first=John|last=Williams|link=John Edward Williams}}
+|[[Stoner (novel)|''Stoner'']]
+|{{won}}
+|<ref>{{Cite news |last=Furness |first=Hannah |date=3 December 2013 |title=Stoner wins Waterstones Book of the Year 2013 |language=en |work=Telegraph.co.uk |url=https://www.telegraph.co.uk/culture/books/bookprizes/10490306/Stoner-wins-Waterstones-Book-of-the-Year-2013.html |access-date=1 May 2017 |archive-date=16 October 2017 |archive-url=https://web.archive.org/web/20171016225849/http://www.telegraph.co.uk/culture/books/bookprizes/10490306/Stoner-wins-Waterstones-Book-of-the-Year-2013.html |url-status=live }}</ref><ref name=":0" />
+|-
+|{{sortname|Kate| Atkinson|link=Kate Atkinson (writer)}} 
+| ''[[Life After Life (novel)|Life After Life]]''
+|{{sho}}
+|<ref name=":16" />
+|-
+|{{sortname|Julian| Barnes}} 
+| ''[[Levels of Life]]''
+|{{sho}}
+|<ref name=":16" />
+|-
+|{{sortname|Stephen| Collins|nolink=1}} 
+| ''The Gigantic Beard That Was Evil''
+|{{sho}}
+|<ref name=":16" />
+|-
+|{{sortname|Aleksandra| Mizielińska}} 
+| ''Maps''
+|{{sho}}
+|<ref name=":16" />
+|-
+|{{sortname|Nina| Stibbe}} 
+| ''Love, Nina: Despatches from Family Life''
+|{{sho}}
+|<ref name=":16" />
+|- style="background:lightyellow"
+! rowspan="8" |2014
+|{{Sortname|first=Jessie|last=Burton|link=}}
+|''{{Sortname|first=The|last=Miniaturist|link=}}''
+|{{won}}
+|<ref>{{Cite news |last=Masters |first=Tim |date=1 December 2014 |title=Miniaturist novel named Waterstones book of 2014 |language=en |work=BBC News |url=https://www.bbc.co.uk/news/entertainment-arts-30243531 |access-date=1 May 2017 |archive-date=12 April 2017 |archive-url=https://web.archive.org/web/20170412140308/http://www.bbc.co.uk/news/entertainment-arts-30243531 |url-status=live }}</ref><ref>{{Cite web |last= |first= |date=2014-12-02 |title=Awards: Waterstones; Guardian; NYT 100 Notable; Goodreads |url=https://www.shelf-awareness.com/issue.html?issue=2397 |access-date=2022-07-23 |website=Shelf Awareness |archive-date=23 July 2022 |archive-url=https://web.archive.org/web/20220723234950/https://www.shelf-awareness.com/issue.html?issue=2397 |url-status=live }}</ref>
+|-
+|{{Sortname|first=Laura|last=Bates|link=}}
+|''Everyday Sexism''
+|{{sho}}
+|<ref name=":8">{{Cite web |last= |date=2014-11-12 |title=Awards: Scotiabank Giller; FT-McKinsey Biz Book; Waterstones |url=https://www.shelf-awareness.com/issue.html?issue=2384 |access-date=2022-07-23 |website=Shelf Awareness |archive-date=13 October 2022 |archive-url=https://web.archive.org/web/20221013185359/https://www.shelf-awareness.com/issue.html?issue=2384 |url-status=live }}</ref>
+|-
+|{{Sortname|first=Richard|last=Flanagan|link=}}
+|''{{Sortname|first=The|last=Narrow Road to the Deep North|link=The Narrow Road to the Deep North (novel)}}''
+|{{sho}}
+|<ref name=":8" />
+|-
+|{{Sortname|first=Sabrina|last=Ghayour|link=}}
+|''Persiana: Recipes from the Middle East & Beyond'' 
+|{{sho}}
+|<ref name=":8" />
+|-
+|{{Sortname|first=Oliver|last=Jeffers|link=}}
+|''Once Upon an Alphabet'' 
+|{{sho}}
+|<ref name=":8" />
+|-
+|{{Sortname|first=Marina|last=Keegan|link=}}
+|''{{Sortname|first=The|last=Opposite of Loneliness: Essays & Stories|link=|nolink=1}}''
+|{{sho}}
+|<ref name=":8" />
+|-
+|{{Sortname|first=Helen|last=Macdonald|link=Helen Macdonald (writer)}}
+|''[[H is for Hawk|H Is for Hawk]]'' 
+|{{sho}}
+|<ref name=":8" />
+|-
+|{{Sortname|first=Thomas|last=Piketty|link=}}
+|''[[Capital in the Twenty-First Century]]'' 
+|{{sho}}
+|<ref name=":8" />
+|- style="background:lightyellow"
+! rowspan="8" |2015
+|{{Sortname|first=Coralie|last=Bickford-Smith|link=}}
+|''{{Sortname|first=The|last=Fox and the Star|link=}}''
+|{{won}}
+|<ref>{{Cite news |last=Flood |first=Alison |date=30 November 2015 |title=Waterstones book of the year is Coralie Bickford-Smith's debut The Fox and the Star |language=en |work=The Guardian |url=https://www.theguardian.com/books/2015/dec/01/waterstones-book-of-year-coralie-bickford-smith-the-fox-and-the-star |access-date=1 May 2017 |issn=0261-3077 |archive-date=28 April 2017 |archive-url=https://web.archive.org/web/20170428134828/https://www.theguardian.com/books/2015/dec/01/waterstones-book-of-year-coralie-bickford-smith-the-fox-and-the-star |url-status=live }}</ref><ref>{{Cite web |last= |first= |date=2015-12-02 |title=Awards: Waterstones Book of the Year |url=https://www.shelf-awareness.com/issue.html?issue=2645 |access-date=2022-07-23 |website=Shelf Awareness |archive-date=23 July 2022 |archive-url=https://web.archive.org/web/20220723234950/https://www.shelf-awareness.com/issue.html?issue=2645 |url-status=live }}</ref>
+|-
+|{{Sortname|first=Harper|last=Lee|link=}}
+|''[[Go Set a Watchman]]''
+|{{sho}}
+|<ref name=":9">{{Cite web |last= |first= |date=2015-11-16 |title=Awards: Cervantes Winner; Waterstones Finalists |url=https://www.shelf-awareness.com/issue.html?issue=2635 |access-date=2022-07-23 |website=Shelf Awareness |archive-date=23 July 2022 |archive-url=https://web.archive.org/web/20220723234851/https://www.shelf-awareness.com/issue.html?issue=2635 |url-status=live }}</ref>
+|-
+|{{Sortname|first=Elena|last=Ferrante|link=}}
+|''[[Neapolitan Novels|My Brilliant Friend]]''
+|{{sho}}
+|<ref name=":9" />
+|-
+|{{Sortname|first=Paula|last=Hawkins|link=Paula Hawkins (author)}}
+|''{{Sortname|link=The Girl on the Train (novel)|first=The|last=Girl on the Train}}''
+|{{sho}}
+|<ref name=":9" />
+|-
+|{{Sortname|first=James|last=Rebanks|link=}}
+|''{{Sortname|link=|first=The|last=Shepherd's Life}}''
+|{{sho}}
+|<ref name=":9" />
+|-
+|{{Sortname|first=Matt|last=Haig|link=}}
+|''[[Reasons to Stay Alive]]''
+|{{sho}}
+|<ref name=":9" />
+|-
+|{{Sortname|first=Mary|last=Beard|link=Mary Beard (classicist)}}
+|''[[SPQR: A History of Ancient Rome]]''
+|{{sho}}
+|<ref name=":9" />
+|-
+|{{Sortname|first=Hanya|last=Yanagihara|link=}}
+|''{{Sortname|first=A|last=Little Life}}''
+|{{sho}}
+|<ref name=":9" />
+|- style="background:lightyellow"
+! rowspan="6" |2016
+|{{Sortname|first=Sarah|last=Perry|link=|nolink=}}
+|''{{Sortname|first=The|last=Essex Serpent|link=}}''
+|{{won}}
+|<ref>{{Cite news |date=30 November 2016 |title=The Essex Serpent beats Harry Potter to win Waterstones book of the year |language=en |work=The Guardian |url=https://www.theguardian.com/books/2016/dec/01/the-essex-serpent-beats-harry-potter-waterstones-book-of-the-year-sarah-perry |access-date=1 May 2017 |issn=0261-3077 |archive-date=30 April 2017 |archive-url=https://web.archive.org/web/20170430151247/https://www.theguardian.com/books/2016/dec/01/the-essex-serpent-beats-harry-potter-waterstones-book-of-the-year-sarah-perry |url-status=live }}</ref>
+|-
+|{{Sortname|first=J. K.|last=Rowling|link=}}
+|''[[Harry Potter and the Cursed Child]]''
+|{{sho}}
+|<ref name=":10">{{Cite web |last= |first= |last2= |date=2016-11-11 |title=Awards: Waterstones Book of the Year Finalists |url=https://www.shelf-awareness.com/issue.html?issue=2879 |access-date=2022-07-23 |website=Shelf Awareness |archive-date=23 July 2022 |archive-url=https://web.archive.org/web/20220723234946/https://www.shelf-awareness.com/issue.html?issue=2879 |url-status=live }}</ref>
+|-
+|{{Sortname|first=Emma-Jane|Emma-Jane|Kirby|last=Kirby|link=}}
+|''{{Sortname|first=The|last=Optician of Lampedusa|link=|nolink=1}}''
+|{{sho}}
+|<ref name=":10" />
+|-
+|{{Sortname|first=Beatrix|last=Potter|link=}} with [[Quentin Blake]] (illus.)
+|''{{Sortname|first=The|last=Tale of Kitty-in-Boots|link=The Tale of Kitty-in-Boots|nolink=}}''
+|{{sho}}
+|<ref name=":10" />
+|-
+|{{Sortname|first=Christopher|last=de Hamel|link=}}
+|''[[Meetings with Remarkable Manuscripts]]'' 
+|{{sho}}
+|<ref name=":10" />
+|-
+|{{Sortname|first=Paul|last=Kalanithi|link=}}
+|''[[When Breath Becomes Air]]'' 
+|{{sho}}
+|<ref name=":10" />
+|- style="background:lightyellow"
+! rowspan="7" |2017
+|{{Sortname|first=Philip|last=Pullman|link=}}
+|''[[La Belle Sauvage]]: Book of Dust Volume One''
+|{{won}}
+|<ref name=":0" /><ref>{{Cite news |date=30 November 2017 |title=Waterstones Book of the Year 2017 Winner: La Belle Sauvage: Book of Dust Volume One |language=en |work=Waterstones |url=https://www.waterstones.com/category/cultural-highlights/book-awards/the-waterstones-book-of-the-year |access-date=3 December 2017 |archive-date=5 December 2017 |archive-url=https://web.archive.org/web/20171205093018/https://www.waterstones.com/category/cultural-highlights/book-awards/the-waterstones-book-of-the-year |url-status=live }}</ref>
+|-
+|{{Sortname|first=Elena|last=Favilli|link=}} and [[Francesca Cavallo]]
+|''[[Good Night Stories for Rebel Girls]]''
+|{{sho}}
+|<ref name=":11">{{Cite web |last= |first= |date=2017-11-10 |title=Awards: Ernest J. Gaines Winner; Waterstones Book of the Year Shortlist |url=https://www.shelf-awareness.com/issue.html?issue=3126 |access-date=2022-07-23 |website=Shelf Awareness |archive-date=23 July 2022 |archive-url=https://web.archive.org/web/20220723234949/https://www.shelf-awareness.com/issue.html?issue=3126 |url-status=live }}</ref>
+|-
+|{{Sortname|first=George|last=Saunders|link=}}
+|''[[Lincoln in the Bardo]]''
+|{{sho}}
+|<ref name=":11" />
+|-
+|{{Sortname|first=Jenny|last=Uglow|link=}}
+|''Mr. Lear''
+|{{sho}}
+|<ref name=":11" />
+|-
+|{{Sortname|first=Yanis|last=Varoufakis|link=}}
+|''Talking to My Daughter About the Economy''
+|{{sho}}
+|<ref name=":11" />
+|-
+|{{Sortname|first=Frances|last=Hardinge|link=}}
+|''{{Sortname|first=A|last=Skinful of Shadows|link=}}''
+|{{sho}}
+|<ref name=":11" />
+|-
+|{{Sortname|first=Robert|last=Macfarlane|link=Robert Macfarlane (writer)}} and [[Jackie Morris]]
+|''{{Sortname|first=The|last=Lost Words|link=|nolink=1}}''
+|{{sho}}
+|<ref name=":11" />
+|- style="background:lightyellow"
+! rowspan="8" |2018
+|{{Sortname|first=Sally|last=Rooney|link=}}
+|''[[Normal People]]''
+|{{won}}
+|<ref name=":0" /><ref name=":3">{{Cite news |date=2018-11-29 |title=Love story Normal People is Waterstones' book of the year |language=en-GB |work=BBC News |url=https://www.bbc.com/news/entertainment-arts-46372322 |access-date=2022-07-23 |archive-date=9 January 2021 |archive-url=https://web.archive.org/web/20210109195158/https://www.bbc.com/news/entertainment-arts-46372322 |url-status=live }}</ref><ref>{{Cite web |last= |first= |date=2018-11-30 |title=Awards: Waterstones Book of the Year |url=https://www.shelf-awareness.com/issue.html?issue=3386 |access-date=2022-07-23 |website=Shelf Awareness |archive-date=23 July 2022 |archive-url=https://web.archive.org/web/20220723234945/https://www.shelf-awareness.com/issue.html?issue=3386 |url-status=live }}</ref>
+|-
+|{{Sortname|first=Isabel|last=Hardman|link=}}
+|''Why We Get the Wrong'' ''Politicians''
+|{{sho}}
+|<ref name=":0" /><ref name=":2" /><ref name=":3" />
+|-
+|{{Sortname|first=Dan|last=Jones|link=Dan Jones (writer)}} and [[Marina Amaral]]
+|''{{Sortname|link=|last=|first=|The|Colour of Time: A New History of the World, 1850–1960|nolink=1}}''
+|{{sho}}
+|<ref name=":0" /><ref name=":2" /><ref name=":3" />
+|-
+|{{Sortname|first=The|last=Secret Barrister|link=The Secret Barrister}}
+|''{{Sortname|link=The Secret Barrister|last=Secret Barrister|first=The}}''
+|{{sho}}
+|<ref name=":0" /><ref name=":2" /><ref name=":3" />
+|-
+|{{Sortname|first=Dolly|last=Alderton|link=}}
+|''[[Everything I Know About Love]]''
+|{{sho}}
+|<ref name=":0" /><ref name=":2" /><ref name=":3" />
+|-
+|{{Sortname|first=Henry|last=Eliot|link=Henry Eliot (author)}}
+|''{{Sortname|link=|last=Penguin Classics Book|first=The|nolink=1}}''
+|{{sho}}
+|<ref name=":0" /><ref name=":2" /><ref name=":3" />
+|-
+|{{Sortname|first=Madeline|last=Miller|link=}}
+|''[[Circe (novel)|Circe]]''
+|{{sho}}
+|<ref name=":0" /><ref name=":2" /><ref name=":3" />
+|-
+|{{Sortname|first=Fiona|last=Waters|link=}} and [[Frann Preston-Gannon]]
+|''I Am the Seed that Grew the Tree''
+|{{sho}}
+|<ref name=":0" /><ref name=":2" /><ref name=":3" />
+|- style="background:lightyellow"
+! rowspan="7" |2019
+|{{Sortname|first=Charlie|last=Mackesy}}
+|''{{Sortname|The|Boy, the Mole, the Fox and the Horse|link=The Boy, the Mole, the Fox and the Horse}}''
+|{{won}}
+|<ref>{{Cite web |date=2019-11-29 |title=Waterstones reveals its Books of the Year |url=https://www.penguin.co.uk/articles/company-article/waterstones-reveals-its-books-of-the-year/ |access-date=2022-07-23 |website=Penguin |language=en |archive-date=5 July 2022 |archive-url=https://web.archive.org/web/20220705064007/https://www.penguin.co.uk/articles/company-article/waterstones-reveals-its-books-of-the-year |url-status=live }}</ref><ref name=":4">{{Cite web |last= |first= |date=2019-12-02 |title=Awards: Waterstones Book & Author of the Year; RSL Giles St. Aubyn Winners |url=https://www.shelf-awareness.com/issue.html?issue=3631 |access-date=2022-07-23 |website=Shelf Awareness |archive-date=23 July 2022 |archive-url=https://web.archive.org/web/20220723234853/https://www.shelf-awareness.com/issue.html?issue=3631 |url-status=live }}</ref>
+|-
+|{{Sortname|first=Margaret|last=Atwood|link=}}
+|''{{Sortname|first=The|last=Testaments|link=}}''
+|{{sho}}
+|<ref name=":5">{{Cite web |last= |date=2019-10-30 |title=Waterstones Book of the Year 2019 Shortlist |url=https://locusmag.com/2019/10/waterstones-book-of-the-year-2019-shortlist/ |access-date=2022-07-23 |website=Locus Online |language=en-US |archive-date=23 July 2022 |archive-url=https://web.archive.org/web/20220723234851/https://locusmag.com/2019/10/waterstones-book-of-the-year-2019-shortlist/ |url-status=live }}</ref><ref name=":6">{{Cite web |last=Schaub |first=Michael |title=Atwood, Thunberg Make Shortlist for Book of the Year |url=https://www.kirkusreviews.com/news-and-features/articles/margaret-atwood-greta-thunberg-make-booksellers-sh/ |access-date=2022-07-23 |website=Kirkus Reviews |language=en |archive-date=23 July 2022 |archive-url=https://web.archive.org/web/20220723234944/https://www.kirkusreviews.com/news-and-features/articles/margaret-atwood-greta-thunberg-make-booksellers-sh/ |url-status=live }}</ref>
+|-
+|{{Sortname|first=Candice|last=Carty-Williams|link=}}
+|''[[Queenie (Carty-Williams novel)|Queenie]]''
+|{{sho}}
+|<ref name=":6" />
+|-
+|{{Sortname|first=Bridget|last=Collins|link=Bridget Collins}}
+|''{{Sortname|first=The|last=Binding|link=|nolink=1}}''
+|{{sho}}
+|<ref name=":5" /><ref name=":6" />
+|-
+|{{Sortname|first=Robert|last=Macfarlane|link=Robert Macfarlane (writer)}}
+|''[[Underland (book)|Underland]]''
+|{{sho}}
+|<ref name=":6" />
+|-
+|{{Sortname|first=Max|last=Porter|link=Max Porter (writer)}}
+|[[Lanny (novel)|''Lanny'']]
+|{{sho}}
+|<ref name=":5" /><ref name=":6" />
+|-
+|{{Sortname|first=Greta|last=Thunberg|link=}}
+|''[[No One Is Too Small to Make a Difference]]''
+|{{sho}}
+|<ref name=":4" /><ref name=":6" />
+|- style="background:lightyellow"
+! rowspan="12" |2020
+|{{Sortname|first=Maggie|last=O'Farrell}}
+|''[[Hamnet (novel)|Hamnet]]''
+|{{won}}
+|<ref>{{Cite web |last=Flood |first=Alison |date=2020-12-02 |title=Maggie O'Farrell's 'wonderful' Hamnet declared Waterstones book of the year |url=http://www.theguardian.com/books/2020/dec/02/maggie-ofarrell-hamnet-waterstones-book-of-the-year |access-date=2022-07-23 |website=the Guardian |language=en |archive-date=23 July 2022 |archive-url=https://web.archive.org/web/20220723234943/https://www.theguardian.com/books/2020/dec/02/maggie-ofarrell-hamnet-waterstones-book-of-the-year |url-status=live }}</ref><ref>{{Cite web |last= |first= |date=2020-12-03 |title=Waterstones Book of the Year: Hamnet |url=https://www.shelf-awareness.com/issue.html?issue=3880 |access-date=2022-07-23 |website=Shelf Awareness |archive-date=23 July 2022 |archive-url=https://web.archive.org/web/20220723234947/https://www.shelf-awareness.com/issue.html?issue=3880 |url-status=live }}</ref><ref>{{Cite web |last=Schaub |first=Michael |title=Hamnet Is Waterstones Book of the Year |url=https://www.kirkusreviews.com/news-and-features/articles/hamnet-is-waterstones-book-of-the-year/ |access-date=2022-07-23 |website=Kirkus Reviews |language=en |archive-date=23 July 2022 |archive-url=https://web.archive.org/web/20220723234941/https://www.kirkusreviews.com/news-and-features/articles/hamnet-is-waterstones-book-of-the-year/ |url-status=live }}</ref>
+|-
+|{{Sortname|first=Dara|last=McAnulty|link=}}
+|''Diary of a Young Naturalist''
+|{{sho}}
+|<ref name=":12">{{Cite web |last= |first= |date=2020-11-04 |title=Awards: Waterstones Book of the Year, Toronto Book Shortlists |url=https://www.shelf-awareness.com/issue.html?issue=3859 |access-date=2022-07-23 |website=Shelf Awareness |archive-date=3 February 2023 |archive-url=https://web.archive.org/web/20230203023637/https://www.shelf-awareness.com/issue.html?issue=3859 |url-status=live }}</ref>
+|-
+|{{Sortname|first=Brit|last=Bennett|link=}}
+|''{{Sortname|first=The|last=Vanishing Half|link=|nolink=}}''
+|{{sho}}
+|<ref name=":12" />
+|-
+|{{Sortname|first=Michiko|last=Kakutani|link=}}
+|''Ex Libris'' 
+|{{sho}}
+|<ref name=":12" />
+|-
+|{{Sortname|first=Gavin|last=Francis|link=}}
+|''Island Dreams'' 
+|{{sho}}
+|<ref name=":12" />
+|-
+|{{Sortname|first=Philippe|last=Sands|link=}}
+|''{{Sortname|first=The|last=Ratline|link=|nolink=}}''
+|{{sho}}
+|<ref name=":12" />
+|-
+|{{Sortname|first=Craig|last=Brown|link=Craig Brown (satirist)}}
+|''[[One Two Three Four: The Beatles in Time|One, Two, Three, Four: The Beatles in Time]]'' 
+|{{sho}}
+|<ref name=":12" />
+|-
+|{{Sortname|first=Naoise|last=Dolan|link=}}
+|''[[Exciting Times]]'' 
+|{{sho}}
+|<ref name=":12" />
+|-
+|{{Sortname|first=Bolu|last=Babalola|link=}}
+|''Love in Colour'' 
+|{{sho}}
+|<ref name=":12" />
+|-
+|{{Sortname|first=David|last=Olusoga|link=}}
+|''Black and British: A Short, Essential History'' 
+|{{sho}}
+|<ref name=":12" />
+|-
+|{{Sortname|first=Fiona|last=Waters|link=}} with [[Britta Teckentrup]] (illus.)
+|''Tiger, Tiger, Burning Bright!'' 
+|{{sho}}
+|<ref name=":12" />
+|-
+|{{Sortname|first=Rundell|last=Katherine|link=}} (ed)
+|''{{Sortname|first=The|last=Book of Hopes|link=|nolink=1}}''
+|{{sho}}
+|<ref name=":12" />
+|- style="background:lightyellow"
+! rowspan="13" |2021
+|{{sortname|last=McCartney|first=Paul}} with Paul Muldoon (ed.)
+|''{{Sortname|first=The|last=Lyrics|link=The Lyrics: 1956 to the Present}}''
+|{{won}}
+|<ref>{{Cite web |last= |date=2021-12-03 |title=McCartney wins Waterstones Book of the Year for 'The Lyrics' |url=https://www.booksandpublishing.com.au/articles/2021/12/03/207119/mccartney-wins-waterstones-book-of-the-year-for-the-lyrics/ |access-date=2021-12-07 |website=Books+Publishing |language=en-AU |archive-date=28 January 2022 |archive-url=https://web.archive.org/web/20220128055649/https://www.booksandpublishing.com.au/articles/2021/12/03/207119/mccartney-wins-waterstones-book-of-the-year-for-the-lyrics/ |url-status=live }}</ref><ref>{{Cite web |last= |date=2021-12-02 |title=Waterstones Book of the Year: The Lyrics |url=https://www.shelf-awareness.com/issue.html?issue=4124 |access-date=2022-07-23 |website=Shelf Awareness |archive-date=30 May 2022 |archive-url=https://web.archive.org/web/20220530030310/https://www.shelf-awareness.com/issue.html?issue=4124 |url-status=live }}</ref>
+|-
+|{{sortname|last=Drori|first=Jonathan}} with [[Lucille Clerc]] (illus.)
+|''Around the World in 80 Plants''
+|{{sho}}
+|<ref name=":13">{{Cite web |last= |first= |date=2021-10-29 |title=Awards: Kirkus Winners; Waterstones Book of the Year Shortlist |url=https://www.shelf-awareness.com/issue.html?issue=4102 |access-date=2022-07-23 |website=Shelf Awareness |archive-date=19 November 2021 |archive-url=https://web.archive.org/web/20211119094807/https://www.shelf-awareness.com/issue.html?issue=4102 |url-status=live }}</ref>
+|-
+|{{sortname|last=Hallett|first=Janice}}
+|''{{sortname|last=Appeal|first=The|link=|nolink=1}}''
+|{{sho}}
+|<ref name=":13" />
+|-
+|{{sortname|last=Hargrave|first=Kiran Millwood}} with [[Tom de Freston]] (illus.)
+|''Julia and the Shark''
+|{{sho}}
+|<ref name=":13" />
+|-
+|{{sortname|last=Higgins|first=Charlotte}} with [[Chris Ofili]] (illus.)
+|''Greek Myths''
+|{{sho}}
+|<ref name=":13" />
+|-
+|{{sortname|last=Ishiguro|first=Kazuo}}
+|''[[Klara and the Sun]]''
+|{{sho}}
+|<ref name=":13" />
+|-
+|{{sortname|last=Jeffs|first=Amy}}
+|''Storyland''
+|{{sho}}
+|<ref name=":13" />
+|-
+|{{sortname|last=Nelson|first=Caleb Azumah}}
+|''[[Open Water (novel)|Open Water]]''
+|{{sho}}
+|<ref name=":13" />
+|-
+|{{sortname|last=Rashford|first=Marcus}} and [[Carl Anka]]
+|''[[You Are A Champion|You Are a Champion]]''
+|{{sho}}
+|<ref name=":13" />
+|-
+|{{sortname|last=Saint|first=Jennifer}}
+|''Ariadne''
+|{{sho}}
+|<ref name=":13" />
+|-
+|{{sortname|last=Silvera|first=Adam}}
+|''[[They Both Die at the End]]''
+|{{sho}}
+|<ref name=":13" />
+|-
+|{{sortname|last=Thubron|first=Colin}}
+|''Amur River''
+|{{sho}}
+|<ref name=":13" />
+|-
+|{{sortname|last=Turner|first=Tracey}} and [[Andrew Donkin]] with [[Libby VanderPloeg]] (illus.)
+|''British Museum: History of the World in 25 Cities''
+|{{sho}}
+|<ref name=":13" />
+|- style="background:lightyellow"
+! rowspan="10" |2022
+|{{sortname|Katy| Hessel}}
+|''{{Sortname|The|Story of Art without Men|nolink=1}}''
+|{{won}}
+|<ref>{{Cite web |last=Shaffi |first=Sarah |date=2022-12-01 |title=Paint him out: Katy Hessel's retelling of art history is Waterstones book of the year |url=https://www.theguardian.com/books/2022/dec/01/paint-him-out-katy-hessels-retelling-of-art-history-is-waterstones-book-of-the-year |access-date=2022-12-02 |website=The Guardian |language=en |archive-date=2 December 2022 |archive-url=https://web.archive.org/web/20221202041443/https://www.theguardian.com/books/2022/dec/01/paint-him-out-katy-hessels-retelling-of-art-history-is-waterstones-book-of-the-year |url-status=live }}</ref>
+|-
+|{{sortname|Maggie| O'Farrell}}
+|''The Marriage Portrait''
+|{{sho}}
+|<ref name=":14">{{Cite web |last= |date=2022-10-28 |title=Waterstones Book of the Year shortlist announced |url=https://www.booksandpublishing.com.au/articles/2022/10/28/222604/waterstones-book-of-the-year-shortlist-announced/ |access-date=2022-10-28 |website=Books+Publishing |language=en-AU |archive-date=11 August 2023 |archive-url=https://web.archive.org/web/20230811101513/https://www.booksandpublishing.com.au/articles/2022/10/28/222604/waterstones-book-of-the-year-shortlist-announced/ |url-status=live }}</ref>
+|-
+|{{sortname|Alice| Oseman}}
+|''Heartstopper Volume 1''
+|{{sho}}
+|<ref name=":14" />
+|-
+|{{sortname|Bonnie| Garmus}}
+|''[[Lessons in Chemistry (novel)|Lessons in Chemistry]]''
+|{{sho}}
+|<ref name=":14" />
+|-
+|{{sortname|Jonathan| Freedland}}
+|''The Escape Artist''
+|{{sho}}
+|<ref name=":14" />
+|-
+|{{sortname|Thomas|Halliday|link=Thomas Halliday (writer)}}
+|''[[Otherlands (book)|Otherlands]]''
+|{{sho}}
+|<ref name=":14" />
+|-
+|{{sortname|Katherine| Rundell}} with Talya Baldwin (illus.)
+|''In the Golden Mole''
+|{{sho}}
+|<ref name=":14" />
+|-
+|{{sortname|Jeremy|Lee|link=Jeremy Lee (chef)}}
+|''Cooking''
+|{{sho}}
+|<ref name=":14" />
+|-
+|{{sortname|R. F.|Kuang}}
+|''[[Babel, or the Necessity of Violence|Babel]]''
+|{{sho}}
+|<ref name=":14" />
+|-
+|{{sortname|A. F.|Steadman}}
+|''Skandar and the Unicorn Thief''
+|{{sho}}
+|<ref name=":14" />
+|- style="background:lightyellow"
+! rowspan="12" |2023
+|{{sortname|Katherine| Rundell}}
+|''Impossible Creatures''
+|{{won}}
+|<ref>{{Cite news |last=Creamer |first=Ella |date=2023-11-30 |title=Katherine Rundell wins Waterstones book of 2023 with 'immediate classic' |url=https://www.theguardian.com/books/2023/nov/30/katherine-rundell-waterstones-book-of-2023-impossible-creatures |access-date=2024-04-28 |work=[[The Guardian]] |language=en-GB |issn=0261-3077 |archive-date=3 March 2024 |archive-url=https://web.archive.org/web/20240303014039/https://www.theguardian.com/books/2023/nov/30/katherine-rundell-waterstones-book-of-2023-impossible-creatures |url-status=live }}</ref>
+|-
+|{{sortname|Chris| Broad|link=Chris Broad (writer)}}
+|''Abroad in Japan''
+|{{sho}}
+|<ref name=":15">{{Cite web |last= |date=2023-11-02 |title=2023 Waterstones Book of the Year Shortlist |url=https://locusmag.com/2023/11/2023-waterstones-book-of-the-year-shortlist/ |access-date=2024-04-28 |website=[[Locus Online]] |language=en-US |archive-date=25 December 2023 |archive-url=https://web.archive.org/web/20231225134751/https://locusmag.com/2023/11/2023-waterstones-book-of-the-year-shortlist/ |url-status=live }}</ref>
+|-
+|{{sortname|G. T.| Karber}}
+|''Murdle''
+|{{sho}}
+|<ref name=":15" />
+|-
+|{{sortname|Rebecca F.| Kuang}}
+|''[[Yellowface (novel)|Yellowface]]''
+|{{sho}}
+|<ref name=":15" />
+|-
+|{{sortname|Ann| Patchett}}
+|''[[Tom Lake]]''
+|{{sho}}
+|<ref name=":15" />
+|-
+|{{sortname|Rick| Rubin|link=Rick Rubin (writer)}}
+|''The Creative Act: A Way of Being'' 
+|{{sho}}
+|<ref name=":15" />
+|-
+|{{sortname|Zadie| Smith}}
+|''[[The Fraud]]''
+|{{sho}}
+|<ref name=":15" />
+|-
+|{{sortname|Chris| van Tulleken}}
+|''[[Ultra-Processed People|Ultra-Processed People: Why Do We All Eat Stuff That Isn't...]]''
+|{{sho}}
+|<ref name=":15" />
+|-
+|{{sortname|Alice| Winn}}
+|''In Memoriam''
+|{{sho}}
+|<ref name=":15" />
+|-
+|{{sortname|Rebecca| Yarros}}
+|''[[Fourth Wing]]''
+|{{sho}}
+|<ref name=":15" />
+|-
+|{{sortname|Lou| Peacock}} and Matt Hunt
+|''A Whale of a Time: A Funny Poem for Every Day of the Year'' 
+|{{sho}}
+|<ref name=":15" />
+|-
+|{{sortname|Mary| Beard|link=Mary Beard (classicist)}}
+|''Emperor of Rome''
+|{{sho}}
+|<ref name=":15" />
+|-
+|- style="background:lightyellow"
+! rowspan="15" |2024
+|{{sortname|Asako| Yuzuki}} with [[Polly Barton (author)|Polly Barton]] (trans.)
+|''[[Butter (novel)|Butter]]''
+|{{won}}
+|<ref>{{Cite journal |title=Novels about serial killers and loyal dogs voted Waterstones books of 2024 |journal=[[The Guardian]] |last=Creamer |first=Ella |date=2024-11-28 |url=https://www.theguardian.com/books/2024/nov/28/novels-about-serial-killers-and-loyal-dogs-voted-waterstones-books-of-2024 |access-date=2025-10-30}}</ref>
+|-
+|{{sortname|Chloe|Dalton|link=Chloe Dalton (author)}}
+|''Raising Hare''
+|{{shortlisted}}
+|<ref name="shortlist 2024">{{Cite journal |title=Waterstones unveils Book of the Year 2024 shortlist |journal=[[The Bookseller]] |last=Brown |first=Lauren |date=2024-11-01 |url=https://www.thebookseller.com/news/waterstones-unveils-book-of-the-year-2024-shortlist |archive-url=https://archive.today/20241101092743/https://www.thebookseller.com/news/waterstones-unveils-book-of-the-year-2024-shortlist#selection-1521.0-1521.51 |archive-date=2024-11-01}}</ref>
+|-
+|{{sortname|Percival| Everett}}
+| ''[[James (novel)|James]]''
+|{{shortlisted}}
+|<ref name="shortlist 2024" />
+|-
+|{{sortname|Holly| Jackson}}
+|''The Reappearance of Rachel Price''
+|{{shortlisted}}
+|<ref name="shortlist 2024" />
+|-
+|{{sortname|Anna |Jones|Anna Jones (food writer)}}
+|''Easy Wins''
+|{{shortlisted}}
+|<ref name="shortlist 2024" />
+|-
+|{{sortname|Olivia| Laing}}
+|''The Garden Against Time''
+|{{shortlisted}}
+|<ref name="shortlist 2024" />
+|-
+|{{sortname|Ferdia| Lennon}}
+|''[[Glorious Exploits]]''
+|{{shortlisted}}
+|<ref name="shortlist 2024" />
+|-
+|{{sortname|Alice| Loxton}}
+|''Eighteen: A History of Britain in 18 Young Lives''
+|{{shortlisted}}
+|<ref name="shortlist 2024" />
+|-
+|{{sortname|Ben| Macintyre}}
+|''The Siege''
+|{{shortlisted}}
+|<ref name="shortlist 2024" />
+|-
+|{{sortname|Coco| Mellors}}
+|''Blue Sisters''
+|{{shortlisted}}
+|<ref name="shortlist 2024" />
+|-
+|{{sortname|Ross| Montgomery|link=Ross Mongomery (writer)}}
+|''I Am Rebel''
+|{{shortlisted}}
+|<ref name="shortlist 2024" />
+|-
+|{{sortname|Gavin| Pretor-Pinney}} with [[William Grill]] (illus.)
+|''Cloudspotting for Beginners''
+|{{shortlisted}}
+|<ref name="shortlist 2024" />
+|-
+|{{sortname|Sally| Rooney}}
+|''[[Intermezzo (novel)|Intermezzo]]''
+|{{shortlisted}}
+|<ref name="shortlist 2024" />
+|-
+|{{sortname|William| Shakespeare}} with Emily Sutton (illus.)
+|'' Shakespeare’s First Folio: All the Plays – A Children’s Edition''
+|{{shortlisted}}
+|<ref name="shortlist 2024" />
+|-
+|{{sortname|Colm| Tóibín}}
+|''Long Island''
+|{{shortlisted}}
+|<ref name="shortlist 2024" />
+|-
+|- style="background:lightyellow"
+! rowspan="15" |2025
+|{{sortname|Lucy| Steeds}}
+|''[[The Artist (novel)|The Artist]]''
+|{{won}}
+|<ref name="winner2025creamer">{{cite news |last1=Creamer |first1=Ella |title=The Artist by Lucy Steeds wins Waterstones book of the year |url=https://www.theguardian.com/books/2025/nov/27/the-artist-by-lucy-steeds-wins-waterstones-book-of-the-year |access-date=27 November 2025 |work=The Guardian |date=27 November 2025}}</ref> 
+|-
+|{{sortname|David| Attenborough}} with [[Colin Butfield]]
+|''Ocean: Earth's last wilderness''
+|{{shortlisted}}
+| <ref name="shortlist2025">{{cite news |last1=Spanoudi |first1=Melina |title=RF Kuang, Suzanne Collins and Arundhati Roy shortlisted for Waterstones Book of the Year |url=https://www.thebookseller.com/news/rf-kuang-suzanne-collins-and-arundhati-roy-shortlisted-for-waterstones-book-of-the-year |access-date=27 November 2025 |work=The Bookseller |date=30 October 2025 |language=En}}</ref> 
+|-
+|{{sortname|Natasha|Browne|link=Natasha Brown (author)}}
+| ''[[Universality (novel)|Universality]]''
+|{{shortlisted}}
+|<ref name="shortlist2025" />
+|-
+|{{sortname|Neill| Cameron}}
+|''Donut Squad: Take Over the World!''
+|{{shortlisted}}
+|<ref name="shortlist2025" />
+|-
+|{{sortname|Suzanne| Collins}}
+|''[[Sunrise on the Reaping]]''
+|{{shortlisted}}
+|<ref name="shortlist2025" />
+|-
+|{{sortname|James|Fox|link=James Fox (art historian)}}
+|''Craftland''
+|{{shortlisted}}
+|<ref name="shortlist2025" />
+|-
+|{{sortname|Antonia| Hodgson}}
+|''The Raven Scholar''
+|{{shortlisted}}
+|<ref name="shortlist2025" />
+|-
+|{{sortname|Anna|James|link=Anna James (writer)}}
+|''Alice with a Why''
+|{{shortlisted}}
+|<ref name="shortlist2025" />
+|-
+|{{sortname|R. F. |Kuang }}
+|''[[Katabasis (novel)|Katabasis]]''
+|{{shortlisted}}
+|<ref name="shortlist2025" />
+|-
+|{{sortname|William |Maxwell|link=William Keepers Maxwell Jr.}}
+|''[[So Long, See You Tomorrow (novel)|So Long, See You Tomorrow]] ''
+|{{shortlisted}}
+|<ref name="shortlist2025" />
+|-
+|{{sortname|Mikey| Please}}
+|''The Café at the Edge of the Woods''
+|{{shortlisted}}
+|<ref name="shortlist2025" />
+|-
+|{{sortname|Mel| Robbins}}
+|''The Let Them Theory''
+|{{shortlisted}}
+|<ref name="shortlist2025" />
+|-
+|{{sortname|Arundhati| Roy}}
+|''Mother Mary Comes to Me ''
+|{{shortlisted}}
+|<ref name="shortlist2025" />
+|-
+|{{sortname|Tim| Siadatan}} 
+|''Padella''
+|{{shortlisted}}
+|<ref name="shortlist2025" />
+|-
+|[[Uketsu]]
+|''Strange Pictures by ''
+|{{shortlisted}}
+|<ref name="shortlist2025" />
+|-
+|}
+
+== See also ==
+
+* [[Waterstones Children's Book Prize]]
+* [[Waterstones Debut Fiction Prize]]
+* [[Children's Laureate|Waterstones Children's Laureate]]
+* [[Waterstones 11]]
+* [[Guardian First Book Award]]
+
+== References ==
+{{Reflist}}
+
+==External links==
+*{{official website|https://www.waterstones.com/category/cultural-highlights/book-awards/the-waterstones-book-of-the-year}}
+
+[[Category:Awards established in 2012]]
+[[Category:English-language literary awards]]
+[[Category:2012 establishments in the United Kingdom]]
+[[Category:Waterstones awards]]

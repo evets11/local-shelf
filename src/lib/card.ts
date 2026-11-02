@@ -28,6 +28,7 @@ export interface SearchTitle extends CardTitle {
   people: string[]; // directors, cast, authors, narrators
   languages: string[];
   firstSeen: string;
+  pinned?: boolean;
 }
 
 
@@ -65,6 +66,7 @@ export function toSearch(t: Title): SearchTitle {
     ],
     languages: t.languages,
     firstSeen: t.firstSeen,
+    ...(t.pinned ? { pinned: true } : {}),
   };
 }
 

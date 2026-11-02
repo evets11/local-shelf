@@ -1,0 +1,309 @@
+{{Short description|British literary awards}}
+{{about |the British book awards|the American book awards|Nero Award}}
+{{Use British English|date=March 2024}}
+{{Use dmy dates|date=March 2024}}
+
+{{Infobox award <!-- for literary awards -->
+| name = The Nero Book Awards
+| image = 
+| imagesize = 
+| alt = 
+| caption = 
+| awarded_for = the book you would most want to press into the hands of friends and family
+| host = 
+| location = <!-- where venue of ceremony if different from host -->
+| presenter = <!-- who presents the award if different from host -->
+| sponsor = [[Caffè Nero]]
+| reward = {{currency|30,000|GBP}}
+| date = <!-- date of the award ceremony {{Start date|YYYY|MM|DD}} (optional if date is variable) -->
+| country = 
+| year = {{start date and age|2024}}
+| year2 = Active<!-- year last awarded (use only if defunct otherwise keep 'Active')-->
+| website = {{URL|https://nerobookawards.com}}
+}}
+
+The '''Nero Book Awards''' are British literary awards, inaugurated in 2023.<ref name="shaffi2023">{{cite news |last1=Shaffi |first1=Sarah |title=Caffè Nero launches major book awards |url=https://www.theguardian.com/books/2023/may/23/caffe-nero-launches-major-book-awards |access-date=14 March 2024 |work=The Guardian |date=22 May 2023}}</ref>  They are run by coffeehouse chain [[Caffè Nero]] in partnership with the [[Booksellers Association of the UK and Ireland|Booksellers' Association]], [[Brunel University London]], and Right To Dream, "a football community dedicated to expanding people's understanding of excellence through football".<ref>{{cite web |title=Home page |url=https://www.righttodream.com/ |website=Right To Dream |access-date=14 March 2024 |language=en}}</ref><ref name="nero-about">{{cite web |title=About |url=https://nerobookawards.com/about/ |website=Nero Book Awards |access-date=14 March 2024}}</ref>
+
+The awards are made in four categories: children's fiction, fiction, debut fiction, and non-fiction. A short list of four is drawn up for each category, and category winners are chosen, receiving £5,000. There is then a further selection process before one of the category winners is awarded the £30,000 "Golden Nero" award as "Book of the year". The awards are open to books published in the UK and Ireland, and at the time of entry the author must be alive and have been resident in the UK or Ireland for three years. The criteria for the awards are described as: "Our judges will be asked to choose the books they would most want to press into the hands of friends and family for their quality and readability."<ref name=nero-about />
+
+==Timeline==
+For the 2023 awards, announced in 2024 for books published predominantly in 2023, the timeline was:<ref name="nero-dates">{{cite web |title=Key Dates |url=https://nerobookawards.com/key-dates/ |website=Nero Book Awards |access-date=14 March 2024}}</ref>
+* 1 December 2022 to 30 November 2023: Publication date for eligible books<ref name=tc2023>{{cite web |title=Nero Book Awards 2023 Terms and Conditions of Entry |url=https://nerobookawards.com/wp-content/uploads/2023/06/Nero-Book-Awards-Terms-Conditions-2023-1.pdf |publisher=Nero Book Awards |access-date=25 March 2024}}</ref>
+* 19 June 2023 - 21 July 2023: Submission of entries<ref name=tc2023 />
+* 21 November 2023: Shortlists announced<ref name="creamer2023">{{Cite news |last=Creamer |first=Ella |date=2023-11-21 |title=Paul Murray and Fern Brady shortlisted for inaugural Nero awards |url=https://www.theguardian.com/books/2023/nov/21/paul-murray-and-fern-brady-shortlisted-for-inaugural-nero-awards |access-date=2024-03-19 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref>
+* 30 January 2024: Category winners announced<ref>{{cite news |title=Booksellers Association - Nero Book Awards Announce Category Winners |url=https://www.booksellers.org.uk/industryinfo/industryinfo/latestnews/Nero-Book-Awards-Announce-Category-Winners |access-date=14 March 2024 |work=The Booksellers Association of the United Kingdom & Ireland Limited}}</ref>
+* 14 March 2024: Golden Nero overall winner announced<ref name=bbc2024>{{cite news |title=Paul Murray's The Bee Sting wins inaugural Nero Gold Prize book award |url=https://www.bbc.co.uk/news/entertainment-arts-68563918 |access-date=14 March 2024 |work=BBC News |date=14 March 2024}}</ref>
+
+A similar pattern of eligibility and submission dates has been announced for the 2024 awards.<ref>{{cite web |title=Nero Book Awards 2024 Terms and Conditions of Entry |url=https://nerobookawards.com/wp-content/uploads/2024/06/Nero-Book-Awards-2024-Terms-Conditions.pdf |publisher=Nero Book Awards |access-date=4 August 2024}}</ref>
+
+==Shortlists and winners==
+The overall winner for each year is shown in boldface, and category winners are indicated by highlighted rows. 
+{| class="wikitable sortable"
+!Year
+!Author
+!Title
+!Publisher
+!Result
+!Ref.
+|- style="background: lightyellow;"
+! rowspan="16" |'''[[2023 in literature|2023]]'''
+
+|'''{{sortname|Paul|Murray|Paul Murray (author)}}'''
+|'''''{{sort|Bee Sting|[[The Bee Sting]]}}'''''
+|'''[[Hamish Hamilton]]'''
+||'''Overall winner<br />Fiction winner'''
+||<ref name="bbc2024" /><ref>{{Cite news |last=Creamer |first=Ella |date=2024-03-14 |title=Paul Murray's The Bee Sting wins inaugural Nero book of the year prize |url=https://www.theguardian.com/books/2024/mar/14/paul-murrays-the-bee-sting-wins-inaugural-nero-book-of-the-year-prize |access-date=2024-03-19 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref>
+|-
+|{{sortname|Eleanor| Catton}}
+|''[[Birnam Wood (novel)|Birnam Wood]]''
+|[[Granta]]
+| rowspan="3" |Fiction shortlist
+| rowspan="3" |<ref name="creamer2023" />
+|-
+|{{sortname|Megan| Nolan}}
+|''Ordinary Human Failings'' 
+|[[Jonathan Cape]]
+|-
+|{{sortname|Karen| Powell|nolink=1}}
+|''Fifteen Wild Decembers''
+|[[Europa Publications|Europa]]
+|- style="background: lightyellow;"
+|{{sortname|Michael|Magee|Michael Magee (writer)}}
+|''Close to Home''
+|[[Hamish Hamilton]]
+| rowspan="1" |Debut fiction winner
+| rowspan="1" |<ref name="creamer2024">{{cite news |last1=Creamer |first1=Ella |date=30 January 2024 |title=Paul Murray and Fern Brady win inaugural Nero book awards |url=https://www.theguardian.com/books/2024/jan/30/nero-book-awards-winners-paul-murray-fern-brady-michael-magee-beth-lincoln |access-date=14 March 2024 |work=The Guardian}}</ref>
+|-
+|{{sortname|Stephen| Buoro}}
+|''{{sort|Five Sorrowful|The Five Sorrowful Mysteries of Andy Africa|nolink}}''
+|[[Bloomsbury Publishing|Bloomsbury]]
+| rowspan="3" |Debut fiction shortlist
+| rowspan="3" |<ref name="creamer2023" />
+|-
+|{{sortname|Tom| Crewe}}
+|''{{sort|New Life|[[The New Life (Crewe novel)|The New Life]]}}''
+|[[Chatto & Windus]]
+|-
+|{{sortname|Chloe Michelle| Howarth}}
+|''Sunburn''
+|Verve
+|- style="background: lightyellow;"
+|{{sortname|Beth|Lincoln}}
+|''{{sort|Swifts|The Swifts}}''
+|[[Puffin Books|Puffin]]
+| rowspan="1" |Children's fiction winner
+| rowspan="1" |<ref name="creamer2024" />
+|-
+|{{sortname|Lex |Croucher}}
+|''Gwen and Art Are Not in Love'' 
+|[[Bloomsbury Publishing|Bloomsbury]]
+| rowspan="3" |Children's fiction shortlist
+| rowspan="3" |<ref name="creamer2023" /> 
+|-
+|{{sortname|Kat |Dunn|nolink=1}}
+|''Bitterthorn''
+|[[Andersen Press]]
+|-
+|{{sortname|Candy |Gourlay}}
+|''Wild Song''
+|{{sortname|David| Fickling}}
+|- style="background: lightyellow;"
+|{{sortname|Fern|Brady}}
+|''[[Strong Female Character]]''
+|Brazen
+| rowspan="1" |Non-fiction winner
+| rowspan="1" |<ref name="creamer2024" />
+|-
+|{{sortname|Freya| Bromley|nolink=1}}
+|''{{sort|Tiday Year|The Tidal Year}}''
+|[[Coronet Books|Coronet]]
+| rowspan="3" |Non-fiction shortlist
+| rowspan="3" |<ref name="creamer2023" />
+|-
+|{{sortname|Natasha| Carthew}}
+|''Undercurrent''
+|[[Coronet Books|Coronet]]
+|-
+|{{sortname|Victoria| Smith|nolink=1}}
+|''Hags''
+|[[Fleet Publishing|Fleet]]
+|- style="background: lightyellow;"
+! rowspan="17" |'''[[2024 in literature|2024]]'''
+|- style="background: lightyellow;"
+|'''{{sortname|Sophie| Elmhirst}}'''
+|'''''[[Maurice and Maralyn]]'''''
+|'''[[Chatto & Windus]]'''
+|'''Overall winner<br />Non-fiction winner'''
+|<ref name=cats2024 /><ref name=creamer20250305>{{Cite news |last=Creamer |first=Ella |date=2025-03-05 |title=Sophie Elmhirst’s Maurice and Maralyn wins Nero book of the year prize |url=https://www.theguardian.com/books/2025/mar/05/sophie-elmhirst-maurice-and-maralyn-wins-nero-book-of-the-year-prize |access-date=2025-03-13 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref>
+|-
+|{{sortname|Ellen |Atlanta}}
+|''Pixel Flesh''
+|[[Headline Publishing Group|Headline]]
+| rowspan="3" |Non-fiction shortlist
+| rowspan="3" |<ref name="creamer" /><ref name="roberts" />
+|-
+|{{sortname|Zeinab| Badawi}}
+|''{{sort|African History of Africa|An African History of Africa}}''
+|[[W. H. Allen & Co.]]
+|-
+|{{sortname|Orlando| Whitfield|nolink=1}}
+|''All That Glitters''
+|[[Profile Books]]
+|- style="background: lightyellow;"
+|{{sortname|Adam S.| Leslie}}
+|''Lost in the Garden''
+|Dead Ink
+|Fiction winner
+|<ref name="cats2024">{{cite web |title=Category winners |url=https://nerobookawards.com/category-winners-2024/ |website=Nero Book Awards |access-date=16 January 2025}}</ref>
+|-
+|{{sortname|Suzannah| Dunn}}
+|''Levitation for Beginners''
+|[[Abacus Books|Abacus]]
+| rowspan="3" |Fiction shortlist
+| rowspan="3" |<ref name="creamer">{{Cite news |last=Creamer |first=Ella |date=2024-12-03 |title=2024 Nero book awards shortlist announced to celebrate ‘extraordinary writing talent’ |url=https://www.theguardian.com/books/2024/dec/03/2024-nero-book-awards-shortlist-announced-to-celebrate-extraordinary-writing-talent |access-date=2024-12-04 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref><ref name="roberts">{{Cite web |last=Roberts |first=Hannah |date=2024-12-03 |title=Story showcasing ‘voices’ of Ireland among novels nominated in Nero Book Awards |url=https://www.standard.co.uk/news/uk/ireland-costa-authors-caffe-nero-dublin-b1197712.html |access-date=2024-12-04 |website=The Standard |language=en}}</ref>
+|-
+|{{sortname|Jo| Hamya}}
+|''{{sort|Hypocrite|[[The Hypocrite (novel)|The Hypocrite]]}}''
+|[[Weidenfeld & Nicolson]]
+|-
+|{{sortname|Donal| Ryan}}
+|''Heart, Be at Peace''
+|[[Doubleday (publisher)|Doubleday]]
+|- style="background: lightyellow;"
+|{{sortname|Colin |Barrett|Colin Barrett (author)}}
+|''Wild Houses''
+|[[Jonathan Cape]]
+|Debut fiction winner
+|<ref name=cats2024 />
+|-
+|{{sortname|Lara| Haworth}}
+|''Monumenta''
+|[[Canongate Books]]
+| rowspan="3" |Debut fiction shortlist
+| rowspan="3" |<ref name="creamer" /><ref name="roberts" />
+|-
+|{{sortname|Ferdia| Lennon|nolink=1}}
+|''[[Glorious Exploits]]''
+|Fig Tree
+|-
+|{{sortname|Orlaine| McDonald|nolink=1}}
+|''No Small Thing''
+|[[Serpent's Tail]]
+|- style="background: lightyellow;"
+|{{sortname|Liz |Hyder}} (illus. [[Tom de Freston]])
+|''{{sort|Twelve|The Twelve}}''
+|[[Pushkin Press]]
+|Children's fiction winner
+|<ref name=cats2024 />
+|-
+|{{sortname|Catherine |Bruton|nolink=1}}
+|''Bird Boy''
+|[[Nosy Crow]]
+| rowspan="3" |Children's fiction shortlist
+| rowspan="3" |<ref name="creamer" /><ref name="roberts" />
+|-
+|{{sortname|Scarlet| Dunmore|nolink=1}}
+|''How to Survive a Horror Movie''
+|[[Penguin Random House|Little Tiger]]
+|-
+|{{sortname|Patrick| Ness}} (illus. Tim Miller)
+|''Chronicles of a Lizard Nobody''
+|[[Walker Books]]
+|-
+|- style="background: lightyellow;"
+! rowspan="17" |'''[[2025 in literature|2025]]'''
+|- style="background: lightyellow;"
+|'''{{sortname|Claire|Lynch|Claire Lynch (writer)}}'''
+|'''''A Family Matter'''''
+|'''[[Chatto & Windus]]'''
+|'''Overall winner'''<br />'''Debut fiction winner'''
+|<ref>{{cite web |title=A Family Matter - Claire Lynch |url=https://nerobookawards.com/a-family-matter-claire-lynch/ |website=Nero Book Awards |access-date=5 March 2026}}</ref><ref name="nero2025winners" />
+|-
+|{{sortname|Ben|Pester}}
+|''The Expansion Project''
+|[[Granta]]
+| rowspan="3" |Debut fiction shortlist
+| rowspan="3" |<ref name="nero2025shortlist" />
+|-
+|{{sortname|Rochelle|Dowden-Lord}}
+|''Lush''
+|[[Penguin Books|Penguin]]
+|-
+|{{sortname|George|Harrison|George Harrison (writer)}}
+|''Season''
+|[[Bloomsbury Publishing|Bloomsbury]]
+|- style="background: lightyellow;"
+| {{sortname|Benjamin|Wood|Benjamin Wood (author)}} 
+|''[[Seascraper (novel)|Seascraper]]''
+|[[Viking Press|Viking]]
+|Fiction winner
+|<ref name="nero2025winners">{{cite news |last=Creamer |first=Ella |date=14 January 2026 |title=Benjamin Wood and Sarah Perry among winners at Nero Book Awards |url=https://www.theguardian.com/books/2026/jan/14/nero-book-awards-2025-winners |work=The Guardian |language=en-GB}}</ref>
+|-
+|{{sortname|Oyinkan|Braithwaite}}
+|''Cursed Daughters''
+|[[Atlantic Books]]
+| rowspan="3" |Fiction shortlist
+| rowspan="3" |<ref name="nero2025shortlist">{{cite news |last=Creamer |first=Ella |date=3 December 2025 |title=2025 Nero book awards shortlist announced |url=https://www.theguardian.com/books/2025/dec/03/2025-nero-book-awards-shortlist-announced |work=The Guardian |language=en-GB}}</ref>
+|-
+|{{sortname|Ian|McEwan}}
+|''What We Can Know''
+|[[Jonathan Cape]]
+|-
+|{{sortname|Damian|Barr}}
+|''The Two Roberts''
+|[[Canongate Books]]
+|- style="background: lightyellow;"
+|{{sortname|Sarah|Perry|Sarah Perry (author)}}
+|''Death of an Ordinary Man''
+|[[Jonathan Cape]]
+|Non-fiction winner
+|<ref name="nero2025winners" />
+|-
+|{{sortname|Lyse|Doucet}}
+|''The Finest Hotel in Kabul''
+|[[Weidenfeld & Nicolson]]
+| rowspan="3" |Non-fiction shortlist
+| rowspan="3" |<ref name="nero2025shortlist" />
+|-
+|{{sortname|James|Fox|James Fox (art historian)}}
+|''Craftland''
+|[[Allen Lane]]
+|-
+|{{sortname|Horatio|Clare}}
+|''We Came by Sea''
+|[[Little, Brown and Company|Little, Brown]]
+
+|- style="background: lightyellow;"
+|{{sortname|Jamila|Gavin}}
+|''My Soul, A Shining Tree''
+|[[Egmont Books]]
+|Children's fiction winner
+|<ref name="nero2025winners" />
+|-
+|{{sortname|Patrice|Lawrence}}
+|''People Like Stars''
+|[[Scholastic Corporation|Scholastic]]
+| rowspan="3" |Children's fiction shortlist
+| rowspan="3" |<ref name="nero2025shortlist" />
+|-
+|{{sortname|Struan|Murray}}
+|''Dragonborn''
+|[[Penguin Books|Penguin]]
+|-
+|{{sortname|Jenny|Pearson}}
+|''Shrapnel Boys''
+|[[Usborne Publishing|Usborne]]
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{official website|https://nerobookawards.com}}
+
+[[Category:British fiction awards]]
+[[Category:British children's literary awards]]
+[[Category:British non-fiction literary awards]]
+[[Category:Irish literary awards]]
+[[Category:First book awards]]
+[[Category:Awards established in 2023]]

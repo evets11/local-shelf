@@ -1,0 +1,1689 @@
+{{Short description|Annual award given to a work of children's literature}}
+{{Use dmy dates|date=April 2022}}
+
+{{Infobox award
+| name             = The Waterstone Children's Book Prize
+| awarded_for      = to uncover hidden talent in children's writing
+| sponsor          = 
+| date             = 21 March 2023
+| location         = 
+| country          = United Kingdom
+| presenter        = [[Waterstones]]
+| host             = 
+| former name      =[[Ottakar's]] Children's Book Prize 
+| year             = {{start date and age|2005}}
+| website          = {{URL|www.waterstones.com/the-waterstones-childrens-book-prize}}
+}}
+
+The '''Waterstones Children's Book Prize''' is an annual award given to a work of [[children's literature]] published during the previous year. First awarded in 2005, the purpose of the prize is "to uncover hidden talent in children's writing" and is therefore open only to authors who have published no more than two or three books, depending on which category they are in.<ref>{{cite web|url=https://www.writersandartists.co.uk/resources/listings/providers/waterstones-childrens-book-prize-0|title=Waterstones Children's Book Prize|publisher=Writers & Artists|access-date=11 August 2023|archive-url=https://web.archive.org/web/20230811065145/https://www.writersandartists.co.uk/resources/listings/providers/waterstones-childrens-book-prize-0|archive-date=11 August 2023}}</ref> The prize is awarded by British book retailer [[Waterstones]].
+
+It was originally called the [[Ottakar's]] Children's Book Prize, after the bookshop chain. When all Ottakar's stores were rebranded as Waterstone's following the [[HMV]] Group takeover in 2006, the prize also changed its name to become the Waterstone's Children's Book Prize.
+
+Beginning in 2012, the prize was divided into three categories: Picture Books, Fiction 5–12, and Teen.<ref name="pauli">{{cite news|author=Michelle Pauli|date=8 February 2012|title=Gritty teen reads dominate Waterstones children's prize shortlist|newspaper=[[The Guardian]]|url=https://www.theguardian.com/childrens-books-site/2012/feb/08/waterstones-childrens-books-prize-teen|accessdate=15 October 2014}}</ref> Each category winner receives £2,000 with an overall winner chosen from the three getting an additional £3,000 (thus the overall winner receives £5,000 in total).<ref name="dux">{{cite news|author=Robert Dux|date=29 March 2012|title=Jonny Duddle's 'The Pirates Next Door' wins Waterstone's Children's Book Prize|newspaper=[[The Independent]]|url=https://www.independent.co.uk/arts-entertainment/books/news/jonny-duddles-the-pirates-next-door-wins-waterstones-childrens-book-prize-7599691.html|accessdate=22 September 2012}}</ref>
+
+In 2016 the categories were renamed: Picture Books became Illustrated Books, Fiction 5–12 became Younger Fiction and the Teen category became Older Fiction.
+
+==Nominations and winners==
+
+=== 2005 ===
+{| class="wikitable sortable"
+! style="width:100px" |Category
+! style="width:280px" |Author
+! style="width:250px" |Title
+! style="width:100px" |Result
+! style="width:20px" |Ref.
+|- style="background:#cddeff"
+! rowspan="12" |Best Book
+|'''{{sortname|Stuart|Hill|Stuart Hill (author)
+}}'''
+|'''''[[The Cry of the Icemark]]'''''
+|'''Winner'''
+|<ref>{{Cite web | url=https://www.westerncape.gov.za/text/2006/5/ma_06_literary.pdf | title= Literary Awards 2005 | website=www.westerncape.gov.za}}</ref>
+|-
+|{{sortname|M. I. |McAllister}}
+|''[[The Mistmantle Chronicles#Urchin of the Riding Stars (2005)|Urchin of the Riding Stars]]''
+| rowspan="11" |Finalist
+| rowspan="11" |
+|-
+|{{sortname|Barry|Jonsberg}}
+|''The Whole Business with Kiffo and the Pitbull''
+|-
+|{{sortname|Livi|Michael}}
+|''[[The Whispering Road]]''
+|-
+|{{sortname|Val|Tyler|nolink=1}}
+|''The Time Wreccas''
+|-
+|{{sortname|Julie|Hearn}}
+|''The Merrybegot''
+|-
+|{{sortname|Shannon|Hale}}
+|''[[The Goose Girl (novel)|The Goose Girl]]''
+|-
+|{{sortname|Ann|Halam}}
+|''Siberia''
+|-
+|{{sortname|Ellen|Potter}}
+|''Olivia Kidney''
+|-
+|{{sortname|Kes|Gray}}
+|''Nelly the Monster Sitter''
+|-
+|{{sortname|Bowering|Sivers}}
+|''Jammy Dodgers on the Run''
+|-
+|{{sortname|Kenneth|Oppel}}
+|''[[Airborn (novel)|Airborn]]''
+|}
+
+=== 2006 ===
+{| class="wikitable sortable"
+! style="width:100px" |Category
+! style="width:280px" |Author
+! style="width:250px" |Title
+! style="width:100px" |Result
+! style="width:20px" |Ref.
+|- style="background:#cddeff"
+! rowspan="10" |Best Book
+|'''{{sortname|Julia|Golding}}'''
+|'''''[[The Diamond of Drury Lane]]'''''
+|'''Winner'''
+|
+|-
+|{{sortname|Michael|Carroll|Michael Carroll (Irish writer)}}
+|''[[The Quantum Prophecy]]''
+| rowspan="9" |Finalist
+| rowspan="9" |
+|-
+|{{sortname|Beth|Goobie}}
+|''[[The Lottery (Beth Goobie)|The Lottery]]''
+|-
+|{{sortname|John|Boyne}}
+|''[[The Boy in the Striped Pyjamas]]''
+|-
+|{{sortname|Heather|Vogel Frederick}}
+|''Spymice''
+|-
+|{{sortname|Elise|Broach}}
+|''Shakespeare's Secret''
+|-
+|{{sortname|Adam|Frost|Adam Frost (writer)}}
+|''Ralph the Magic Rabbit''
+|-
+|{{sortname|Edith|Pattou}}
+|''[[North Child]]''
+|-
+|{{sortname|John|Dougherty|John Dougherty (author)}}
+|''Jack Slater, Monster Investigator''
+|-
+|{{sortname|Suzanne|Collins}}
+|''Gregor and the Rats of Underland''
+|}
+
+=== 2007 ===
+{| class="wikitable sortable"
+! style="width:100px" |Category
+! style="width:280px" |Author
+! style="width:250px" |Title
+! style="width:100px" |Result
+! style="width:20px" |Ref.
+|- style="background:#cddeff"
+! rowspan="10" |Best Book
+|'''{{sortname|Tom|Becker|Tom Becker (writer)}}'''
+|'''''[[Darkside (novel)|Darkside]]'''''
+|'''Winner'''
+|
+|-
+|{{sortname|Tom|Kelly|nolink=1}}
+|''The Thing with Finn''
+| rowspan="9" |Finalist
+| rowspan="9" |
+|-
+|{{sortname|Gareth P. |Jones}}
+|''The Case of the Missing Cats''
+|-
+|{{sortname|F. E. |Higgins}}
+|''The Black Book of Secrets''
+|-
+|{{sortname|Christopher|Russell}}
+|''Smugglers''
+|-
+|{{sortname|Philip|Caveney}}
+|''[[Sebastian Darke]]''
+|-
+|{{sortname|L.|Brittney}}
+|''Nathan Fox: Dangerous Times''
+|-
+|{{sortname|Michael|Broad}}
+|''Jake Cake: The Werewolf Teacher''
+|-
+|{{sortname|J. A. |Henderson}}
+|''Bunker 10''
+|-
+|{{sortname|Siobhan|Dowd}}
+|''[[A Swift Pure Cry]]''
+|}
+
+=== 2008 ===
+{| class="wikitable sortable"
+! style="width:100px" |Category
+! style="width:280px" |Author
+! style="width:250px" |Title
+! style="width:100px" |Result
+! style="width:20px" |Ref.
+|- style="background:#cddeff"
+! rowspan="9" |Best Book
+|'''{{sortname|Sally|Nicholls}}'''
+|'''''[[Ways to Live Forever]]'''''
+|'''Winner'''
+|
+|-
+|{{sortname|Emily|Bearn}}
+|''[[Tumtum and Nutmeg]]''
+| rowspan="8" |Finalist
+| rowspan="8" |
+|-
+|{{sortname|Sam|Enthoven}}
+|''[[TIM Defender of the Earth]]''
+|-
+|{{sortname|David|Melling}}
+|''Stone Goblins''
+|-
+|{{sortname|Matt|Haig}}
+|''[[Shadow Forest]]''
+|-
+|{{sortname|Jenny|Valentine}}
+|''[[Broken Soup]]''
+|-
+|{{sortname|Gabrielle|Halberstam}}
+|''Blue Sky Freedom''
+|-
+|{{sortname|Marie-Louise|Jensen}}
+|''[[Between Two Seas]]''
+|-
+|{{sortname|Oisín|McGann}}
+|''Ancient Appetites''
+|}
+
+=== 2009 ===
+{| class="wikitable sortable"
+! style="width:100px" |Category
+! style="width:280px" |Author
+! style="width:250px" |Title
+! style="width:100px" |Result
+! style="width:20px" |Ref.
+|- style="background:#cddeff"
+! rowspan="8" |Best Book
+|'''{{sortname|Michelle|Harrison|dab=writer}}'''
+|'''''[[13 Treasures]]'''''
+|'''Winner'''
+|
+|-
+|{{sortname|Elen|Caldecott}}
+|''How Kirsty Jenkins Stole the Elephant''
+| rowspan="7" |Finalist
+| rowspan="7" |
+|-
+|{{sortname|Vanessa|Curtis}}
+|''Zelah Green Queen of Clean''
+|-
+|{{sortname|Steve|Feasey}}
+|''Changeling''
+|-
+|{{sortname|Ceci|Jenkinson}}
+|''Gnomes Are Forever''
+|-
+|{{sortname|Marie-Louise|Jensen}}
+|''The Lady in the Tower''
+|-
+|{{sortname|Rob|Stevens|nolink=1}}
+|''Mapmaker's Monsters''
+|-
+|{{sortname|Rachel|Ward|nolink=1}}
+|''Numbers''
+|}
+
+=== 2010 ===
+{| class="wikitable sortable"
+! style="width:100px" |Category
+! style="width:280px" |Author
+! style="width:250px" |Title
+! style="width:100px" |Result
+! style="width:20px" |Ref.
+|- style="background:#cddeff"
+! rowspan="9" |Best Book
+|'''{{sortname|Katie|Davies}}'''
+|'''''[[The Great Hamster Massacre]]'''''
+|'''Winner'''
+|<ref>{{Cite news |last=Pauli |first=Michelle |date=2010-02-10 |title=Great Hamster Massacre wins Waterstone's children's books prize |language=en-GB |work=The Guardian |url=https://www.theguardian.com/books/2010/feb/10/great-hamster-massacre-waterstone-children-book-prize |access-date=2023-05-28 |issn=0261-3077}}</ref>
+|-
+|{{sortname|Jeremy|De Quidt}}
+|''The Toymaker''
+| rowspan="8" |Finalist
+| rowspan="8" |<ref>{{Cite news |last=Flood |first=Alison |date=2010-01-14 |title=Mother inspired to write by disabled daughter makes Waterstone's prize shortlist |language=en-GB |work=The Guardian |url=https://www.theguardian.com/books/2010/jan/13/mother-disabled-daughter-waterstone-s-prize |access-date=2023-05-28 |issn=0261-3077}}</ref>
+|-
+|{{sortname|Caro|King}}
+|''The Seven Sorcerers''
+|-
+|{{sortname|Victoria|Forester}}
+|''[[The Girl Who Could Fly]]''
+|-
+|{{sortname|Pat|Walsh|nolink=1}}
+|''The Crowfield Curse''
+|-
+|{{sortname|A. G. |Taylor}}
+|''Meteorite Strike''
+|-
+|{{sortname|Suzanne|Lafleur}}
+|''Love, Aubrey''
+|-
+|{{sortname|Lucy|Christopher}}
+|''Flyaway''
+|-
+|{{sortname|Laura|Summers|nolink=1}}
+|''Desperate Measures''
+|}
+
+=== 2011 ===
+{| class="wikitable sortable"
+! style="width:100px" |Category
+! style="width:280px" |Author
+! style="width:250px" |Title
+! style="width:100px" |Result
+! style="width:20px" |Ref.
+|- style="background:#cddeff"
+! rowspan="9" |Best Book
+|'''{{sortname|Sita|Brahmachari}}'''
+|'''''Artichoke Hearts'''''
+|'''Winner'''
+|<ref>{{Cite web|last=Stanley|first=Kelli|date=2011-02-11|title=Awards: Colby Winner; Waterstone's Children's Book; Sami Rohr|url=https://www.shelf-awareness.com/issue.html?issue=1389|access-date=2022-02-12|website=Shelf Awareness}}</ref>
+|-
+|{{sortname|Ruth|Eastham}}
+|''The Memory Cage''
+| rowspan="8" |Finalist
+| rowspan="8" |<ref>{{Cite web |last=Chua |first=Amy |date=2011-01-14 |title=Awards: Langum Winners; Waterstone's Children's Book Shortlist |url=https://www.shelf-awareness.com/issue.html?issue=1367 |access-date=2022-02-12 |website=www.shelf-awareness.com}}</ref>
+|-
+|{{sortname|Candy|Gourlay}}
+|''Tall Story''
+|-
+|{{sortname|Janice|Hardy}}
+|''The Pain Merchants''
+|-
+|{{sortname|Curtis|Jobling}}
+|''Wereworld: The Rise of the Wolf''
+|-
+|{{sortname|Anna|Kemp}}
+|''Fantastic Frankie and the Brain-Drain Machine''
+|-
+|{{sortname|Irfan|Master}}
+|''A Beautiful Lie''
+|-
+|{{sortname|Jon|Mayhew}}
+|''Mortlock''
+|-
+|{{sortname|Rebecca|Stead}}
+|''[[When You Reach Me]]''
+|}
+
+=== 2012 ===
+{| class="wikitable sortable"
+! style="width:100px" |Category
+! style="width:280px" |Author
+! style="width:250px" |Title
+! style="width:100px" |Result
+! style="width:20px" |Ref.
+|- style="background:#cddeff"
+|'''OVERALL'''
+|'''{{sortname|Jonny|Duddle}}'''
+|'''''[[The Pirates Next Door]]'''''
+|'''Winner'''
+|<ref name=":0">{{Cite web|last=de|first=Robert|date=2012-03-29|title=Jonny Duddle's 'The Pirates Next Door' wins Waterstone's Children's|url=https://www.independent.co.uk/arts-entertainment/books/news/jonny-duddle-s-the-pirates-next-door-wins-waterstone-s-children-s-book-prize-7599691.html|access-date=2022-02-12|website=The Independent|language=en}}</ref><ref>{{Cite news |date=2012-03-28 |title=Jonny Duddle wins Waterstones Children's Book Prize |language=en-GB |work=BBC News |url=https://www.bbc.com/news/entertainment-arts-17534970 |access-date=2023-05-28}}</ref>
+|- style="background:lightyellow;"
+! rowspan="6" |Fiction 5-12
+|'''{{sortname|Liz|Pichon}}'''
+|'''''[[The Brilliant World of Tom Gates]]'''''
+|'''Category winner'''
+|<ref name=":0" />
+|-
+|{{sortname|Mackenzie|Crook}}
+|''The Windvale Sprites''
+| rowspan="5" |Finalist
+| rowspan="5" |<ref>{{Cite news |date=2012-02-08 |title=Mackenzie Crook up for book award |language=en-GB |work=BBC News |url=https://www.bbc.com/news/entertainment-arts-16928318 |access-date=2023-05-28}}</ref>
+|-
+|{{sortname|Janet|Foxley}}
+|''Muncle Trogg''
+|-
+|{{sortname|Gill|Lewis}}
+|''Sky Hawk''
+|-
+|{{sortname|Alan|Silberberg}}
+|''Milo and the Restart Button''
+|-
+|{{sortname|Alex T. |Smith}}
+|''Claude in the City''
+|- style="background:lightyellow;"
+! rowspan="6" |Picture Book
+|'''{{sortname|Jonny|Duddle}}'''
+|'''''The Pirates Next Door'''''
+|'''Category winner'''
+|<ref name=":0" />
+|-
+|{{sortname|Marta|Altés}}
+|''No!''
+| rowspan="5" |Finalist
+| rowspan="5" |
+|-
+|{{sortname|Jon|Klassen}}
+|''[[I Want My Hat Back]]''
+|-
+|{{sortname|Ann|Bonwill}} and Simon Rickerty
+|''I Don't Want to be a Pea!''
+|-
+|{{sortname|Nadia|Shireen}}
+|''Good Little Wolf''
+|-
+|{{sortname|Chris|Haughton|nolink=1}}
+|''A Bit Lost''
+|- style="background:lightyellow;"
+! rowspan="6" |Teen
+|'''{{sortname|Jenny|Downham}}'''
+|'''''You Against Me'''''
+|'''Category winner'''
+|<ref name=":0" />
+|-
+|{{sortname|Annabel|Pitcher}}
+|''[[My Sister Lives on the Mantelpiece]]''
+| rowspan="5" |Finalist
+| rowspan="5" |
+|-
+|{{sortname|Veronica|Roth}}
+|''[[Divergent (novel)|Divergent]]''
+|-
+|{{sortname|Ruta|Sepetys}}
+|''[[Between Shades of Gray]]''
+|-
+|{{sortname|Phil|Earle}}
+|''Being Billy''
+|-
+|{{sortname|Morgan|Matson}}
+|''Amy and Roger's Epic Detour''
+|}
+
+=== 2013 ===
+{| class="wikitable sortable"
+! style="width:100px" |Category
+! style="width:280px" |Author
+! style="width:250px" |Title
+! style="width:100px" |Result
+! style="width:20px" |Ref.
+|- style="background:#cddeff"
+|'''OVERALL'''
+|'''{{sortname|Annabel|Pitcher}}'''
+|'''''[[Ketchup Clouds]]'''''
+|'''Winner'''
+|
+|- style="background:lightyellow;"
+! rowspan="6" |Fiction 5-12
+|'''{{sortname|R. J. |Palacio}}'''
+|'''''[[Wonder (Palacio novel)|Wonder]]'''''
+|'''Category winner'''
+|
+|-
+|{{sortname|Catherine|Constable|nolink=1}}
+|''The Wolf Princess''
+| rowspan="5" |Finalist
+| rowspan="5" |<ref>{{Cite web |title=Beavis and Butt-head writer shortlisted for Waterstones Children's Book Prize 2013 |url=https://www.telegraph.co.uk/culture/books/bookprizes/9866961/Beavis-and-Butt-head-writer-shortlisted-for-Waterstones-Childrens-Book-Prize-2013.html |access-date=2023-05-28 |website=www.telegraph.co.uk|date=14 February 2013 }}</ref><ref>{{Cite web |date=2013-02-14 |title=Beavis and Butt-Head writer up for children's book award |url=https://www.independent.co.uk/arts-entertainment/books/news/beavis-and-butthead-writer-up-for-children-s-book-award-8494956.html |access-date=2023-05-28 |website=The Independent |language=en}}</ref>
+|-
+|{{sortname|Jennifer|Gray|nolink=1}}
+|''Atticus Claw Breaks the Law''
+|-
+|{{sortname|Helen|Peters|nolink=1}}
+|''The Secret Hen House Theatre''
+|-
+|{{sortname|Geoff|Rodkey}}
+|''Chronicles of Egg: Deadweather and Sunrise''
+|-
+|[[Jim Smith (author)|Jim Smith]]
+|''Barry Loser: I Am Not a Loser''
+|- style="background:lightyellow;"
+! rowspan="6" |Picture Book
+|'''{{sortname|Rebecca|Cobb}}'''
+|'''''Lunchtime'''''
+|'''Category winner'''
+|
+|-
+|{{sortname|Jo|Empson}}
+|''Rabbityness''
+| rowspan="5" |Finalist
+| rowspan="5" |
+|-
+|{{sortname|Chris|Haughton}}
+|''Oh No, George!''
+|-
+|{{sortname|Anna|Kemp}}
+|''The Worst Princess''
+|-
+|{{sortname|Frann|Preston-Gannon}}
+|''The Journey Home''
+|-
+|{{sortname|Sam|Usher}}
+|''Can You See Sassoon?''
+|- style="background:lightyellow;"
+! rowspan="6" |Teen
+|'''{{sortname|Annabel|Pitcher}}'''
+|'''''[[Ketchup Clouds]]'''''
+|'''Category winner'''
+|
+|-
+|{{sortname|Rachel|Hartman}}
+|''[[Seraphina (novel)|Seraphina]]''
+| rowspan="5" |Finalist
+| rowspan="5" |
+|-
+|{{sortname|Laura|Jarratt}}
+|''Skin Deep''
+|-
+|{{sortname|S. J.|Kincaid}}
+|''[[Insignia trilogy|Insignia]]''
+|-
+|{{sortname|Sarah J.|Maas}}
+|''[[Throne of Glass]]''
+|-
+|{{sortname|Andy|Robb}}
+|''Geekhood: Close Encounters of the Girl Kind''
+|}
+
+=== 2014 (10th anniversary) ===
+{| class="wikitable sortable"
+! style="width:100px" |Category
+! style="width:280px" |Author
+! style="width:250px" |Title
+! style="width:100px" |Result
+! style="width:20px" |Ref.
+|- style="background:#cddeff"
+|'''OVERALL'''
+|'''{{sortname|Katherine|Rundell}}'''
+|'''''[[Rooftoppers]]'''''
+|'''Winner'''
+|<ref>{{Cite news |last=Drabble |first=Emily |date=2014-04-03 |title=Katherine Rundell wins the Waterstones children's book prize 2014 |language=en-GB |work=The Guardian |url=https://www.theguardian.com/childrens-books-site/2014/apr/03/waterstones-childrens-books-prize-2014-katherine-rundell |access-date=2023-05-28 |issn=0261-3077}}</ref><ref>{{Cite news |date=2014-04-03 |title=Katherine Rundell wins Waterstones Children's Book Prize |language=en-GB |work=BBC News |url=https://www.bbc.com/news/entertainment-arts-26870557 |access-date=2023-05-28}}</ref><ref>{{Cite web |title=Tightrope-walking Oxford fellow wins Waterstones Children's Prize |url=https://www.telegraph.co.uk/culture/books/bookprizes/10743135/Tightrope-walking-Oxford-fellow-wins-Waterstones-Childrens-Prize.html |access-date=2023-05-28 |website=www.telegraph.co.uk|date=3 April 2014 }}</ref>
+|- style="background:lightyellow;"
+! rowspan="6" |'''Fiction 5–12'''
+|'''{{sortname|Katherine|Rundell}}'''
+|'''''Rooftoppers'''''
+|'''Category winner'''
+|
+|-
+|{{sortname|Soman|Chainani}}
+|''[[The School for Good and Evil (novel)|The School for Good and Evil]]''
+| rowspan="5" |Finalist
+| rowspan="5" |<ref name=":10">{{Cite news |last=Green |first=Charles |date=2014-02-13 |title=Discover the 2014 Waterstones children's book prize shortlist |language=en-GB |work=The Guardian |url=https://www.theguardian.com/childrens-books-site/2014/feb/13/waterstones-childrens-book-prize-shortlist-2014 |access-date=2023-05-28 |issn=0261-3077}}</ref>
+|-
+|{{sortname|Piers|Torday}}
+|''The Last Wild''
+|-
+|{{sortname|Sandra|Greaves|nolink=1}}
+|''Skull in the Wood''
+|-
+|{{sortname|Emerald|Fennell}}
+|''Shiverton Hall''
+|-
+|{{sortname|Laura|Dockrill}}
+|''Darcy Durdock''
+|- style="background:lightyellow;"
+! rowspan="6" |Picture Book
+|'''{{sortname|Nicola|O'Byrne}}'''
+|'''''[[Open Very Carefully]]'''''
+|'''Category winner'''
+|
+|-
+|{{sortname|Elys|Dolan}}
+|''Weasels''
+| rowspan="5" |Finalist
+| rowspan="5" |<ref name=":10" />
+|-
+|{{sortname|Yasmeen|Ismail|nolink=1}}
+|''Time for Bed, Fred''
+|-
+|{{sortname|Gemma|Merino}}
+|''The Crocodile Who Didn't Like Water''
+|-
+|{{sortname|Helen|Hancocks}}
+|''Penguin in Peril''
+|-
+|{{sortname|Courtney|Dicmas}}
+|''Harold Finds a Voice''
+|- style="background:lightyellow;"
+! rowspan="6" |Teen 
+|'''{{sortname|Holly|Smale}}'''
+|'''''[[Geek Girl (novel)|Geek Girl]]'''''
+|'''Category winner'''
+|
+|-
+|{{sortname|Alexia|Casale}}
+|''The Bone Dragon''
+| rowspan="5" |Finalist
+| rowspan="5" |<ref name=":10" /><ref>{{Cite news |date=2014-02-13 |title=Dawn O'Porter up for Children's book prize |language=en-GB |work=BBC News |url=https://www.bbc.com/news/entertainment-arts-26157076 |access-date=2023-05-28}}</ref>
+|-
+|{{sortname|Dawn|O'Porter}}
+|''Paper Aeroplanes''
+|-
+|{{sortname|Ruta|Sepetys}}
+|''[[Out of the Easy]]''
+|-
+|{{sortname|Emily|Murdoch}}
+|''If You Find Me''
+|-
+|{{sortname|Erin|Lange}}
+|''Butter''
+|}
+
+=== 2015 ===
+{| class="wikitable sortable"
+! style="width:100px" |Category
+! style="width:280px" |Author
+! style="width:250px" |Title
+! style="width:100px" |Result
+! style="width:20px" |Ref.
+|- style="background:#cddeff"
+|'''OVERALL'''
+|'''{{sortname|Rob|Biddulph}}'''
+|'''''Blown Away'''''
+|'''Winner'''
+|<ref>{{cite web|last1=McAloon|first1=Jonathan|date=26 March 2015|title=Picture book wins 2015 Waterstones Children's Book Prize|url=https://www.telegraph.co.uk/culture/books/bookprizes/11497464/Picture-book-wins-2015-Waterstones-Childrens-Book-Prize.html|website=Telegraph|accessdate=22 March 2019}}</ref><ref>{{Cite news |last=Drabble |first=Emily |date=2015-03-26 |title=Rob Biddulph wins Waterstones children's book prize 2015 with debut Blown Away |language=en-GB |work=The Guardian |url=https://www.theguardian.com/books/childrens-books-site/2015/mar/26/waterstones-childrens-book-prize-2015-rob-biddulph-sally-green-robin-stevens |access-date=2023-05-28 |issn=0261-3077}}</ref><ref>{{Cite news |date=2015-03-27 |title=Penguin book picks up children's book prize |language=en-GB |work=BBC News |url=https://www.bbc.com/news/entertainment-arts-32068291 |access-date=2023-05-28}}</ref>
+|- style="background:lightyellow;"
+! rowspan="6" |Fiction 5-12 
+|'''{{sortname|Robin|Stevens|Robin Stevens (author)}}'''
+|'''''[[Murder Most Unladylike]]'''''
+|'''Category winner'''
+|
+|-
+|{{sortname|Harriet|Whitehorn}} with Beck Moor (illustrator)
+|''Violet and the Pearl of the Orient''
+| rowspan="5" |Finalist
+| rowspan="5" |<ref name=":11">{{cite web |date=12 February 2015 |title=Waterstones children's book prize 2015 – shortlist announced! |url=https://www.theguardian.com/childrens-books-site/2015/feb/12/waterstones-childrens-book-prize-2015-shortlist |accessdate=22 March 2019 |website=The Guardian}}</ref>
+|-
+|{{sortname|Anne|Booth}}
+|''Girl with a White Dog''
+|-
+|{{sortname|GR|Gemin}}
+|''Cowgirl''
+|-
+|{{sortname|Polly|Ho-Yen}}
+|''Boy in the Tower''
+|-
+|{{sortname|Lara|Williamson}}
+|''A Boy Called Hope''
+|- style="background:lightyellow;"
+! rowspan="6" |Picture Book 
+|'''{{sortname|Rob|Biddulph}}'''
+|'''''Blown Away'''''
+|'''Category winner'''
+|
+|-
+|{{sortname|Sophy|Henn}}
+|''Where Bear?''
+| rowspan="5" |Finalist
+| rowspan="5" |<ref name=":11" />
+|-
+|{{sortname|Victoria|Turnbull}}
+|''The Sea Tiger''
+|-
+|{{sortname|Steve|Antony}}
+|''The Queen's Hat''
+|-
+|{{sortname|Suzanne|Barton}}
+|''The Dawn Chorus''
+|-
+|{{sortname|Lucy|Letherland}} 
+|''Atlas of Adventures''
+|- style="background:lightyellow;"
+! rowspan="6" |Teen 
+|'''{{sortname|Sally|Green}}'''
+|'''''[[Half Bad]]'''''
+|'''Category winner'''
+|
+|-
+|{{sortname|Leslye|Walton}}
+|''The Strange and Beautiful Sorrows of Ava Lavender''
+| rowspan="5" |Finalist
+| rowspan="5" |<ref name=":11" />
+|-
+|{{sortname|Sarah|Moore Fitzgerald}}
+|''The Apple Tart of Hope''
+|-
+|{{sortname|Kim|Skater}}
+|''Smart''
+|-
+|{{sortname|Louise|O'Neill}}
+|''Only Ever Yours''
+|-
+|{{sortname|Erin|Lange}}
+|''Dead Ends''
+|}
+
+=== 2016 ===
+{| class="wikitable sortable"
+! style="width:100px" |Category
+! style="width:280px" |Author
+! style="width:250px" |Title
+! style="width:100px" |Result
+! style="width:20px" |Ref.
+|- style="background:#cddeff"
+|'''OVERALL'''
+|'''{{sortname|David|Solomon|nolink=1}}'''
+|'''''[[My Brother Is a Superhero]]'''''
+|'''Winner'''
+|<ref name=":1">{{Cite news|date=2016-03-17|title=David Solomons wins Waterstones Children's Book Prize with debut|language=en-GB|work=BBC News|url=https://www.bbc.com/news/entertainment-arts-35834409|access-date=2022-02-12}}</ref>
+|- style="background:lightyellow;"
+! rowspan="6" |Illustrated Book 
+|'''{{sortname|David|Litchfield}}'''
+|'''''The Bear and the Piano'''''
+|'''Category winner'''
+|<ref name=":1" />
+|-
+|{{sortname|Naomi|Howarth}}
+|''The Crow's Tale''
+| rowspan="5" |Finalist
+| rowspan="5" |<ref name=":12">{{Cite news |last=Pauli |first=Michelle |date=2016-02-11 |title=Waterstones children's book prize 2016 shortlists - in pictures |language=en-GB |work=the Guardian |url=http://www.theguardian.com/childrens-books-site/gallery/2016/feb/11/waterstones-childrens-book-prize-2016-shortlists-in-pictures |access-date=2023-05-28 |issn=0261-3077}}</ref>
+|-
+|{{sortname|Matty|Long}}
+|''Super Happy Magic Forest''
+|-
+|{{sortname|Nicholas John|Frith}}
+|''Hector and Hummingbird''
+|-
+|{{sortname|David|Barrow|nolink=1}}
+|''Have You Seen Elephant?''
+|-
+|{{sortname|Lorraine|Carey}} and Migy Blanco
+|''Cinderella's Sister and the Big Bad Wolf''
+|- style="background:lightyellow;"
+! rowspan="6" |Older Fiction 
+|'''[[Lisa Williamson (writer)|Lisa Williamson]]'''
+|'''''The Art of Being Normal'''''
+|'''Category winner'''
+|<ref name=":1" />
+|-
+|{{sortname|Melinda|Salisbury}}
+|''[[The Sin Eater's Daughter]]''
+| rowspan="5" |Finalist
+| rowspan="5" |<ref>{{Cite news|last=Chilton|first=Martin|date=2016-02-11|title=Waterstones Children's Book Prize 2016 shortlist|language=en-GB|work=The Telegraph|url=https://www.telegraph.co.uk/books/childrens-books/waterstones-childrens-book-prize-2016-shortlist/|access-date=2022-02-12|issn=0307-1235}}</ref><ref name=":12" /><ref>{{Cite web |date=2016-02-11 |title=LGBT storylines have made it onto Waterstones Prize youth fiction shortlist |url=https://www.independent.co.uk/arts-entertainment/books/news/waterstones-children-s-book-prize-lgbt-storylines-make-it-onto-youth-fiction-shortlist-a6866256.html |access-date=2023-05-28 |website=The Independent |language=en}}</ref>
+|-
+|{{sortname|Moïra|Fowley-Doyle}}
+|''The Accident Season''
+|-
+|{{sortname|Lisa|Heathfield}}
+|''Seed''
+|-
+|{{sortname|Jandy|Nelson}}
+|''[[I'll Give You the Sun]]''
+|-
+|{{sortname|Leo|Hunt}}
+|''13 Days of Midnight''
+|- style="background:lightyellow;"
+! rowspan="6" |'''Younger Fiction'''
+|'''{{sortname|David|Solomon|nolink=1}}'''
+|'''''My Brother Is a Superhero'''''
+|'''Category winner'''
+|<ref name=":1" />
+|-
+|{{sortname|Sibéal|Pounder}}
+|''Witch Wars''
+| rowspan="5" |Finalist
+| rowspan="5" |<ref name=":12" />
+|-
+|{{sortname|Katherine|Woodfine}}
+|''[[The Mystery of the Clockwork Sparrow]]''
+|-
+|{{sortname|Kevin|Sands}}
+|''The Blackthorn Key''
+|-
+|{{sortname|Shane|Hegarty}}
+|''Darkmouth''
+|-
+|{{sortname|Crystal|Chan}}
+|''Bird''
+|}
+
+=== 2017 ===
+{| class="wikitable sortable"
+! style="width:100px" |Category
+! style="width:280px" |Author
+! style="width:250px" |Title
+! style="width:100px" |Result
+! style="width:20px" |Ref.
+|- style="background:#cddeff"
+|'''OVERALL'''
+|'''{{sortname|Kiran|Millwood Hargrave}}'''
+|'''''[[The Girl of Ink and Stars]]'''''
+|'''Winner'''
+|<ref name=":2">{{Cite web|last=Kean|first=Danuta|date=2017-03-30|title=Waterstones children's book prize goes to 'mesmerising' debut adventure story|url=http://www.theguardian.com/books/2017/mar/30/waterstones-childrens-book-prize-kiran-millwood-hargraves-the-girl-of-ink-and-stars|access-date=2022-02-12|website=The Guardian|language=en}}</ref>
+|- style="background:lightyellow;"
+! rowspan="6" |Illustrated Book 
+|'''{{sortname|Lizzy|Stewart}}'''
+|'''''There's a Tiger in the Garden'''''
+|'''Category winner'''
+|
+|-
+|{{sortname|Fabi|Santiago}}
+|''Tiger in a Tutu''
+| rowspan="5" |Finalist
+| rowspan="5" |<ref name=":3">{{Cite web|last=Kean|first=Danuta|date=2017-02-08|title=Waterstones children's prize shortlists reflect readers' search for hope in anxious times|url=http://www.theguardian.com/books/2017/feb/08/childrens-book-prize-shortlists-young-readers-search-hope-waterstones|access-date=2022-02-12|website=The Guardian|language=en}}</ref>
+|-
+|{{sortname|Francesca|Sanna}}
+|''The Journey''
+|-
+|{{sortname|Duncan|Beedie}}
+|''The Bear Who Stared''
+|-
+|{{sortname|Matt|Robertson}}
+|''Super Stan''
+|-
+|{{sortname|Meg|McLaren}}
+|''Life Is Magic''
+|- style="background:lightyellow;"
+! rowspan="6" |Older Fiction 
+|'''{{sortname|Patrice|Lawrence}}'''
+|'''''Orangeboy'''''
+|'''Category winner'''
+|
+|-
+|{{sortname|Nilanjana|Roy}}
+|''The Wildings''
+| rowspan="5" |Finalist
+| rowspan="5" |<ref name=":3" />
+|-
+|{{sortname|Nicola|Yoon}}
+|''[[The Sun Is Also a Star (novel)|The Sun Is Also a Star]]''
+|-
+|{{sortname|Lisa|Heathfield}}
+|''Paper Butterflies''
+|-
+|{{sortname|Lindsay|Eagar}}
+|''Hour of the Bees''
+|-
+|{{sortname|Gavriel|Savit}}
+|''[[Anna and the Swallow Man]]''
+|- style="background:lightyellow;"
+! rowspan="6" |Younger Fiction 
+|'''{{sortname|Kiran|Millwood Hargrave}}'''
+|'''''The Girl of Ink and Stars'''''
+|'''Category winner'''
+|<ref name=":2" />
+|-
+|{{sortname|Lauren|Wolk}}
+|''[[Wolf Hollow (novel)|Wolf Hollow]]''
+| rowspan="5" |Finalist
+| rowspan="5" |<ref name=":3" />
+|-
+|{{sortname|Ross|Welford}}
+|''Time Travelling with a Hamster''
+|-
+|{{sortname|Peter|Bunzl}}
+|''Cogheart''
+|-
+|{{sortname|Laura|James|nolink=1}}
+|''Captain Pug''
+|-
+|{{sortname|MG|Leonard}}
+|''[[Beetle Boy]]''
+|}
+
+=== 2018 ===
+{| class="wikitable sortable"
+! style="width:100px" |Category
+! style="width:280px" |Author
+! style="width:250px" |Title
+! style="width:100px" |Result
+! style="width:20px" |Ref.
+|- style="background:#cddeff"
+|'''OVERALL'''
+|'''{{sortname|Angie|Thomas}}'''
+|'''''[[The Hate U Give]]'''''
+|'''Winner'''
+|<ref name=":4">{{Cite web|title=Waterstones Children's Book Prize 2018|url=https://www.waterstones.com/page/book-awards-waterstones-childrens-book-prize-2018/1300|access-date=2022-02-12|website=Waterstones}}</ref><ref name=":5">{{Cite news|date=2019-03-21|title='Upbeat' refugee tale wins children's book prize|language=en-GB|work=BBC News|url=https://www.bbc.com/news/entertainment-arts-47652896|access-date=2022-02-12}}</ref><ref>{{Cite news |last=Cain |first=Sian |date=2018-03-22 |title=Black Lives Matter novel wins Waterstones children's book of the year |language=en-GB |work=The Guardian |url=https://www.theguardian.com/books/2018/mar/22/black-lives-matter-novel-wins-waterstones-childrens-book-of-the-year |access-date=2023-05-28 |issn=0261-3077}}</ref>
+|- style="background:lightyellow;"
+! rowspan="6" |Illustrated Book 
+|'''{{sortname|Joe|Todd-Stanton}}'''
+|'''''The Secret of Black Rock'''''
+|'''Category winner'''
+| 
+|-
+|{{sortname|Louise|Greig}}
+|''The Night Box''
+| rowspan="5" |Finalist
+| rowspan="5" |
+|-
+|{{sortname|Matt|Carr}}
+|''Superbat''
+|-
+|{{sortname|Sandra|Dieckmann}}
+|''Leaf''
+|-
+|{{sortname|Simon|Philip}}
+|''I Really Want the Cake''
+|-
+|{{sortname|Robert|Starling}}
+|''Fergal Is Fuming!''
+|- style="background:lightyellow;"
+! rowspan="6" |Older Fiction 
+|'''{{sortname|Angie|Thomas}}'''
+|'''''[[The Hate U Give]]'''''
+|'''Category winner'''
+|
+|-
+|{{sortname|Catherine|Barter}}
+|''Troublemakers''
+| rowspan="5" |Finalist
+| rowspan="5" |
+|-
+|{{sortname|Pam|Smy}}
+|''Thornhill''
+|-
+|{{sortname|Emily|Suvada}}
+|''This Mortal Coil''
+|-
+|{{sortname|Emily|Bain Murphy}}
+|''The Disappearances''
+|-
+|{{sortname|Alice|Broadway}}
+|''Ink''
+|- style="background:lightyellow;"
+! rowspan="6" |Younger Fiction 
+|'''{{sortname|Jessica|Townsend}}'''
+|'''''[[Nevermoor: The Trials of Morrigan Crow]]'''''
+|'''Category winner'''
+|
+|-
+|{{sortname|Maz|Evans}}
+|''Who Let the Gods Out?''
+| rowspan="5" |Finalist
+| rowspan="5" |
+|-
+|{{sortname|Kieran|Larwood}}
+|''The Legend of Podkin One-Ear''
+|-
+|{{sortname|Lisa|Thompson|Lisa Thompson (author)}}
+|''The Goldfish Boy''
+|-
+|{{sortname|Greg|James}} and [[Chris Smith (newsreader)|Chris Smith]]
+|''Kid Normal''
+|-
+|{{sortname|Helena|Duggan}}
+|''A Place Called Perfect''
+|}
+
+=== 2019 ===
+{| class="wikitable sortable"
+! style="width:100px" |Category
+! style="width:280px" |Author
+! style="width:250px" |Title
+! style="width:100px" |Result
+! style="width:20px" |Ref.
+|- style="background:#cddeff"
+|'''OVERALL'''
+|'''{{sortname|Onjali Q. |Raúf}}'''
+|'''''[[The Boy at the Back of the Class]]'''''
+|'''Winner'''
+|<ref name=":5" />
+|- style="background:lightyellow;"
+! rowspan="6" |Illustrated Book 
+|'''{{sortname|Lauren|Ace}} and Jenny Løvlie'''
+|'''''The Girl'''''
+|'''Category winner'''
+|
+|-
+|{{sortname|Emily|Haworth-Booth}}
+|''The King Who Banned the Dark''
+| rowspan="5" |Finalist
+| rowspan="5" |<ref name=":6">{{Cite web|last=Muxworthy|first=Catherine|date=2019-02-09|title=Waterstones Children's Book Prize 2019 - Shortlist|url=https://forreadingaddicts.co.uk/news/waterstones-childrens-book-prize-2019-shortlist/|access-date=2022-02-12|website=For Reading Addicts|language=en-GB}}</ref>
+|-
+|{{sortname|John|Bond|nolink=1}}
+|''Mini Rabbit Not Lost''
+|-
+|{{sortname|Vashti|Harrison}}
+|''Little Leaders: Bold Women in Black History''
+|-
+|{{sortname|Jessica|Love}}
+|''[[Julián Is a Mermaid]]''
+|-
+|{{sortname|Michael|Whaite}}
+|''100 Dogs''
+|- style="background:lightyellow;"
+! rowspan="6" |Older Fiction 
+|'''{{sortname|Tomi|Adeyemi}}'''
+|'''''[[Children of Blood and Bone]]'''''
+|'''Category winner'''
+|
+|-
+|{{sortname|Tracy|Darnton}}
+|''The Truth About Lies''
+| rowspan="5" |Finalist
+| rowspan="5" |<ref name=":6" />
+|-
+|{{sortname|Elizabeth|Acevedo}}
+|''[[The Poet X]]''
+|-
+|{{sortname|Malcolm|Duffy}}
+|''Me Mam. Me Dad. Me.''
+|-
+|{{sortname|Ele|Fountain}}
+|''[[Boy 87]]''
+|-
+|{{sortname|Christelle|Dabos}}
+|''A Winter's Promise''
+|- style="background:lightyellow;"
+! rowspan="6" |Younger Fiction 
+|'''{{sortname|Onjali Q. |Raúf}}'''
+|'''''The Boy at the Back of the Class'''''
+|'''Category winner'''
+|<ref name=":5" />
+|-
+|{{sortname|P.G.|Bell}}
+|''The Train to Impossible Places''
+| rowspan="5" |Finalist
+| rowspan="5" |<ref name=":6" />
+|-
+|{{sortname|Ewa|Jozefkowicz}}
+|''The Mystery of the Colour Thief''
+|-
+|{{sortname|Sophie|Anderson|dab=author}}
+|''[[The House with Chicken Legs]]''
+|-
+|{{sortname|Andy|Shepherd}}
+|''The Boy Who Grew Dragons''
+|-
+|{{sortname|Vashti|Hardy}}
+|''Brightstorm: A Sky-Ship Adventure''
+|}
+
+=== 2020 ===
+{| class="wikitable sortable"
+! style="width:100px" |Category
+! style="width:280px" |Author
+! style="width:250px" |Title
+! style="width:100px" |Result
+! style="width:20px" |Ref.
+|- style="background:#cddeff"
+|'''OVERALL'''
+|'''{{sortname|Nathan|Bryon}}'''
+|'''''Look Up!'''''
+|'''Winner'''
+|<ref>{{Cite news |last=Flood |first=Alison |date=2020-07-29 |title='Utterly joyful' Look Up! wins Waterstones children's book of the year |language=en-GB |work=The Guardian |url=https://www.theguardian.com/books/2020/jul/30/look-up-wins-waterstones-childrens-book-prize-nathan-bryon-dapo-adeola |access-date=2023-05-28 |issn=0261-3077}}</ref><ref>{{Cite web |last=Hampson |first=Laura |date=2020-07-30 |title=Winner of Waterstones Children's Book Prize is a timely tale |url=https://www.standard.co.uk/culture/books/waterstones-childrens-book-prize-2020-winner-a4511706.html |access-date=2023-05-28 |website=Evening Standard |language=en}}</ref><ref>{{Cite news |date=2020-07-30 |title=Benidorm star's 'joyful' story wins children's book prize |language=en-GB |work=BBC News |url=https://www.bbc.com/news/entertainment-arts-53592490 |access-date=2023-05-28}}</ref>
+|- style="background:lightyellow;"
+! rowspan="6" |Illustrated Book 
+|'''{{sortname|Nathan|Bryon}}'''
+|'''''Look Up!'''''
+|'''Category winner'''
+|<ref name=":9">{{Cite web |last=Green |first=Alex |date=2020-07-29 |title=Waterstones Children's Book Prize winner revealed |url=https://ca.news.yahoo.com/waterstones-children-book-prize-winner-230100431.html |access-date=2022-02-12 |website=Yahoo! News |language=en-CA}}</ref>
+|-
+|{{sortname|Graham|Carter}}
+|''Otto Blotter, Bird Spotter''
+| rowspan="5" |Finalist
+| rowspan="5" |
+|-
+|{{sortname|Kate|Read|nolink=1}}
+|''One Fox''
+|-
+|{{sortname|Beatrice|Blue}}
+|''Once Upon a Unicorn Horn''
+|-
+|{{sortname|Rose|Robbins}}
+|''Me and My Sister''
+|-
+|{{sortname|Ben|Rothery}}
+|''Hidden Planet''
+|- style="background:lightyellow;"
+! rowspan="6" |Older Fiction 
+|'''{{sortname|Liz|Hyder}}'''
+|'''''Bearmouth'''''
+|'''Category winner'''
+|<ref name=":9" />
+|-
+|{{sortname|Emma|Smith-Barton}}
+|''The Million Pieces of Neena Gill''
+| rowspan="5" |Finalist
+| rowspan="5" |
+|-
+|{{sortname|Tamsin|Winter}}
+|''Jemima Small Versus the Universe''
+|-
+|{{sortname|Samira|Ahmed|Samira Ahmed (author)}}
+|''Internment''
+|-
+|{{sortname|gal-dem|}}
+|''I Will Not Be Erased: Our Stories About Growing Up as People of Colour''
+|-
+|{{sortname|Holly|Jackson}}
+|''[[A Good Girl's Guide to Murder]]''
+|- style="background:lightyellow;"
+! rowspan="6" |Younger Fiction 
+|'''{{sortname|Sharna|Jackson}}'''
+|'''''High-Rise Mystery'''''
+|'''Category winner'''
+|
+|-
+|{{sortname|Kirsty|Applebaum}}
+|''The Middler''
+| rowspan="5" |Finalist
+| rowspan="5" |
+|-
+|{{sortname|Meg|Grehan}}
+|''The Deepest Breath''
+|-
+|{{sortname|Lucy|Strange}}
+|''Our Castle, the Sea''
+|-
+|{{sortname|Sam|Copeland}}
+|''Charlie Changes into a Chicken''
+|-
+|{{sortname|Jasbinder|Bilan}}
+|''Asha and the Spirit Bird''
+|}
+
+=== 2021 ===
+{| class="wikitable sortable"
+! style="width:100px" |Category
+! style="width:280px" |Author
+! style="width:250px" |Title
+! style="width:100px" |Result
+! style="width:20px" |Ref.
+|- style="background:#cddeff"
+|'''OVERALL'''
+|'''{{sortname|Elle|McNicoll}}'''
+|'''''[[A Kind of Spark]]'''''
+|'''Winner'''
+|<ref name=":7">{{Cite web|last=|date=2021-07-02|title='A Kind of Spark' wins Waterstones Children's Book Prize|url=https://www.booksandpublishing.com.au/articles/2021/07/02/189112/a-kind-of-spark-wins-waterstones-childrens-book-prize/|access-date=2022-02-12|website=Books+Publishing|language=en-AU}}</ref><ref name=":8">{{Cite web|last=Jin|first=Ha|date=2021-07-02|title=Awards: Waterstones Children's Book Winners|url=https://www.shelf-awareness.com/issue.html?issue=4020|access-date=2022-02-12|website=Shelf Awareness}}</ref><ref>{{Cite news |date=2021-07-02 |title=Waterstones Children's Book Prize winner announced as A Kind of Spark |language=en-GB |work=BBC Newsround |url=https://www.bbc.com/newsround/57682417 |access-date=2023-05-28}}</ref>
+|- style="background:lightyellow;"
+! rowspan="6" |Illustrated Book 
+|'''{{sortname|Bethan|Stevens}}'''
+|'''''The Grumpy Fairies'''''
+|'''Category winner'''
+|<ref name=":7" />
+|-
+|{{sortname|Eva|Eland}}
+|''Where Happiness Begins''
+| rowspan="5" |Finalist
+| rowspan="5" |
+|-
+|{{sortname|Katie|Cottle}}
+|''The Blue Giant''
+|-
+|{{sortname|Amyra|Leon}}
+|''Freedom, We Sing''
+|-
+|{{sortname|Devon|Holzwarth}}
+|''Found You''
+|-
+|{{sortname|Dawn|Coulter-Cruttenden}}
+|''Bear Shaped''
+|- style="background:lightyellow;"
+! rowspan="6" |Older Fiction 
+|'''{{sortname|Darren|Charlton}}'''
+|'''''[[Wranglestone]]'''''
+|'''Category winner'''
+|<ref name=":7" />
+|-
+|{{sortname|Dean|Atta}}
+|''The Black Flamingo''
+| rowspan="5" |Finalist
+| rowspan="5" |
+|-
+|{{sortname|Jordan|Ifueko}}
+|''[[Raybearer]]''
+|-
+|{{sortname|Sophie|Gonzales|nolink=1}}
+|''Only Mostly Devastated''
+|-
+|{{sortname|A. M. |Dassu}}
+|''Boy, Everywhere''
+|-
+|{{sortname|Danielle|Jawando}}
+|''And the Stars Were Burning Brightly''
+|- style="background:lightyellow;"
+! rowspan="6" |'''Younger Fiction'''
+|'''{{sortname|Elle|McNicoll}}'''
+|'''''[[A Kind of Spark]]'''''
+|'''Category winner'''
+|<ref name=":7" /><ref name=":8" />
+|-
+|{{sortname|Kereen|Getten}}
+|''When Life Gives You Mangoes''
+| rowspan="5" |Finalist
+| rowspan="5" |
+|-
+|{{sortname|Jenny|Pearson}}
+|''The Super Miraculous Journey of Freddie Yates''
+|-
+|{{sortname|Alastair|Chisholm}}
+|''Orion Lost''
+|-
+|{{sortname|Annabelle|Sami}}
+|''Llama Out Loud!''
+|-
+|{{sortname|Francesca|Gibbons}}
+|''A Clock of Stars: The Shadow Moth''
+|}
+
+=== 2022 ===
+{| class="wikitable sortable"
+! style="width:100px" |Category
+! style="width:280px" |Author
+! style="width:250px" |Title
+!Publisher
+! style="width:100px" |Result
+! style="width:20px" |Ref.
+|- style="background:#cddeff"
+|'''OVERALL'''
+|'''{{sortname|Hannah|Gold}}, illustrated by Levi Pinfold ([[HarperCollins Children's Books]])'''
+|'''''The Last Bear'''''
+|'''[[HarperCollins Children's Books]]'''
+|'''Winner'''
+|<ref>{{Cite web |title=Gold wins Waterstones Children's Book Prize with debut The Last Bear |url=https://www.thebookseller.com/news/gold-wins-waterstones-childrens-book-prize-with-debut-the-last-bear |access-date=2023-05-28 |website=The Bookseller |language=En}}</ref>
+|- style="background:lightyellow;"
+! rowspan="6" |Illustrated Book
+|'''{{sortname|Harry|Woodgate}}'''
+|'''''Grandad's Camper'''''
+|'''[[Andersen Press]]'''
+|'''Category winner'''
+|<ref name=":13">{{Cite web |date=2022-03-31 |title=Debut novelist named winner of the Waterstones Children's Book Prize |url=https://www.expressandstar.com/entertainment/showbiz/2022/03/31/debut-novelist-named-winner-of-the-waterstones-childrens-book-prize/ |access-date=2023-05-28 |website=www.expressandstar.com |language=en}}</ref>
+|-
+|{{sortname|Andy|Harkness}}
+|''Wolfboy''
+|[[Bloomsbury Children's Books|Bloomsbury Children's]]
+| rowspan="5" |Finalist
+| rowspan="5" |<ref name=":14">{{Cite web |last= |date=2022-02-11 |title=Waterstones Children's Book Prize shortlists announced |url=https://www.booksandpublishing.com.au/articles/2022/02/11/209884/waterstones-childrens-book-prize-shortlists-announced-3/ |access-date=2022-02-12 |website=Books+Publishing |language=en-AU}}</ref><ref name=":15">{{Cite web |last=Sherwin |first=Adam |date=2022-02-10 |title=Waterstones Children's Book Prize shortlist shows TikTok influencers driving sales surge |url=https://inews.co.uk/news/waterstones-childrens-book-prize-shortlist-shows-tiktok-influencers-driving-sales-surge-1451194 |access-date=2023-05-28 |website=inews.co.uk |language=en}}</ref>
+|-
+|{{sortname|Lu|Fraser}}, illustrated by Mark McKinley
+|''The Viking Who Liked Icing''
+|[[Bloomsbury Children's Books|Bloomsbury Children's]]
+|-
+|{{sortname|Steve|Small|nolink=1}}
+|''The Duck Who Didn't Like Water''
+|[[Simon & Schuster]]
+|-
+|{{sortname|Helen|Kellock}}
+|''Out to Sea''
+|[[Thames & Hudson]]
+|-
+|{{sortname|Barr|Falls}}
+|''Alone!''
+|Farshore
+|- style="background:lightyellow;"
+! rowspan="6" |Older Fiction
+|'''{{sortname|Ciara|Smyth}} ([[Andersen Press]])'''
+|'''''Not My Problem'''''
+|'''[[Andersen Press]]'''
+|'''Category winner'''
+|<ref name=":13" />
+|-
+|{{sortname|Femi|Fadugba}}
+|''The Upper World''
+|[[Penguin Random House|PRH Children's]]
+| rowspan="5" |Finalist
+| rowspan="5" |<ref name=":14" /><ref name=":15" />
+|-
+|{{sortname|Namina|Forna}}
+|''[[The Gilded Ones]]''
+|[[Usborne Publishing|Usborne]]
+|-
+|{{sortname|Manjeet|Mann}}
+|''The Crossing''
+|[[Penguin Random House|PRH Children's]]
+|-
+|{{sortname|Michelle|Quach}}
+|''Not Here to Be Liked''
+|[[Usborne Publishing|Usborne]]
+|-
+|{{sortname|Angeline|Boulley}}
+|''[[Firekeeper's Daughter]]''
+|[[Oneworld Publications|OneWorld]]
+|- style="background:lightyellow;"
+! rowspan="6" |Younger Fiction
+|'''{{sortname|Hannah|Gold}}, illustrated by Levi Pinfold'''
+|'''''The Last Bear'''''
+|'''[[HarperCollins Children's Books]]'''
+|'''Category winner'''
+|<ref name=":13" />
+|-
+| [[Benjamin Dean (writer)|Benjamin Dean]], illustrated by Sandhya Prabhat
+|''Me, My Dad and the End of the Rainbow''
+|[[Simon & Schuster]]
+| rowspan="5" |Finalist
+| rowspan="5" |<ref name=":14" /><ref name=":15" />
+|-
+|{{sortname|Kelly|Yang}}, illustrated by Maike Plenzke
+|''[[Front Desk (book)|Front Desk]]''
+|[[Knights Of]]
+|-
+|{{sortname|Efua|Traoré}}
+|''Children of the Quicksands''
+|[[The Chicken House]]
+|-
+|{{sortname|Mark|Bradley|nolink=1}}
+|''Bumble and Snug and the Angry Pirates''
+|[[Hodder Children's Books]]
+|-
+|{{sortname|B. B. |Alston}}, illustrated by Godwin Akpan
+|''Amari and the Night Brothers''
+|Farshore
+|}
+
+=== 2023 ===
+{| class="wikitable sortable"
+! style="width:100px" |Category
+! style="width:280px" |Author
+! style="width:250px" |Title
+!Publisher
+! style="width:100px" |Result
+! style="width:20px" |Ref.
+|- style="background:#cddeff"
+|'''OVERALL'''
+|'''{{Sortname|Nadia|Mikail}}'''
+|'''''{{Sort|Cats We Meet Along the Way|The Cats We Meet Along the Way}}'''''
+|'''Guppy Publishing'''
+|'''Winner'''
+|<ref name=":19">{{Cite news |last=Shaffi |first=Sarah |date=2023-03-21 |title=Apocalyptic road trip story wins the Waterstones children's book prize |language=en-GB |work=The Guardian |url=https://www.theguardian.com/books/2023/mar/21/waterstones-childrens-book-prize-winner |access-date=2023-05-27 |issn=0261-3077}}</ref>
+|- style="background:lightyellow;"
+! rowspan="6" |Illustrated Book
+|'''{{Sortname|Kim|Hillyard}}'''
+|'''''Gretel the Wonder Mammoth'''''
+|'''[[Penguin Random House|PRH Children's]]'''
+|'''Category winner'''
+|<ref name=":19" />
+|-
+|{{Sortname|Georgia|Buckthorn}}, illustrated by [[Isabella Mazzanti]]
+|''{{Sort|Fairy Garden|The Fairy Garden}}''
+|Ivy Kids
+| rowspan="5" |Finalist
+| rowspan="5" |<ref name=":16">{{Cite web |last=Brown |first=Lauren |date=9 Feb 2023 |title=Walker and Newbery among shortlistees for Waterstones Children's Book Prize |url=https://www.thebookseller.com/news/walker-and-newbery-among-shortlistees-for-waterstones-childrens-book-prize |access-date=2023-05-27 |website=The Bookseller |language=En}}</ref><ref name=":17">{{Cite web |last= |title=Waterstones Children's Book Prize shortlists announced {{!}} Books+Publishing |url=https://www.booksandpublishing.com.au/articles/2023/02/10/226639/waterstones-childrens-book-prize-shortlists-announced-4/ |access-date=2023-05-27 |language=en-AU}}</ref><ref name=":18">{{Cite web |last=Evans |first=Connie |date=2023-02-09 |title=Titles incorporating mental health lead shortlist for Children's Book Prize |url=https://www.independent.co.uk/arts-entertainment/books/waterstones-prince-b2278754.html |access-date=2023-05-28 |website=The Independent |language=en}}</ref>
+|-
+|{{Sortname|Emma|Carlisle}}
+|''What Do You See When You Look at a Tree?''
+|Big Picture Press
+|-
+|{{Sortname|Rachael|Davis}}, illustrated by [[Beatrix Hatcher]]
+|''I Am NOT a Prince''
+|[[Hachette Book Group|Hachette Children's Group]]
+|-
+|{{Sortname|Stephen|Hogtun}}
+|''{{Sort|Station Cat|The Station Cat}}''
+|[[DK (publisher)|DK]]
+|-
+|{{Sortname|Jordan|Stephens|dab=writer}}, illustrated by [[Beth Suzanna]]
+|''{{Sort|Missing Piece|The Missing Piece}}''
+|[[Bloomsbury Children's Books]]
+|- style="background:lightyellow;"
+! rowspan="6" |Older Fiction
+|'''{{Sortname|Nadia|Mikail}}'''
+|'''''{{Sort|Cats We Meet Along the Way|The Cats We Meet Along the Way}}'''''
+|'''Guppy Publishing'''
+|'''Category winner'''
+|<ref name=":19" />
+|-
+|{{Sortname|Erik J.|Brown}}
+|''All That's Left in the World''
+|[[Hachette Book Group|Hachette Children's Group]]
+| rowspan="5" |Finalist
+| rowspan="5" |<ref name=":16" /><ref name=":17" /><ref name=":18" />
+|-
+|{{Sortname|Lewis|Hancox}}
+|''Welcome to St Hell'' 
+|[[Scholastic Corporation|Scholastic]]
+|-
+|{{Sortname|Christine|Pillainayagam}}
+|''Ellie Pillai Is Brown''
+|[[Faber and Faber]]
+|-
+|{{Sortname|Cynthia|So}}
+|''If You Still Recognise Me''
+|Stripes Publishing
+|-
+|{{Sortname|Angharad|Walker}}
+|''Once Upon a Fever'' 
+|[[The Chicken House]]
+|- style="background:lightyellow;"
+! rowspan="6" |Younger Fiction
+|'''{{Sortname|M. T.|Khan}}'''
+|'''''Nura and the Immortal Palace'''''
+|'''[[Walker Books]]'''
+|'''Category winner'''
+|<ref name=":19" />
+|-
+|{{Sortname|David|Farr|nolink=1}}
+|''{{Sort|Book of Stolen Dreams|The Book of Stolen Dreams}}''
+|[[Usborne Publishing]]
+| rowspan="5" |Finalist
+| rowspan="5" |<ref name=":16" /><ref name=":17" /><ref name=":18" />
+|-
+|{{Sortname|Hannah|Moffatt|nolink=1}}
+|''Small!''
+|Everything with Words
+|-
+|{{Sortname|Lee|Newbery}}
+|''{{Sort|Last Firefox|The Last Firefox}}''
+|[[Penguin Random House|PRH Children's]]
+|-
+|{{Sortname|Varsha|Shah}}
+|''Ajay and the Mumbai Sun''
+|[[The Chicken House]]
+|-
+|{{Sortname|J. T.|Williams|dab=writer}}, illustrated by Simone Douglas'' ''
+|''{{Sort|Lizzie and Belle Mysteries: Drama and Danger|The Lizzie and Belle Mysteries: Drama and Danger}}''
+|Farshore
+|}
+
+=== 2024 (20th anniversary) ===
+{| class="wikitable sortable"
+! style="width:100px" |Category
+! style="width:280px" |Author
+! style="width:250px" |Title
+!Publisher
+! style="width:100px" |Result
+! style="width:20px" |Ref.
+|- style="background:#cddeff"
+|'''OVERALL'''
+|'''{{Sortname|Pari|Thomson}}'''
+|'''''Greenwild: The World Behind the Door'''''
+|'''[[Macmillan Publishers|Macmillan]]'''
+|'''Winner'''
+|<ref name=":20">{{Cite news |last=Creamer |first=Ella |date=2024-03-21 |title=Botanical fairytale set in Kew Gardens wins the Waterstones children's book prize |url=https://www.theguardian.com/books/2024/mar/21/greenwild-world-behind-door-pari-thomson-wins-waterstones-childrens-book-prize |access-date=2024-03-21 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref>
+|- style="background:lightyellow;"
+! rowspan="6" |Illustrated Book
+|'''{{Sortname|Chloe|Savage}}'''
+|'''''{{Sort|Search for the Giant Arctic Jellyfish|The Search for the Giant Arctic Jellyfish}}'''''
+|'''[[Walker Books]]'''
+|'''Category winner'''
+|<ref name=":20" />
+|-
+|{{Sortname|Marcela|Ferreira}}, illustrated by Sally Agar
+|''{{Sort|Queen Next Door|The Queen Next Door}}''
+|[[Orchard Books]]
+| rowspan="5" |Finalist
+| rowspan="5" |<ref name=":21">{{Cite news |date=2024-02-09 |title=Waterstones Children's Book Prize 2024: Shortlist announced |url=https://www.bbc.com/newsround/68241329 |access-date=2024-03-21 |work=BBC Newsround |language=en-GB}}</ref><ref name=":22">{{Cite web |last= |title=Waterstones Children's Book Prize 2024 shortlists announced {{!}} Books+Publishing |url=https://www.booksandpublishing.com.au/articles/2024/02/12/246741/waterstones-childrens-book-prize-2024-shortlists-announced/ |access-date=2024-03-21 |language=en-AU}}</ref><ref name=":23">{{Cite web |last=Spanoudi |first=Melina |date=8 Feb 2024 |title=Bea Fitzgerald and Pari Thomson shortlisted for £5k Waterstones Children's Book Prize |url=https://www.thebookseller.com/news/bea-fitzgerald-and-pari-thomson-shortlisted-for-5k-waterstones-childrens-book-prize |access-date=2024-03-21 |website=The Bookseller |language=En}}</ref>
+|-
+|{{Sortname|Natalie|Labarre}}
+|''Incredible Jobs You've (Probably) Never Heard Of''
+|[[Nosy Crow]]
+|-
+|{{Sortname|Ellan|Rankin}}
+|''{{Sort|Secret Elephant|The Secret Elephant}}''
+|Wren & Rook
+|-
+|{{Sortname|Kate|Rolfe}}
+|''Wolf and Bear''
+|Two Hoots
+|-
+|{{Sortname|Andrew|Sanders}}, illustrated by Aysha Awwad
+|''Whose Dog Is This?''
+|[[Macmillan Publishers|Macmillan]]
+|- style="background:lightyellow;"
+! rowspan="6" |Older Fiction
+|'''{{Sortname|Kayvion|Lewis}}'''
+|'''''Thieves' Gambit'''''
+|[[S&S Books for Young Readers|S&S]]
+|'''Category winner'''
+|<ref name=":20" />
+|-
+|{{Sortname|Nick|Brooks}}
+|''Promise Boys''
+|[[Macmillan Publishers|Macmillan]]
+| rowspan="5" |Finalist
+| rowspan="5" |<ref name=":21" /><ref name=":22" /><ref name=":23" />
+|-
+|{{Sortname|Mel|Darbon}}
+|''What the World Doesn't See''
+|[[Usborne Publishing|Usborne]]
+|-
+|{{Sortname|Bea|Fitzgerald}}
+|''Girl, Goddess, Queen''
+|[[Penguin Books|Penguin]]
+|-
+|{{Sortname|Ayaan|Mohamud}}
+|''You Think You Know Me''
+|[[Usborne Publishing|Usborne]]
+|-
+|{{Sortname|Alexandra|Sheppard}}
+|''Friendship Never Ends'' 
+|[[Knights Of]]
+|- style="background:lightyellow;"
+! rowspan="6" |Younger Fiction
+|'''{{Sortname|Pari|Thomson}}'''
+|'''''Greenwild: The World Behind the Door'''''
+|'''[[Macmillan Publishers|Macmillan]]'''
+|'''Category winner'''
+|<ref name=":20" />
+|-
+|{{Sortname|J. J.|Arcanjo}}
+|''Crookhaven: The School for Thieves''
+|[[Hodder & Stoughton|Hodder]]
+| rowspan="5" |Finalist
+| rowspan="5" |<ref name=":21" /><ref name=":22" /><ref name=":23" />
+|-
+|{{Sortname|Emily-Jane|Clark}}
+|''{{Sort|Beasts of Knobbly Bottom: Attack of the Vampire Sheep!|The Beasts of Knobbly Bottom: Attack of the Vampire Sheep!}}''
+|[[Scholastic Corporation|Scholastic]]
+|-
+|{{Sortname|Lizzie|Huxley-Jones}}
+|''Vivi Conway and the Sword of Legend'' 
+|[[Knights Of]]
+|-
+|{{Sortname|Beth|Lincoln}}
+|''{{Sort|Swifts|The Swifts}}''
+|[[Puffin Books|Puffin]]
+|-
+|{{Sortname|G. M.|Linton}}
+|''My Name Is Sunshine Simpson'' 
+|[[Usborne Publishing|Usborne]]
+|}
+
+===2025===
+{| class="wikitable sortable"
+! style="width:100px" |Category
+! style="width:280px" |Author
+! style="width:250px" |Title
+! Publisher
+! style="width:100px" |Result
+! style="width:20px" |Ref.
+|- style="background:#cddeff"
+|'''OVERALL'''
+|'''{{Sortname|Mikey|Please}}'''
+|'''''{{Sort|Cafe at the Edge of the Woods|The Cafe at the Edge of the Woods}}'''''
+|'''[[Harper Collins]]'''
+|'''Winner'''
+| <ref name=winners2025>{{cite news |last1=Creamer |first1=Ella |title=The Cafe at the Edge of the Woods wins Waterstones children’s book prize |url=https://www.theguardian.com/books/2025/mar/27/the-cafe-at-the-edge-of-the-woods-wins-waterstones-childrens-book-prize |access-date=27 November 2025 |work=The Guardian |date=27 March 2025}}</ref>
+|- style="background:lightyellow;"
+! rowspan="4" | Illustrated Book
+| '''{{Sortname|Mikey|Please}}'''
+| '''''{{Sort|Cafe at the Edge of the Woods|The Cafe at the Edge of the Woods}}'''''
+|'''[[Harper Collins]]'''
+| '''Category winner'''
+|<ref name=winners2025 />
+|-
+| {{Sortname|Craig|Barr-Green}}, illustrated by  Francis Martin 
+| ''Gina Kaminski Saves the Wolf''
+|[[Penguin Random House|Little Tiger]]
+| {{shortlisted}}
+| <ref name=short2025>{{Cite web|url=https://www.independent.co.uk/arts-entertainment/books/news/waterstones-children-s-book-prize-2025-b2692825.html|title=Waterstones Children's Book Prize shortlist spotlights stories of neurodiversity and palaces filled with dumplings|work=The Independent|first=Maira|last=Butt|date=6 February 2025|accessdate=18 February 2025}}</ref>
+|-
+| {{Sortname|Jana|Curll}}
+| ''Mountain and Cloud''
+|Penguin Random House
+| {{shortlisted}}
+|<ref name=short2025 />
+|-
+| {{Sortname|X.|Fang}}
+| ''Dim Sum Palace''
+|[[Pushkin Press]]
+| {{shortlisted}}
+|<ref name=short2025 />
+|- style="background:lightyellow;"
+! rowspan="4" | Older Readers
+| '''{{Sortname|Nathanael|Lessore}}'''
+| '''''King of Nothing'''''
+|'''[[Hot Key Books]]'''
+| '''Category winner'''
+|<ref name=winners2025 />
+|-
+| {{Sortname|Leanne|Egan}}
+| ''Lover Birds''
+|HarperCollins
+| {{shortlisted}}
+|<ref name=short2025 />
+|-
+
+| {{Sortname|Margaret|McDonald|dab=writer}}
+| ''Glasgow Boys''
+|[[Faber & Faber]]
+| {{shortlisted}}
+|<ref name=short2025 />
+|-
+| {{Sortname|Emily|Varga}}
+| ''For She is Wrath''
+|[[Pan Macmillan]]
+| {{shortlisted}}
+|<ref name=short2025 />
+|- style="background:lightyellow;"
+! rowspan="4" | Younger Readers
+| '''{{Sortname|Carlos|Sánchez|dab=writer}}'''
+| '''''Rune'''''
+|'''[[Flying Eye Books]]'''
+|'''Category winner'''
+|<ref name=winners2025 />
+|-
+| {{Sortname|Piu|DasGupta}}
+| ''Secrets of the Snakestone''
+|[[Nosy Crow]]
+| {{shortlisted}}
+|<ref name=short2025 />
+|-
+| {{Sortname|James|Fox|dab=1}}
+| ''{{Sort|Boy in the Suit|The Boy in the Suit}}''
+|Scholastic
+|  {{shortlisted}}
+|<ref name=short2025 />
+|-
+| {{Sortname|Clare|Harlow}}
+| ''Tidemagic: The Many Faces of Ista Flit''
+|Penguin Random House
+| {{shortlisted}}
+|<ref name=short2025 />
+
+|-
+|}
+
+=== 2026 ===
+{| class="wikitable sortable"
+! style="width:100px" |Category
+! style="width:280px" |Author
+! style="width:250px" |Title
+! Publisher
+! style="width:100px" |Result
+! style="width:20px" |Ref.
+|- style="background:#cddeff"
+|'''OVERALL'''
+|'''{{Sortname|Huw|Aaron}}'''
+|''[[Sleep Tight, Disgusting Blob]]''
+|[[Penguin Random House]]
+|'''Winner'''
+|<ref name=":25">{{Cite web |date=2026-03-30 |title=Aaron wins 2026 Waterstones Children’s Book Prize |url=https://www.booksandpublishing.com.au/articles/2026/03/30/326791/aaron-wins-2026-waterstones-childrens-book-prize/ |access-date=2026-04-01 |publisher=Books+Publishing}}</ref>
+|- style="background:lightyellow;"
+! rowspan="4" |Illustrated Book
+| {{Sortname|Huw|Aaron}}
+| ''[[Sleep Tight, Disgusting Blob]]''
+|[[Penguin Random House]] 
+| '''Category winner'''
+| <ref name=":25" /><ref>{{Cite web |last=Spanoudi |first=Melina |date=2026-02-05 |title=Huw Aaron shortlisted twice for Waterstones Children’s Book Prize 2026 |url=https://www.thebookseller.com/news/huw-aaron-shortlisted-twice-for-waterstones-childrens-book-prize-2026 |access-date=2026-03-02 |website=The Bookseller |language=En}}</ref><ref name=":24">{{Cite web |last=Garnsworthy |first=Jenny |date=2026-02-05 |title=Children’s author becomes first writer shortlisted twice for Waterstones book awards |url=https://www.the-independent.com/arts-entertainment/books/news/huw-aaron-waterstones-childrens-book-prize-b2913863.html |access-date=2026-03-02 |website=[[The Independent]] |language=en}}</ref>
+|-
+| {{Sortname|Selina|Brown}}, illustrated by [[Maxwell A. Oginni]] 
+| ''My Rice Is Best'' 
+|Penguin Random House 
+| {{shortlisted}}
+|<ref name=":24" />
+|-
+| {{Sortname|Jamie|Carroll}}
+| ''Milo and the Mountain''
+|[[O'Brien Press]]
+| {{shortlisted}}
+|<ref name=":24" />
+|-
+|{{Sortname|Becky|Colvin}}
+|''{{Sort|Great Green Island|The Great Green Island}}''
+|[[Pan Macmillan]]
+|{{shortlisted}}
+|<ref name=":24" />
+|- style="background:lightyellow;"
+! rowspan="4" |Older Readers
+| {{Sortname|S. F.|Williamson}}
+| ''{{Sort|Language of Dragons|A Language of Dragons}}''
+|HarperCollins
+| '''Category winner'''
+|<ref name=":25" /><ref name=":24" />
+|-
+| {{Sortname|Busayo|Matuluko}}
+| ''{{Sort|Til Death|'Til Death}}''
+|Simon & Schuster
+| {{shortlisted}}
+|<ref name=":24" />
+|-
+| {{Sortname|Grainne|O'Brien}}
+| ''Solo''
+|Little Island
+| {{shortlisted}}
+|<ref name=":24" />
+|-
+|{{Sortname|Jihyun|Yun}}
+|''And the River Drags Her Down''
+|Oneworld
+|{{shortlisted}}
+|<ref name=":24" />
+|- style="background:lightyellow;"
+! rowspan="4" |Younger Readers
+| {{Sortname|Janeen|Hayat}}
+| ''Evie and Maryam's Family Tree''
+|Guppy Publishing
+| '''Category winner'''
+|<ref name=":25" /><ref name=":24" />
+|-
+| {{Sortname|Huw|Aaron}}
+| ''Unfairies''
+|Penguin Random House
+| {{shortlisted}}
+|<ref name=":24" />
+|-
+| {{Sortname|Brogen|Murphy}}
+| ''Wildlands''
+|Penguin Random House
+| {{shortlisted}}
+|<ref name=":24" />
+
+|-
+|{{Sortname|Ashley|Thorpe|dab=writer}}
+|''Spirit Warriors''
+|Usborne
+|{{shortlisted}}
+|<ref name=":24" />
+|}
+
+== See also ==
+* [[Waterstones Book of the Year]]
+* [[Waterstones Debut Fiction Prize]]
+* [[Children's Laureate|Waterstones Children's Laureate]]
+* [[Waterstones 11]]
+* [[Guardian First Book Award]]
+
+== References ==
+{{Reflist
+}}
+
+==External links==
+{{Portal|Children's literature}}
+* [https://www.waterstones.com/book-awards/waterstones-childrens-book-prize Official Waterstones Children's Book Prize site] – dedicated to the latest winners
+
+[[Category:British children's literary awards]]
+[[Category:Young adult literature awards]]
+[[Category:Picture book awards]]
+[[Category:Awards established in 2005]]
+[[Category:2005 establishments in the United Kingdom]]
+[[Category:English-language literary awards]]
+[[Category:Waterstones awards]]

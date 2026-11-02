@@ -19,6 +19,7 @@ npm run lint           # eslint
 npm run typecheck      # generate route types, then tsc (scripts/ and tests/ included)
 npm run build          # production build (about 10,000 static pages, ~1 min)
 npm run sync -- --offline   # re-parse cached catalogue HTML without touching the library
+npm run prizes -- --offline # re-parse cached prize lists and searches (no requests); see docs/data-and-sync.md
 ```
 
 Run `npm run typecheck && npm run lint && npm test` before saying you're done.

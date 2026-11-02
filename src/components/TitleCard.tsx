@@ -9,9 +9,12 @@ export function TitleCard({
   t,
   eager,
   href = `/title/${t.irn}`,
+  label,
 }: {
   t: CardTitle;
   eager?: boolean;
+  /** A short line above the title, e.g. "Booker shortlist". */
+  label?: string;
   /** Override for results that aren't in our catalogue (full-catalogue search). */
   href?: string;
 }) {
@@ -22,7 +25,7 @@ export function TitleCard({
       // Titles and catalogue items open as a sheet over this page, so keep the scroll position.
       scroll={href.startsWith("/title/") || href.startsWith("/item") ? false : undefined}
       className="group/card block rounded-lg outline-none focus-visible:ring-2 focus-visible:ring-sea focus-visible:ring-offset-4 focus-visible:ring-offset-paper"
-      aria-label={`${t.title}${meta ? `, ${meta}` : ""}`}
+      aria-label={`${t.title}${meta ? `, ${meta}` : ""}${label ? `, ${label}` : ""}`}
     >
       <div className="relative shadow-sm transition duration-200 group-hover/card:-translate-y-1 group-hover/card:shadow-lg">
         <Poster src={t.poster} title={t.title} year={t.year} eager={eager} />
@@ -52,7 +55,12 @@ export function TitleCard({
           </span>
         )}
       </div>
-      <p className="mt-2 line-clamp-2 text-sm font-semibold leading-snug text-ink group-hover/card:text-sea">
+      {label && (
+        <p className="mt-2 line-clamp-1 text-[11px] font-semibold uppercase tracking-wide text-muted">{label}</p>
+      )}
+      <p
+        className={`${label ? "mt-0.5" : "mt-2"} line-clamp-2 text-sm font-semibold leading-snug text-ink group-hover/card:text-sea`}
+      >
         {t.title}
       </p>
       {meta && <p className="line-clamp-1 text-xs text-muted">{meta}</p>}

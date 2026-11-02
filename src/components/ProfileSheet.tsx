@@ -178,6 +178,9 @@ export function ProfileSheet({ branches }: { branches: string[] }) {
             <Link href="/settings" onClick={close}>
               All settings
             </Link>
+            <Link href="/prizes" onClick={close}>
+              Book prizes
+            </Link>
             <Link href="/about" onClick={close}>
               About
             </Link>

@@ -1,0 +1,125 @@
+{{Short description|British literary award given in 2025}}
+{{Infobox award
+| name             = 2025 [[Booker Prize]]
+| image            =
+| caption          =
+| date             = 10 November 2025
+| location         = [[Old Billingsgate]], London
+| country          = United Kingdom & Ireland
+| presenter        = 
+| previous         = [[2024 Booker Prize|2024]]
+| next             = [[2026 Booker Prize|2026]]
+| main             = {{nowrap|[[Booker Prize|The Booker Prize]]}}
+}}
+[[File:DavidSzalay_EIBF2025_i459.jpg|thumb|right|[[David Szalay]], winner of the 2025 Booker Prize]]
+
+The '''2025 Booker Prize''' is a [[literary award]] worth £50,000 given for the best [[English language|English-language]] novel published between 1 October 2024 and 30 September 2025 in either the United Kingdom or Ireland.
+
+The longlist of 13 titles was announced on 29 July 2025.<ref>{{cite news|url=https://www.theguardian.com/books/2025/jul/29/booker-prize-longlist-announced|title=Most global Booker prize longlist in a decade features Kiran Desai and Tash Aw|first=Ella|last=Creamer|newspaper=[[The Guardian]]|date=30 July 2025}}</ref><ref>{{cite web|url=https://thebookerprizes.com/everything-you-need-to-know-about-the-booker-prize-2025-longlist|title=Everything you need to know about the Booker Prize 2025 longlist|publisher=The Booker Prizes|date=30 July 2025}}</ref> The shortlist of six finalists was announced on 23 September 2025.<ref>{{Cite news |last=Creamer |first=Ella |date=23 September 2025 |title='Brilliantly human': Kiran Desai and David Szalay make Booker prize shortlist |url=https://www.theguardian.com/books/2025/sep/23/brilliantly-human-kiran-desai-and-david-szalay-make-booker-prize-shortlist |access-date=23 September 2025 |work=The Guardian |issn=0261-3077}}</ref><ref>{{Cite web |date=23 September 2025 |title=Everything you need to know about the Booker Prize 2025 shortlist |url=https://thebookerprizes.com/the-booker-library/features/everything-you-need-to-know-about-the-booker-prize-2025-shortlist |access-date=23 September 2025 |website=The Booker Prizes}}</ref> Regarding the shortlisted works, the chair of the judging panel, [[Roddy Doyle]], stated that all six novels shared two things in common: they were unique in that they could only have been written by their respective authors and the authors who did write them displayed a mastery of the English language in the narrative. Doyle further stated that all of the works were "brillianty human", displaying the characters and their relationships to others as the centrepiece of the works.<ref name="Booker Prizes">{{cite web |title=Everything you need to know about the Booker Prize 2025 shortlist |url=https://thebookerprizes.com/the-booker-library/features/everything-you-need-to-know-about-the-booker-prize-2025-shortlist |website=thebookerprizes.com |publisher=The Booker Prizes |language=en |date=23 September 2025}}</ref>
+
+On 10 November 2025, at a ceremony in the [[Old Billingsgate]] in [[London]], the prize was awarded to ''[[Flesh_(Szalay_novel)|Flesh]]'' by [[David Szalay]].<ref name="Marshall NYT">{{cite web |last1=Marshall |first1=David |title=David Szalay's 'Flesh' Wins 2025 Booker Prize|date=10 November 2025 |website=[[The New York Times]] |url=https://www.nytimes.com/2025/11/10/books/booker-prize-2025-david-szalay-flesh.html}}</ref><ref name="BBC">{{cite web |last1=Youngs |first1=Ian |title=Booker Prize: David Szalay's Flesh wins 2025 fiction award |url=https://www.bbc.com/news/articles/cr43pp456gyo |website=www.bbc.com |publisher=BBC |access-date=10 November 2025 |date=10 November 2025}}</ref> Roddy Doyle stated: “The book we kept coming back to, the one that stood out from the other great novels, was ''Flesh'' — because of its singularity.”<ref name="Mendez 2025">{{cite web |last1=Mendez |first1=Malia |title=David Szalay wins Booker Prize with 'extraordinary, singular novel' 'Flesh' |url=https://www.latimes.com/entertainment-arts/books/story/2025-11-11/booker-prize-2025-david-szalay-flesh |website=[[Los Angeles Times]] |date=11 November 2025}}</ref> In his acceptance speech, Szalay stated that artistically, he took on risks when writing the unconventional novel. He stated that his work "embraces that sense of risk rather than shuns it".<ref name="Mendez 2025"/> With the win, Szalay became the first British-Hungarian author to be awarded the Booker Prize (Hungarian author [[Laszlo Krasznahorkai]] was awarded an [[International Booker Prize]] in 2015). This was Szalay's second nomination, after his 2016 novel ''[[All That Man Is]]'' was shortlisted for the prize.<ref name="Marshall NYT 2025">{{cite web |last1=Marshall |first1=Alex |title=David Szalay's 'Flesh' Wins 2025 Booker Prize |url=https://www.nytimes.com/2025/11/10/books/booker-prize-2025-david-szalay-flesh.html |website=[[The New York Times]] }}</ref>
+
+==Judging panel==
+
+* [[Roddy Doyle]] (chair)
+* [[Ayọ̀bámi Adébáyọ̀]]
+* [[Chris Power]]
+* [[Kiley Reid]]
+* [[Sarah Jessica Parker]]
+
+==Nominees==
+All 2025 nominees are novels.
+
+{{legend|gold|indicates the winner}}
+{{legend|lightgrey|indicates shortlisted}}
+
+{| class="wikitable plainrowheaders sortable"
+! scope="col" | Author
+! scope="col" | Title
+! scope="col" | Country
+! scope="col" | Publisher
+|-
+| data-sort-value="Adam,Claire" | [[Claire Adam]]
+| ''[[Love Forms]]''
+| Trinidad & Tobago
+| [[Faber & Faber|Faber]]
+|-
+| data-sort-value="Aw,Tash" | [[Tash Aw]]
+| ''[[The South (Tash Aw novel)|The South]]''
+| Malaysia
+| [[HarperCollins|4th Estate]]
+|-
+| data-sort-value="Brown, Natasha" | [[Natasha Brown (author)|Natasha Brown]]
+| ''[[Universality (novel)|Universality]]''
+| UK
+| [[Faber & Faber|Faber]]
+|-
+| data-sort-value="Buckley, Jonathan" | [[Jonathan Buckley (writer)|Jonathan Buckley]]
+| ''[[One Boat]]''
+| UK
+| [[Fitzcarraldo Editions]]
+|-
+|-style="background: lightgrey"
+| data-sort-value="Choi, Susan" | [[Susan Choi]]
+| ''[[Flashlight (novel)|Flashlight]]''
+| USA
+| [[Jonathan Cape]]
+|-
+|-style="background: lightgrey"
+| data-sort-value="Desai, Kiran" | [[Kiran Desai]]
+| ''[[The Loneliness of Sonia and Sunny]]''
+| India
+| [[Hamish Hamilton]]
+|-
+|-style="background: lightgrey"
+| data-sort-value="Kitamura, Katie" | [[Katie Kitamura]]
+| ''[[Audition_(Kitamura_novel)|Audition]]''
+| USA
+| [[Fern Press]]
+|-
+|-style="background: lightgrey"
+| data-sort-value="Markovits, Ben" | [[Benjamin Markovits|Ben Markovits]]
+| ''[[The Rest of Our Lives]]''
+| UK/USA
+| [[Faber & Faber|Faber]]
+|-
+|-style="background: lightgrey"
+| data-sort-value="Miller, Andrew" | [[Andrew Miller (novelist)|Andrew Miller]]
+| ''[[The Land in Winter]]''
+| UK
+| [[Sceptre (imprint)|Sceptre]]
+|-
+| data-sort-value="Reva, Maria" | [[Maria Reva]]
+| ''[[Endling (2025 novel)|Endling]]''
+| Canada/Ukraine
+| [[Virago Press|Virago]]/[[Little, Brown and Company |Little, Brown]]
+|-
+|-style="background: gold"
+| data-sort-value="Szalay, David" | [[David Szalay]]
+| ''[[Flesh_(Szalay_novel)|Flesh]]''
+| Hungary/UK
+| [[Jonathan Cape]]
+|-
+| data-sort-value="Wood, Benjamin" | [[Benjamin Wood (writer)|Benjamin Wood]]
+| ''[[Seascraper (novel)|Seascraper]]''
+| UK
+| [[Viking Press|Viking]]
+|-
+| data-sort-value="Xhoga, Ledia" | [[Ledia Xhoga]]
+| ''[[Misinterpretation (novel)|Misinterpretation]]''
+| Albania/USA
+| [[Daunt Books Originals]]
+|-
+|}
+
+==See also==
+* [[List of winners and nominated authors of the Booker Prize]]
+
+==References==
+{{Reflist|30em}}
+{{Booker Prize}}
+
+[[Category:2025 literary awards|Booker]]
+[[Category:Booker Prizes by year]]
+[[Category:2025 awards in the United Kingdom]]
+[[Category:November 2025 in the United Kingdom|Booker]]

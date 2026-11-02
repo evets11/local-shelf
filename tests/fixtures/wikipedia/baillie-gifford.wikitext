@@ -1,0 +1,1047 @@
+{{short description|Non-fiction writing award}}
+{{Use British English|date=August 2014}}
+{{Use dmy dates|date=August 2014}}
+{{Infobox award
+| name             = 
+| subheader        = <!-- or | current_awards = -->
+| image            = BG LOGO NO DATE.jpg
+| image_size       = <!-- or | image_upright = -->
+| alt              = 
+| caption          = 
+| awarded_for      = Non-fiction writing
+| sponsor          = [[Baillie Gifford]]
+| date             = {{start date and age|1999}}
+| location         = <!-- or | venue = or | site = -->
+| country          = United Kingdom
+| presenter        = 
+| host             = <!-- or | hosts = -->
+| former name      = Samuel Johnson Prize
+| preshow_host     = 
+| acts             = 
+| reward           = £50,000
+| year             = 
+| year2            = 
+| holder_label     = 
+| holder           = ''How to End a Story: Collected Diaries'' by [[Helen Garner]]
+| most_awards      = <!-- or | most_wins = -->
+| most_nominations = 
+| award1_type      = 
+| award1_winner    = 
+| award2_type      = 
+| award2_winner    = 
+| award3_type      = 
+| award3_winner    = 
+| award4_type      = 
+| award4_winner    = 
+| award5_type      = 
+| award5_winner    = 
+| website          = {{URL|thebailliegiffordprize.co.uk}}
+| network          = <!-- or | network_list = -->
+| runtime          = 
+| viewership       = <!-- or | ratings = -->
+| producer         = 
+| director         = 
+| image2           = 
+| image2size       = <!-- or | image_upright2 -->
+| alt2             = 
+| caption2         = 
+| precedence_label = 
+| individual       = 
+| higher           = 
+| same             = 
+| lower            = 
+| related          = 
+| previous         = 
+| main             = 
+| next             = 
+}}
+The '''Baillie Gifford Prize for Non-Fiction''', formerly the '''Samuel Johnson Prize''', is an annual British book prize for the best non-fiction writing in the English language. It was founded in 1999 following the demise of the [[NCR Book Award]]. With its motto "All the best stories are true", the prize covers current affairs, history, politics, science, sport, travel, biography, autobiography and the arts. The competition is open to authors of any nationality whose work is published in the UK in English.<ref name="home">{{cite web|url=http://www.thesamueljohnsonprize.co.uk/about-the-prize.htm|title=About the prize|publisher=Samuel Johnson Prize|archive-url=https://web.archive.org/web/20080704132033/http://www.thesamueljohnsonprize.co.uk/about-the-prize.htm|archive-date=July 4, 2008|url-status=dead|quote="The UK's most Prestigious non-fiction award"}}</ref> The longlist, shortlist and winner is chosen by a panel of independent judges, which changes every year. Formerly named after English author and lexicographer [[Samuel Johnson]], the award was renamed in 2015 after [[Baillie Gifford]], an investment management firm and the primary sponsor. Since 2016, the annual dinner and awards ceremony has been sponsored by the [[Len Blavatnik|Blavatnik Family Foundation]]. 
+
+The prize is governed by the Board of Directors of The Samuel Johnson Prize for Non-fiction Limited, a not-for-profit company. Since 2018, the Chair of the Board has been [[Peter Bazalgette|Sir Peter Bazalgette]], who succeeded Stuart Proffitt, the chair since 1999. In 2015, Toby Mundy was appointed as the Prize's first director.<ref>{{Cite web|url=https://thebailliegiffordprize.co.uk/about/trustees|title=Directors|website=The Baillie Gifford Prize for Non-Fiction|access-date=2019-06-12|archive-date=27 March 2019|archive-url=https://web.archive.org/web/20190327200231/https://thebailliegiffordprize.co.uk/about/trustees|url-status=live}}</ref>
+{{TOClimit}}
+
+==History==
+Prior to the establishment of the Samuel Johnson Prize, Britain's premier literary award for non-fiction was the [[NCR Book Award]], which had been established in 1987.<ref name=beevor>{{cite web |url=https://www.telegraph.co.uk/culture/books/3555320/The-BBC-Four-Samuel-Johnson-Prize.html |title=The BBC Four Samuel Johnson Prize |work=[[The Daily Telegraph|The Telegraph]] |first=Antony |last=Beevor |date=29 June 2008 |access-date=October 5, 2018 |archive-date=6 October 2018 |archive-url=https://web.archive.org/web/20181006075446/https://www.telegraph.co.uk/culture/books/3555320/The-BBC-Four-Samuel-Johnson-Prize.html |url-status=live }}</ref> In 1997, the NCR Award experienced a scandal when it was revealed the judges, many of them chosen for their popularity rather than literary qualities, had used "ghost readers" and were not expected to read the books they voted on.<ref name=mccrum/> Because of this and other problems the award ceased operations.<ref name=mccrum>{{cite news |url=https://www.theguardian.com/books/2001/jun/17/samueljohnsonprize2001.awardsandprizes |title=A life of the Samuel Johnson Prize |newspaper=[[The Guardian]] |author-link=Robert McCrum |first=Robert|last=McCrum|date=16 June 2001 |access-date=October 5, 2018 |archive-date=6 October 2018 |archive-url=https://web.archive.org/web/20181006075051/https://www.theguardian.com/books/2001/jun/17/samueljohnsonprize2001.awardsandprizes |url-status=live }}</ref> In response, one of the previous winners of NCR Award, the historian [[Peter Hennessy]], approached Stuart Proffitt, a Publishing Director at Penguin Press, with the idea for a new award. An anonymous benefactor was found who funded the establishment of the Prize,<ref name=beevor/> which was named after the English 18th-century author and lexicographer [[Samuel Johnson]].
+
+From its inception until 2001, the prize was independently financed by the founding benefactor.<ref name=beevor/> In 2002, it was taken over by the BBC and re-named the '''BBC Four Samuel Johnson Prize''' and managed by [[BBC Four]].<ref name=beevor/> In 2009, the name was amended to the '''BBC Samuel Johnson Prize for Non-Fiction'''<ref name="17april">{{cite web |url=http://www.thesamueljohnsonprize.co.uk/pages/news/index.asp?NewsID=18 |title=The 2009 BBC Samuel Johnson Prize for Non-Fiction |publisher=Samuel Johnson Prize |date=17 April 2009 |archive-url=https://web.archive.org/web/20100401040005/http://www.thesamueljohnsonprize.co.uk/pages/news/index.asp?NewsID=18 |archive-date=April 1, 2010 |url-status=dead}}</ref> and managed by [[BBC Two]]. The new name reflected the BBC's commitment to broadcasting coverage of the Prize on the BBC2 programme, ''[[The Culture Show]]''.<ref name="17april" /> In 2016, the name was changed to the '''Baillie Gifford Prize for Non-Fiction''', after its new primary sponsor, the Edinburgh-based investment management company [[Baillie Gifford]].<ref>{{cite web |url=http://thebailliegiffordprize.co.uk/news/samuel-johnson-prize-sets-sights-globally-under-new-sponsorship-deal |first=James |last=Douglas |title=Samuel Johnson Prize sets sights globally under new sponsorship deal |publisher=The Baillie Gifford Prize for Non-Fiction |date=23 May 2016 |access-date=16 November 2016 |archive-date=17 November 2016 |archive-url=https://web.archive.org/web/20161117064557/http://thebailliegiffordprize.co.uk/news/samuel-johnson-prize-sets-sights-globally-under-new-sponsorship-deal |url-status=live }}</ref> 
+
+Prior to the 2009 name change, the winner received {{currency|30000|GBP}}, and each finalist received {{currency|2500|GBP}}. After 2009, the award was {{currency|20000|GBP}} for the winner, and each finalist received {{currency|1000|GBP}}.<ref name="17april" /> In February 2012, the steering committee for the prize announced that a new sponsor had been found for the prize, an anonymous philanthropist, enabling the prize money to be raised to {{currency|25000|GBP}}.<ref>{{cite web |url=http://www.thesamueljohnsonprize.co.uk/pages/news/index.asp?NewsID=33 |title=The Samuel Johnson Prize for Non-Fiction announces a new sponsor |publisher=Samuel Johnson Prize |date=17 February 2012 |archive-url=https://web.archive.org/web/20120223223649/http://www.thesamueljohnsonprize.co.uk/pages/news/index.asp?NewsID=33 |archive-date=February 23, 2012 |url-status=dead}}</ref> In 2015, funding for the prize was arranged by the Blavatnik Family Foundation, while the organisers sought new primary sponsors from 2016 onwards.<ref>{{cite news|newspaper=[[London Evening Standard]]|url=https://www.standard.co.uk/news/londoners-diary/londoners-diary-tls-error-is-no-larkin-matter-says-exlaureate-andrew-motion-10278836.html|title=Samuel Johnson seeks a new sponsor|date=27 May 2015|access-date=4 April 2018|archive-date=22 July 2015|archive-url=https://web.archive.org/web/20150722014632/http://www.standard.co.uk/news/londoners-diary/londoners-diary-tls-error-is-no-larkin-matter-says-exlaureate-andrew-motion-10278836.html|url-status=live}}</ref>
+
+In 2016, under new sponsors Baillie Gifford, the prize money was restored to {{currency|30000|GBP}} for the winner.
+
+In 2019, following the announcement that Baillie Gifford will sponsor the award until at least 2026, the prize money was increased to £50,000.<ref>{{Cite web|url=https://thebailliegiffordprize.co.uk/news/baillie-gifford-prize-non-fiction-increases-prize-money-%C2%A350000|title=Increase in prize money to £50,000 and 2019 judges have been announced|website=The Baillie Gifford Prize for Non-Fiction|access-date=2019-06-12|archive-date=24 March 2020|archive-url=https://web.archive.org/web/20200324100622/https://thebailliegiffordprize.co.uk/news/baillie-gifford-prize-non-fiction-increases-prize-money-%25C2%25A350000|url-status=live}}</ref>
+
+It is widely recognised as the UK's most prestigious award for non-fiction authors.<ref name="flood2009long">{{cite web |last=Flood |first=Alison |date=14 May 2009 |title=Science dominates Samuel Johnson prize longlist |url=https://www.theguardian.com/books/2009/may/14/samuel-johnson-prize-shortlist |access-date=8 October 2018 |work=[[The Guardian]] |quote=..the UK's most prestigious non-fiction award.. |archive-date=8 October 2018 |archive-url=https://web.archive.org/web/20181008214051/https://www.theguardian.com/books/2009/may/14/samuel-johnson-prize-shortlist |url-status=live }}</ref>
+
+==Winners and shortlists==
+===1990s===
+{| class="wikitable sortable mw-collapsible"
+|+1990s Samuel Johnson Prize winners and shortlists
+!Year
+!Author
+!Title
+!Result
+!Ref.
+|- style="background:#cddeff"
+! rowspan="6" |[[1999 in literature|1999]]{{Efn|The 1999 judges were [[Cherie Booth]], [[Orlando Figes]], [[Kate Summerscale]], [[James Naughtie]].}}
+|{{Sortname|first=Antony|last=Beevor}}
+|''[[Stalingrad (Beevor book)|Stalingrad]]''
+|{{won}}
+|<ref name="bbc4winners" />
+|-
+|{{Sortname|first=Ian|last=Kershaw}}
+|''Hitler 1889–1936: Hubris'' (about [[Adolf Hitler]])
+|{{sho}}
+|<ref name="prize-1999">{{cite web |title=The Samuel Johnson Prize 1999 |url=https://thebailliegiffordprize.co.uk/samueljohnsonprize/1999 |access-date=October 5, 2018 |publisher=The Samuel Johnson Prize |archive-date=6 October 2018 |archive-url=https://web.archive.org/web/20181006075713/https://thebailliegiffordprize.co.uk/samueljohnsonprize/1999 |url-status=live }}</ref>
+|-
+|{{Sortname|first=Ann|last=Wroe}}
+|''Pilate: The Biography of an Invented Man'' (about [[Pontius Pilate]])
+|{{sho}}
+|<ref name="prize-1999" />
+|-
+|{{Sortname|first=John|last=Diamond|link=John Diamond (journalist)}}
+|''C: Because Cowards Get Cancer Too''
+|{{sho}}
+|<ref name="prize-1999" />
+|-
+|{{Sortname|first=Richard|last=Holmes|link=Richard Holmes (military historian)}}
+|''Coleridge: Darker Reflections'' (about [[Samuel Taylor Coleridge]])
+|{{sho}}
+|<ref name="prize-1999" />
+|-
+|{{Sortname|first=David|last=Landes}}
+|''[[The Wealth and Poverty of Nations]]''
+|{{sho}}
+|<ref name="prize-1999" />
+|}
+
+===2000s===
+{| class="wikitable sortable mw-collapsible"
+|+2000s Samuel Johnson Prize winners and shortlists
+!Year
+!Author
+!Title
+!Result
+!Ref.
+|- style="background:#cddeff"
+! rowspan="6" |[[2000 in literature|2000]]{{Efn|The 2000 judges were [[Stephen Fry]], [[Timothy Garton Ash]], [[Susan Greenfield]], Baroness [[Helena Kennedy]], [[Nigella Lawson]].}}
+|{{Sortname|first=David|last=Cairns|link=David Cairns (writer)}}
+|''Berlioz: Volume 2''
+|{{won}}
+|<ref name="bbc4winners">{{cite web |date=1 December 2008 |title=Previous Winners of the Samuel Johnson Prize |url=https://www.bbc.co.uk/bbcfour/books/features/samueljohnson/samuel_johnson_past_winners.shtml |url-status=dead |archive-url=https://web.archive.org/web/20081005030646/http://www.bbc.co.uk/bbcfour/books/features/samueljohnson/samuel_johnson_past_winners.shtml |archive-date=2008-10-05 |work=[[BBC Four]]}}</ref>
+|-
+|{{Sortname|first=Tony|last=Hawks}}
+|''Playing the Moldovans at Tennis''
+|{{sho}}
+|<ref name="prize-2000">{{cite web |title=The Samuel Johnson Prize 2000 |url=https://thebailliegiffordprize.co.uk/samueljohnsonprize/2000 |access-date=October 5, 2018 |publisher=The Samuel Johnson Prize |archive-date=6 October 2018 |archive-url=https://web.archive.org/web/20181006075654/https://thebailliegiffordprize.co.uk/samueljohnsonprize/2000 |url-status=live }}</ref>
+|-
+|{{Sortname|first=Brenda|last=Maddox}}
+|''Yeats's Ghosts: The Secret Life of W. B. Yeats'' (about [[W. B. Yeats]])
+|{{sho}}
+|<ref name="prize-2000" />
+|-
+|{{Sortname|first=Matt|last=Ridley}}
+|''[[Genome (Ridley book)|Genome: The Autobiography of a Species in 23 Chapters]]''
+|{{sho}}
+|<ref name="prize-2000" />
+|-
+|{{Sortname|first=William|last=Shawcross}}
+|''Deliver us from Evil: Warlords, Peacekeepers and a World of Endless Conflict''
+|{{sho}}
+|<ref name="prize-2000" />
+|-
+|{{Sortname|first=Francis|last=Wheen}}
+|''Karl Marx'' (about [[Karl Marx]])
+|{{sho}}
+|<ref name="prize-2000" />
+|-style="background:#cddeff"
+! rowspan="6" |[[2001 in literature|2001]]{{Efn|The 2001 judges were [[Niall Ferguson]], Steve Jones, [[Annalena McAfee]], Suzanna Taverne, [[Andrew Marr]].}}
+|{{Sortname|first=Michael|last=Burleigh}}
+|''{{Sortname|The|Third Reich: A New History|nolink=1}}''
+|{{won}}
+|<ref name="bbc4winners" />
+|-
+|{{Sortname|first=Richard|last=Fortey}}
+|''Trilobite!: Eyewitness to Evolution''
+|{{sho}}
+|<ref name="gibbon-2001">{{cite web |last=Gibbon |first=Fiachra |date=23 May 2001 |title=Trilobites edge Amis out of running for Samuel Johnson award |url=https://www.theguardian.com/uk/2001/may/23/books.humanities |access-date=October 5, 2018 |work=[[The Guardian]] |archive-date=6 October 2018 |archive-url=https://web.archive.org/web/20181006035124/https://www.theguardian.com/uk/2001/may/23/books.humanities |url-status=live }}</ref>
+|-
+|{{Sortname|first=Catherine|last=Merridale}}
+|''Night of Stone: Death and Memory in Russia''
+|{{sho}}
+|<ref name="gibbon-2001" />
+|-
+|{{Sortname|first=Graham|last=Robb}}
+|''Rimbaud'' (about [[Arthur Rimbaud]])
+|{{sho}}
+|<ref name="gibbon-2001" />
+|-
+|{{Sortname|first=Simon Sebag|last=Montefiore}}
+|''Prince of Princes: The Life of Potemkin'' (about [[Grigory Potemkin]])
+|{{sho}}
+|<ref name="gibbon-2001" />
+|-
+|{{Sortname|first=Robert|last=Skidelsky}}
+|''John Maynard Keynes: Fighting for Britain, 1937–1946'' (about [[John Maynard Keynes]])
+|{{sho}}
+|<ref name="gibbon-2001" />
+|-style="background:#cddeff"
+! rowspan="6" |[[2002 in literature|2002]]{{Efn|2002 was the first year as BBC Four Samuel Johnson Prize. The 2002 judges were [[Richard Fortey]], Caroline Gascoigne, [[Bonnie Greer]], Robert Harris, [[David Dimbleby]].}}
+|{{Sortname|first=Margaret|last=MacMillan}}
+|''[[Peacemakers (book)|Peacemakers: The Paris Peace Conference of 1919 and Its Attempt to End War]]''
+|{{won}}
+|<ref name="bbc4winners" />
+|-
+|{{Sortname|first=Eamon|last=Duffy}}
+|''{{Sortname|The|Voices of Morebath: Reformation and Rebellion in an English Village|The Voices of Morebath}}''
+|{{sho}}
+|<ref name="branigan-2002">{{cite web |last=Branigan |first=Tania |date=6 June 2002 |title=Six writers shortlisted for £30,000 award |url=https://www.theguardian.com/uk/2002/jun/07/books.booksnews |access-date=October 5, 2018 |work=[[The Guardian]] |archive-date=6 October 2018 |archive-url=https://web.archive.org/web/20181006035033/https://www.theguardian.com/uk/2002/jun/07/books.booksnews |url-status=live }}</ref>
+|-
+|{{Sortname|first=William|last=Fiennes|link=William Fiennes (author)}}
+|''{{Sortname|The|Snow Geese|nolink=1}}''
+|{{sho}}
+|<ref name="branigan-2002" />
+|-
+|{{Sortname|first=Richard|last=Hamblyn}}
+|''{{Sortname|The|Invention of Clouds: How an Amateur Meteorologist Forged the Language of the Skies|nolink=1}}''
+|{{sho}}
+|<ref name="branigan-2002" />
+|-
+|{{Sortname|first=Roy|last=Jenkins}}
+|''Churchill: a Biography'' (about [[Winston Churchill]])
+|{{sho}}
+|<ref name="branigan-2002" />
+|-
+|{{Sortname|first=Brendan|last=Simms}}
+|''Unfinest Hour: Britain and the Destruction of Bosnia''
+|{{sho}}
+|<ref name="branigan-2002" />
+|-style="background:#cddeff"
+! rowspan="6" |[[2003 in literature|2003]]{{Efn|The 2003 judges were [[Michael Portillo]], [[Tim Radford]], Andrew Roberts, [[Fiammetta Rocco]], [[Rosie Boycott]].}}
+|{{Sortname|first=T. J.|last=Binyon}}
+|''Pushkin: A Biography'' (about [[Alexander Pushkin]])
+|{{won}}
+|<ref name="bbc4winners" />
+|-
+|{{Sortname|first=Orlando|last=Figes}}
+|''Natasha's Dance: A Cultural History of Russia''
+|{{sho}}
+|<ref name="ezard-2003">{{cite web |last=Ezard |first=John |date=2 May 2003 |title=Sex manual for the birds and bees - and flies - is up for prize |url=https://www.theguardian.com/uk/2003/may/02/science.books |access-date=October 5, 2018 |work=[[The Guardian]] |archive-date=6 October 2018 |archive-url=https://web.archive.org/web/20181006035104/https://www.theguardian.com/uk/2003/may/02/science.books |url-status=live }}</ref>
+|-
+|{{Sortname|first=Aminatta|last=Forna}}
+|''{{Sortname|The|Devil that Danced on the Water: A Daughter's Memoir of her Father, her Family, her Country and a Continent|link=The Devil That Danced on the Water}}''
+|{{sho}}
+|<ref name="ezard-2003" />
+|-
+|{{Sortname|first=Olivia|last=Judson}}
+|''[[Dr Tatiana's Sex Advice to All Creation|Dr Tatiana's Sex Advice to All Creation: The Definitive Guide to the Evolutionary Biology of Sex]]''
+|{{sho}}
+|<ref name="ezard-2003" />
+|-
+|{{Sortname|first=Claire|last=Tomalin}}
+|''[[Samuel Pepys: The Unequalled Self]]''
+|{{sho}}
+|<ref name="ezard-2003" />
+|-
+|{{Sortname|first=Edgar|last=Vincent}}
+|''Nelson: Love and Fame'' (about [[Horatio Nelson, 1st Viscount Nelson|Lord Nelson]])
+|{{sho}}
+|<ref name="ezard-2003" />
+|-style="background:#cddeff"
+! rowspan="6" |[[2004 in literature|2004]]{{EFN|The 2004 judges were [[Aminatta Forna]], [[Martha Kearney]], [[Simon Singh]], [[Francis Wheen]], Michael Wood.}}
+|{{Sortname|first=Anna|last=Funder}}
+|''[[Stasiland|Stasiland: Stories from Behind the Berlin Wall]]''
+|{{won}}
+|<ref name="bbc4winners" />
+|-
+|{{Sortname|first=Anne|last=Applebaum}}
+|''[[Gulag: A History|Gulag: A History of the Soviet Camps]]''
+|{{sho}}
+|<ref name="prize-2004">{{cite web |title=The Samuel Johnson Prize 2004 |url=https://thebailliegiffordprize.co.uk/samueljohnsonprize/2004 |access-date=October 5, 2018 |publisher=The Samuel Johnson Prize |archive-date=6 October 2018 |archive-url=https://web.archive.org/web/20181006075612/https://thebailliegiffordprize.co.uk/samueljohnsonprize/2004 |url-status=live }}</ref>
+|-
+|{{Sortname|first=Jonathan|last=Bate}}
+|''John Clare: A Biography'' (about [[John Clare]])
+|{{sho}}
+|<ref name="prize-2004" />
+|-
+|{{Sortname|first=Bill|last=Bryson}}
+|''{{Sortname|A |Short History of Nearly Everything}}''
+|{{sho}}
+|<ref name="prize-2004" />
+|-
+|{{Sortname|first=Aidan|last=Hartley}}
+|''{{Sortname|The|Zanzibar Chest: A Memoir of Love and War|nolink=1}}''
+|{{sho}}
+|<ref name="prize-2004" />
+|-
+|{{Sortname|first=Tom|last=Holland|link=Tom Holland (author)}}
+|''[[Rubicon: The Last Years of the Roman Republic]]''
+|{{sho}}
+|<ref name="prize-2004" />
+|-style="background:#cddeff"
+! rowspan="6" |[[2005 in literature|2005]]{{Efn|The 2005 judges were [[Marcus du Sautoy]], [[Andrew Holgate]], [[Maria Misra]], John Simpson, [[Sue MacGregor]].}}
+|{{Sortname|first=Jonathan|last=Coe}}
+|''Like a Fiery Elephant: The Story of B. S. Johnson'' (about [[B. S. Johnson]])
+|{{won}}
+|<ref name="bbc4winners" />
+|-
+|{{Sortname|first=Alexander|last=Masters}}
+|''[[Stuart: A Life Backwards]]''
+|{{sho}}
+|<ref name="pauli-2005">{{cite web |last=Pauli |first=Michelle |date=12 May 2005 |title=First-timers triumph on Samuel Johnson shortlist |url=https://www.theguardian.com/books/2005/may/12/samueljohnsonprize2005.samueljohnsonprize |access-date=October 5, 2018 |work=[[The Guardian]] |archive-date=6 October 2018 |archive-url=https://web.archive.org/web/20181006035135/https://www.theguardian.com/books/2005/may/12/samueljohnsonprize2005.samueljohnsonprize |url-status=live }}</ref>
+|-
+|{{Sortname|first=Suketu|last=Mehta}}
+|''[[Maximum City|Maximum City: Bombay Lost and Found]]''
+|{{sho}}
+|<ref name="pauli-2005" />
+|-
+|{{Sortname|first=Orhan|last=Pamuk}}
+|''[[Istanbul: Memories and the City]]''
+|{{sho}}
+|<ref name="pauli-2005" />
+|-
+|{{Sortname|first=Hilary|last=Spurling}}
+|''Matisse the Master: The Conquest of Colour 1909–1954'' (about [[Henri Matisse]])
+|{{sho}}
+|<ref name="pauli-2005" />
+|-
+|{{Sortname|first=Sarah|last=Wise}}
+|''{{Sortname|The|Italian Boy: Murder and Grave-Robbery in 1830s London|nolink=1}}''
+|{{sho}}
+|<ref name="pauli-2005" />
+|-style="background:#cddeff"
+! rowspan="6" |[[2006 in literature|2006]]{{Efn|The 2006 judges were [[Robert Winston]], Sir [[Richard Eyre]], [[Pankaj Mishra]], [[Cristina Odone]], Michael Prodger.}}
+|{{Sortname|first=James S.|last=Shapiro}}
+|''[[1599: A Year in the Life of William Shakespeare]]''
+|{{won}}
+|<ref name="bbc4winners" />
+|-
+|{{Sortname|first=Alan|last=Bennett}}
+|''Untold Stories''
+|{{sho}}
+|<ref name="ezard-2006">{{cite web |last=Ezard |first=John |date=24 May 2006 |title=Bestselling Bennett heads prize shortlist |url=https://www.theguardian.com/uk/2006/may/24/books.samueljohnsonprize2006 |access-date=October 5, 2018 |work=[[The Guardian]] |archive-date=6 October 2018 |archive-url=https://web.archive.org/web/20181006035142/https://www.theguardian.com/uk/2006/may/24/books.samueljohnsonprize2006 |url-status=live }}</ref>
+|-
+|{{Sortname|first=Jerry|last=Brotton}}
+|''{{Sortname|The|Sale of the Late King's Goods: Charles I and His Art Collection|nolink=1}}''
+|{{sho}}
+|<ref name="ezard-2006" />
+|-
+|{{Sortname|first=Carmen|last=Callil}}
+|''Bad Faith: A Forgotten History of Family & Fatherland''
+|{{sho}}
+|<ref name="ezard-2006" />
+|-
+|{{Sortname|first=Tony|last=Judt}}
+|''[[Postwar: A History of Europe Since 1945]]''
+|{{sho}}
+|<ref name="ezard-2006" />
+|-
+|{{Sortname|first=Tom|last=Reiss}}
+|''{{Sortname|The|Orientalist: In Search of a Man Caught Between East and West|nolink=1}}''
+|{{sho}}
+|<ref name="ezard-2006" />
+|-style="background:#cddeff"
+! rowspan="6" |[[2007 in literature|2007]]{{Efn|The 2007 judges were [[Helena Kennedy]], [[Diana Athill]], [[Jim Al-Khalili]], [[Tristram Hunt]], [[Mark Lawson]].}}
+|{{Sortname|first=Rajiv|last=Chandrasekaran}}
+|''[[Imperial Life in the Emerald City|Imperial Life in the Emerald City: Inside Iraq's Green Zone]]''
+|{{won}}
+|<ref>{{cite web |date=18 June 2007 |title=2007 Winner Announced |url=http://www.thesamueljohnsonprize.co.uk/pages/news/index.asp?NewsID=11 |url-status=dead |archive-url=https://web.archive.org/web/20080105073837/http://www.thesamueljohnsonprize.co.uk/pages/news/index.asp?NewsID=11 |archive-date=2008-01-05 |publisher=Samuel Johnson Prize}}</ref>
+|-
+|{{Sortname|first=Ian|last=Buruma}}
+|''[[Murder in Amsterdam: The Death of Theo van Gogh and the Limits of Tolerance|Murder in Amsterdam: The Death of Theo Van Gogh and the Limits of Tolerance]]''
+|{{sho}}
+|<ref name="long-2008">{{cite web |title=BBC Four Samuel Johnson Prize Longlist |url=https://www.bbc.co.uk/bbcfour/books/features/samueljohnson/shortlist_2007.shtml |url-status=dead |archive-url=https://web.archive.org/web/20080925215235/http://www.bbc.co.uk/bbcfour/books/features/samueljohnson/shortlist_2007.shtml |archive-date=2008-09-25 |work=[[BBC Four]]}}</ref>
+|-
+|{{Sortname|first=Peter|last=Hennessy}}
+|''Having It So Good: Britain in the Fifties''
+|{{sho}}
+|<ref name="long-2008" />
+|-
+|{{Sortname|first=Georgina|last=Howell}}
+|''Daughter of the Desert: The Extraordinary Life of Gertrude Bell'' (about [[Gertrude Bell]])
+|{{sho}}
+|<ref name="long-2008" />
+|-
+|{{Sortname|first=Dominic|last=Streatfeild}}
+|''[[Brainwash: The Secret History of Mind Control]]''
+|{{sho}}
+|<ref name="long-2008" />
+|-
+|{{Sortname|first=Adrian|last=Tinniswood}}
+|''{{Sortname|The|Verneys: A True Story of Love, War, and Madness in Seventeenth-Century England|nolink=1}}''
+|{{sho}}
+|<ref name="long-2008" />
+|-style="background:#cddeff"
+! rowspan="6" |[[2008 in literature|2008]]{{Efn|The 2008 judges were [[Claire Armitstead]], [[Daljit Nagra]], [[Chris Rapley]], [[Hannah Rothschild (film maker)|Hannah Rothschild]], [[Rosie Boycott]].}}
+|{{Sortname|first=Kate|last=Summerscale}}
+|''{{Sortname|The|Suspicions of Mr Whicher or the Murder at Road Hill House|nolink=1}}''
+|{{won}}
+|<ref>{{cite web |date=15 July 2008 |title=2008 Winner Announced |url=http://www.thesamueljohnsonprize.co.uk/pages/news/index.asp?NewsID=15 |url-status=dead |archive-url=https://web.archive.org/web/20120213113834/http://www.thesamueljohnsonprize.co.uk/pages/news/index.asp?NewsID=15 |archive-date=2012-02-13 |publisher=Samuel Johnson Prize}}</ref>
+|-
+|{{Sortname|first=Tim|last=Butcher}}
+|''[[Blood River: A Journey to Africa's Broken Heart]]''
+|{{sho}}
+|<ref name="short-2008">{{cite web |date=15 May 2008 |title=2008 Shortlist Announced |url=http://www.thesamueljohnsonprize.co.uk/pages/news/index.asp?NewsID=14 |url-status=dead |archive-url=https://web.archive.org/web/20090312041636/http://www.thesamueljohnsonprize.co.uk/pages/news/index.asp?NewsID=14 |archive-date=12 March 2009 |access-date=5 October 2018 |publisher=Samuel Johnson Prize}}</ref>
+|-
+|{{Sortname|first=Mark|last=Cocker}}
+|''Crow Country''
+|{{sho}}
+|<ref name="short-2008" />
+|-
+|{{Sortname|first=Orlando|last=Figes}}
+|''{{Sortname|The|Whisperers: Private Life in Stalin's Russia}}''
+|{{sho}}
+|<ref name="short-2008" />
+|-
+|{{Sortname|first=Patrick|last=French}}
+|''{{Sortname|The|World Is What It Is: The Authorised Biography of VS Naipaul|nolink=1}}'' (about [[V. S. Naipaul]])
+|{{sho}}
+|<ref name="short-2008" />
+|-
+|{{Sortname|first=Alex|last=Ross|link=Alex Ross (music critic)}}
+|''{{Sortname|The|Rest is Noise: Listening to the Twentieth Century|nolink=1}}''
+|{{sho}}
+|<ref name="short-2008" />
+|-style="background:#cddeff"
+! rowspan="6" |[[2009 in literature|2009]]{{Efn|2009 was the first year as BBC Samuel Johnson Prize for Non-Fiction. The judges announced the winner of the prize at an awards event at King's Place, London on 30 June. The monetary prize for 2009 was £20,000 for the winner, and each finalist receives £1000. The 2009 judges were [[Mark Lythgoe]], [[Tim Marlow]], [[Munira Mirza]], [[Sarah Sands]], [[Jacob Weisberg]].}}
+|{{Sortname|first=Philip|last=Hoare}}
+|''Leviathan or, The Whale''
+|{{won}}
+|<ref>{{cite web |date=2009-06-30 |title='Leviathan, or The Whale' by Philip Hoare wins £20,000 BBC Samuel Johnson Prize |url=http://www.thesamueljohnsonprize.co.uk/pages/news/index.asp?NewsID=22 |url-status=dead |archive-url=https://web.archive.org/web/20120213113838/http://www.thesamueljohnsonprize.co.uk/pages/news/index.asp?NewsID=22 |archive-date=2012-02-13 |access-date=2023-03-11 |website=The Samuel Johnson Prize |publisher=}}</ref><ref>{{Cite web |last= |first= |date=2016-11-17 |title=Awards: Baillie Gifford Nonfiction |url=https://www.shelf-awareness.com/issue.html?issue=2883 |access-date=2023-03-12 |website=[[Shelf Awareness ]] |archive-date=3 December 2022 |archive-url=https://web.archive.org/web/20221203040421/https://www.shelf-awareness.com/issue.html?issue=2883 |url-status=live }}</ref>
+|-
+|{{Sortname|first=Liaquat|last=Ahamed}}
+|''[[Lords of Finance|Lords of Finance: The Bankers Who Broke the World]]''
+|{{sho}}
+|<ref name="short-2009">{{cite web |date=May 22, 2009 |title=Science and Exploration Dominate Samuel Johnson Prize Shortlist |url=http://www.thesamueljohnsonprize.co.uk/pages/news/index.asp?NewsID=20 |url-status=dead |archive-url=https://web.archive.org/web/20110215083505/http://www.thesamueljohnsonprize.co.uk/pages/news/index.asp?NewsID=20 |archive-date=15 February 2011 |access-date=5 October 2018 |publisher=thesamueljohnsonprize.co.uk}}</ref>
+|-
+|{{Sortname|first=Ben|last=Goldacre}}
+|''[[Bad Science (Goldacre book)|Bad Science]]''
+|{{sho}}
+|<ref name="short-2009" />
+|-
+|{{Sortname|first=David|last=Grann}}
+|''[[The Lost City of Z (book)|The Lost City of Z: A Tale of Deadly Obsession in the Amazon]]''
+|{{sho}}
+|<ref name="short-2009" />
+|-
+|{{Sortname|first=Richard|last=Holmes|link=Richard Holmes (biographer)}}
+|''[[The Age of Wonder|The Age of Wonder: How the Romantic Generation Discovered the Beauty and Terror of Science]]''
+|{{sho}}
+|<ref name="short-2009" />
+|-
+|{{Sortname|first=Manjit|last=Kumar}}
+|''[[Quantum (book)|Quantum: Einstein, Bohr and the Great Debate about the Nature of Reality]]''
+|{{sho}}
+|<ref name="short-2009" />
+|}
+
+===2010s===
+{| class="wikitable sortable mw-collapsible"
+|+2010s Baillie Gifford Prize winner and shortlist
+!Year
+!Author
+!Title
+!Result
+!Ref.
+|- style="background:#cddeff"
+! rowspan="6" |[[2010 in literature|2010]]{{Efn|The 2010 judges were [[Evan Davis]], Jan Dalley, [[Daniel Finkelstein]], [[Roger Highfield]], [[Stella Tillyard]].}}
+|{{Sortname|first=Barbara|last=Demick}}
+|''[[Nothing to Envy|Nothing to Envy: Ordinary Lives in North Korea]]''
+|{{won}}
+|<ref>{{cite web |date=July 1, 2010 |title=Gripping account of an Orwellian Society wins £20,000 BBC Samuel Johnson Prize 2010 for non-fiction |url=http://www.thesamueljohnsonprize.co.uk/pages/news/index.asp?NewsID=26 |url-status=dead |archive-url=https://web.archive.org/web/20120505192641/http://www.thesamueljohnsonprize.co.uk/pages/news/index.asp?NewsID=26 |archive-date=5 May 2012 |access-date=5 October 2018 |website=The Samuel Johnson Prize |publisher=}}</ref>
+|-
+|{{Sortname|first=Alex|last=Bellos}}
+|''Alex's Adventures in Numberland: Dispatches from the Wonderful World of Mathematics''
+|{{sho}}
+|<ref name="short-2012">{{cite web |title=From Angling to Angles, BBC Samuel Johnson Shortlist Defies Simplistic Categorisation |url=http://www.thesamueljohnsonprize.co.uk/pages/news/index.asp?NewsID=25 |url-status=dead |archive-url=https://web.archive.org/web/20120223223628/http://www.thesamueljohnsonprize.co.uk/pages/news/index.asp?NewsID=25 |archive-date=February 23, 2012 |publisher=Samuel Johnson Prize}}</ref>
+|-
+|{{Sortname|first=Luke|last=Jennings}}
+|''Blood Knots: On Fathers, Friendship and Fishing''
+|{{sho}}
+|<ref name="short-2012" />
+|-
+|{{Sortname|first=Andrew Ross|last=Sorkin}}
+|''[[Too Big to Fail (book)|Too Big to Fail: The Inside Story of How Wall Street and Washington Fought to Save the Financial System—and Themselves]]''
+|{{sho}}
+|<ref name="short-2012" />
+|-
+|{{Sortname|first=Jenny|last=Uglow}}
+|''{{Sortname|A |Gambling Man: Charles II and the Restoration|nolink=1}}''
+|{{sho}}
+|<ref name="short-2012" />
+|-
+|{{Sortname|first=Richard|last=Wrangham}}
+|''[[Catching Fire: How Cooking Made Us Human]]''
+|{{sho}}
+|<ref name="short-2012" />
+|- style="background:#cddeff"
+! rowspan="6" |[[2011 in literature|2011]]{{Efn|The 2011 judges were [[David Goodhart]], [[Sam Leith]], [[Ben Macintyre]], [[Brenda Maddox]], [[Amanda Vickery]].}}
+|{{Sortname|first=Frank|last=Dikötter}}
+|''[[Mao's Great Famine|Mao's Great Famine: The History of China's Most Devastating Catastrophe, 1958–1962]]''
+|{{won}}
+|<ref>{{cite news |last=Flood |first=Alison |date=6 July 2011 |title=Samuel Johnson prize won by 'hugely important' study of Mao |newspaper=[[The Guardian]] |url=https://www.theguardian.com/books/2011/jul/06/samuel-johnson-prize-mao |access-date=2023-03-11 |archive-date=10 May 2016 |archive-url=https://web.archive.org/web/20160510004152/http://www.theguardian.com/books/2011/jul/06/samuel-johnson-prize-mao |url-status=live }}</ref>
+|-
+|{{Sortname|first=Andrew|last=Graham-Dixon}}
+|''Caravaggio: A Life Sacred and Profane'' (biography of [[Caravaggio]])
+|{{sho}}
+|<ref name="short2011">{{cite web |date=14 June 2011 |title=2011 BBC Samuel Johnson Prize For Non-fiction Shortlist announced |url=http://www.thesamueljohnsonprize.co.uk/pages/news/index.asp?NewsID=30 |url-status=dead |archive-url=https://web.archive.org/web/20120628002639/http://www.thesamueljohnsonprize.co.uk/pages/news/index.asp?NewsID=30 |archive-date=June 28, 2012 |publisher=Samuel Johnson Prize}}</ref>
+|-
+|{{Sortname|first=Maya|last=Jasanoff}}
+|''[[Liberty's Exiles|Liberty's Exiles: American Loyalists in the Revolutionary World]]''
+|{{sho}}
+|<ref name="short2011" />
+|-
+|{{Sortname|first=Matt|last=Ridley}}
+|''[[The Rational Optimist|The Rational Optimist: How Prosperity Evolves]]''
+|{{sho}}
+|<ref name="short2011" />
+|-
+|{{Sortname|first=Jonathan|last=Steinberg|link=Jonathan Steinberg (historian)}}
+|''Bismarck: A Life'' (biography of [[Otto von Bismarck]])
+|{{sho}}
+|<ref name="short2011" />
+|-
+|{{Sortname|first=John|last=Stubbs|nolink=1}}
+|''Reprobates: The Cavaliers of the English Civil War''
+|{{sho}}
+|<ref name="short2011" />
+|- style="background:#cddeff"
+! rowspan="6" |[[2012 in literature|2012]]{{Efn|The 2012 judges were [[David Willetts]], [[Patrick French]], Paul Laity, [[Bronwen Maddox]], [[Raymond Tallis]]. The 2012 monetary prize was £20,000 for the winner.}}
+|{{Sortname|first=Wade|last=Davis|link=Wade Davis (anthropologist)}}
+|''Into the Silence: The Great War, Mallory and the Conquest of Everest''
+|{{won}}
+|<ref name="flood2012">{{cite web |last=Flood |first=Alison |date=12 November 2012 |title=Into the Silence author Wade Davis wins Samuel Johnson award |url=https://www.theguardian.com/books/2012/nov/12/into-silence-wade-davis-award |access-date=13 November 2012 |work=[[The Guardian]] |archive-date=26 August 2013 |archive-url=https://web.archive.org/web/20130826192131/http://www.theguardian.com/books/2012/nov/12/into-silence-wade-davis-award |url-status=live }}</ref>
+|-
+|{{Sortname|first=Katherine|last=Boo}}
+|''[[Behind the Beautiful Forevers: Life, Death and Hope in a Mumbai Slum]]''
+|{{sho}}
+|<ref name="flood-2012">{{cite news |last=Flood |first=Alison |date=5 October 2012 |title=Six books to 'change our view of the world' on shortlist for non-fiction prize |work=[[The Guardian]] |url=https://www.theguardian.com/books/2012/oct/05/six-magisterial-shortlist-samuel-johnson-prize |access-date=5 October 2012 |archive-date=6 October 2018 |archive-url=https://web.archive.org/web/20181006075636/https://www.theguardian.com/books/2012/oct/05/six-magisterial-shortlist-samuel-johnson-prize |url-status=live }}</ref>
+|-
+|{{Sortname|first=Robert|last=Macfarlane|link=Robert Macfarlane (writer)}}
+|''{{Sortname|The|Old Ways: A Journey on Foot|nolink=1}}''
+|{{sho}}
+|<ref name="flood-2012" />
+|-
+|{{Sortname|first=Steven|last=Pinker}}
+|''{{Sortname|The|Better Angels of our Nature: A History of Violence and Humanity}}''
+|{{sho}}
+|<ref name="flood-2012" />
+|-
+|{{Sortname|first=Paul|last=Preston}}
+|''{{Sortname|The|Spanish Holocaust: Inquisition and Extermination in Twentieth-Century Spain|nolink=1}}''
+|{{sho}}
+|<ref name="flood-2012" />
+|-
+|{{Sortname|first=Sue|last=Prideaux}}
+|''Strindberg: A Life'' (about [[August Strindberg]])
+|{{sho}}
+|<ref name="flood-2012" />
+|- style="background:#cddeff"
+! rowspan="6" |[[2013 in literature|2013]]{{Efn|The 2013 judging panel was chaired by cosmologist and Astronomer Royal, [[Martin Rees, Baron Rees of Ludlow]], accompanied by classical historian [[Mary Beard (classicist)|Mary Beard]], director of [[Liberty (advocacy group)|Liberty]] [[Shami Chakrabarti]], historian [[Peter Hennessy]] and writer and critic James McConnachie.}}
+|{{Sortname|first=Lucy|last=Hughes-Hallett}}
+|''{{Sortname|The|Pike: Gabriele D'Annunzio, Poet, Seducer and Preacher of War}}''
+|{{won}}
+|<ref>{{cite news |last=Brown |first=Mark |date=4 November 2013 |title=Biography of Italian fascist wins Samuel Johnson prize for non-fiction |newspaper=The Guardian |url=https://www.theguardian.com/books/2013/nov/04/biography-fascist-samuel-johnson-prize |access-date=5 November 2013 |archive-date=7 January 2014 |archive-url=https://web.archive.org/web/20140107145353/http://www.theguardian.com/books/2013/nov/04/biography-fascist-samuel-johnson-prize |url-status=live }}</ref>
+|-
+|{{Sortname|first=David|last=Crane|link=David Crane (historian)}}
+|''Empires of the Dead: How One Man's Vision led to the Creation of WWI's World Graves''
+|{{sho}}
+|<ref name="higgins-2013">{{cite news |last=Higgins |first=Charlotte |date=30 September 2013 |title=Samuel Johnson prize 2013 shortlist – in pictures |work=[[The Guardian]] |url=https://www.theguardian.com/books/gallery/2013/sep/30/samuel-johnson-prize-shortlist-gallery |access-date=30 September 2013 |archive-date=20 October 2017 |archive-url=https://web.archive.org/web/20171020034004/https://www.theguardian.com/books/gallery/2013/sep/30/samuel-johnson-prize-shortlist-gallery |url-status=live }}</ref>
+|-
+|{{Sortname|first=William|last=Dalrymple}}
+|''[[Return of a King|Return of a King: The Battle for Afghanistan]]''
+|{{sho}}
+|<ref name="higgins-2013" />
+|-
+|{{Sortname|first=Dave|last=Goulson}}
+|''{{Sortname|A |Sting in the Tale: My Adventures with Bumblebees|nolink=1}}''
+|{{sho}}
+|<ref name="higgins-2013" />
+|-
+|{{Sortname|first=Charlotte|last=Higgins}}
+|''Under Another Sky: Journeys in Roman Britain''
+|{{sho}}
+|<ref name="higgins-2013" />
+|-
+|{{Sortname|first=Charles|last=Moore|link=Charles Moore, Baron Moore of Etchingham}}
+|''[[Margaret Thatcher: The Authorised Biography]]''
+|{{sho}}
+|<ref name="higgins-2013" />
+|- style="background:#cddeff"
+! rowspan="6" |[[2014 in literature|2014]]{{Efn|The 2014 judging panel was chaired by author and historian [[Claire Tomalin]], accompanied by [[Alan Johnson]] MP, ''Financial Times'' Books Editor Lorien Kite, philosopher [[Ray Monk]] and historian [[Ruth Scurr]].}}
+|{{Sortname|first=Helen|last=Macdonald|link=Helen Macdonald (writer)}}
+|''[[H is for Hawk|H Is for Hawk]]''
+|{{won}}
+|<ref name="H is for Hawk">{{cite web |last1=Clark |first1=Nick |title=Samuel Johnson Prize for Non-Fiction: Helen Macdonald wins with 'H is for Hawk' |url=https://www.independent.co.uk/arts-entertainment/books/news/samuel-johnson-prize-for-nonfiction-helen-macdonald-wins-with-h-is-for-hawk-9839212.html |access-date=10 November 2014 |website=[[The Independent]] |date=5 November 2014 |publisher= |archive-date=20 November 2014 |archive-url=https://web.archive.org/web/20141120181217/http://www.independent.co.uk/arts-entertainment/books/news/samuel-johnson-prize-for-nonfiction-helen-macdonald-wins-with-h-is-for-hawk-9839212.html |url-status=live }}</ref><ref>{{Cite web |last=Lefferts |first=Daniel |date=2020-05-29 |title=In 'Vesper Flights,' Helen Macdonald Gets Topical |url=https://www.publishersweekly.com/pw/by-topic/authors/profiles/article/83435-in-vesper-flights-helen-macdonald-gets-topical.html |access-date=2023-03-12 |website=[[Publishers Weekly]] |language=en |archive-date=6 December 2022 |archive-url=https://web.archive.org/web/20221206180640/https://www.publishersweekly.com/pw/by-topic/authors/profiles/article/83435-in-vesper-flights-helen-macdonald-gets-topical.html |url-status=live }}</ref>
+|-
+|{{Sortname|first=John|last=Campbell|link=John Campbell (biographer)}}
+|''Roy Jenkins: A Biography'' (about [[Roy Jenkins]])
+|{{sho}}
+|<ref name="flood-2014">{{cite web |last=Flood |first=Alison |date=8 October 2014 |title=Samuel Johnson prize 2014 shortlist: two memoirs are among the 'uplifting' and 'compelling' finalists |url=https://www.theguardian.com/books/2014/oct/09/samuel-johnson-prize-2014-shortlist-announced-memoirs |access-date=13 October 2014 |work=The Guardian |archive-date=17 October 2014 |archive-url=https://web.archive.org/web/20141017032309/http://www.theguardian.com/books/2014/oct/09/samuel-johnson-prize-2014-shortlist-announced-memoirs |url-status=live }}</ref>
+|-
+|{{Sortname|first=Marion|last=Coutts}}
+|''{{Sortname|The|Iceberg: A Memoir|nolink=1}}''
+|{{sho}}
+|<ref name="flood-2014" />
+|-
+|{{Sortname|first=Greg|last=Grandin}}
+|''{{Sortname|The|Empire of Necessity: Slavery, Freedom, and Deception in the New World|nolink=1}}''
+|{{sho}}
+|<ref name="flood-2014" />
+|-
+|{{Sortname|first=Alison|last=Light}}
+|''Common People: The History of an English Family''
+|{{sho}}
+|<ref name="flood-2014" />
+|-
+|{{Sortname|first=Caroline|last=Moorehead}}
+|''[[Village of Secrets|Village of Secrets: Defying the Nazis in Vichy France]]''
+|{{sho}}
+|<ref name="flood-2014" />
+|- style="background:#cddeff"
+! rowspan="6" |[[2015 in literature|2015]]{{Efn|The 2015 judging panel was chaired by Pulitzer prize-winning historian and journalist [[Anne Applebaum]], together with editor of ''[[1843 (magazine)|Intelligent Life]]'' Emma Duncan, editor of ''[[New Scientist]]'' Sumit Paul-Choudhury, Director of China Centre at Oxford University Professor [[Rana Mitter]] and former Controller of Film and Drama and Head of [[Film 4]] [[Tessa Ross]].}}
+|{{Sortname|first=Steve|last=Silberman}}
+|''[[NeuroTribes|NeuroTribes: The Legacy of Autism and How to Think Smarter About People Who Think Differently]]''
+|{{won}}
+|<ref name="BBCNov15">{{cite news |date=2 November 2015 |title='Gripping' autism book wins Samuel Johnson prize |work=BBC News Online |url=https://www.bbc.co.uk/news/entertainment-arts-34699414 |access-date=3 November 2015 |archive-date=2 November 2015 |archive-url=https://web.archive.org/web/20151102223601/http://www.bbc.co.uk/news/entertainment-arts-34699414 |url-status=live }}</ref>
+|-
+|{{Sortname|first=Jonathan|last=Bate}}
+|''Ted Hughes: The Unauthorised Life'' (about [[Ted Hughes]])
+|{{sho}}
+|<ref name="short-2015">{{cite web |date=11 October 2015 |title=The 2015 Shortlist |url=http://www.thesamueljohnsonprize.co.uk/news/samuel-johnson-prize-non-fiction-2015-shortlist |url-status=dead |archive-url=https://web.archive.org/web/20160214191959/http://www.thesamueljohnsonprize.co.uk/news/samuel-johnson-prize-non-fiction-2015-shortlist |archive-date=February 14, 2016 |publisher=The Samuel Johnson Prize}}</ref>
+|-
+|{{Sortname|first=Robert|last=Macfarlane|link=Robert Macfarlane (writer)}}
+|''Landmarks''
+|{{sho}}
+|<ref name="short-2015" />
+|-
+|{{Sortname|first=Laurence|last=Scott|nolink=1}}
+|''{{Sortname|The|Four-Dimensional Human: Ways of Being in the Digital World|nolink=1}}''
+|{{sho}}
+|<ref name="short-2015" />
+|-
+|{{Sortname|first=Emma|last=Sky}}
+|''{{Sortname|The|Unravelling: High Hopes and Missed Opportunities in Iraq|nolink=1}}''
+|{{sho}}
+|<ref name="short-2015" />
+|-
+|{{Sortname|first=Samanth|last=Subramanian}}
+|''This Divided Island: Stories from the Sri Lankan Civil War''
+|{{sho}}
+|<ref name="short-2015" />
+|- style="background:#cddeff"
+! rowspan="4" |[[2016 in literature|2016]]{{EFN|2016 was the first year as Baillie Gifford Prize. The 2016 judging panel was chaired by former BBC Economics Editor [[Stephanie Flanders]], together with [[Philip Ball]], science writer and author; Jonathan Derbyshire, executive comment editor of the ''[[Financial Times]]''; Dr Sophie Ratcliffe, scholar, writer and literary critic and Rohan Silva, co-founder of the social enterprise Second Home.}}
+|{{Sortname|first=Philippe|last=Sands}}
+|''[[East West Street|East West Street: On the Origins of Genocide and Crimes Against Humanity]]''
+|{{won}}
+|<ref>{{Cite news |last1=Flood |first1=Alison |last2=Cain |first2=Sian |date=2016-11-15 |title=Philippe Sands wins the 2016 Baillie Gifford prize for nonfiction |language=en-GB |newspaper=[[The Guardian]] |url=https://www.theguardian.com/books/2016/nov/15/philippe-sands-wins-2016-baillie-gifford-prize-for-nonfiction-east-west-street |access-date=2023-03-11 |issn=0261-3077 |archive-date=20 April 2022 |archive-url=https://web.archive.org/web/20220420004543/https://www.theguardian.com/books/2016/nov/15/philippe-sands-wins-2016-baillie-gifford-prize-for-nonfiction-east-west-street |url-status=live }}</ref>
+|-
+|{{Sortname|first=Svetlana|last=Alexievich}}
+|''[[Secondhand Time: The Last of the Soviets]]''
+|{{sho}}
+|<ref name="kennedy-2016">{{cite web |author=Kennedy |first=Maev |author-link=Maev Kennedy|date=16 October 2016 |title=First-hand reporting dominates Baillie Gifford shortlist |url=https://www.theguardian.com/culture/2016/oct/17/first-hand-reporting-dominates-baillie-gifford-shortlist |access-date=5 October 2018 |work=[[The Guardian]] |archive-date=6 October 2018 |archive-url=https://web.archive.org/web/20181006035152/https://www.theguardian.com/culture/2016/oct/17/first-hand-reporting-dominates-baillie-gifford-shortlist |url-status=live }}</ref><ref name="shelf awareness-2016">{{Cite web |last= |first= |date=2016-10-20 |title=Awards: Baillie Gifford; Aussie P.M.'s Literary |url=https://www.shelf-awareness.com/issue.html?issue=2863 |access-date=2023-03-12 |website=[[Shelf Awareness ]] |archive-date=1 January 2023 |archive-url=https://web.archive.org/web/20230101215602/https://www.shelf-awareness.com/issue.html?issue=2863 |url-status=live }}</ref>
+|-
+|{{Sortname|first=Margo|last=Jefferson}}
+|''[[Negroland: A Memoir]]''
+|{{sho}}
+|<ref name="kennedy-2016" /><ref name="shelf awareness-2016" />
+|-
+|{{Sortname|first=Hisham|last=Matar}}
+|''{{Sortname|The|Return: Fathers, Sons and the Land in Between}}''
+|{{sho}}
+|<ref name="kennedy-2016" /><ref name="shelf awareness-2016" />
+|- style="background:#cddeff"
+! rowspan="6" |[[2017 in literature|2017]]{{Efn|The 2017 judging panel was chaired by chaired by author and Chairman of ITV Sir [[Peter Bazalgette]], together with [[Anjana Ahuja]], science writer; [[Ian Bostridge]], tenor and writer; Professor [[Sarah Churchwell]], academic and writer and [[Razia Iqbal]], journalist and broadcaster.}}
+|{{Sortname|first=David|last=France|link=David France (writer)}}
+|''[[How to Survive a Plague|How to Survive a Plague: The Inside Story of How Citizens and Science Tamed AIDS]]''
+|{{won}}
+|<ref>{{cite web |title=How to Survive a Plague wins The Baillie Gifford Prize 2017 |url=https://thebailliegiffordprize.co.uk/news/how-survive-plague-wins-baillie-gifford-prize-2017 |access-date=3 October 2018 |publisher=Baillie Gifford Prize|date=16 November 2017 |archive-date=6 October 2018 |archive-url=https://web.archive.org/web/20181006075112/https://thebailliegiffordprize.co.uk/news/how-survive-plague-wins-baillie-gifford-prize-2017 |url-status=live }}</ref><ref>{{Cite web |last= |first= |date=2017-11-27 |title=Awards: Baillie Gifford Nonfiction; Bad Sex in Fiction |url=https://www.shelf-awareness.com/issue.html?issue=3135 |access-date=2023-03-12 |website=[[Shelf Awareness]] |archive-date=25 December 2022 |archive-url=https://web.archive.org/web/20221225162239/https://www.shelf-awareness.com/issue.html?issue=3135 |url-status=live }}</ref>
+|-
+|{{Sortname|first=Christopher|last=de Bellaigue}}
+|''{{Sortname|The|Islamic Enlightenment The Modern Struggle Between Faith and Reason|nolink=1}}''
+|{{sho}}
+|<ref name="short-2017">{{cite web |date=6 October 2017 |title=The Baillie Gifford Prize 2017 announces shortlist |url=https://thebailliegiffordprize.co.uk/2017-shortlist |access-date=3 October 2018 |publisher=Baillie Gifford Prize |archive-date=3 October 2018 |archive-url=https://web.archive.org/web/20181003221117/https://thebailliegiffordprize.co.uk/2017-shortlist |url-status=live }}</ref><ref name="shelf awareness-2017">{{Cite web |last= |first= |date=2017-10-10 |title=Awards: Baillie Gifford Shortlist |url=https://www.shelf-awareness.com/issue.html?issue=3103 |access-date=2023-03-12 |website=[[Shelf Awareness]] |archive-date=21 May 2022 |archive-url=https://web.archive.org/web/20220521150917/https://www.shelf-awareness.com/issue.html?issue=3103 |url-status=live }}</ref>
+|-
+|{{Sortname|first=Kapka|last=Kassabova}}
+|''Border: A Journey to the Edge of Europe''
+|{{sho}}
+|<ref name="short-2017" /><ref name="shelf awareness-2017" />
+|-
+|{{Sortname|first=Daniel|last=Mendelsohn}}
+|''{{Sortname|An|Odyssey: A Father, a Son and an Epic|nolink=1}}''
+|{{sho}}
+|<ref name="short-2017" /><ref name="shelf awareness-2017" />
+|-
+|{{Sortname|first=Mark|last=O'Connell|link=Mark O'Connell (writer)}}
+|''[[To Be a Machine|To Be a Machine: Adventures Among Cyborgs, Utopians, Hackers, and the Futurists Solving the Modest Problem of Death]]''
+|{{sho}}
+|<ref name="short-2017" /><ref name="shelf awareness-2017" />
+|-
+|{{Sortname|first=Simon|last=Schama}}
+|''[[Belonging: The Story of the Jews 1492–1900|Belonging: The Story of the Jews, 1492–1900]]''
+|{{sho}}
+|<ref name="short-2017" /><ref name="shelf awareness-2017" />
+|- style="background:#cddeff"
+! rowspan="6" |[[2018 in literature|2018]]{{Efn|The 2018 judging panel was chaired by ''The Economist''{{'}}s culture correspondent [[Fiammetta Rocco]], with [[Stephen Bush]], journalist and political commentator; [[Susan Brigden]], historian; [[Anne-Marie Imafidon]], mathematician and campaigner; and [[Nigel Warburton]], philosopher.}}
+|{{Sortname|first=Serhii|last=Plokhy}}
+|''Chernobyl: History of a Tragedy''
+|{{won}}
+|<ref>{{cite web |date=November 14, 2018 |title=Serhii Plokhy's Chernobyl wins The Baillie Gifford Prize for Non-Fiction, 2018 |url=https://thebailliegiffordprize.co.uk/news/serhii-plokhy%27s-chernobyl-wins-baillie-gifford-prize-non-fiction-2018 |access-date=November 15, 2018 |publisher=Baillie Gifford Prize |archive-date=12 March 2023 |archive-url=https://web.archive.org/web/20230312015733/https://www.thebailliegiffordprize.co.uk/inside-the-covers/news/serhii-plokhys-chernobyl-wins-the-baillie-gifford-prize-for-non-fiction-2018 |url-status=live }}</ref><ref>{{Cite web |last= |first= |date=2018-11-21 |title=Awards: Baillie Gifford Nonfiction Winner |url=https://www.shelf-awareness.com/issue.html?issue=3381 |access-date=2023-03-12 |website=[[Shelf Awareness]] |archive-date=3 November 2022 |archive-url=https://web.archive.org/web/20221103033822/https://www.shelf-awareness.com/issue.html?issue=3381 |url-status=live }}</ref>
+|-
+|{{Sortname|first=Hannah|last=Fry}}
+|''Hello World: How to Be Human in the Age of the Machine''
+|{{sho}}
+|<ref name="short-2018">{{cite web |date=2 October 2018 |title=The Baillie Gifford Prize 2018 announces shortlist |url=https://thebailliegiffordprize.co.uk/2018-shortlist |access-date=3 October 2018 |publisher=Baillie Gifford Prize |archive-date=3 October 2018 |archive-url=https://web.archive.org/web/20181003221154/https://thebailliegiffordprize.co.uk/2018-shortlist |url-status=live }}</ref>
+|-
+|{{Sortname|first=Ben|last=Macintyre}}
+|''{{Sortname|The|Spy and the Traitor: The Greatest Espionage Story of the Cold War|nolink=1}}''
+|{{sho}}
+|<ref name="short-2018" />
+|-
+|{{Sortname|first=Thomas Page|last=McBee}}
+|''[[Amateur (book)|Amateur: A True Story About What Makes a Man]]''
+|{{sho}}
+|<ref name="short-2018" />
+|-
+|{{Sortname|first=Stephen R.|last=Platt}}
+|''[[Imperial Twilight|Imperial Twilight: The Opium War and the End of China's Last Golden Age]]''
+|{{sho}}
+|<ref name="short-2018" />
+|-
+|{{Sortname|first=Carl|last=Zimmer}}
+|''She Has Her Mother's Laugh: The Powers, Perversions and Potential of Heredity''
+|{{sho}}
+|<ref name="short-2018" />
+|- style="background:#cddeff"
+! rowspan="6" |[[2019 in literature|2019]]{{Efn|The 2019 judging panel was chaired by ''[[Times Literary Supplement]]'' editor [[Stig Abell]], with [[Myriam François]], TV producer and writer; Robert Douglas-Fairhurst, professor of English Literature; [[Frances Wilson (writer)|Frances Wilson]], critic and biographer; [[Petina Gappah]], writer and lawyer and [[Alexander Van Tulleken]], doctor and TV presenter.}}
+|{{Sortname|first=Hallie|last=Rubenhold}}
+|''{{Sortname|The|Five: The Untold Lives of the Women Killed by Jack the Ripper}}''
+|{{won}}
+|<ref>{{Cite news |last=Flood |first=Alison |date=2019-11-19 |title=Baillie Gifford prize won by Jack the Ripper study 'reclaiming victims' voices' |language=en-GB |work=[[The Guardian]] |url=https://www.theguardian.com/books/2019/nov/19/baillie-gifford-prize-won-jack-the-ripper-victims-hallie-rubenhold-the-five |access-date=2019-11-20 |issn=0261-3077 |archive-date=20 November 2019 |archive-url=https://web.archive.org/web/20191120101134/https://www.theguardian.com/books/2019/nov/19/baillie-gifford-prize-won-jack-the-ripper-victims-hallie-rubenhold-the-five |url-status=live }}</ref><ref>{{Cite web |last= |first= |date=2019-11-21 |title=Awards: Foyles Winners; Baillie Gifford Nonfiction Winner; Grammy Nominees |url=https://www.shelf-awareness.com/issue.html?issue=3626 |access-date=2023-03-12 |website=[[Shelf Awareness]] |archive-date=24 December 2022 |archive-url=https://web.archive.org/web/20221224190605/https://www.shelf-awareness.com/issue.html?issue=3626 |url-status=live }}</ref>
+|-
+|{{Sortname|first=Casey|last=Cep}}
+|''Furious Hours: Murder, Fraud and the Last Trial of Harper Lee''
+|{{sho}}
+|<ref name="short-2019">{{cite web |date=22 October 2019 |title=Shortlist announced for The Baillie Gifford Prize 2019 |url=https://thebailliegiffordprize.co.uk/news/shortlist-announced-baillie-gifford-prize-2019 |access-date=22 October 2019 |publisher=Baillie Gifford Prize |archive-date=22 October 2019 |archive-url=https://web.archive.org/web/20191022101621/https://thebailliegiffordprize.co.uk/news/shortlist-announced-baillie-gifford-prize-2019 |url-status=live }}</ref><ref name="shelf awareness-2019">{{Cite web |last= |first= |date=2019-10-23 |title=Awards: Baillie Gifford Shortlist; Readings Fiction Winner |url=https://www.shelf-awareness.com/issue.html?issue=3605 |access-date=2023-03-12 |website=[[Shelf Awareness]] |archive-date=9 December 2022 |archive-url=https://web.archive.org/web/20221209002329/https://www.shelf-awareness.com/issue.html?issue=3605 |url-status=live }}</ref>
+|-
+|{{Sortname|first=Laura|last=Cumming}}
+|''On Chapel Sands: My Mother and Other Missing Persons''
+|{{sho}}
+|<ref name="short-2019" /><ref name="shelf awareness-2019" />
+|-
+|{{Sortname|first=William|last=Feaver}}
+|''{{Sortname|The|Lives of Lucian Freud: Youth|nolink=1}}'' (about [[Lucian Freud]])
+|{{sho}}
+|<ref name="short-2019" /><ref name="shelf awareness-2019" />
+|-
+|{{Sortname|first=Julia|last=Lovell}}
+|''Maoism: A Global History''
+|{{sho}}
+|<ref name="short-2019" /><ref name="shelf awareness-2019" />
+|-
+|{{Sortname|first=Azadeh|last=Moaveni}}
+|''Guest House for Young Widows: Among the Women of ISIS''
+|{{sho}}
+|<ref name="short-2019" /><ref name="shelf awareness-2019" />
+|}
+
+=== 2020s ===
+{| class="wikitable sortable mw-collapsible"
+|+2020s Baillie Gifford Prize winner and shortlist
+!Year
+!Author
+!Title
+!Result
+!Ref.
+|- style="background:#cddeff"
+! rowspan="6" |[[2020 in literature|2020]]{{Efn|The 2020 judging panel consisted of [[Martha Kearney]] (BBC Radio presenter), [[Shahidha Bari]] (writer and radio presenter), [[Simon Ings]] (writer and editor), Leo Robson (writer), [[Max Strasser]] (editor) and [[Bee Wilson]] (journalist and writer).}}
+|{{Sortname|first=Craig|last=Brown|link=Craig Brown (satirist)}}
+|''[[One Two Three Four: The Beatles in Time]]'' 
+|{{won}}
+|
+|-
+|{{Sortname|first=Matthew|last=Cobb}}
+|''{{Sortname|The|Idea of the Brain: A History|nolink=1}}''
+|{{sho}}
+|<ref name="short-2020">{{Cite web |date=2020-10-15 |title=The Baillie Gifford Prize 2020 shortlist announced |url=https://thebailliegiffordprize.co.uk/news/baillie-gifford-prize-2020-shortlist-announced |access-date=2023-03-11 |website=The Baillie Gifford Prize |archive-date=19 October 2020 |archive-url=https://web.archive.org/web/20201019202339/https://thebailliegiffordprize.co.uk/news/baillie-gifford-prize-2020-shortlist-announced |url-status=live }}</ref><ref name="shelf awareness-2020">{{Cite web |last= |first= |date=2020-10-29 |title=Awards: Baillie Gifford Shortlist |url=https://www.shelf-awareness.com/issue.html?issue=3855 |access-date=2023-03-12 |website=[[Shelf Awareness]] |archive-date=21 May 2022 |archive-url=https://web.archive.org/web/20220521144440/https://www.shelf-awareness.com/issue.html?issue=3855 |url-status=live }}</ref><ref name="winik-2020">{{Cite web |last=Winik |first=Marion |date=2020-10-16 |title=Baillie Gifford Prize Shortlist Announced |url=https://www.kirkusreviews.com/news-and-features/articles/shortlist-for-baillie-gifford-nonfiction-prize/ |access-date=2023-03-12 |website=[[Kirkus Reviews]] |language=en |archive-date=28 May 2022 |archive-url=https://web.archive.org/web/20220528163728/https://www.kirkusreviews.com/news-and-features/articles/shortlist-for-baillie-gifford-nonfiction-prize/ |url-status=live }}</ref>
+|-
+|{{Sortname|first=Sudhir|last=Hazareesingh}}
+|''Black Spartacus: The Epic Life of Toussaint Louverture''
+|{{sho}}
+|<ref name="short-2020" /><ref name="shelf awareness-2020" /><ref name="winik-2020" />
+|-
+|{{Sortname|first=Christina|last=Lamb}}
+|''Our Bodies, Their Battlefield: What War Does to Women''
+|{{sho}}
+|<ref name="short-2020" /><ref name="shelf awareness-2020" /><ref name="winik-2020" />
+|-
+|{{Sortname|first=Amy|last=Stanley}}
+|''[[Stranger in the Shogun's City|Stranger in the Shogun's City: A Japanese Woman and Her World]]'' 
+|{{sho}}
+|<ref name="short-2020" /><ref name="shelf awareness-2020" /><ref name="winik-2020" />
+|-
+|{{Sortname|first=Kate|last=Summerscale}}
+|''{{Sortname|The|Haunting of Alma Fielding: A True Ghost Story}}''
+|{{sho}}
+|<ref name="short-2020" /><ref name="shelf awareness-2020" /><ref name="winik-2020" />
+|- style="background:#cddeff"
+! rowspan="6" |[[2021 in literature|2021]]{{Efn|The 2021 judging panel consisted of [[Andrew Holgate]], [[Sara Collins]], [[Helen Czerski]], [[Kathryn Hughes]], [[Johny Pitts]] and [[Dominic Sandbrook]].}}
+|{{Sortname|first=Patrick Radden|last=Keefe}}
+|''[[Empire of Pain|Empire of Pain: The Secret History of the Sackler Dynasty]]''
+|{{won}}
+|<ref>{{cite news |last1=Flood |first1=Alison |date=16 November 2021 |title=Baillie Gifford prize goes to 'controlled fury' of Empire of Pain |work=[[The Guardian]] |url=https://www.theguardian.com/books/2021/nov/16/baillie-gifford-prize-empire-of-pain-patrick-radden-keefe |access-date=16 November 2021 |archive-date=16 November 2021 |archive-url=https://web.archive.org/web/20211116221709/https://www.theguardian.com/books/2021/nov/16/baillie-gifford-prize-empire-of-pain-patrick-radden-keefe |url-status=live }}</ref><ref>{{Cite web |last= |first= |date=2021-11-18 |title=Awards: Baillie Gifford Non-Fiction Winner |url=https://www.shelf-awareness.com/issue.html?issue=4116 |access-date=2023-03-12 |website=[[Shelf Awareness]] |archive-date=7 March 2023 |archive-url=https://web.archive.org/web/20230307140130/https://www.shelf-awareness.com/issue.html?issue=4116 |url-status=live }}</ref><ref>{{Cite web |last=Schaub |first=Michael |date=2021-11-17 |title=Patrick Radden Keefe Wins Baillie Gifford Prize |url=https://www.kirkusreviews.com/news-and-features/articles/patrick-radden-keefe-wins-baillie-gifford-prize/ |access-date=2023-03-12 |website=[[Kirkus Reviews]] |language=en |archive-date=17 November 2021 |archive-url=https://web.archive.org/web/20211117175931/https://www.kirkusreviews.com/news-and-features/articles/patrick-radden-keefe-wins-baillie-gifford-prize/ |url-status=live }}</ref>
+|-
+|{{Sortname|first=Cal|last=Flyn}}
+|''Islands of Abandonment: Life in the Post-Human Landscape''
+|{{sho}}
+|<ref name="short-2021">{{Cite web |title=The Baillie Gifford Prize 2021 shortlist announced |url=https://thebailliegiffordprize.co.uk/news/baillie-gifford-prize-2021-shortlist-announced |website=The Baillie Gifford Prize |access-date=7 November 2021 |archive-date=7 November 2021 |archive-url=https://web.archive.org/web/20211107123258/https://thebailliegiffordprize.co.uk/news/baillie-gifford-prize-2021-shortlist-announced |url-status=live }}</ref><ref name="shelf awareness-2021">{{Cite web |last= |first= |date=2021-10-19 |title=Awards: German Book Prize Winner; Baillie Gifford Nonfiction Shortlist |url=https://www.shelf-awareness.com/issue.html?issue=4094 |access-date=2023-03-12 |website=[[Shelf Awareness]] |archive-date=9 December 2022 |archive-url=https://web.archive.org/web/20221209161349/https://shelf-awareness.com/issue.html?issue=4094 |url-status=live }}</ref>
+|-
+|{{Sortname|first=Harald|last=Jähner}}
+|''Aftermath: Life in the Fallout of the Third Reich, 1945–1955 ''
+|{{sho}}
+|<ref name="short-2021" /><ref name="shelf awareness-2021" />
+|-
+|{{Sortname|first=Kei|last=Miller}}
+|''Things I Have Withheld''
+|{{sho}}
+|<ref name="short-2021" /><ref name="shelf awareness-2021" />
+|-
+|{{Sortname|first=John|last=Preston|link=John Preston (English author)}}
+|''Fall: The Mystery of Robert Maxwell ''(about [[Robert Maxwell]])
+|{{sho}}
+|<ref name="short-2021" /><ref name="shelf awareness-2021" />
+|-
+|{{Sortname|first=Lea|last=Ypi}}
+|''[[Free: Coming of Age at the End of History]] ''
+|{{sho}}
+|<ref name="short-2021" /><ref name="shelf awareness-2021" />
+|- style="background:#cddeff"
+! rowspan="6" |[[2022 in literature|2022]]{{Efn|The 2022 judges were [[Caroline Sanderson]] (chair), [[Laura Spinney]], [[Rachel Cooke]], [[Clive Myrie]], [[Samanth Subramanian]] and Georgina Godwin}}
+|{{Sortname|first=Katherine|last=Rundell}}
+|''Super-Infinite: The Transformations of John Donne'' (about [[John Donne]])
+|{{won}}
+|<ref>{{Cite news |last=Lawless |first=Jill |date=18 November 2022 |title=Biography of poet John Donne wins UK nonfiction book prize |language=English |work=Associated Press News |agency=Associated Press |url=https://apnews.com/article/entertainment-europe-london-nonfiction-83ef8423d2a14ed0735bf1c2aa4c8d0e |access-date=19 November 2022 |archive-date=19 November 2022 |archive-url=https://web.archive.org/web/20221119004553/https://apnews.com/article/entertainment-europe-london-nonfiction-83ef8423d2a14ed0735bf1c2aa4c8d0e |url-status=live }}</ref><ref>{{Cite web |last= |first= |date=2022-11-21 |title=Awards: Baillie Gifford, Ernest J. Gaines, National Outdoor Book Winners |url=https://www.shelf-awareness.com/issue.html?issue=4364 |access-date=2023-03-12 |website=[[Shelf Awareness]] |archive-date=20 January 2023 |archive-url=https://web.archive.org/web/20230120073738/https://www.shelf-awareness.com/issue.html?issue=4364 |url-status=live }}</ref><ref>{{Cite web |last=Schaub |first=Michael |date=2022-11-18 |title=Baillie Gifford Nonfiction Winner Revealed |url=https://www.kirkusreviews.com/news-and-features/articles/baillie-gifford-nonfiction-winner-revealed/ |access-date=2023-03-12 |website=[[Kirkus Reviews]] |language=en |archive-date=4 December 2022 |archive-url=https://web.archive.org/web/20221204195109/https://www.kirkusreviews.com/news-and-features/articles/baillie-gifford-nonfiction-winner-revealed/ |url-status=live }}</ref>
+|-
+|{{Sortname|first=Caroline|last=Elkins}}
+|''[[Legacy of Violence: A History of the British Empire]]''
+|{{sho}}
+|<ref name="schaub-2022">{{Cite web |last=Schaub |first=Michael |date=2022-10-11 |title=Finalists for Baillie Gifford Prize Are Revealed |url=https://www.kirkusreviews.com/news-and-features/articles/finalists-for-baillie-gifford-prize-are-revealed/ |access-date=2022-10-12 |website=[[Kirkus Reviews]] |language=en |archive-date=12 October 2022 |archive-url=https://web.archive.org/web/20221012200030/https://www.kirkusreviews.com/news-and-features/articles/finalists-for-baillie-gifford-prize-are-revealed/ |url-status=live }}</ref><ref name="merlene-2022">{{Cite web |last=Merlene |first=Kate |date=2022-10-11 |title=The 2022 Baillie Gifford Prize Shortlist Is Announced |url=https://www.libraryjournal.com/story/baillie-gifford-prize-shortlist-announced-book-pulse |access-date=2022-10-11 |website=[[Library Journal]] |archive-date=11 October 2022 |archive-url=https://web.archive.org/web/20221011151706/https://www.libraryjournal.com/story/baillie-gifford-prize-shortlist-announced-book-pulse |url-status=live }}</ref><ref name="shelf awareness-2022">{{Cite web |last= |first= |date=2022-10-11 |title=Awards: American Literary Translators Winners; Baillie Gifford Shortlist |url=https://www.shelf-awareness.com/issue.html?issue=4335 |access-date=2023-03-12 |website=[[Shelf Awareness]] |archive-date=11 October 2022 |archive-url=https://web.archive.org/web/20221011223536/https://www.shelf-awareness.com/issue.html?issue=4335 |url-status=live }}</ref>
+|-
+|{{Sortname|first=Jonathan|last=Freedland}}
+|''{{Sortname|The|Escape Artist: The Man Who Broke Out of Auschwitz to Warn the World|nolink=1}}'' (about [[Rudolf Vrba]])
+|{{sho}}
+|<ref name="schaub-2022" /><ref name="merlene-2022" /><ref name="shelf awareness-2022" />
+|-
+|{{Sortname|first=Sally|last=Hayden}}
+|''My Fourth Time, We Drowned: Seeking Refuge on the World's Deadliest Migration Route''
+|{{sho}}
+|<ref name="schaub-2022" /><ref name="merlene-2022" /><ref name="shelf awareness-2022" />
+|-
+|{{Sortname|first=Anna|last=Keay}}
+|''{{Sortname|The|Restless Republic: Britain Without a Crown|nolink=1}}''
+|{{sho}}
+|<ref name="schaub-2022" /><ref name="merlene-2022" /><ref name="shelf awareness-2022" />
+|-
+|{{Sortname|first=Polly|last=Morland}}
+|''{{Sortname|A |Fortunate Woman: A Country Doctor’s Story}}''
+|{{sho}}
+|<ref name="schaub-2022" /><ref name="merlene-2022" /><ref name="shelf awareness-2022" />
+|- style="background:#cddeff"
+! rowspan="6" |[[2023 in literature|2023]]{{Efn|The 2023 judges were [[Arifa Akbar]], [[Andrew Haldane]], Tanjil Rashid, [[Ruth Scurr]], and Frederick Studemann (chair)}}
+|{{Sortname|first=John|last=Vaillant}}
+|''[[Fire Weather|Fire Weather: A True Story from a Hotter World]]''
+|{{won}}
+|<ref name="guardian2023" /><ref>{{cite web |year=2023 |title=Fire Weather |url=https://www.thebailliegiffordprize.co.uk/books-and-authors/fire-weather-by-john-vaillant |access-date=2023-11-17 |website=The Baillie Gifford Prize for Non-Fiction |archive-date=17 November 2023 |archive-url=https://web.archive.org/web/20231117204917/https://www.thebailliegiffordprize.co.uk/books-and-authors/fire-weather-by-john-vaillant |url-status=live }}</ref><ref>{{Cite web |last= |first= |date=2023-11-17 |title=Awards: Baillie Gifford Non-Fiction, National Outdoor Book Winners |url=https://www.shelf-awareness.com/issue.html?issue=4610 |access-date=2023-11-26 |website=[[Shelf Awareness]] |archive-date=26 November 2023 |archive-url=https://web.archive.org/web/20231126032141/https://www.shelf-awareness.com/issue.html?issue=4610 |url-status=live }}</ref>
+|- style="background:#"
+|{{Sortname|first=Hannah|last=Barnes|nolink=1}}
+|''[[Time to Think: The Inside Story of the Collapse of the Tavistock's Gender Service for Children]]''
+|{{sho}}
+|<ref name="guardian2023">{{cite web |last1=Creamer |first1=Ella |title=Music, history and courageous journalism: Baillie Gifford prize shortlist announced |url=https://www.theguardian.com/books/2023/oct/08/music-history-and-courageous-journalism-baillie-gifford-prize-shortlist-announced |website=[[The Guardian]] |access-date=9 October 2023 |date=8 October 2023}}</ref>
+|-
+|{{Sortname|first=Tania|last=Branigan|nolink=1}}
+|''Red Memory: Living, Remembering and Forgetting China's Cultural Revolution,''
+|{{sho}}
+|<ref name="guardian2023" />
+|-
+|{{Sortname|first=Christopher|last=Clark}}
+|''[[Revolutionary Spring: Fighting for a New World 1848-1849|Revolutionary Spring: Fighting for a New World 1848–1849]]''
+|{{sho}}
+|<ref name="guardian2023" />
+|-
+|{{Sortname|first=Jeremy|last=Eichler}}
+|''Time's Echo: The Second World War, The Holocaust, and The Music of Remembrance''
+|{{sho}}
+|<ref name="guardian2023" />
+|-
+|{{Sortname|first=Jennifer|last=Homans}}
+|''Mr. B: George Balanchine's Twentieth Century''
+|{{sho}}
+|<ref name="guardian2023" />
+|- style="background:#cddeff"
+! rowspan="6" |[[2024 in literature|2024]]{{Efn|The 2024 judges were [[Heather Brooke]], Alison Flood, [[Peter Hoskin]], [[Tomiwa Owolade]], [[Chitra Ramaswamy]], and [[Isabel Hilton]] (chair)}}
+|{{Sortname|first=Richard|last=Flanagan}}
+|''Question 7''
+|{{won}}
+|<ref>{{Cite web |date=2024-11-20 |title=Flanagan wins 2024 Baillie Gifford Prize for Nonfiction |url=https://www.booksandpublishing.com.au/articles/2024/11/20/262563/flanagan-wins-2024-baillie-gifford-prize-for-nonfiction/ |access-date=2024-11-20 |publisher=Books+Publishing |archive-date=20 November 2024 |archive-url=https://web.archive.org/web/20241120020533/https://www.booksandpublishing.com.au/articles/2024/11/20/262563/flanagan-wins-2024-baillie-gifford-prize-for-nonfiction/ |url-status=live }}</ref>
+|- style="background:#"
+|{{Sortname|first=Rachel|last=Clarke}}
+|''[[The Story of a Heart]]''
+|{{sho}}
+|<ref name=":0">{{Cite news |last=Creamer |first=Ella |date=2024-10-10 |title=Nuclear war rehearsal and Gauguin biography make shortlist for Baillie Gifford prize |url=https://www.theguardian.com/books/2024/oct/10/nuclear-war-rehearsal-and-gauguin-biography-make-shortlist-for-baillie-gifford-prize |access-date=2024-10-11 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref><ref name=":1">{{Cite web |last= |first= |date=October 10, 2024 |title=A chilling nonfiction thriller about nuclear war is up for the UK's Baillie Gifford book prize |url=https://abcnews.go.com/Entertainment/wireStory/chilling-nonfiction-thriller-nuclear-war-uks-baillie-gifford-114697534 |access-date=2024-10-11 |website=ABC News |language=en}}</ref>
+|-
+|{{Sortname|first=Annie|last=Jacobsen}}
+|''[[Nuclear War: A Scenario]]''
+|{{sho}}
+|<ref name=":0" /><ref name=":1" />
+|-
+|{{Sortname|first=Viet|last=Thanh Nguyen}}
+|''[[A Man of Two Faces|A Man of Two Faces: A Memoir, a History, a Memorial]]''
+|{{sho}}
+|<ref name=":0" /><ref name=":1" />
+|-
+|{{Sortname|first=Sue|last=Prideaux}}
+|''Wild Thing: A Life of Paul Gauguin'' 
+|{{sho}}
+|<ref name=":0" /><ref name=":1" />
+|-
+|{{Sortname|first=David|last=Van Reybrouck}}
+|''[[Revolusi|Revolusi: Indonesia and the Birth of the Modern World]]''
+|{{sho}}
+|<ref name=":0" /><ref name=":1" />
+|- style="background:#cddeff"
+! rowspan="6" |[[2025 in literature|2025]]{{Efn|The 2025 judges were Pratinav Anil, [[Inaya Folarin Iman]], [[Lucy Hughes-Hallett]], Rachel Lloyd, [[Peter Parker (author)|Peter Parker]], and Robbie Millen (chair)}}
+|{{Sortname|Helen|Garner}}
+|''How to End a Story: Collected Diaries''
+|{{won}}
+|<ref>{{Cite web |date=2025-11-05 |title=Garner wins Baillie Gifford |url=https://www.booksandpublishing.com.au/articles/2025/11/05/318340/garner-wins-baillie-gifford/ |access-date=2025-11-05 |publisher=Books+Publishing |archive-date=5 November 2025 |archive-url=https://web.archive.org/web/20251105045553/https://www.booksandpublishing.com.au/articles/2025/11/05/318340/garner-wins-baillie-gifford/ |url-status=live }}</ref>
+|-
+|{{Sortname|Jason|Burke}}
+|''The Revolutionists: The Story of the Extremists Who Hijacked the 1970s''
+|{{sho}}
+|<ref name=":2">{{Cite web |date=2025-10-07 |title=Garner shortlisted for Baillie Gifford Prize |url=https://www.booksandpublishing.com.au/articles/2025/10/07/316293/garner-shortlisted-for-baillie-gifford-prize/ |access-date=2025-11-05 |publisher=Books+Publishing |archive-date=7 October 2025 |archive-url=https://web.archive.org/web/20251007002645/https://www.booksandpublishing.com.au/articles/2025/10/07/316293/garner-shortlisted-for-baillie-gifford-prize/ |url-status=live }}</ref>
+|-
+|{{Sortname|Richard|Holmes|dab=biographer}}
+|''The Boundless Deep: Young Tennyson, Science and the Crisis of Belief''
+|{{sho}}
+|<ref name=":2" />
+|-
+|{{Sortname|Justin|Marozzi}}
+|''Captives and Companions: A History of Slavery and the Slave Trade in the Islamic World''
+|{{sho}}
+|<ref name=":2" />
+|-
+|{{Sortname|Adam|Weymouth}}
+|''Lone Wolf: Walking the Faultlines of Europe''
+|{{sho}}
+|<ref name=":2" />
+|-
+|{{Sortname|Frances|Wilson|dab=writer}}
+|''Electric Spark: The Enigma of Muriel Spark''
+|{{sho}}
+|<ref name=":0" /><ref name=":1" />
+|- style="background:#cddeff"
+! rowspan="6" |[[2026 in literature|2026]]{{Efn|The 2026 judges were: [[Kirsty Lang]], Bea Carvalho, [[Tiffany Jenkins]], [[Sam Leith]], Ravi Mattu, [[Elif Shafak]]}}
+|{{Sortname|Nicholas|Boggs}}
+|''[[Baldwin: A Love Story]]''
+|{{sho}}
+|<ref name="Bookseller2026">{{cite news | last=Spanoudi | first=Melina | title=Baillie Gifford Prize for Non-Fiction reveals 2026 shortlist | magazine=[[The Bookseller]] | date=1 October 2026|publisher=Playbook Media Trading Company Limited|issn=0006-7539 | url=https://www.thebookseller.com/news/baillie-gifford-prize-for-non-fiction-reveals-2026-shortlist|archive-url=https://megalodon.jp/2026-1001-1810-32/https://www.thebookseller.com:443/news/baillie-gifford-prize-for-non-fiction-reveals-2026-shortlist|archive-date=1 October 2026|url-status=live | language=en-GB|location=London| access-date=1 October 2026}}</ref>
+|-
+|{{Sortname|Anand|Gopal}}
+|''Days of Love and Rage: A Story of Revolution''
+|{{sho}}
+|<ref name="Bookseller2026"/>
+|-
+|{{Sortname|Patrick Radden|Keefe}}
+|''London Falling: A Mysterious Death in a Gilded City and a Family’s Search for Truth''
+|{{sho}}
+|<ref name=":2" />
+|-
+|{{Sortname|Edmund|Richardson|dab=academic}}
+|''Alexander: God, King, Man''
+|{{sho}}
+|<ref name="Bookseller2026"/>
+|-
+|{{Sortname|Matthew|Sweet|dab=writer}}
+|''The Great Dictator: A Life of Barbara Cartland''
+|{{sho}}
+|<ref name="Bookseller2026"/>
+|-
+|{{Sortname|Andrea|Wulf}}
+|''The Traveller: The Revolutionary Life of George Forster and his Search for Humanity''
+|{{sho}}
+|<ref name="Bookseller2026"/>
+|}
+
+=== 25th Anniversary Winner of Winners Award ===
+In 2023, marking the 25th anniversary of the prize, a one-off 'Winner of Winners' Award was announced.<ref name="prize-2023">{{Cite web |title=2023 The 25th anniversary prize |url=https://www.thebailliegiffordprize.co.uk/year-by-year/2023 |access-date=2023-03-10 |website=Baillie Gifford Prize |language=en |archive-date=10 March 2023 |archive-url=https://web.archive.org/web/20230310055907/https://www.thebailliegiffordprize.co.uk/year-by-year/2023 |url-status=live }}</ref> The judging panel was chaired by [[Jason Cowley (journalist)|Jason Cowley]] (''[[New Statesman]]'' editor-in-chief) and included [[Shahidha Bari]] (academic, critic and broadcaster), [[Sarah Churchwell]] (journalist, author and academic), and [[Frances Wilson (writer)|Frances Wilson]] (biographer and critic).<ref name="prize-2023" />
+{| class="wikitable sortable mw-collapsible"
+!Author
+!Title
+!Win Year
+!Result
+!Ref.
+|- style="background:#cddeff"
+|{{Sortname|first=James S.|last=Shapiro}}
+|''[[1599: A Year in the Life of William Shakespeare]]''
+|2006
+|{{won}}
+|<ref name="shaffi-2023">{{cite news |last1=Shaffi |first1=Sarah |date=27 April 2023 |title=James Shapiro wins Baillie Gifford anniversary prize with 'extraordinary' Shakespeare biography 1599 |work=[[The Guardian]] |url=https://www.theguardian.com/books/2023/apr/27/james-shapiro-wins-baillie-gifford-anniversary-prize-with-extraordinary-shakespeare-biography-1599 |access-date=30 April 2023 |archive-date=29 April 2023 |archive-url=https://web.archive.org/web/20230429234820/https://www.theguardian.com/books/2023/apr/27/james-shapiro-wins-baillie-gifford-anniversary-prize-with-extraordinary-shakespeare-biography-1599 |url-status=live }}</ref><ref name="winner2023">{{cite web |title=James Shapiro's 1599: A Year in the Life of William Shakespeare wins… |url=https://www.thebailliegiffordprize.co.uk/inside-the-covers/news/james-shapiros-1599-a-year-in-the-life-of-william-shakespeare-wins-the-winner-of-winners-award |website=Baillie Gifford Prize |access-date=30 April 2023 |language=en |archive-date=30 April 2023 |archive-url=https://web.archive.org/web/20230430073907/https://www.thebailliegiffordprize.co.uk/inside-the-covers/news/james-shapiros-1599-a-year-in-the-life-of-william-shakespeare-wins-the-winner-of-winners-award |url-status=live }}</ref>
+|-
+|{{Sortname|first=Craig|last=Brown|link=Craig Brown (satirist)}}
+|''[[One Two Three Four: The Beatles in Time]]'' 
+|2020
+|{{sho}}
+|<ref name="short-2023">{{Cite web |title=The Prize Announces its Winner of Winners Award Shortlist |url=https://www.thebailliegiffordprize.co.uk/inside-the-covers/news/the-prize-announces-its-winner-of-winners-award-shortlist |access-date=2023-03-12 |website=Baillie Gifford Prize |language=en |archive-date=11 March 2023 |archive-url=https://web.archive.org/web/20230311212307/https://www.thebailliegiffordprize.co.uk/inside-the-covers/news/the-prize-announces-its-winner-of-winners-award-shortlist |url-status=live }}</ref><ref name="schaub-2023">{{Cite web |last=Schaub |first=Michael |date=2023-03-09 |title=Special Baillie Gifford Prize Shortlist Revealed |url=https://www.kirkusreviews.com/news-and-features/articles/special-baillie-gifford-prize-shortlist-revealed/ |access-date=2023-03-12 |website=[[Kirkus Reviews]] |language=en |archive-date=11 March 2023 |archive-url=https://web.archive.org/web/20230311031641/https://www.kirkusreviews.com/news-and-features/articles/special-baillie-gifford-prize-shortlist-revealed/ |url-status=live }}</ref>
+|-
+|{{Sortname|first=Wade|last=Davis|link=Wade Davis (anthropologist)}}
+|''Into the Silence: The Great War, Mallory and the Conquest of Everest'' 
+|2012
+|{{sho}}
+|<ref name="short-2023" /><ref name="schaub-2023" />
+|-
+|{{Sortname|first=Barbara|last=Demick}}
+|''[[Nothing to Envy|Nothing to Envy: Ordinary Lives in North Korea]]''
+|2010
+|{{sho}}
+|<ref name="short-2023" /><ref name="schaub-2023" />
+|-
+|[[Patrick Radden Keefe]]
+|''[[Empire of Pain|Empire of Pain: The Secret History of the Sackler Dynasty]]''
+|2021
+|{{sho}}
+|<ref name="short-2023" /><ref name="schaub-2023" />
+|-
+|{{Sortname|first=Margaret|last=MacMillan}}
+|''[[Peacemakers (book)|Peacemakers: The Paris Peace Conference of 1919 and Its Attempt to End War]]''
+|2002
+|{{sho}}
+|<ref name="short-2023" /><ref name="schaub-2023" />
+
+|}
+
+== See also ==
+* [[British literature]]
+* [[English literature]]
+* [[List of years in literature]]
+* [[List of literary awards]]
+* [[Prizes named after people]]
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+* {{Commonscatinline}}
+* {{officialwebsite}}
+* {{webarchive |url=https://web.archive.org/web/20160328034134/http://thesamueljohnsonprize.co.uk/honour/winner |date=28 March 2016 |title=Previous winners Samuel Johnson Prize (1999-2015) |publisher=The Samuel Johnson Prize }}
+
+{{Samuel Johnson}}
+
+[[Category:1999 establishments in the United Kingdom]]
+[[Category:Awards established in 1999]]
+[[Category:BBC awards]]
+[[Category:British non-fiction literary awards]]
+[[Category:English-language literary awards]]
+[[Category:Samuel Johnson]]

@@ -9,6 +9,7 @@ It's an unofficial, not-for-profit community project and isn't affiliated with B
 - **Three collections:** every DVD/Blu-ray, plus the newest books and audiobooks (CDs and eAudiobooks). Book and audiobook searches also query the library's full catalogue live.
 - **Browse, search, recommend:** home rows by genre, "On the shelf right now", "Coming soon: reserve now", "Critics loved these", "More like this" and "Because you saved…", with instant search and filters for library, genre, decade, language, format and certificate.
 - **Live shelf checks:** each title shows which branch has a copy right now.
+- **Book prizes:** winners and shortlists from the Booker, Women's Prize, Carnegie and other UK prizes, showing only the books the library holds.
 - **Films:** IMDb, Rotten Tomatoes and Metacritic from Wikidata, and embedded trailers.
 - **Made for everyone:** an Everyone/Kids profile, "My library" and "on the shelf only" filters, dark or light theme, cover size, larger text, high contrast, a readable typeface and reduced motion. No accounts or cookies: settings and My List are saved on your device and nothing is stored on our server. Visits are counted anonymously with Vercel Web Analytics.
 - **Installable app:** add it to your home screen on iPhone or Android; pages you've opened work offline.
@@ -40,7 +41,7 @@ AI coding agents: start with [CLAUDE.md](CLAUDE.md).
 
 ## Being a good neighbour
 
-The catalogue is a public council service. The nightly sync makes at most two requests at a time with a delay, identifies itself in its User-Agent, and avoids paths disallowed by `robots.txt` apart from one search per list (seven a run, occasionally a few more if a result set expires). Live searches are relayed only when someone searches, cached for 10 minutes and capped. If the library would rather we did this differently, we'll change it. Details in [Data and sync](docs/data-and-sync.md).
+The catalogue is a public council service. The nightly sync makes at most two requests at a time with a delay, identifies itself in its User-Agent, and avoids paths disallowed by `robots.txt` apart from one search per list (seven a run, occasionally a few more if a result set expires) and a weekly handful of searches for newly listed prize books. Live searches are relayed only when someone searches, cached for 10 minutes and capped. If the library would rather we did this differently, we'll change it. Details in [Data and sync](docs/data-and-sync.md).
 
 ## Support
 

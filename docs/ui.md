@@ -8,10 +8,10 @@ The aim is a streaming-app feel that's useful rather than salesy: big covers, si
 - **Between 1024px and 1280px wide:** Everyone/Kids and My library move to a second header row.
 - **Phones (below 1024px):** an iOS-style layout.
   - **Header:** a large collection title that opens a menu to switch collection, a profile button, a search field, and filter chips (library, "On the shelf", Kids). Pages outside a collection get a compact logo row instead.
-  - **Profile sheet** (`ProfileSheet.tsx`, a bottom-sheet `<dialog>`): Everyone/Kids, my library, "on the shelf only", theme, and links to Settings, About and Donate. Opened with `openProfileSheet()`.
+  - **Profile sheet** (`ProfileSheet.tsx`, a bottom-sheet `<dialog>`): Everyone/Kids, my library, "on the shelf only", theme, and links to Settings, Book prizes, About and Donate. Opened with `openProfileSheet()`.
   - **Featured picks:** swipeable cards with details beside the cover, never over the art.
   - **Tab bar:** a slim floating bar with Home, Browse, My List and Settings.
-- **Audiobooks** get a sub-bar to show All, eAudiobooks or CDs.
+- **Audiobooks** get a sub-bar to show All, eAudiobooks or CDs. Books and audiobooks both get a "Book prizes" link at its right-hand end (desktop and phones).
 - Switching collection keeps you in the same section (Browse stays Browse, search keeps its text).
 - **First visit:** a dismissible welcome card under the header explains what the site is (`Welcome.tsx`). It's an inset card in page colours so it stands apart from the featured hero. Dismissing it returns you to the top of the page. Hidden before paint once dismissed; never shown in the installed app.
 
@@ -48,6 +48,7 @@ Colours are CSS variables on `<html>` (Tailwind v4 `@theme`): `--color-paper`, `
 - **Skeletons** (`Skeleton.tsx`) for anything loading: catalogue search results, item sheets, shelf-check pills, My List, covers. They shimmer unless reduced motion is on.
 - **Live shelf checks** show last night's data immediately, with placeholders where the live answer will go.
 - **The featured carousel** is manual only (no autoplay).
+- **Prize books** (`/prizes`, `PrizeShelf`): one card per book, showing the first of its formats that passes the viewer's preferences (print, then eBook, then audio), labelled with its stage. Reached from the sub-bar link on Books and Audiobooks pages, the "Prize winners and shortlists" home rows, and the profile sheet. Rows a profile empties (adult prizes under Kids) disappear along with their jump links.
 - **The install sheet and offline pill** sit above the tab bar (see [PWA](pwa.md)).
 - **Donate:** a quiet heart in the header goes to `/support`, which explains where money goes and embeds Ko-fi's form. No pop-ups.
 

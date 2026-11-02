@@ -2,7 +2,8 @@ import Link from "next/link";
 import { PeopleLinks } from "./PeopleLinks";
 import { HeroBackdrop, Row } from "./DetailParts";
 import { BorrowOnline } from "./BorrowOnline";
-import { ExternalLink } from "lucide-react";
+import { Award, ExternalLink } from "lucide-react";
+import { prizesFor } from "@/lib/prizes/shelves";
 import type { Title } from "@/lib/types";
 import { similarTitles } from "@/lib/catalog";
 import { toCard } from "@/lib/card";
@@ -38,6 +39,7 @@ export function TitleDetail({
   const art = posterUrl(t);
   const similar = similarTitles(t, 36).map(toCard);
   const by = t.kind === "film" ? t.directors : (t.authors ?? []);
+  const prizes = t.kind === "film" ? [] : prizesFor(t.irn);
 
   return (
     <article>
@@ -77,6 +79,21 @@ export function TitleDetail({
               {t.series && <span>· {formatSeries(t.series)}</span>}
             </div>
             <Ratings extras={t.extras} />
+            {prizes.length > 0 && (
+              <ul className="flex flex-wrap gap-2">
+                {prizes.map((p) => (
+                  <li key={p.anchor}>
+                    <Link
+                      href={`/prizes#${p.anchor}`}
+                      className="inline-flex items-center gap-1.5 rounded-full bg-paper-2 px-3 py-1 text-sm font-medium hover:bg-sea hover:text-on-sea"
+                    >
+                      <Award className="h-4 w-4" aria-hidden />
+                      {p.stage}, {p.name} {p.year}
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            )}
             <div className="flex flex-wrap gap-3 pt-1">
               {record && (
                 <a

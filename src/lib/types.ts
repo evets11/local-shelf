@@ -78,6 +78,8 @@ export interface Title {
   holdingsUnknown?: boolean;
   /** ISO timestamp this IRN was first seen by our sync. */
   firstSeen: string;
+  /** In the catalogue because a prize list links to it, not because it's among the newest. */
+  pinned?: boolean;
   tmdb?: TmdbInfo;
   /** Films: links and scores from Wikidata/OMDb (see scripts/enrich.ts). Merged in at build. */
   extras?: FilmExtras;

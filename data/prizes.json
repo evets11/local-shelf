@@ -1,0 +1,5196 @@
+{
+ "checkedAt": "2026-11-02T20:10:17.157Z",
+ "entries": [
+  {
+   "id": "booker|2026|black bag",
+   "prize": "booker",
+   "year": 2026,
+   "stage": "shortlist",
+   "title": "Black Bag",
+   "authors": [
+    "Luke Kennard"
+   ],
+   "note": "",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "178657326",
+     "brn": "9067434",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "booker|2026|john of john",
+   "prize": "booker",
+   "year": 2026,
+   "stage": "shortlist",
+   "title": "John of John",
+   "authors": [
+    "Douglas Stuart"
+   ],
+   "note": "",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": null,
+   "matches": [
+    {
+     "irn": "89059861",
+     "brn": "9181931",
+     "kind": "audiobook",
+     "format": "Audiobook CD"
+    }
+   ]
+  },
+  {
+   "id": "booker|2026|may we feed the king",
+   "prize": "booker",
+   "year": 2026,
+   "stage": "shortlist",
+   "title": "May We Feed the King",
+   "authors": [
+    "Rebecca Perry"
+   ],
+   "note": "",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "173798397",
+     "brn": "9043097",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "booker|2026|the disappearers",
+   "prize": "booker",
+   "year": 2026,
+   "stage": "shortlist",
+   "title": "The Disappearers",
+   "authors": [
+    "Marlon James"
+   ],
+   "note": "",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "126215314",
+     "brn": "9198692",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "booker|2026|the end of everything",
+   "prize": "booker",
+   "year": 2026,
+   "stage": "shortlist",
+   "title": "The End of Everything",
+   "authors": [
+    "M. John Harrison"
+   ],
+   "note": "",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": null,
+   "matches": [
+    {
+     "irn": "189011763",
+     "brn": "9119887",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "booker|2026|the things we never say",
+   "prize": "booker",
+   "year": 2026,
+   "stage": "shortlist",
+   "title": "The Things We Never Say",
+   "authors": [
+    "Elizabeth Strout"
+   ],
+   "note": "",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": null,
+   "matches": [
+    {
+     "irn": "89059882",
+     "brn": "9181946",
+     "kind": "audiobook",
+     "format": "Audiobook CD"
+    }
+   ]
+  },
+  {
+   "id": "booker|2026|all them dogs",
+   "prize": "booker",
+   "year": 2026,
+   "stage": "longlist",
+   "title": "All Them Dogs",
+   "authors": [
+    "Djamel White"
+   ],
+   "note": "",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "178658530",
+     "brn": "9068638",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "booker|2026|helen of nowhere",
+   "prize": "booker",
+   "year": 2026,
+   "stage": "longlist",
+   "title": "Helen of Nowhere",
+   "authors": [
+    "Makenna Goodman"
+   ],
+   "note": "",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "173798399",
+     "brn": "9043099",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "320880",
+     "brn": "9237439",
+     "kind": "book",
+     "format": "eBook"
+    }
+   ]
+  },
+  {
+   "id": "booker|2026|switzy",
+   "prize": "booker",
+   "year": 2026,
+   "stage": "longlist",
+   "title": "Switzy",
+   "authors": [
+    "Emma Cline"
+   ],
+   "note": "",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": null,
+   "matches": [
+    {
+     "irn": "483495",
+     "brn": "9253302",
+     "kind": "audiobook",
+     "format": "Audiobook CD"
+    }
+   ]
+  },
+  {
+   "id": "booker|2026|the palm house",
+   "prize": "booker",
+   "year": 2026,
+   "stage": "longlist",
+   "title": "The Palm House",
+   "authors": [
+    "Gwendoline Riley"
+   ],
+   "note": "",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "178671358",
+     "brn": "9081466",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "320886",
+     "brn": "9237442",
+     "kind": "book",
+     "format": "eBook"
+    }
+   ]
+  },
+  {
+   "id": "booker|2026|the renovation",
+   "prize": "booker",
+   "year": 2026,
+   "stage": "longlist",
+   "title": "The Renovation",
+   "authors": [
+    "Kenan Orhan"
+   ],
+   "note": "",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "178658391",
+     "brn": "9068499",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "409029",
+     "brn": "9244624",
+     "kind": "book",
+     "format": "eBook"
+    },
+    {
+     "irn": "320887",
+     "brn": "9237443",
+     "kind": "audiobook",
+     "format": "eAudiobook"
+    }
+   ]
+  },
+  {
+   "id": "booker|2026|the shadow of the object",
+   "prize": "booker",
+   "year": 2026,
+   "stage": "longlist",
+   "title": "The Shadow of the Object",
+   "authors": [
+    "Chloe Aridjis"
+   ],
+   "note": "",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "178672781",
+     "brn": "9082889",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "320890",
+     "brn": "9237445",
+     "kind": "book",
+     "format": "eBook"
+    },
+    {
+     "irn": "320889",
+     "brn": "9237444",
+     "kind": "audiobook",
+     "format": "eAudiobook"
+    }
+   ]
+  },
+  {
+   "id": "booker|2026|the vivisectors",
+   "prize": "booker",
+   "year": 2026,
+   "stage": "longlist",
+   "title": "The Vivisectors",
+   "authors": [
+    "Missouri Williams"
+   ],
+   "note": "",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "184358475",
+     "brn": "9098695",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "320881",
+     "brn": "9237440",
+     "kind": "book",
+     "format": "eBook"
+    },
+    {
+     "irn": "320885",
+     "brn": "9237441",
+     "kind": "audiobook",
+     "format": "eAudiobook"
+    }
+   ]
+  },
+  {
+   "id": "booker|2025|flesh",
+   "prize": "booker",
+   "year": 2025,
+   "stage": "winner",
+   "title": "Flesh",
+   "authors": [
+    "David Szalay"
+   ],
+   "note": "",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "136025899",
+     "brn": "4909743",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "178661727",
+     "brn": "9071835",
+     "kind": "book",
+     "format": "eBook"
+    },
+    {
+     "irn": "165766975",
+     "brn": "9010267",
+     "kind": "audiobook",
+     "format": "eAudiobook"
+    }
+   ]
+  },
+  {
+   "id": "booker|2025|audition",
+   "prize": "booker",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "Audition",
+   "authors": [
+    "Katie Kitamura"
+   ],
+   "note": "",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "139574254",
+     "brn": "5648478",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "194000936",
+     "brn": "9147909",
+     "kind": "book",
+     "format": "eBook"
+    },
+    {
+     "irn": "165754405",
+     "brn": "8997697",
+     "kind": "audiobook",
+     "format": "eAudiobook"
+    }
+   ]
+  },
+  {
+   "id": "booker|2025|flashlight",
+   "prize": "booker",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "Flashlight",
+   "authors": [
+    "Susan Choi"
+   ],
+   "note": "",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "152546251",
+     "brn": "8572094",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "178658176",
+     "brn": "9068284",
+     "kind": "book",
+     "format": "eBook"
+    },
+    {
+     "irn": "178658152",
+     "brn": "9068260",
+     "kind": "audiobook",
+     "format": "eAudiobook"
+    }
+   ]
+  },
+  {
+   "id": "booker|2025|the land in winter",
+   "prize": "booker",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "The Land in Winter",
+   "authors": [
+    "Andrew Miller"
+   ],
+   "note": "",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "159561164",
+     "brn": "8854022",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "booker|2025|the loneliness of sonia and sunny",
+   "prize": "booker",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "The Loneliness of Sonia and Sunny",
+   "authors": [
+    "Kiran Desai"
+   ],
+   "note": "",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "159560931",
+     "brn": "8853789",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "184370844",
+     "brn": "9111064",
+     "kind": "audiobook",
+     "format": "eAudiobook"
+    }
+   ]
+  },
+  {
+   "id": "booker|2025|the rest of our lives",
+   "prize": "booker",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "The Rest of Our Lives",
+   "authors": [
+    "Ben Markovits",
+    "Benjamin Markovits"
+   ],
+   "note": "",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "169562630",
+     "brn": "9034434",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "155070667",
+     "brn": "8641247",
+     "kind": "book",
+     "format": "eBook"
+    },
+    {
+     "irn": "173810028",
+     "brn": "9054728",
+     "kind": "audiobook",
+     "format": "eAudiobook"
+    }
+   ]
+  },
+  {
+   "id": "booker|2025|endling",
+   "prize": "booker",
+   "year": 2025,
+   "stage": "longlist",
+   "title": "Endling",
+   "authors": [
+    "Maria Reva"
+   ],
+   "note": "",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": null,
+   "matches": [
+    {
+     "irn": "189027781",
+     "brn": "9135906",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "booker|2025|love forms",
+   "prize": "booker",
+   "year": 2025,
+   "stage": "longlist",
+   "title": "Love Forms",
+   "authors": [
+    "Claire Adam"
+   ],
+   "note": "",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "149113464",
+     "brn": "7847689",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "162360220",
+     "brn": "8970007",
+     "kind": "book",
+     "format": "eBook"
+    },
+    {
+     "irn": "169540991",
+     "brn": "9012795",
+     "kind": "audiobook",
+     "format": "eAudiobook"
+    }
+   ]
+  },
+  {
+   "id": "booker|2025|misinterpretation",
+   "prize": "booker",
+   "year": 2025,
+   "stage": "longlist",
+   "title": "Misinterpretation",
+   "authors": [
+    "Ledia Xhoga"
+   ],
+   "note": "",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": null,
+   "matches": [
+    {
+     "irn": "178663485",
+     "brn": "9073593",
+     "kind": "audiobook",
+     "format": "Audiobook CD"
+    }
+   ]
+  },
+  {
+   "id": "booker|2025|one boat",
+   "prize": "booker",
+   "year": 2025,
+   "stage": "longlist",
+   "title": "One Boat",
+   "authors": [
+    "Jonathan Buckley"
+   ],
+   "note": "",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "147247872",
+     "brn": "7424407",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "booker|2025|seascraper",
+   "prize": "booker",
+   "year": 2025,
+   "stage": "longlist",
+   "title": "Seascraper",
+   "authors": [
+    "Benjamin Wood"
+   ],
+   "note": "",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "152546918",
+     "brn": "8572761",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "178658188",
+     "brn": "9068296",
+     "kind": "book",
+     "format": "eBook"
+    },
+    {
+     "irn": "178658157",
+     "brn": "9068265",
+     "kind": "audiobook",
+     "format": "eAudiobook"
+    }
+   ]
+  },
+  {
+   "id": "booker|2025|the south",
+   "prize": "booker",
+   "year": 2025,
+   "stage": "longlist",
+   "title": "The South",
+   "authors": [
+    "Tash Aw"
+   ],
+   "note": "",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "131848855",
+     "brn": "4048568",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "150919407",
+     "brn": "8236162",
+     "kind": "book",
+     "format": "eBook"
+    },
+    {
+     "irn": "165760686",
+     "brn": "9003978",
+     "kind": "audiobook",
+     "format": "eAudiobook"
+    }
+   ]
+  },
+  {
+   "id": "booker|2025|universality",
+   "prize": "booker",
+   "year": 2025,
+   "stage": "longlist",
+   "title": "Universality",
+   "authors": [
+    "Natasha Brown"
+   ],
+   "note": "",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": null,
+   "matches": [
+    {
+     "irn": "189016973",
+     "brn": "9125098",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "womens-fiction|2026|the correspondent",
+   "prize": "womens-fiction",
+   "year": 2026,
+   "stage": "winner",
+   "title": "The Correspondent",
+   "authors": [
+    "Virginia Evans"
+   ],
+   "note": "Winner",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": null,
+   "matches": [
+    {
+     "irn": "189017038",
+     "brn": "9125163",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "womens-fiction|2026|dominion",
+   "prize": "womens-fiction",
+   "year": 2026,
+   "stage": "shortlist",
+   "title": "Dominion",
+   "authors": [
+    "Addie E Citchens"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "169561812",
+     "brn": "9033616",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "126347707",
+     "brn": "9214940",
+     "kind": "book",
+     "format": "eBook"
+    },
+    {
+     "irn": "126347703",
+     "brn": "9214936",
+     "kind": "audiobook",
+     "format": "eAudiobook"
+    }
+   ]
+  },
+  {
+   "id": "womens-fiction|2026|flashlight",
+   "prize": "womens-fiction",
+   "year": 2026,
+   "stage": "shortlist",
+   "title": "Flashlight",
+   "authors": [
+    "Susan Choi"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "152546251",
+     "brn": "8572094",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "178658176",
+     "brn": "9068284",
+     "kind": "book",
+     "format": "eBook"
+    },
+    {
+     "irn": "178658152",
+     "brn": "9068260",
+     "kind": "audiobook",
+     "format": "eAudiobook"
+    }
+   ]
+  },
+  {
+   "id": "womens-fiction|2026|heart the lover",
+   "prize": "womens-fiction",
+   "year": 2026,
+   "stage": "shortlist",
+   "title": "Heart the Lover",
+   "authors": [
+    "Lily King"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": null,
+   "matches": [
+    {
+     "irn": "189025728",
+     "brn": "9133853",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "womens-fiction|2026|kingfisher",
+   "prize": "womens-fiction",
+   "year": 2026,
+   "stage": "shortlist",
+   "title": "Kingfisher",
+   "authors": [
+    "Rozie Kelly"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "153474571",
+     "brn": "8614494",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "193997633",
+     "brn": "9144606",
+     "kind": "book",
+     "format": "eBook"
+    }
+   ]
+  },
+  {
+   "id": "womens-fiction|2026|the mercy step",
+   "prize": "womens-fiction",
+   "year": 2026,
+   "stage": "shortlist",
+   "title": "The Mercy Step",
+   "authors": [
+    "Marcia Hutchinson"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "89060621",
+     "brn": "9165151",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "194000435",
+     "brn": "9147408",
+     "kind": "book",
+     "format": "eBook"
+    }
+   ]
+  },
+  {
+   "id": "womens-fiction|2025|the safekeep",
+   "prize": "womens-fiction",
+   "year": 2025,
+   "stage": "winner",
+   "title": "The Safekeep",
+   "authors": [
+    "Yael van der Wouden"
+   ],
+   "note": "Winner",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "141098561",
+     "brn": "5983121",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "129686416",
+     "brn": "3632656",
+     "kind": "book",
+     "format": "eBook"
+    },
+    {
+     "irn": "127099880",
+     "brn": "3121704",
+     "kind": "audiobook",
+     "format": "eAudiobook"
+    }
+   ]
+  },
+  {
+   "id": "womens-fiction|2025|all fours",
+   "prize": "womens-fiction",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "All Fours",
+   "authors": [
+    "Miranda July"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "145565919",
+     "brn": "7083988",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "157652114",
+     "brn": "8767436",
+     "kind": "book",
+     "format": "eBook"
+    },
+    {
+     "irn": "30464456",
+     "brn": "2773129",
+     "kind": "audiobook",
+     "format": "eAudiobook"
+    }
+   ]
+  },
+  {
+   "id": "womens-fiction|2025|fundamentally",
+   "prize": "womens-fiction",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "Fundamentally",
+   "authors": [
+    "Nussaibah Younis"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "173808648",
+     "brn": "9053348",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "womens-fiction|2025|good girl",
+   "prize": "womens-fiction",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "Good Girl",
+   "authors": [
+    "Aria Aber"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "128359711",
+     "brn": "3369055",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "194000169",
+     "brn": "9147142",
+     "kind": "book",
+     "format": "eBook"
+    }
+   ]
+  },
+  {
+   "id": "womens-fiction|2025|tell me everything",
+   "prize": "womens-fiction",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "Tell Me Everything",
+   "authors": [
+    "Elizabeth Strout"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": null,
+   "matches": [
+    {
+     "irn": "142503515",
+     "brn": "6299661",
+     "kind": "audiobook",
+     "format": "Audiobook CD"
+    }
+   ]
+  },
+  {
+   "id": "womens-fiction|2025|the persians",
+   "prize": "womens-fiction",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "The Persians",
+   "authors": [
+    "Sanam Mahloudji"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "128099719",
+     "brn": "3311559",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "148681597",
+     "brn": "7744424",
+     "kind": "book",
+     "format": "eBook"
+    }
+   ]
+  },
+  {
+   "id": "international-booker|2026|taiwan travelogue",
+   "prize": "international-booker",
+   "year": 2026,
+   "stage": "winner",
+   "title": "Taiwan Travelogue",
+   "authors": [
+    "Yang Shuang-zi",
+    "Yáng Shuāng-zǐ"
+   ],
+   "note": "",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:09:39.298Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "194000432",
+     "brn": "9147405",
+     "kind": "book",
+     "format": "eBook"
+    }
+   ]
+  },
+  {
+   "id": "international-booker|2026|on earth as it is beneath",
+   "prize": "international-booker",
+   "year": 2026,
+   "stage": "shortlist",
+   "title": "On Earth As It Is Beneath",
+   "authors": [
+    "Ana Paula Maia"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "155072296",
+     "brn": "8642876",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "194000674",
+     "brn": "9147647",
+     "kind": "book",
+     "format": "eBook"
+    }
+   ]
+  },
+  {
+   "id": "international-booker|2026|she who remains",
+   "prize": "international-booker",
+   "year": 2026,
+   "stage": "shortlist",
+   "title": "She Who Remains",
+   "authors": [
+    "Rene Karabash"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "173812315",
+     "brn": "9057015",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "194000420",
+     "brn": "9147393",
+     "kind": "book",
+     "format": "eBook"
+    }
+   ]
+  },
+  {
+   "id": "international-booker|2026|the director",
+   "prize": "international-booker",
+   "year": 2026,
+   "stage": "shortlist",
+   "title": "The Director",
+   "authors": [
+    "Daniel Kehlmann"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": null,
+   "matches": [
+    {
+     "irn": "189016519",
+     "brn": "9124644",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "international-booker|2026|the nights are quiet in tehran",
+   "prize": "international-booker",
+   "year": 2026,
+   "stage": "shortlist",
+   "title": "The Nights Are Quiet in Tehran",
+   "authors": [
+    "Shida Bazyar"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "160700610",
+     "brn": "8879741",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "194000974",
+     "brn": "9147947",
+     "kind": "book",
+     "format": "eBook"
+    }
+   ]
+  },
+  {
+   "id": "international-booker|2026|the witch",
+   "prize": "international-booker",
+   "year": 2026,
+   "stage": "shortlist",
+   "title": "The Witch",
+   "authors": [
+    "Marie NDiaye"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "178672721",
+     "brn": "9082829",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "international-booker|2026|small comfort",
+   "prize": "international-booker",
+   "year": 2026,
+   "stage": "longlist",
+   "title": "Small Comfort",
+   "authors": [
+    "Ia Genberg"
+   ],
+   "note": "Longlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "178672441",
+     "brn": "9082549",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "international-booker|2026|the deserters",
+   "prize": "international-booker",
+   "year": 2026,
+   "stage": "longlist",
+   "title": "The Deserters",
+   "authors": [
+    "Mathias Énard"
+   ],
+   "note": "Longlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "152547277",
+     "brn": "8573120",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "194000400",
+     "brn": "9147373",
+     "kind": "book",
+     "format": "eBook"
+    }
+   ]
+  },
+  {
+   "id": "international-booker|2026|the duke",
+   "prize": "international-booker",
+   "year": 2026,
+   "stage": "longlist",
+   "title": "The Duke",
+   "authors": [
+    "Matteo Melchiorre"
+   ],
+   "note": "Longlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "169558466",
+     "brn": "9030270",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "194000415",
+     "brn": "9147388",
+     "kind": "book",
+     "format": "eBook"
+    }
+   ]
+  },
+  {
+   "id": "international-booker|2026|the remembered soldier",
+   "prize": "international-booker",
+   "year": 2026,
+   "stage": "longlist",
+   "title": "The Remembered Soldier",
+   "authors": [
+    "Anjet Daanje"
+   ],
+   "note": "Longlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "160700602",
+     "brn": "8879733",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "194000973",
+     "brn": "9147946",
+     "kind": "book",
+     "format": "eBook"
+    }
+   ]
+  },
+  {
+   "id": "international-booker|2026|the wax child",
+   "prize": "international-booker",
+   "year": 2026,
+   "stage": "longlist",
+   "title": "The Wax Child",
+   "authors": [
+    "Olga Ravn"
+   ],
+   "note": "Longlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "162370092",
+     "brn": "8979880",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "193997636",
+     "brn": "9144609",
+     "kind": "book",
+     "format": "eBook"
+    },
+    {
+     "irn": "126347782",
+     "brn": "9215008",
+     "kind": "audiobook",
+     "format": "eAudiobook"
+    }
+   ]
+  },
+  {
+   "id": "international-booker|2026|we are green and trembling",
+   "prize": "international-booker",
+   "year": 2026,
+   "stage": "longlist",
+   "title": "We Are Green and Trembling",
+   "authors": [
+    "Gabriela Cabezón Cámara"
+   ],
+   "note": "Longlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": null,
+   "matches": [
+    {
+     "irn": "193991635",
+     "brn": "9138608",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "international-booker|2026|women without men",
+   "prize": "international-booker",
+   "year": 2026,
+   "stage": "longlist",
+   "title": "Women without Men",
+   "authors": [
+    "Shahrnush Parsipur"
+   ],
+   "note": "Longlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": []
+  },
+  {
+   "id": "international-booker|2025|heart lamp selected stories",
+   "prize": "international-booker",
+   "year": 2025,
+   "stage": "winner",
+   "title": "Heart Lamp: Selected Stories",
+   "authors": [
+    "Banu Mushtaq"
+   ],
+   "note": "",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "139727639",
+     "brn": "5675301",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "international-booker|2025|a leopard skin hat",
+   "prize": "international-booker",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "A Leopard-Skin Hat",
+   "authors": [
+    "Anne Serre"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "6561625",
+     "brn": "2435771",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "international-booker|2025|on the calculation of volume i",
+   "prize": "international-booker",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "On the Calculation of Volume I",
+   "authors": [
+    "Solvej Balle"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "178661720",
+     "brn": "9071828",
+     "kind": "book",
+     "format": "eBook"
+    }
+   ]
+  },
+  {
+   "id": "international-booker|2025|perfection",
+   "prize": "international-booker",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "Perfection",
+   "authors": [
+    "Vincenzo Latronico"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "31241416",
+     "brn": "2841356",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "162360211",
+     "brn": "8969998",
+     "kind": "book",
+     "format": "eBook"
+    }
+   ]
+  },
+  {
+   "id": "international-booker|2025|small boat",
+   "prize": "international-booker",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "Small Boat",
+   "authors": [
+    "Vincent Delecroix"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "151124419",
+     "brn": "8263990",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "international-booker|2025|under the eye of the big bird",
+   "prize": "international-booker",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "Under the Eye of the Big Bird",
+   "authors": [
+    "Hiromi Kawakami"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "129055484",
+     "brn": "3482652",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "international-booker|2025|eurotrash",
+   "prize": "international-booker",
+   "year": 2025,
+   "stage": "longlist",
+   "title": "Eurotrash",
+   "authors": [
+    "Christian Kracht"
+   ],
+   "note": "Longlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "78836338",
+     "brn": "2875026",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "international-booker|2025|hunchback",
+   "prize": "international-booker",
+   "year": 2025,
+   "stage": "longlist",
+   "title": "Hunchback",
+   "authors": [
+    "Saou Ichikawa"
+   ],
+   "note": "Longlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "138561169",
+     "brn": "5420058",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "162371291",
+     "brn": "8981079",
+     "kind": "book",
+     "format": "eBook"
+    }
+   ]
+  },
+  {
+   "id": "international-booker|2025|on a womans madness",
+   "prize": "international-booker",
+   "year": 2025,
+   "stage": "longlist",
+   "title": "On a Woman's Madness",
+   "authors": [
+    "Astrid Roemer"
+   ],
+   "note": "Longlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "126337182",
+     "brn": "2966494",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "international-booker|2025|reservoir bitches",
+   "prize": "international-booker",
+   "year": 2025,
+   "stage": "longlist",
+   "title": "Reservoir Bitches",
+   "authors": [
+    "Dahlia de la Cerda"
+   ],
+   "note": "Longlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "87621195",
+     "brn": "2901932",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "international-booker|2025|solenoid",
+   "prize": "international-booker",
+   "year": 2025,
+   "stage": "longlist",
+   "title": "Solenoid",
+   "authors": [
+    "Mircea Cărtărescu"
+   ],
+   "note": "Longlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "130772264",
+     "brn": "3857898",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "international-booker|2025|the book of disappearance",
+   "prize": "international-booker",
+   "year": 2025,
+   "stage": "longlist",
+   "title": "The Book of Disappearance",
+   "authors": [
+    "Ibtisam Azem"
+   ],
+   "note": "Longlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "126842857",
+     "brn": "3092489",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "international-booker|2025|theres a monster behind the door",
+   "prize": "international-booker",
+   "year": 2025,
+   "stage": "longlist",
+   "title": "There's a Monster behind the Door",
+   "authors": [
+    "Gaëlle Bélem"
+   ],
+   "note": "Longlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "31245172",
+     "brn": "2845112",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "waterstones|2025|the artist",
+   "prize": "waterstones",
+   "year": 2025,
+   "stage": "winner",
+   "title": "The Artist",
+   "authors": [
+    "Lucy Steeds"
+   ],
+   "note": "Winner",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "128359400",
+     "brn": "3368744",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "waterstones|2025|alice with a why",
+   "prize": "waterstones",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "Alice with a Why",
+   "authors": [
+    "Anna James"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "147246925",
+     "brn": "7423460",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "waterstones|2025|craftland",
+   "prize": "waterstones",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "Craftland",
+   "authors": [
+    "James Fox"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "89064001",
+     "brn": "9184770",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "waterstones|2025|donut squad take over the world",
+   "prize": "waterstones",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "Donut Squad: Take Over the World!",
+   "authors": [
+    "Neill Cameron"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": []
+  },
+  {
+   "id": "waterstones|2025|katabasis",
+   "prize": "waterstones",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "Katabasis",
+   "authors": [
+    "R. F. Kuang"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": null,
+   "matches": [
+    {
+     "irn": "165761450",
+     "brn": "9004742",
+     "kind": "audiobook",
+     "format": "Audiobook CD"
+    }
+   ]
+  },
+  {
+   "id": "waterstones|2025|mother mary comes to me",
+   "prize": "waterstones",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "Mother Mary Comes to Me",
+   "authors": [
+    "Arundhati Roy"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": null,
+   "matches": [
+    {
+     "irn": "189016470",
+     "brn": "9124595",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "194013970",
+     "brn": "9160943",
+     "kind": "audiobook",
+     "format": "eAudiobook"
+    }
+   ]
+  },
+  {
+   "id": "waterstones|2025|ocean earths last wilderness",
+   "prize": "waterstones",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "Ocean: Earth's last wilderness",
+   "authors": [
+    "David Attenborough"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "144472898",
+     "brn": "6800950",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "160699536",
+     "brn": "8878667",
+     "kind": "book",
+     "format": "Large print"
+    }
+   ]
+  },
+  {
+   "id": "waterstones|2025|padella",
+   "prize": "waterstones",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "Padella",
+   "authors": [
+    "Tim Siadatan"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "155450252",
+     "brn": "8666465",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "waterstones|2025|so long see you tomorrow",
+   "prize": "waterstones",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "So Long, See You Tomorrow",
+   "authors": [
+    "William Maxwell",
+    "William Keepers Maxwell Jr."
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "2437451",
+     "brn": "766865",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "waterstones|2025|strange pictures by",
+   "prize": "waterstones",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "Strange Pictures by",
+   "authors": [
+    "Uketsu"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": []
+  },
+  {
+   "id": "waterstones|2025|sunrise on the reaping",
+   "prize": "waterstones",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "Sunrise on the Reaping",
+   "authors": [
+    "Suzanne Collins"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "89060658",
+     "brn": "9175970",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "153186613",
+     "brn": "8604968",
+     "kind": "book",
+     "format": "eBook"
+    },
+    {
+     "irn": "155070706",
+     "brn": "8641286",
+     "kind": "audiobook",
+     "format": "eAudiobook"
+    }
+   ]
+  },
+  {
+   "id": "waterstones|2025|the cafe at the edge of the woods",
+   "prize": "waterstones",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "The Café at the Edge of the Woods",
+   "authors": [
+    "Mikey Please"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "178676238",
+     "brn": "9086346",
+     "kind": "audiobook",
+     "format": "eAudiobook"
+    }
+   ]
+  },
+  {
+   "id": "waterstones|2025|the let them theory",
+   "prize": "waterstones",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "The Let Them Theory",
+   "authors": [
+    "Mel Robbins"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "6498684",
+     "brn": "2423455",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "144692051",
+     "brn": "6868231",
+     "kind": "book",
+     "format": "eBook"
+    },
+    {
+     "irn": "162367065",
+     "brn": "8976853",
+     "kind": "audiobook",
+     "format": "eAudiobook"
+    }
+   ]
+  },
+  {
+   "id": "waterstones|2025|the raven scholar",
+   "prize": "waterstones",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "The Raven Scholar",
+   "authors": [
+    "Antonia Hodgson"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "140246649",
+     "brn": "5814633",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "waterstones|2025|universality",
+   "prize": "waterstones",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "Universality",
+   "authors": [
+    "Natasha Browne",
+    "Natasha Brown"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": null,
+   "matches": [
+    {
+     "irn": "189016973",
+     "brn": "9125098",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "waterstones|2024|butter",
+   "prize": "waterstones",
+   "year": 2024,
+   "stage": "winner",
+   "title": "Butter",
+   "authors": [
+    "Asako Yuzuki"
+   ],
+   "note": "Winner",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "139573280",
+     "brn": "5647504",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "30826166",
+     "brn": "2831096",
+     "kind": "book",
+     "format": "eBook"
+    },
+    {
+     "irn": "30826158",
+     "brn": "2831088",
+     "kind": "audiobook",
+     "format": "eAudiobook"
+    }
+   ]
+  },
+  {
+   "id": "waterstones|2024|blue sisters",
+   "prize": "waterstones",
+   "year": 2024,
+   "stage": "shortlist",
+   "title": "Blue Sisters",
+   "authors": [
+    "Coco Mellors"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "137940342",
+     "brn": "5280159",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "waterstones|2024|cloudspotting for beginners",
+   "prize": "waterstones",
+   "year": 2024,
+   "stage": "shortlist",
+   "title": "Cloudspotting for Beginners",
+   "authors": [
+    "Gavin Pretor-Pinney"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": []
+  },
+  {
+   "id": "waterstones|2024|easy wins",
+   "prize": "waterstones",
+   "year": 2024,
+   "stage": "shortlist",
+   "title": "Easy Wins",
+   "authors": [
+    "Anna Jones"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "6559695",
+     "brn": "2433842",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "waterstones|2024|eighteen a history of britain in 18 young lives",
+   "prize": "waterstones",
+   "year": 2024,
+   "stage": "shortlist",
+   "title": "Eighteen: A History of Britain in 18 Young Lives",
+   "authors": [
+    "Alice Loxton"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": []
+  },
+  {
+   "id": "waterstones|2024|glorious exploits",
+   "prize": "waterstones",
+   "year": 2024,
+   "stage": "shortlist",
+   "title": "Glorious Exploits",
+   "authors": [
+    "Ferdia Lennon"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "6377790",
+     "brn": "2403808",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "waterstones|2024|i am rebel",
+   "prize": "waterstones",
+   "year": 2024,
+   "stage": "shortlist",
+   "title": "I Am Rebel",
+   "authors": [
+    "Ross Montgomery",
+    "Ross Mongomery"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "7264653",
+     "brn": "2708497",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "131303297",
+     "brn": "3933315",
+     "kind": "book",
+     "format": "eBook"
+    }
+   ]
+  },
+  {
+   "id": "waterstones|2024|intermezzo",
+   "prize": "waterstones",
+   "year": 2024,
+   "stage": "shortlist",
+   "title": "Intermezzo",
+   "authors": [
+    "Sally Rooney"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "145253242",
+     "brn": "6999118",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "132752207",
+     "brn": "4217874",
+     "kind": "book",
+     "format": "eBook"
+    },
+    {
+     "irn": "131836677",
+     "brn": "4036391",
+     "kind": "audiobook",
+     "format": "eAudiobook"
+    }
+   ]
+  },
+  {
+   "id": "waterstones|2024|james",
+   "prize": "waterstones",
+   "year": 2024,
+   "stage": "shortlist",
+   "title": "James",
+   "authors": [
+    "Percival Everett"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": null,
+   "matches": [
+    {
+     "irn": "189029662",
+     "brn": "9137787",
+     "kind": "audiobook",
+     "format": "eAudiobook"
+    }
+   ]
+  },
+  {
+   "id": "waterstones|2024|long island",
+   "prize": "waterstones",
+   "year": 2024,
+   "stage": "shortlist",
+   "title": "Long Island",
+   "authors": [
+    "Colm Tóibín"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": null,
+   "matches": [
+    {
+     "irn": "31241167",
+     "brn": "2841107",
+     "kind": "audiobook",
+     "format": "Audiobook CD"
+    }
+   ]
+  },
+  {
+   "id": "waterstones|2024|raising hare",
+   "prize": "waterstones",
+   "year": 2024,
+   "stage": "shortlist",
+   "title": "Raising Hare",
+   "authors": [
+    "Chloe Dalton"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": null,
+   "matches": [
+    {
+     "irn": "133964918",
+     "brn": "4468729",
+     "kind": "audiobook",
+     "format": "Audiobook CD"
+    }
+   ]
+  },
+  {
+   "id": "waterstones|2024|shakespeares first folio all the plays a childrens edition",
+   "prize": "waterstones",
+   "year": 2024,
+   "stage": "shortlist",
+   "title": "Shakespeare’s First Folio: All the Plays – A Children’s Edition",
+   "authors": [
+    "William Shakespeare"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "7177919",
+     "brn": "2672386",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "89066567",
+     "brn": "2929831",
+     "kind": "book",
+     "format": "eBook"
+    }
+   ]
+  },
+  {
+   "id": "waterstones|2024|the garden against time",
+   "prize": "waterstones",
+   "year": 2024,
+   "stage": "shortlist",
+   "title": "The Garden Against Time",
+   "authors": [
+    "Olivia Laing"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "139209008",
+     "brn": "5586969",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "30464364",
+     "brn": "2773037",
+     "kind": "audiobook",
+     "format": "eAudiobook"
+    }
+   ]
+  },
+  {
+   "id": "waterstones|2024|the reappearance of rachel price",
+   "prize": "waterstones",
+   "year": 2024,
+   "stage": "shortlist",
+   "title": "The Reappearance of Rachel Price",
+   "authors": [
+    "Holly Jackson"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "133463161",
+     "brn": "4346652",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "178676237",
+     "brn": "9086345",
+     "kind": "book",
+     "format": "eBook"
+    },
+    {
+     "irn": "30465284",
+     "brn": "2773957",
+     "kind": "audiobook",
+     "format": "eAudiobook"
+    }
+   ]
+  },
+  {
+   "id": "waterstones|2024|the siege",
+   "prize": "waterstones",
+   "year": 2024,
+   "stage": "shortlist",
+   "title": "The Siege",
+   "authors": [
+    "Ben Macintyre"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "7259987",
+     "brn": "2703830",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "136553048",
+     "brn": "5006588",
+     "kind": "book",
+     "format": "Large print"
+    },
+    {
+     "irn": "144692063",
+     "brn": "6868241",
+     "kind": "book",
+     "format": "eBook"
+    }
+   ]
+  },
+  {
+   "id": "nero|2025|a family matter",
+   "prize": "nero",
+   "year": 2025,
+   "stage": "winner",
+   "title": "A Family Matter",
+   "authors": [
+    "Claire Lynch"
+   ],
+   "note": "Overall winner Debut fiction winner",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "178658575",
+     "brn": "9068683",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "189005332",
+     "brn": "9113456",
+     "kind": "audiobook",
+     "format": "eAudiobook"
+    }
+   ]
+  },
+  {
+   "id": "nero|2025|death of an ordinary man",
+   "prize": "nero",
+   "year": 2025,
+   "stage": "winner",
+   "title": "Death of an Ordinary Man",
+   "authors": [
+    "Sarah Perry"
+   ],
+   "note": "Non-fiction winner",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "184360402",
+     "brn": "9100622",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "189005346",
+     "brn": "9113470",
+     "kind": "book",
+     "format": "eBook"
+    },
+    {
+     "irn": "189005333",
+     "brn": "9113457",
+     "kind": "audiobook",
+     "format": "eAudiobook"
+    }
+   ]
+  },
+  {
+   "id": "nero|2025|my soul a shining tree",
+   "prize": "nero",
+   "year": 2025,
+   "stage": "winner",
+   "title": "My Soul, A Shining Tree",
+   "authors": [
+    "Jamila Gavin"
+   ],
+   "note": "Children's fiction winner",
+   "children": true,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "152546410",
+     "brn": "8572253",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "nero|2025|seascraper",
+   "prize": "nero",
+   "year": 2025,
+   "stage": "winner",
+   "title": "Seascraper",
+   "authors": [
+    "Benjamin Wood"
+   ],
+   "note": "Fiction winner",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "152546918",
+     "brn": "8572761",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "178658188",
+     "brn": "9068296",
+     "kind": "book",
+     "format": "eBook"
+    },
+    {
+     "irn": "178658157",
+     "brn": "9068265",
+     "kind": "audiobook",
+     "format": "eAudiobook"
+    }
+   ]
+  },
+  {
+   "id": "nero|2025|craftland",
+   "prize": "nero",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "Craftland",
+   "authors": [
+    "James Fox"
+   ],
+   "note": "Non-fiction shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "89064001",
+     "brn": "9184770",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "nero|2025|cursed daughters",
+   "prize": "nero",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "Cursed Daughters",
+   "authors": [
+    "Oyinkan Braithwaite"
+   ],
+   "note": "Fiction shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": null,
+   "matches": [
+    {
+     "irn": "189026218",
+     "brn": "9134343",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "nero|2025|dragonborn",
+   "prize": "nero",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "Dragonborn",
+   "authors": [
+    "Struan Murray"
+   ],
+   "note": "Children's fiction shortlist",
+   "children": true,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "178662878",
+     "brn": "9072986",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "nero|2025|lush",
+   "prize": "nero",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "Lush",
+   "authors": [
+    "Rochelle Dowden-Lord"
+   ],
+   "note": "Debut fiction shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "184361562",
+     "brn": "9101782",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "159560628",
+     "brn": "8853486",
+     "kind": "book",
+     "format": "eBook"
+    }
+   ]
+  },
+  {
+   "id": "nero|2025|people like stars",
+   "prize": "nero",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "People Like Stars",
+   "authors": [
+    "Patrice Lawrence"
+   ],
+   "note": "Children's fiction shortlist",
+   "children": true,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": null,
+   "matches": [
+    {
+     "irn": "142503407",
+     "brn": "6299553",
+     "kind": "audiobook",
+     "format": "Audiobook CD"
+    }
+   ]
+  },
+  {
+   "id": "nero|2025|season",
+   "prize": "nero",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "Season",
+   "authors": [
+    "George Harrison"
+   ],
+   "note": "Debut fiction shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "169561056",
+     "brn": "9032860",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "nero|2025|shrapnel boys",
+   "prize": "nero",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "Shrapnel Boys",
+   "authors": [
+    "Jenny Pearson"
+   ],
+   "note": "Children's fiction shortlist",
+   "children": true,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "145253977",
+     "brn": "6999852",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "nero|2025|the expansion project",
+   "prize": "nero",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "The Expansion Project",
+   "authors": [
+    "Ben Pester"
+   ],
+   "note": "Debut fiction shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "162371153",
+     "brn": "8980941",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "nero|2025|the finest hotel in kabul",
+   "prize": "nero",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "The Finest Hotel in Kabul",
+   "authors": [
+    "Lyse Doucet"
+   ],
+   "note": "Non-fiction shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": null,
+   "matches": [
+    {
+     "irn": "194013972",
+     "brn": "9160945",
+     "kind": "audiobook",
+     "format": "eAudiobook"
+    }
+   ]
+  },
+  {
+   "id": "nero|2025|the two roberts",
+   "prize": "nero",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "The Two Roberts",
+   "authors": [
+    "Damian Barr"
+   ],
+   "note": "Fiction shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "157653838",
+     "brn": "8769160",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "169559037",
+     "brn": "9030841",
+     "kind": "book",
+     "format": "eBook"
+    },
+    {
+     "irn": "169559036",
+     "brn": "9030840",
+     "kind": "audiobook",
+     "format": "eAudiobook"
+    }
+   ]
+  },
+  {
+   "id": "nero|2025|we came by sea",
+   "prize": "nero",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "We Came by Sea",
+   "authors": [
+    "Horatio Clare"
+   ],
+   "note": "Non-fiction shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "178665327",
+     "brn": "9075435",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "nero|2025|what we can know",
+   "prize": "nero",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "What We Can Know",
+   "authors": [
+    "Ian McEwan"
+   ],
+   "note": "Fiction shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": null,
+   "matches": [
+    {
+     "irn": "189022164",
+     "brn": "9130289",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "173796904",
+     "brn": "9041604",
+     "kind": "audiobook",
+     "format": "Audiobook CD"
+    }
+   ]
+  },
+  {
+   "id": "nero|2024|lost in the garden",
+   "prize": "nero",
+   "year": 2024,
+   "stage": "winner",
+   "title": "Lost in the Garden",
+   "authors": [
+    "Adam S. Leslie"
+   ],
+   "note": "Fiction winner",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "6619237",
+     "brn": "2468073",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "nero|2024|maurice and maralyn",
+   "prize": "nero",
+   "year": 2024,
+   "stage": "winner",
+   "title": "Maurice and Maralyn",
+   "authors": [
+    "Sophie Elmhirst"
+   ],
+   "note": "Overall winner Non-fiction winner",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "132157696",
+     "brn": "4104290",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "nero|2024|the twelve",
+   "prize": "nero",
+   "year": 2024,
+   "stage": "winner",
+   "title": "The Twelve",
+   "authors": [
+    "Liz Hyder",
+    "Tom de Freston"
+   ],
+   "note": "Children's fiction winner",
+   "children": true,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "162359520",
+     "brn": "8969307",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "173809929",
+     "brn": "9054629",
+     "kind": "audiobook",
+     "format": "eAudiobook"
+    }
+   ]
+  },
+  {
+   "id": "nero|2024|wild houses",
+   "prize": "nero",
+   "year": 2024,
+   "stage": "winner",
+   "title": "Wild Houses",
+   "authors": [
+    "Colin Barrett"
+   ],
+   "note": "Debut fiction winner",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "128100766",
+     "brn": "3312607",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "nero|2024|all that glitters",
+   "prize": "nero",
+   "year": 2024,
+   "stage": "shortlist",
+   "title": "All That Glitters",
+   "authors": [
+    "Orlando Whitfield"
+   ],
+   "note": "Non-fiction shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "6610980",
+     "brn": "2459808",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "nero|2024|an african history of africa",
+   "prize": "nero",
+   "year": 2024,
+   "stage": "shortlist",
+   "title": "An African History of Africa",
+   "authors": [
+    "Zeinab Badawi"
+   ],
+   "note": "Non-fiction shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "139726483",
+     "brn": "5674147",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "nero|2024|bird boy",
+   "prize": "nero",
+   "year": 2024,
+   "stage": "shortlist",
+   "title": "Bird Boy",
+   "authors": [
+    "Catherine Bruton"
+   ],
+   "note": "Children's fiction shortlist",
+   "children": true,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "7246179",
+     "brn": "2690022",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "nero|2024|chronicles of a lizard nobody",
+   "prize": "nero",
+   "year": 2024,
+   "stage": "shortlist",
+   "title": "Chronicles of a Lizard Nobody",
+   "authors": [
+    "Patrick Ness"
+   ],
+   "note": "Children's fiction shortlist",
+   "children": true,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": null,
+   "matches": [
+    {
+     "irn": "89056801",
+     "brn": "2920065",
+     "kind": "audiobook",
+     "format": "Audiobook CD"
+    }
+   ]
+  },
+  {
+   "id": "nero|2024|glorious exploits",
+   "prize": "nero",
+   "year": 2024,
+   "stage": "shortlist",
+   "title": "Glorious Exploits",
+   "authors": [
+    "Ferdia Lennon"
+   ],
+   "note": "Debut fiction shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "6377790",
+     "brn": "2403808",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "nero|2024|heart be at peace",
+   "prize": "nero",
+   "year": 2024,
+   "stage": "shortlist",
+   "title": "Heart, Be at Peace",
+   "authors": [
+    "Donal Ryan"
+   ],
+   "note": "Fiction shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "148197275",
+     "brn": "7639782",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "139477952",
+     "brn": "5628112",
+     "kind": "book",
+     "format": "eBook"
+    },
+    {
+     "irn": "139477945",
+     "brn": "5628105",
+     "kind": "audiobook",
+     "format": "eAudiobook"
+    }
+   ]
+  },
+  {
+   "id": "nero|2024|how to survive a horror movie",
+   "prize": "nero",
+   "year": 2024,
+   "stage": "shortlist",
+   "title": "How to Survive a Horror Movie",
+   "authors": [
+    "Scarlet Dunmore"
+   ],
+   "note": "Children's fiction shortlist",
+   "children": true,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "6647583",
+     "brn": "2496413",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "nero|2024|levitation for beginners",
+   "prize": "nero",
+   "year": 2024,
+   "stage": "shortlist",
+   "title": "Levitation for Beginners",
+   "authors": [
+    "Suzannah Dunn"
+   ],
+   "note": "Fiction shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "7185104",
+     "brn": "2679572",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "nero|2024|monumenta",
+   "prize": "nero",
+   "year": 2024,
+   "stage": "shortlist",
+   "title": "Monumenta",
+   "authors": [
+    "Lara Haworth"
+   ],
+   "note": "Debut fiction shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "7251368",
+     "brn": "2695211",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "150813951",
+     "brn": "8206642",
+     "kind": "audiobook",
+     "format": "eAudiobook"
+    }
+   ]
+  },
+  {
+   "id": "nero|2024|no small thing",
+   "prize": "nero",
+   "year": 2024,
+   "stage": "shortlist",
+   "title": "No Small Thing",
+   "authors": [
+    "Orlaine McDonald"
+   ],
+   "note": "Debut fiction shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "7270581",
+     "brn": "2714425",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "nero|2024|pixel flesh",
+   "prize": "nero",
+   "year": 2024,
+   "stage": "shortlist",
+   "title": "Pixel Flesh",
+   "authors": [
+    "Ellen Atlanta"
+   ],
+   "note": "Non-fiction shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "138726777",
+     "brn": "5459106",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "nero|2024|the hypocrite",
+   "prize": "nero",
+   "year": 2024,
+   "stage": "shortlist",
+   "title": "The Hypocrite",
+   "authors": [
+    "Jo Hamya"
+   ],
+   "note": "Fiction shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "6565687",
+     "brn": "2439835",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "baillie-gifford|2026|alexander god king man",
+   "prize": "baillie-gifford",
+   "year": 2026,
+   "stage": "shortlist",
+   "title": "Alexander: God, King, Man",
+   "authors": [
+    "Edmund Richardson"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": null,
+   "matches": [
+    {
+     "irn": "193995480",
+     "brn": "9142453",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "baillie-gifford|2026|baldwin a love story",
+   "prize": "baillie-gifford",
+   "year": 2026,
+   "stage": "shortlist",
+   "title": "Baldwin: A Love Story",
+   "authors": [
+    "Nicholas Boggs"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "184349538",
+     "brn": "9089758",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "baillie-gifford|2026|days of love and rage a story of revolution",
+   "prize": "baillie-gifford",
+   "year": 2026,
+   "stage": "shortlist",
+   "title": "Days of Love and Rage: A Story of Revolution",
+   "authors": [
+    "Anand Gopal"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "184360050",
+     "brn": "9100270",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "baillie-gifford|2026|london falling a mysterious death in a gilded city and a familys search for truth",
+   "prize": "baillie-gifford",
+   "year": 2026,
+   "stage": "shortlist",
+   "title": "London Falling: A Mysterious Death in a Gilded City and a Family’s Search for Truth",
+   "authors": [
+    "Patrick Radden Keefe"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "178670592",
+     "brn": "9080700",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "194014225",
+     "brn": "9161198",
+     "kind": "book",
+     "format": "eBook"
+    },
+    {
+     "irn": "89061042",
+     "brn": "9168708",
+     "kind": "audiobook",
+     "format": "eAudiobook"
+    }
+   ]
+  },
+  {
+   "id": "baillie-gifford|2026|the great dictator a life of barbara cartland",
+   "prize": "baillie-gifford",
+   "year": 2026,
+   "stage": "shortlist",
+   "title": "The Great Dictator: A Life of Barbara Cartland",
+   "authors": [
+    "Matthew Sweet"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "224494",
+     "brn": "9227363",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "baillie-gifford|2026|the traveller the revolutionary life of george forster and his search for humanity",
+   "prize": "baillie-gifford",
+   "year": 2026,
+   "stage": "shortlist",
+   "title": "The Traveller: The Revolutionary Life of George Forster and his Search for Humanity",
+   "authors": [
+    "Andrea Wulf"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": null,
+   "matches": [
+    {
+     "irn": "189007822",
+     "brn": "9115946",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "baillie-gifford|2025|how to end a story collected diaries",
+   "prize": "baillie-gifford",
+   "year": 2025,
+   "stage": "winner",
+   "title": "How to End a Story: Collected Diaries",
+   "authors": [
+    "Helen Garner"
+   ],
+   "note": "Winner",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "137941463",
+     "brn": "5281280",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "baillie-gifford|2025|captives and companions a history of slavery and the slave trade in the islamic world",
+   "prize": "baillie-gifford",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "Captives and Companions: A History of Slavery and the Slave Trade in the Islamic World",
+   "authors": [
+    "Justin Marozzi"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "151113877",
+     "brn": "8253447",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "178658175",
+     "brn": "9068283",
+     "kind": "book",
+     "format": "eBook"
+    }
+   ]
+  },
+  {
+   "id": "baillie-gifford|2025|electric spark the enigma of muriel spark",
+   "prize": "baillie-gifford",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "Electric Spark: The Enigma of Muriel Spark",
+   "authors": [
+    "Frances Wilson"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "178677334",
+     "brn": "9087442",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "baillie-gifford|2025|lone wolf walking the faultlines of europe",
+   "prize": "baillie-gifford",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "Lone Wolf: Walking the Faultlines of Europe",
+   "authors": [
+    "Adam Weymouth"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": null,
+   "matches": [
+    {
+     "irn": "189020235",
+     "brn": "9128360",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "baillie-gifford|2025|the boundless deep young tennyson science and the crisis of belief",
+   "prize": "baillie-gifford",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "The Boundless Deep: Young Tennyson, Science and the Crisis of Belief",
+   "authors": [
+    "Richard Holmes"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "158054065",
+     "brn": "8789707",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "baillie-gifford|2025|the revolutionists the story of the extremists who hijacked the 1970s",
+   "prize": "baillie-gifford",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "The Revolutionists: The Story of the Extremists Who Hijacked the 1970s",
+   "authors": [
+    "Jason Burke"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": null,
+   "matches": [
+    {
+     "irn": "189017771",
+     "brn": "9125896",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "womens-nonfiction|2026|the finest hotel in kabul a peoples history of afghanistan",
+   "prize": "womens-nonfiction",
+   "year": 2026,
+   "stage": "winner",
+   "title": "The Finest Hotel in Kabul: A People’s History of Afghanistan",
+   "authors": [
+    "Lyse Doucet"
+   ],
+   "note": "Winner",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": null,
+   "matches": [
+    {
+     "irn": "194013972",
+     "brn": "9160945",
+     "kind": "audiobook",
+     "format": "eAudiobook"
+    }
+   ]
+  },
+  {
+   "id": "womens-nonfiction|2026|art cure the science of how the arts transform our health",
+   "prize": "womens-nonfiction",
+   "year": 2026,
+   "stage": "shortlist",
+   "title": "Art Cure: The Science of How the Arts Transform Our Health",
+   "authors": [
+    "Daisy Fancourt"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "169556591",
+     "brn": "9028395",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "womens-nonfiction|2026|artists siblings visionaries the lives and loves of gwen and augustus john",
+   "prize": "womens-nonfiction",
+   "year": 2026,
+   "stage": "shortlist",
+   "title": "Artists, Siblings, Visionaries: The lives and loves of Gwen and Augustus John",
+   "authors": [
+    "Judith Mackrell"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": null,
+   "matches": [
+    {
+     "irn": "194000759",
+     "brn": "9147732",
+     "kind": "audiobook",
+     "format": "eAudiobook"
+    }
+   ]
+  },
+  {
+   "id": "womens-nonfiction|2026|hotel exile paris in the shadow of war",
+   "prize": "womens-nonfiction",
+   "year": 2026,
+   "stage": "shortlist",
+   "title": "Hotel Exile: Paris in the Shadow of War",
+   "authors": [
+    "Jane Rogoyska"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "173802805",
+     "brn": "9047505",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "womens-nonfiction|2026|mother mary comes to me",
+   "prize": "womens-nonfiction",
+   "year": 2026,
+   "stage": "shortlist",
+   "title": "Mother Mary Comes to Me",
+   "authors": [
+    "Arundhati Roy"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": null,
+   "matches": [
+    {
+     "irn": "189016470",
+     "brn": "9124595",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "194013970",
+     "brn": "9160943",
+     "kind": "audiobook",
+     "format": "eAudiobook"
+    }
+   ]
+  },
+  {
+   "id": "womens-nonfiction|2026|nation of strangers rebuilding home in the 21st century",
+   "prize": "womens-nonfiction",
+   "year": 2026,
+   "stage": "shortlist",
+   "title": "Nation of Strangers: Rebuilding Home in the 21st Century",
+   "authors": [
+    "Ece Temelkuran"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": null,
+   "matches": [
+    {
+     "irn": "193993205",
+     "brn": "9140178",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "194000443",
+     "brn": "9147416",
+     "kind": "audiobook",
+     "format": "eAudiobook"
+    }
+   ]
+  },
+  {
+   "id": "womens-nonfiction|2025|the story of a heart two families one heart and a medical miracle",
+   "prize": "womens-nonfiction",
+   "year": 2025,
+   "stage": "winner",
+   "title": "The Story of a Heart: Two Families, One Heart, and a Medical Miracle",
+   "authors": [
+    "Rachel Clarke"
+   ],
+   "note": "Winner",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "6652455",
+     "brn": "2501281",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "136553001",
+     "brn": "5006541",
+     "kind": "book",
+     "format": "Large print"
+    }
+   ]
+  },
+  {
+   "id": "womens-nonfiction|2025|a thousand threads",
+   "prize": "womens-nonfiction",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "A Thousand Threads",
+   "authors": [
+    "Neneh Cherry"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "152551247",
+     "brn": "8577090",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "194000924",
+     "brn": "9147897",
+     "kind": "book",
+     "format": "eBook"
+    },
+    {
+     "irn": "149099189",
+     "brn": "7833414",
+     "kind": "audiobook",
+     "format": "eAudiobook"
+    }
+   ]
+  },
+  {
+   "id": "womens-nonfiction|2025|agent zo the untold story of a fearless world war ii resistance fighter",
+   "prize": "womens-nonfiction",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "Agent Zo: The Untold Story of a Fearless World War II Resistance Fighter",
+   "authors": [
+    "Clare Mulley"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "144501277",
+     "brn": "6829329",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "womens-nonfiction|2025|private revolutions four women face chinas new social order",
+   "prize": "womens-nonfiction",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "Private Revolutions: Four Women Face China's New Social Order",
+   "authors": [
+    "Yuan Yang"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "144706033",
+     "brn": "6882213",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "womens-nonfiction|2025|raising hare",
+   "prize": "womens-nonfiction",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "Raising Hare",
+   "authors": [
+    "Chloe Dalton"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": null,
+   "matches": [
+    {
+     "irn": "133964918",
+     "brn": "4468729",
+     "kind": "audiobook",
+     "format": "Audiobook CD"
+    }
+   ]
+  },
+  {
+   "id": "womens-nonfiction|2025|what the wild sea can be the future of the worlds ocean",
+   "prize": "womens-nonfiction",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "What the Wild Sea Can Be: The Future of the World’s Ocean",
+   "authors": [
+    "Helen Scales"
+   ],
+   "note": "Shortlist",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "149114890",
+     "brn": "7849115",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "carnegie|2026|wolf siren",
+   "prize": "carnegie",
+   "year": 2026,
+   "stage": "winner",
+   "title": "Wolf Siren",
+   "authors": [
+    "Beth O'Brien"
+   ],
+   "note": "",
+   "children": true,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:09:39.298Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "137834317",
+     "brn": "5250070",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "155070681",
+     "brn": "8641261",
+     "kind": "book",
+     "format": "eBook"
+    }
+   ]
+  },
+  {
+   "id": "carnegie|2026|birdie",
+   "prize": "carnegie",
+   "year": 2026,
+   "stage": "shortlist",
+   "title": "Birdie",
+   "authors": [
+    "J. P. Rose"
+   ],
+   "note": "Shortlist",
+   "children": true,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "7322902",
+     "brn": "2741422",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "carnegie|2026|chronicles of a lizard nobody",
+   "prize": "carnegie",
+   "year": 2026,
+   "stage": "shortlist",
+   "title": "Chronicles of a Lizard Nobody",
+   "authors": [
+    "Patrick Ness"
+   ],
+   "note": "Shortlist",
+   "children": true,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": null,
+   "matches": [
+    {
+     "irn": "89056801",
+     "brn": "2920065",
+     "kind": "audiobook",
+     "format": "Audiobook CD"
+    }
+   ]
+  },
+  {
+   "id": "carnegie|2026|ghostlines",
+   "prize": "carnegie",
+   "year": 2026,
+   "stage": "shortlist",
+   "title": "Ghostlines",
+   "authors": [
+    "Katya Balen"
+   ],
+   "note": "Shortlist",
+   "children": true,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "6652720",
+     "brn": "2501555",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "131303298",
+     "brn": "3933316",
+     "kind": "book",
+     "format": "eBook"
+    }
+   ]
+  },
+  {
+   "id": "carnegie|2026|not going to plan",
+   "prize": "carnegie",
+   "year": 2026,
+   "stage": "shortlist",
+   "title": "Not Going to Plan",
+   "authors": [
+    "Tia Fisher"
+   ],
+   "note": "Shortlist",
+   "children": true,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "158600390",
+     "brn": "8829792",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "169554280",
+     "brn": "9026084",
+     "kind": "audiobook",
+     "format": "eAudiobook"
+    }
+   ]
+  },
+  {
+   "id": "carnegie|2026|popcorn",
+   "prize": "carnegie",
+   "year": 2026,
+   "stage": "shortlist",
+   "title": "Popcorn",
+   "authors": [
+    "Rob Harrell"
+   ],
+   "note": "Shortlist",
+   "children": true,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "7320831",
+     "brn": "2739351",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "131303304",
+     "brn": "3933322",
+     "kind": "book",
+     "format": "eBook"
+    },
+    {
+     "irn": "128081687",
+     "brn": "3293527",
+     "kind": "audiobook",
+     "format": "eAudiobook"
+    }
+   ]
+  },
+  {
+   "id": "carnegie|2026|the boy i love",
+   "prize": "carnegie",
+   "year": 2026,
+   "stage": "shortlist",
+   "title": "The Boy I Love",
+   "authors": [
+    "William Hussey"
+   ],
+   "note": "Shortlist",
+   "children": true,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "128333414",
+     "brn": "3342757",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "146272079",
+     "brn": "7207972",
+     "kind": "audiobook",
+     "format": "eAudiobook"
+    }
+   ]
+  },
+  {
+   "id": "carnegie|2026|twenty four seconds from now",
+   "prize": "carnegie",
+   "year": 2026,
+   "stage": "shortlist",
+   "title": "Twenty-Four Seconds from Now",
+   "authors": [
+    "Jason Reynolds"
+   ],
+   "note": "Shortlist",
+   "children": true,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "7322578",
+     "brn": "2741098",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "carnegie|2025|glasgow boys",
+   "prize": "carnegie",
+   "year": 2025,
+   "stage": "winner",
+   "title": "Glasgow Boys",
+   "authors": [
+    "Margaret McDonald"
+   ],
+   "note": "",
+   "children": true,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "6556084",
+     "brn": "2430230",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "157349510",
+     "brn": "8743264",
+     "kind": "book",
+     "format": "eBook"
+    }
+   ]
+  },
+  {
+   "id": "carnegie|2025|all that it ever meant",
+   "prize": "carnegie",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "All That It Ever Meant",
+   "authors": [
+    "Blessing Musariri"
+   ],
+   "note": "Shortlist",
+   "children": true,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "78841278",
+     "brn": "2879967",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "carnegie|2025|king of nothing",
+   "prize": "carnegie",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "King of Nothing",
+   "authors": [
+    "Nathanael Lessore"
+   ],
+   "note": "Shortlist and Shadowers' Choice Winner",
+   "children": true,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "6501870",
+     "brn": "2426640",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "30464314",
+     "brn": "2772987",
+     "kind": "book",
+     "format": "eBook"
+    }
+   ]
+  },
+  {
+   "id": "carnegie|2025|little bang",
+   "prize": "carnegie",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "Little Bang",
+   "authors": [
+    "Kelly McCaughrain"
+   ],
+   "note": "Shortlist",
+   "children": true,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "7188182",
+     "brn": "2682648",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "carnegie|2025|play",
+   "prize": "carnegie",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "Play",
+   "authors": [
+    "Luke Palmer"
+   ],
+   "note": "Shortlist",
+   "children": true,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "6359571",
+     "brn": "2385592",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "carnegie|2025|the final year",
+   "prize": "carnegie",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "The Final Year",
+   "authors": [
+    "Matt Goodfellow"
+   ],
+   "note": "Shortlist",
+   "children": true,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "6348417",
+     "brn": "2374438",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "carnegie|2025|the things we leave behind",
+   "prize": "carnegie",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "The Things We Leave Behind",
+   "authors": [
+    "Claire Furniss"
+   ],
+   "note": "Shortlist",
+   "children": true,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": []
+  },
+  {
+   "id": "carnegie|2025|treacle town",
+   "prize": "carnegie",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "Treacle Town",
+   "authors": [
+    "Brian Conaghan"
+   ],
+   "note": "Shortlist",
+   "children": true,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "6368383",
+     "brn": "2394403",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "30457677",
+     "brn": "2766350",
+     "kind": "book",
+     "format": "eBook"
+    }
+   ]
+  },
+  {
+   "id": "waterstones-childrens|2026|a language of dragons",
+   "prize": "waterstones-childrens",
+   "year": 2026,
+   "stage": "winner",
+   "title": "A Language of Dragons",
+   "authors": [
+    "S. F. Williamson"
+   ],
+   "note": "Older Readers · Category winner",
+   "children": true,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:09:39.298Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "155069908",
+     "brn": "8640488",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "147980896",
+     "brn": "7575255",
+     "kind": "book",
+     "format": "eBook"
+    }
+   ]
+  },
+  {
+   "id": "waterstones-childrens|2026|evie and maryams family tree",
+   "prize": "waterstones-childrens",
+   "year": 2026,
+   "stage": "winner",
+   "title": "Evie and Maryam's Family Tree",
+   "authors": [
+    "Janeen Hayat"
+   ],
+   "note": "Younger Readers · Category winner",
+   "children": true,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": null,
+   "matches": []
+  },
+  {
+   "id": "waterstones-childrens|2026|sleep tight disgusting blob",
+   "prize": "waterstones-childrens",
+   "year": 2026,
+   "stage": "winner",
+   "title": "Sleep Tight, Disgusting Blob",
+   "authors": [
+    "Huw Aaron"
+   ],
+   "note": "OVERALL · Winner",
+   "children": true,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "137834457",
+     "brn": "5250210",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "waterstones-childrens|2026|and the river drags her down",
+   "prize": "waterstones-childrens",
+   "year": 2026,
+   "stage": "shortlist",
+   "title": "And the River Drags Her Down",
+   "authors": [
+    "Jihyun Yun"
+   ],
+   "note": "Older Readers · Shortlist",
+   "children": true,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "161927508",
+     "brn": "8942287",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "waterstones-childrens|2026|milo and the mountain",
+   "prize": "waterstones-childrens",
+   "year": 2026,
+   "stage": "shortlist",
+   "title": "Milo and the Mountain",
+   "authors": [
+    "Jamie Carroll"
+   ],
+   "note": "Illustrated Book · Shortlist",
+   "children": true,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "178668604",
+     "brn": "9078712",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "waterstones-childrens|2026|my rice is best",
+   "prize": "waterstones-childrens",
+   "year": 2026,
+   "stage": "shortlist",
+   "title": "My Rice Is Best",
+   "authors": [
+    "Selina Brown"
+   ],
+   "note": "Illustrated Book · Shortlist",
+   "children": true,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "145383744",
+     "brn": "7028372",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "waterstones-childrens|2026|solo",
+   "prize": "waterstones-childrens",
+   "year": 2026,
+   "stage": "shortlist",
+   "title": "Solo",
+   "authors": [
+    "Grainne O'Brien"
+   ],
+   "note": "Older Readers · Shortlist",
+   "children": true,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": []
+  },
+  {
+   "id": "waterstones-childrens|2026|spirit warriors",
+   "prize": "waterstones-childrens",
+   "year": 2026,
+   "stage": "shortlist",
+   "title": "Spirit Warriors",
+   "authors": [
+    "Ashley Thorpe"
+   ],
+   "note": "Younger Readers · Shortlist",
+   "children": true,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "159562559",
+     "brn": "8855417",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "waterstones-childrens|2026|the great green island",
+   "prize": "waterstones-childrens",
+   "year": 2026,
+   "stage": "shortlist",
+   "title": "The Great Green Island",
+   "authors": [
+    "Becky Colvin"
+   ],
+   "note": "Illustrated Book · Shortlist",
+   "children": true,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "152548329",
+     "brn": "8574172",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "165754381",
+     "brn": "8997673",
+     "kind": "book",
+     "format": "eBook"
+    }
+   ]
+  },
+  {
+   "id": "waterstones-childrens|2026|til death",
+   "prize": "waterstones-childrens",
+   "year": 2026,
+   "stage": "shortlist",
+   "title": "Til Death",
+   "authors": [
+    "Busayo Matuluko"
+   ],
+   "note": "Older Readers · Shortlist",
+   "children": true,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": null,
+   "matches": [
+    {
+     "irn": "194000983",
+     "brn": "9147956",
+     "kind": "audiobook",
+     "format": "eAudiobook"
+    }
+   ]
+  },
+  {
+   "id": "waterstones-childrens|2026|unfairies",
+   "prize": "waterstones-childrens",
+   "year": 2026,
+   "stage": "shortlist",
+   "title": "Unfairies",
+   "authors": [
+    "Huw Aaron"
+   ],
+   "note": "Younger Readers · Shortlist",
+   "children": true,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "155071487",
+     "brn": "8642067",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "waterstones-childrens|2026|wildlands",
+   "prize": "waterstones-childrens",
+   "year": 2026,
+   "stage": "shortlist",
+   "title": "Wildlands",
+   "authors": [
+    "Brogen Murphy"
+   ],
+   "note": "Younger Readers · Shortlist",
+   "children": true,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "137781893",
+     "brn": "5222957",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "162371289",
+     "brn": "8981077",
+     "kind": "book",
+     "format": "eBook"
+    }
+   ]
+  },
+  {
+   "id": "waterstones-childrens|2025|king of nothing",
+   "prize": "waterstones-childrens",
+   "year": 2025,
+   "stage": "winner",
+   "title": "King of Nothing",
+   "authors": [
+    "Nathanael Lessore"
+   ],
+   "note": "Older Readers · Category winner",
+   "children": true,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "6501870",
+     "brn": "2426640",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "30464314",
+     "brn": "2772987",
+     "kind": "book",
+     "format": "eBook"
+    }
+   ]
+  },
+  {
+   "id": "waterstones-childrens|2025|rune",
+   "prize": "waterstones-childrens",
+   "year": 2025,
+   "stage": "winner",
+   "title": "Rune",
+   "authors": [
+    "Carlos Sánchez"
+   ],
+   "note": "Younger Readers · Category winner",
+   "children": true,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": []
+  },
+  {
+   "id": "waterstones-childrens|2025|the cafe at the edge of the woods",
+   "prize": "waterstones-childrens",
+   "year": 2025,
+   "stage": "winner",
+   "title": "The Cafe at the Edge of the Woods",
+   "authors": [
+    "Mikey Please"
+   ],
+   "note": "OVERALL · Winner",
+   "children": true,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "178676238",
+     "brn": "9086346",
+     "kind": "audiobook",
+     "format": "eAudiobook"
+    }
+   ]
+  },
+  {
+   "id": "waterstones-childrens|2025|dim sum palace",
+   "prize": "waterstones-childrens",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "Dim Sum Palace",
+   "authors": [
+    "X. Fang"
+   ],
+   "note": "Illustrated Book · Shortlist",
+   "children": true,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": []
+  },
+  {
+   "id": "waterstones-childrens|2025|for she is wrath",
+   "prize": "waterstones-childrens",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "For She is Wrath",
+   "authors": [
+    "Emily Varga"
+   ],
+   "note": "Older Readers · Shortlist",
+   "children": true,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "139726810",
+     "brn": "5674474",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "136708052",
+     "brn": "5035034",
+     "kind": "book",
+     "format": "eBook"
+    },
+    {
+     "irn": "136708053",
+     "brn": "5035035",
+     "kind": "audiobook",
+     "format": "eAudiobook"
+    }
+   ]
+  },
+  {
+   "id": "waterstones-childrens|2025|gina kaminski saves the wolf",
+   "prize": "waterstones-childrens",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "Gina Kaminski Saves the Wolf",
+   "authors": [
+    "Craig Barr-Green"
+   ],
+   "note": "Illustrated Book · Shortlist",
+   "children": true,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "6615295",
+     "brn": "2464132",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
+  {
+   "id": "waterstones-childrens|2025|glasgow boys",
+   "prize": "waterstones-childrens",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "Glasgow Boys",
+   "authors": [
+    "Margaret McDonald"
+   ],
+   "note": "Older Readers · Shortlist",
+   "children": true,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "6556084",
+     "brn": "2430230",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "157349510",
+     "brn": "8743264",
+     "kind": "book",
+     "format": "eBook"
+    }
+   ]
+  },
+  {
+   "id": "waterstones-childrens|2025|lover birds",
+   "prize": "waterstones-childrens",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "Lover Birds",
+   "authors": [
+    "Leanne Egan"
+   ],
+   "note": "Older Readers · Shortlist",
+   "children": true,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "6565865",
+     "brn": "2440011",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "162360223",
+     "brn": "8970010",
+     "kind": "book",
+     "format": "eBook"
+    },
+    {
+     "irn": "162360235",
+     "brn": "8970022",
+     "kind": "audiobook",
+     "format": "eAudiobook"
+    }
+   ]
+  },
+  {
+   "id": "waterstones-childrens|2025|mountain and cloud",
+   "prize": "waterstones-childrens",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "Mountain and Cloud",
+   "authors": [
+    "Jana Curll"
+   ],
+   "note": "Illustrated Book · Shortlist",
+   "children": true,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": []
+  },
+  {
+   "id": "waterstones-childrens|2025|secrets of the snakestone",
+   "prize": "waterstones-childrens",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "Secrets of the Snakestone",
+   "authors": [
+    "Piu DasGupta"
+   ],
+   "note": "Younger Readers · Shortlist",
+   "children": true,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "6501841",
+     "brn": "2426611",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "223434",
+     "brn": "9226627",
+     "kind": "book",
+     "format": "eBook"
+    },
+    {
+     "irn": "223427",
+     "brn": "9226626",
+     "kind": "audiobook",
+     "format": "eAudiobook"
+    }
+   ]
+  },
+  {
+   "id": "waterstones-childrens|2025|the boy in the suit",
+   "prize": "waterstones-childrens",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "The Boy in the Suit",
+   "authors": [
+    "James Fox"
+   ],
+   "note": "Younger Readers · Shortlist",
+   "children": true,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "6655468",
+     "brn": "2504303",
+     "kind": "book",
+     "format": "Book"
+    },
+    {
+     "irn": "129065726",
+     "brn": "3492894",
+     "kind": "audiobook",
+     "format": "eAudiobook"
+    }
+   ]
+  },
+  {
+   "id": "waterstones-childrens|2025|tidemagic the many faces of ista flit",
+   "prize": "waterstones-childrens",
+   "year": 2025,
+   "stage": "shortlist",
+   "title": "Tidemagic: The Many Faces of Ista Flit",
+   "authors": [
+    "Clare Harlow"
+   ],
+   "note": "Younger Readers · Shortlist",
+   "children": true,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": {
+    "at": "2026-11-02T20:10:17.157Z",
+    "tries": 1
+   },
+   "matches": []
+  }
+ ]
+}

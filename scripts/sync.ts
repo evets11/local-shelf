@@ -1,5 +1,6 @@
 // Sync Brighton & Hove library catalogues into data/catalog-<kind>s.json.
-// Usage: npm run sync -- [--kind film|book|audiobook ...] [--offline] [--full] [--no-holdings] [--limit N]
+// Usage: npm run sync -- [--kind film|book|audiobook ...] [--offline] [--full] [--no-holdings] [--limit N] [--pinned-only]
+//   --pinned-only  refresh only prize-list records (data/prizes.json); other titles are kept as they are
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { writeJsonAtomic } from "../src/lib/enrich/wikidata";
 import { pool } from "../src/lib/concurrency";
@@ -7,11 +8,13 @@ import { dirname, join } from "node:path";
 import { buildTitle, isEItem } from "../src/lib/spydus/build";
 import {
   freshSetIdFromBrn,
+  recordFromFull,
   spydusFetch,
   stats,
   urls,
   SPYDUS_BASE,
 } from "../src/lib/spydus/client";
+import type { PrizesFile } from "../src/lib/prizes/config";
 import {
   isHoldingsResponse,
   parseFullRecord,
@@ -34,6 +37,7 @@ const args = process.argv.slice(2);
 const OFFLINE = args.includes("--offline");
 const FULL = args.includes("--full");
 const NO_HOLDINGS = args.includes("--no-holdings");
+const PINNED_ONLY = args.includes("--pinned-only");
 const limitIdx = args.indexOf("--limit");
 const LIMIT = limitIdx >= 0 ? Number(args[limitIdx + 1]) : Infinity;
 if (limitIdx >= 0 && !(Number.isInteger(LIMIT) && LIMIT > 0)) {
@@ -48,9 +52,10 @@ const KINDS_ARG = args.flatMap((a, i) =>
 );
 for (const k of KINDS_ARG)
   if (!ALL_KINDS.includes(k)) throw new Error(`Unknown --kind ${k}`);
-const KINDS = KINDS_ARG.length
-  ? ALL_KINDS.filter((k) => KINDS_ARG.includes(k))
-  : ALL_KINDS;
+// Films are never on prize lists.
+const KINDS = (KINDS_ARG.length ? ALL_KINDS.filter((k) => KINDS_ARG.includes(k)) : ALL_KINDS).filter(
+  (k) => !PINNED_ONLY || k !== "film",
+);
 
 const t0 = Date.now();
 const log = (...a: unknown[]) =>
@@ -273,6 +278,85 @@ async function fetchHoldings(irn: string): Promise<string> {
   if (isHoldingsResponse(retry, irn)) return retry;
   throw new Error(`XHLD ${irn}: bad response`);
 }
+// ---------- prize-list records ----------
+
+/** Records on prize lists, kept in the catalogue even when they aren't among the newest. */
+function pinnedFor(kind: Kind): { irn: string; brn: string }[] {
+  const file = join(ROOT, "data", "prizes.json");
+  if (!existsSync(file)) return [];
+  const brns = new Map<string, string>();
+  for (const e of (JSON.parse(readFileSync(file, "utf8")) as PrizesFile).entries)
+    for (const m of e.matches) if (m.kind === kind && m.brn) brns.set(m.irn, m.brn);
+  return [...brns].map(([irn, brn]) => ({ irn, brn }));
+}
+
+/**
+ * Titles for pinned records outside the lists. FULL comes from the robots-allowed BRN lookup
+ * (cached like any FULL). A record the library has withdrawn keeps its last known title and
+ * doesn't count towards the abort, so a few dead links can't sink the whole catalogue.
+ */
+async function pinnedTitles(
+  kind: Kind,
+  pinned: { irn: string; brn: string }[],
+  prev: Map<string, Title>,
+  now: string,
+): Promise<Title[]> {
+  const out: Title[] = [];
+  await pool(pinned, 2, async ({ irn, brn }) => {
+    const old = prev.get(irn);
+    const keepOld = () => old && out.push({ ...old, pinned: true });
+    let full: FullRecord | null = null;
+    const cachedHtml = FULL && !OFFLINE ? null : readCache("full", irn);
+    if (cachedHtml && parseFullRecord(cachedHtml).irn === irn) full = parseFullRecord(cachedHtml);
+    else if (!OFFLINE) {
+      try {
+        const html = await spydusFetch(urls.brn(brn));
+        noteResult(true);
+        const f = parseFullRecord(html);
+        if (f.irn !== irn) {
+          // Withdrawn: drop it rather than keep showing its last known shelves.
+          log(`  pinned ${irn} (BRN ${brn}): no longer in the catalogue, dropped`);
+          return;
+        }
+        writeCache("full", irn, html);
+        full = f;
+        xhldSetId ??= f.setId;
+      } catch (e) {
+        log(`  pinned ${irn} FULL failed: ${(e as Error).message}`);
+        noteResult(false);
+      }
+    }
+    if (!full) {
+      keepOld();
+      return;
+    }
+    brnByIrn.set(irn, brn);
+    // FULL pages carry no counts; if holdings can't be fetched, buildTitle falls back to these.
+    const rec = { ...recordFromFull(irn, 0, full), copies: old?.copies ?? 0, available: old?.available ?? 0 };
+    let holdings: Holding[] | null = null;
+    let stale: Holding[] | null = null;
+    if (!isEItem(rec)) {
+      const cachedHoldings = readCache("holdings", irn);
+      if (OFFLINE) holdings = cachedHoldings ? parseHoldings(cachedHoldings) : null;
+      else if (NO_HOLDINGS) stale = cachedHoldings ? parseHoldings(cachedHoldings) : null;
+      else {
+        try {
+          xhldSetId ??= await freshSetIdFromBrn(brn);
+          const html = await fetchHoldings(irn);
+          writeCache("holdings", irn, html);
+          holdings = parseHoldings(html);
+          noteResult(true);
+        } catch (e) {
+          log(`  pinned ${irn} XHLD failed: ${(e as Error).message}`);
+          noteResult(false);
+        }
+      }
+    }
+    out.push({ ...buildTitle(kind, rec, null, full, old, holdings, stale, now), pinned: true });
+  });
+  return out;
+}
+
 // ---------- TMDB ----------
 
 /** One TMDB lookup, dated: TMDB's terms allow caching their data for at most 6 months. */
@@ -428,9 +512,9 @@ async function syncKind(kind: Kind, now: string) {
   // Seed BRNs for set refresh so a CI run with an empty cache can still recover from set expiry.
   for (const t of prev.values()) if (t.brn) brnByIrn.set(t.irn, t.brn);
 
-  // Lists, deduped by IRN (first list wins).
+  // Lists, deduped by IRN (first list wins). --pinned-only skips them and keeps prev's titles.
   const recMap = new Map<string, Rec>();
-  for (const spec of LISTS[kind]) {
+  for (const spec of PINNED_ONLY ? [] : LISTS[kind]) {
     const { records, total, cards } = await loadList(kind, spec);
     // A partial list (failed page) must not silently drop known titles. Complete means we hit
     // the limit, or parsed ~all cards (junk included, since `total` counts junk too).
@@ -514,7 +598,7 @@ async function syncKind(kind: Kind, now: string) {
     });
   }
 
-  const titles = recs.map((r) =>
+  const listTitles = recs.map((r) =>
     buildTitle(
       kind,
       r,
@@ -526,6 +610,16 @@ async function syncKind(kind: Kind, now: string) {
       now,
     ),
   );
+  // Prize-list records not already in the lists. Sample (--limit) runs leave them out.
+  // --pinned-only has no lists, so prev's list titles stand in for them.
+  const inLists = (irn: string) => recMap.has(irn) || (PINNED_ONLY && prev.has(irn) && !prev.get(irn)!.pinned);
+  const pinned = Number.isFinite(LIMIT) ? [] : pinnedFor(kind).filter((p) => !inLists(p.irn));
+  if (pinned.length) log(`pinned (prize lists): ${pinned.length} records outside the lists`);
+  const pinnedOnes = await pinnedTitles(kind, pinned, prev, now);
+  const titles = PINNED_ONLY
+    ? [...[...prev.values()].filter((t) => !t.pinned), ...pinnedOnes]
+    : [...listTitles, ...pinnedOnes];
+
   if (prev.size === 0) log("first run: firstSeen = now for every title");
   const missingFull = titles.filter((t) => !t.brn).length;
   if (missingFull)
@@ -540,7 +634,8 @@ async function syncKind(kind: Kind, now: string) {
   );
   const catalog: Catalog = {
     kind,
-    generatedAt: now,
+    // --pinned-only leaves the rest as it was, including the date that seeds home-page picks.
+    generatedAt: PINNED_ONLY && prevCatalog ? prevCatalog.generatedAt : now,
     source: SPYDUS_BASE,
     titles,
   };
