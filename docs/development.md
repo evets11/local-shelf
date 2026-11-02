@@ -34,7 +34,7 @@ Please read [Data and sync](data-and-sync.md) before running a full sync: it mak
 ## Checks
 
 ```bash
-npx tsc --noEmit   # types (includes scripts/ and tests/)
+npm run typecheck  # route types + tsc (includes scripts/ and tests/)
 npm run lint
 npm test           # vitest against saved HTML fixtures in tests/fixtures
 npm run build

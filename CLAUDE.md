@@ -16,12 +16,12 @@ Local Shelf (https://localshelf.uk) is an unofficial community site for browsing
 npm run dev            # dev server
 npm test               # vitest: parser/enrich/client tests against saved HTML fixtures
 npm run lint           # eslint
-npx tsc --noEmit       # type check (scripts/ and tests/ included)
+npm run typecheck      # generate route types, then tsc (scripts/ and tests/ included)
 npm run build          # production build (about 10,000 static pages, ~1 min)
 npm run sync -- --offline   # re-parse cached catalogue HTML without touching the library
 ```
 
-Run `npx tsc --noEmit && npm run lint && npm test` before saying you're done.
+Run `npm run typecheck && npm run lint && npm test` before saying you're done.
 
 **Rebuild footgun:** stop any running `next start` and `rm -rf .next` before `npm run build`. Building over a live server half-loads pages or fails with `ENOTEMPTY`. Routine: `lsof -ti tcp:3100 | xargs kill; rm -rf .next && npm run build && npx next start -p 3100`.
 

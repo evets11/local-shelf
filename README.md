@@ -18,7 +18,7 @@ It's an unofficial, not-for-profit community project and isn't affiliated with B
 ```bash
 npm install
 npm run dev        # http://localhost:3000
-npm test && npm run lint && npx tsc --noEmit
+npm test && npm run lint && npm run typecheck
 ```
 
 The catalogue snapshot is in `data/`, so no sync is needed to run it. See [Development](docs/development.md) for syncing, environment variables and QA.
