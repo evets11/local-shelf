@@ -329,7 +329,7 @@ function MobileHeader() {
           <Logo />
           <span className="font-display text-xl font-semibold">Local Shelf</span>
         </Link>
-        <ProfileButton />
+        <HeaderActions />
       </div>
     );
   }
@@ -341,7 +341,7 @@ function MobileHeader() {
         <Suspense fallback={<CollectionMenu pathname={pathname} active={pathMode} q={null} />}>
           <CollectionMenuWithQuery pathname={pathname} active={pathMode} />
         </Suspense>
-        <ProfileButton />
+        <HeaderActions />
       </div>
       <Suspense fallback={<div className="h-10 rounded-xl bg-paper-2" />}>
         <SearchBox mode={pathMode} variant="field" />
@@ -451,6 +451,24 @@ function CollectionMenu({ pathname, active, q }: { pathname: string; active: Mod
           ))}
         </nav>
       )}
+    </div>
+  );
+}
+
+/** Phone header's right-hand buttons: donate (heart) and the profile sheet. */
+function HeaderActions() {
+  const pathname = usePathname();
+  return (
+    <div className="flex shrink-0 items-center gap-1.5">
+      <Link
+        href="/support"
+        aria-label="Donate to Local Shelf"
+        aria-current={pathname === "/support" ? "page" : undefined}
+        className="grid h-10 w-10 place-items-center rounded-full text-coral aria-[current=page]:bg-paper-2"
+      >
+        <Heart className="h-5 w-5" aria-hidden />
+      </Link>
+      <ProfileButton />
     </div>
   );
 }
