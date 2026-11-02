@@ -67,15 +67,32 @@ class RetryableError extends SpydusError {
   }
 }
 
+/**
+ * The sync's request: direct, or through the site's /api/relay when SPYDUS_RELAY_URL and
+ * SPYDUS_RELAY_TOKEN are set (the catalogue refuses non-UK traffic, e.g. GitHub's runners).
+ */
+function syncRequest(url: string, timeoutMs: number): Promise<Response> {
+  const relay = process.env.SPYDUS_RELAY_URL;
+  const token = process.env.SPYDUS_RELAY_TOKEN;
+  if (relay && token && url.startsWith(SPYDUS_BASE)) {
+    const target = `${relay}?${new URLSearchParams({ path: url.slice(SPYDUS_BASE.length) })}`;
+    return fetch(target, {
+      headers: { Authorization: `Bearer ${token}`, "User-Agent": USER_AGENT },
+      signal: AbortSignal.timeout(timeoutMs),
+    });
+  }
+  return fetch(url, {
+    headers: { "User-Agent": USER_AGENT, Accept: "text/html,*/*" },
+    signal: AbortSignal.timeout(timeoutMs),
+    redirect: "follow",
+  });
+}
+
 async function fetchOnce(url: string, timeoutMs: number): Promise<string> {
   await acquire();
   try {
     stats.requests++;
-    const res = await fetch(url, {
-      headers: { "User-Agent": USER_AGENT, Accept: "text/html,*/*" },
-      signal: AbortSignal.timeout(timeoutMs),
-      redirect: "follow",
-    });
+    const res = await syncRequest(url, timeoutMs);
     if (res.status === 429 || res.status >= 500) {
       penaltyMs = Math.min(penaltyMs + 1000, 10_000);
       const ra = parseInt(res.headers.get("retry-after") ?? "", 10);

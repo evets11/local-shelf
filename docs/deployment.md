@@ -10,6 +10,15 @@ Local Shelf is built for Vercel and served at https://localshelf.uk (registered 
 
 The free Hobby plan is enough for the traffic and build size (about 10,000 static pages, ~1 minute). Check Vercel's terms about donations if the site starts taking significant money.
 
+## Sync relay token
+
+The nightly sync reaches the library through the site (see [Data and sync](data-and-sync.md#the-sync-relay-srcappapirelayroutets)). Generate a long random token (`openssl rand -hex 32`) and set it as:
+
+- Vercel: Settings > Environment Variables > `SPYDUS_RELAY_TOKEN` (Production), then redeploy.
+- GitHub: Settings > Secrets and variables > Actions > New repository secret > `SPYDUS_RELAY_TOKEN`.
+
+Once localshelf.uk is live, set the Actions variable `SPYDUS_RELAY_URL` to `https://localshelf.uk/api/relay`.
+
 ## Function region
 
 `vercel.json` runs functions in London (`lhr1`), next to the library's catalogue. The catalogue refused requests from Vercel's default US region with HTTP 405, and London is faster anyway.

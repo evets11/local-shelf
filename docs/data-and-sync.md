@@ -80,6 +80,15 @@ Matches films to Wikidata for IMDb ids, Rotten Tomatoes and Metacritic scores, Y
 | `wikidata-cache.json`, `tmdb-cache.json` | no (Actions cache) | enrichment caches |
 | `.cache/spydus/` | no (Actions cache keeps `full/`) | raw HTML |
 
+## The sync relay (`src/app/api/relay/route.ts`)
+
+The catalogue refuses requests from outside the UK (HTTP 405). Vercel functions run in London (`vercel.json`), so live lookups work. GitHub's runners are in the US, so the nightly sync fetches through the site's `/api/relay`:
+
+- Off unless `SPYDUS_RELAY_TOKEN` is set on Vercel. Requests need it as a `Bearer` token (wrong or missing: 404).
+- Only the sync's catalogue paths: `ENQ/OPAC/BIBENQ?…` list searches and BRN lookups, and `PAGE`/`FULL`/`XHLD` pages. Anything else: 400.
+- Passes the library's status through, so the sync's pacing, retries and back-off still apply.
+- The sync uses it when `SPYDUS_RELAY_URL` and `SPYDUS_RELAY_TOKEN` are set (`syncRequest` in `client.ts`). Running the sync from a UK machine needs neither.
+
 ## The GitHub Action (`.github/workflows/sync.yml`)
 
-Nightly at 03:30 UTC (and on demand): restore caches, `npm run sync`, `npm run enrich`, save caches, commit `data/` if it changed (as `localshelf-bot`), then fail the job if either step failed. A sync or enrichment failure never blocks committing what did succeed. Secrets: `TMDB_API_KEY`, `OMDB_API_KEY` (both optional). `CONTACT_URL` is the repo URL.
+Nightly at 03:30 UTC (and on demand): restore caches, `npm run sync`, `npm run enrich`, save caches, commit `data/` if it changed (as `localshelf-bot`), then fail the job if either step failed. A sync or enrichment failure never blocks committing what did succeed. Secrets: `SPYDUS_RELAY_TOKEN` (required, see above), `TMDB_API_KEY`, `OMDB_API_KEY` (both optional). The relay address defaults to the Vercel URL; set the repository variable `SPYDUS_RELAY_URL` to change it (e.g. `https://localshelf.uk/api/relay`).

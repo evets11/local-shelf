@@ -43,6 +43,9 @@ jobs:
         run: npm run sync
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          # The catalogue refuses non-UK traffic, so the sync goes through the site's London relay.
+          SPYDUS_RELAY_URL: ${{ vars.SPYDUS_RELAY_URL || 'https://local-shelf-pink.vercel.app/api/relay' }}
+          SPYDUS_RELAY_TOKEN: ${{ secrets.SPYDUS_RELAY_TOKEN }}
           CONTACT_URL: ${{ github.server_url }}/${{ github.repository }}
       - name: Enrich films (Wikidata/OMDb)
         id: enrich
