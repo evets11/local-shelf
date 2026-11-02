@@ -14,6 +14,7 @@
     "enrich": "tsx scripts/enrich.ts"
   },
   "dependencies": {
+    "@vercel/analytics": "^2.0.1",
     "cheerio": "^1.2.0",
     "lucide-react": "^1.66.0",
     "minisearch": "^7.2.0",

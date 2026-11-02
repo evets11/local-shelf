@@ -1,4 +1,5 @@
 import type { Metadata, Viewport } from "next";
+import { Analytics } from "@vercel/analytics/next";
 import { Atkinson_Hyperlegible, Fraunces, Inter } from "next/font/google";
 import { BottomNav, Header } from "@/components/Header";
 import { Hydrated } from "@/components/Hydrated";
@@ -89,6 +90,8 @@ export default function RootLayout({ children, modal }: LayoutProps<"/">) {
         <Footer />
         <BottomNav />
         <ProfileSheet branches={getBranches()} />
+        {/* Anonymous page view counts: no cookies, nothing that identifies a visitor. */}
+        <Analytics />
         <Hydrated />
         <InstallSheet />
         <OfflineNotice />

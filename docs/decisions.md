@@ -5,7 +5,7 @@
 - **Name and domain:** "Local Shelf" at localshelf.uk, generic so other library services could join later (e.g. via subdomains). Earlier names: LibraryFlix, then Shelf Life (still visible in storage keys).
 - **Static first:** the catalogue is a nightly snapshot in git; only shelf checks and whole-catalogue searches are live.
 - **Books and audiobooks are a "newest N" index**, not the full catalogue, which is too big to mirror politely. Search covers the rest live.
-- **No accounts, no tracking.** Preferences and My List are per device.
+- **No accounts, no cookies.** Preferences and My List are per device. Page views are counted anonymously with Vercel Web Analytics (cookieless, no consent banner needed).
 - **Dark theme by default**, Albion blue accent, Everyone/Kids profiles (not Adults/Kids).
 - **Ko-fi for donations**, embedded on our own page rather than the widget script (no third-party tracking on every page).
 - **Hand-written service worker**, kept narrow (see [PWA](pwa.md)).

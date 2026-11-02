@@ -31,6 +31,15 @@ Please read [Data and sync](data-and-sync.md) before running a full sync: it mak
 | `NEXT_PUBLIC_SOURCE_URL` | build | optional: the footer's "Source code" link (defaults to the GitHub repo Vercel deploys from) |
 | `NEXT_PUBLIC_SITE_URL` | build | optional override for the public URL. Production builds default to https://localshelf.uk |
 
+## Adding or updating packages
+
+npm has a bug with optional platform builds: `npm install <pkg>` on a Mac can drop the Linux and Windows builds of `rolldown` (used by vitest) from `package-lock.json`. CI then fails at `npm ci`, and locally vitest can't find its binding. After adding a package, check and fix:
+
+```bash
+grep -c '"node_modules/@rolldown/binding' package-lock.json   # should be about 15, not 0 or 1
+rm -rf node_modules package-lock.json && npm install            # if not: regenerate cleanly
+```
+
 ## Checks
 
 ```bash

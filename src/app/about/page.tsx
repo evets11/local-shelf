@@ -59,8 +59,8 @@ export default function AboutPage() {
           <li>
             <strong className="block">Borrow from the library</strong>
             <span className="text-sm text-muted">
-              Reserve or borrow on the library&apos;s own site with your
-              library card.
+              Reserve or borrow on the library&apos;s own site with your library
+              card.
             </span>
           </li>
         </ul>
@@ -127,10 +127,7 @@ export default function AboutPage() {
           </li>
           <li>
             Not a member?{" "}
-            <a
-              className="underline hover:text-ink"
-              href={LIBRARY_LINKS.join}
-            >
+            <a className="underline hover:text-ink" href={LIBRARY_LINKS.join}>
               Join online
             </a>
             . It&apos;s free.
@@ -139,20 +136,36 @@ export default function AboutPage() {
       </section>
 
       <section id="accessibility" className="scroll-mt-24 space-y-3">
-        <h2 className="font-display text-3xl font-semibold">Accessibility &amp; settings</h2>
+        <h2 className="font-display text-3xl font-semibold">
+          Accessibility &amp; settings
+        </h2>
         <p>
-          You can switch between dark and light themes, turn on the Kids profile, choose bigger or smaller covers, make the text bigger, switch to high contrast, use an extra-readable typeface,
-          turn off animations, and pick your local library so we only show what&apos;s there.{" "}
+          You can switch between dark and light themes, turn on the Kids
+          profile, choose bigger or smaller covers, make the text bigger, switch
+          to high contrast, use an extra-readable typeface, turn off animations,
+          and pick your local library so we only show what&apos;s there.{" "}
           <Link href="/settings" className="font-medium text-sea underline">
             Open settings
           </Link>
           .
         </p>
         <ul className="list-disc space-y-1 pl-5 text-sm text-muted">
-          <li>Everything works with a keyboard. Press Tab to move, Enter to open, Escape to close.</li>
-          <li>There&apos;s a &ldquo;Skip to main content&rdquo; link at the very top of each page.</li>
-          <li>We follow your device&apos;s reduced-motion setting automatically.</li>
-          <li>Settings are stored in your browser only. We don&apos;t use accounts or tracking.</li>
+          <li>
+            Everything works with a keyboard. Press Tab to move, Enter to open,
+            Escape to close.
+          </li>
+          <li>
+            There&apos;s a &ldquo;Skip to main content&rdquo; link at the very
+            top of each page.
+          </li>
+          <li>
+            We follow your device&apos;s reduced-motion setting automatically.
+          </li>
+          <li>
+            Settings and My List are stored in your browser only. There are no
+            accounts or cookies. We count page views anonymously with Vercel Web
+            Analytics, which doesn&apos;t identify you.
+          </li>
         </ul>
         <p className="text-sm text-muted">
           Spotted something that&apos;s hard to use? We&apos;d love to fix it.
@@ -183,10 +196,7 @@ export default function AboutPage() {
         </table>
         <p className="text-sm text-muted">
           Overdue fees and concessions apply. Always check the{" "}
-          <a
-            className="underline hover:text-ink"
-            href={LIBRARY_LINKS.fees}
-          >
+          <a className="underline hover:text-ink" href={LIBRARY_LINKS.fees}>
             official fees page
           </a>
           .
@@ -194,7 +204,9 @@ export default function AboutPage() {
       </section>
 
       <section id="support" className="scroll-mt-24 space-y-3">
-        <h2 className="font-display text-3xl font-semibold">Supporting Local Shelf</h2>
+        <h2 className="font-display text-3xl font-semibold">
+          Supporting Local Shelf
+        </h2>
         <SupportBlurb />
         <p>
           <SupportLink className="rounded-full border border-line bg-card px-4 py-2 font-semibold hover:border-sea">

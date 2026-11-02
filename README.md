@@ -10,7 +10,7 @@ It's an unofficial, not-for-profit community project and isn't affiliated with B
 - **Browse, search, recommend:** home rows by genre, "On the shelf right now", "Coming soon: reserve now", "Critics loved these", "More like this" and "Because you saved…", with instant search and filters for library, genre, decade, language, format and certificate.
 - **Live shelf checks:** each title shows which branch has a copy right now.
 - **Films:** IMDb, Rotten Tomatoes and Metacritic from Wikidata, and embedded trailers.
-- **Made for everyone:** an Everyone/Kids profile, "My library" and "on the shelf only" filters, dark or light theme, cover size, larger text, high contrast, a readable typeface and reduced motion. No accounts or tracking: settings and My List are saved on your device, and nothing is stored on our server.
+- **Made for everyone:** an Everyone/Kids profile, "My library" and "on the shelf only" filters, dark or light theme, cover size, larger text, high contrast, a readable typeface and reduced motion. No accounts or cookies: settings and My List are saved on your device and nothing is stored on our server. Visits are counted anonymously with Vercel Web Analytics.
 - **Installable app:** add it to your home screen on iPhone or Android; pages you've opened work offline.
 
 ## Quick start

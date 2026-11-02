@@ -1,6 +1,6 @@
 # UI and UX
 
-The aim is a streaming-app feel that's useful rather than salesy: big covers, simple controls, sensible defaults, everything configurable in Settings, and no dark patterns (no autoplay, no nagging, no tracking).
+The aim is a streaming-app feel that's useful rather than salesy: big covers, simple controls, sensible defaults, everything configurable in Settings, and no dark patterns (no autoplay, no nagging, no tracking cookies; page views are counted anonymously with Vercel Web Analytics).
 
 ## Layout
 
