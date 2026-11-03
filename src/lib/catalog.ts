@@ -59,9 +59,9 @@ export function getAllTitles(): Title[] {
 }
 
 /**
- * Titles prerendered at build: the newest per collection (what the home pages feature). Every
- * other title renders on its first visit and is cached, which keeps each deploy small (all
- * ~5,000 titles twice over, page and sheet, made deploys about 2.6 GB).
+ * Titles whose sheet (`@modal/(.)title`) is prerendered: the newest per collection, which the
+ * home pages feature. Other sheets render when first opened. Prerendering every sheet as well as
+ * every page doubles the deploy (~1.4 GB to ~2.7 GB).
  */
 export function getPrerenderedTitles(perKind = 100): Title[] {
   return (["film", "book", "audiobook"] as const).flatMap((kind) =>

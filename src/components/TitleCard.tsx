@@ -24,6 +24,8 @@ export function TitleCard({
       href={href}
       // Titles and catalogue items open as a sheet over this page, so keep the scroll position.
       scroll={href.startsWith("/title/") || href.startsWith("/item") ? false : undefined}
+      // Most sheets render on first open (a paid ISR write), so only fetch on hover, not on scroll.
+      prefetch={false}
       className="group/card block rounded-lg outline-none focus-visible:ring-2 focus-visible:ring-sea focus-visible:ring-offset-4 focus-visible:ring-offset-paper"
       aria-label={`${t.title}${meta ? `, ${meta}` : ""}${label ? `, ${label}` : ""}`}
     >

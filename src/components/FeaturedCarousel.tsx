@@ -65,6 +65,7 @@ export function FeaturedCarousel({
           <Link
             href={`/title/${t.irn}`}
             scroll={false}
+            prefetch={false}
             className="w-28 shrink-0 transition-transform duration-300 hover:-rotate-1 hover:scale-[1.02] sm:w-60 lg:w-80"
             aria-label={`More about ${t.title}`}
           >
@@ -117,6 +118,7 @@ export function FeaturedCarousel({
               <Link
                 href={`/title/${t.irn}`}
                 scroll={false}
+                prefetch={false}
                 className="inline-flex items-center gap-2 rounded-full bg-white px-6 py-3 font-semibold text-black transition hover:bg-white/85"
               >
                 Take a look <ArrowRight className="h-4 w-4" />
@@ -202,6 +204,7 @@ function MobilePicks({
               <Link
                 href={`/title/${t.irn}`}
                 scroll={false}
+                prefetch={false}
                 className="flex h-full gap-3.5 rounded-2xl border border-line bg-card p-3"
               >
                 <div className="w-[7.25rem] shrink-0">

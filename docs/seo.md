@@ -13,7 +13,7 @@ Goal: people searching for things like "Brighton library DVDs" or a specific fil
 | Home page JSON-LD (`WebSite` + `SearchAction`, about the library) | `src/app/page.tsx` |
 | Default social image | `src/app/opengraph-image.tsx` |
 | Sitemap (every collection, browse page and title) | `src/app/sitemap.ts` |
-| robots.txt (all crawlers welcome, `/api/` disallowed) | `src/app/robots.ts` |
+| robots.txt (all crawlers welcome, `/api/` disallowed; GPTBot and ClaudeBot also kept off `/title/`, enforced by a Vercel Firewall rule) | `src/app/robots.ts` |
 | llms.txt (plain guide for AI assistants) | `src/app/llms.txt/route.ts` |
 
 ## Rules

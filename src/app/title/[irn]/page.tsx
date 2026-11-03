@@ -6,17 +6,18 @@ import { OG_BASE, SITE_NAME, breadcrumbJsonLd, titleDescription, titleHeadline, 
 import type { Title } from "@/lib/types";
 import { JsonLd } from "@/components/JsonLd";
 import { notFound } from "next/navigation";
-import { getPrerenderedTitles, getTitle } from "@/lib/catalog";
+import { getAllTitles, getTitle } from "@/lib/catalog";
 import { Suspense } from "react";
 import { DetailSkeleton } from "@/components/Skeleton";
 import { TitleDetail } from "@/components/TitleDetail";
 
-// Unlisted titles render in full on their first visit, then are cached. The root layout's
-// header reads the URL, so a generic App Shell for an unknown title can't be prerendered.
+// Every title is prerendered: an on-demand render is a paid ISR write on Vercel, and crawlers
+// visit thousands. Only unknown IRNs render at request time (to a 404). The root layout's header
+// reads the URL, so a generic App Shell for them can't be prerendered.
 export const instant = false;
 
 export function generateStaticParams() {
-  return getPrerenderedTitles().map((t) => ({ irn: t.irn }));
+  return getAllTitles().map((t) => ({ irn: t.irn }));
 }
 
 /** Shared by the metadata and the page. */
@@ -54,8 +55,7 @@ export async function generateMetadata({ params }: PageProps<"/title/[irn]">): P
   };
 }
 
-// Other titles render on first visit: params are awaited inside <Suspense>, so the shell (with a
-// skeleton) is served at once and the finished page is cached for later visits.
+// Params are awaited inside <Suspense>, so an on-demand render streams a skeleton first.
 export default function TitlePage({ params }: PageProps<"/title/[irn]">) {
   return (
     <div className="mx-auto max-w-6xl bg-card sm:my-8 sm:overflow-hidden sm:rounded-xl">

@@ -1,6 +1,6 @@
 # Architecture
 
-Local Shelf is a Next.js 16 App Router site. Almost everything is static: the catalogue is JSON in `data/`. Collection and browse pages, plus the newest 100 titles per collection (`getPrerenderedTitles`), are prerendered at build time. Every other title page renders on its first visit (`instant = false`, so it renders in full rather than via a generic shell) and is then cached. Prerendering all ~5,000 titles twice (page and sheet) made each deploy about 2.6 GB, past Vercel Hobby's 10 GB storage after a few deploys; now it's about 300 MB. A few small API routes do live lookups against the library.
+Local Shelf is a Next.js 16 App Router site. Almost everything is static: the catalogue is JSON in `data/`, and every collection, browse and title page is prerendered at build time. Title sheets (`@modal/(.)title`) are prerendered only for the newest 100 titles per collection (`getPrerenderedTitles`); others render in full when first opened (`instant = false`) and are then cached. On Vercel each on-demand render is a paid ISR write (Hobby includes 200,000 a month) and crawlers visit thousands of titles, which is why pages are prerendered and title cards don't prefetch on scroll. Prerendering sheets too would double each deploy from about 1.4 GB to 2.7 GB. A few small API routes do live lookups against the library.
 
 ```
 Spydus OPAC (brighton-hove.spydus.co.uk) + Wikipedia (prize lists)
