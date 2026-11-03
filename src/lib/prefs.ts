@@ -109,16 +109,25 @@ type Filterable = {
 };
 
 
+/** Does a format pass the eBook/print and eAudiobook/CD choices? */
+export function matchesFormat(
+  t: { format: Format },
+  p: Pick<Prefs, "audioFormat" | "bookFormat">,
+): boolean {
+  if (t.format === "Audiobook CD" && p.audioFormat === "eaudiobook") return false;
+  if (t.format === "eAudiobook" && p.audioFormat === "cd") return false;
+  if ((t.format === "Book" || t.format === "Large print") && p.bookFormat === "ebook") return false;
+  if (t.format === "eBook" && p.bookFormat === "print") return false;
+  return true;
+}
+
 /** Does a title pass the user's profile/library/on-shelf preferences? e-items are available everywhere. */
 export function matchesPrefs(
   t: Filterable,
   p: Pick<Prefs, "branch" | "onShelfOnly" | "profile" | "audioFormat" | "bookFormat">,
 ): boolean {
   if (p.profile === "kids" && t.audience !== "children") return false;
-  if (t.format === "Audiobook CD" && p.audioFormat === "eaudiobook") return false;
-  if (t.format === "eAudiobook" && p.audioFormat === "cd") return false;
-  if ((t.format === "Book" || t.format === "Large print") && p.bookFormat === "ebook") return false;
-  if (t.format === "eBook" && p.bookFormat === "print") return false;
+  if (!matchesFormat(t, p)) return false;
   if (isEItem(t)) return true;
   if (p.branch)
     return p.onShelfOnly

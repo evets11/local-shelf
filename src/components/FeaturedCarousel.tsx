@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { ArrowRight, ChevronLeft, ChevronRight } from "lucide-react";
 import { useState } from "react";
-import type { FeatureTitle } from "@/lib/card";
+import { FEATURED_COUNT, type FeatureTitle } from "@/lib/card";
 import { CERT_STYLES, isEItem, tidySummary } from "@/lib/format";
 import { matchesPrefs, usePrefs } from "@/lib/prefs";
 import { Poster } from "./Poster";
@@ -19,7 +19,8 @@ export function FeaturedCarousel({
   intro: string;
 }) {
   const prefs = usePrefs();
-  const visible = items.filter((t) => matchesPrefs(t, prefs));
+  // Candidates include extras for Kids and each format; show the first few that pass.
+  const visible = items.filter((t) => matchesPrefs(t, prefs)).slice(0, FEATURED_COUNT);
   const [index, setIndex] = useState(0);
   const count = visible.length;
 

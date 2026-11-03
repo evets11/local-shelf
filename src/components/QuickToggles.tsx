@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { Award, BookOpen, Disc3, Moon, Smartphone, Star, Sun, Users } from "lucide-react";
 import { setPrefs, usePrefs, type Prefs } from "@/lib/prefs";
+import { prizesHref } from "@/lib/modes";
 
 /** Everyone / Kids profile switch for the top bar. Both options are always labelled. */
 export function ProfileToggle() {
@@ -85,8 +86,8 @@ const BOOK_OPTIONS = [
   { value: "print", label: "Print", Icon: BookOpen },
 ] as const;
 
-/** Sub-filter under the header on Audiobooks (eAudiobooks/CDs) and Books (eBooks/print) pages. */
-export function FormatBar({ kind }: { kind: "audiobook" | "book" }) {
+/** Sub-filter under the header on Audiobooks (eAudiobooks/CDs), Books (eBooks/print) and prizes pages. */
+export function FormatBar({ kind, onPrizes = false }: { kind: "audiobook" | "book"; onPrizes?: boolean }) {
   const prefs = usePrefs();
   const options = kind === "audiobook" ? AUDIO_OPTIONS : BOOK_OPTIONS;
   const current = kind === "audiobook" ? prefs.audioFormat : prefs.bookFormat;
@@ -120,15 +121,17 @@ export function FormatBar({ kind }: { kind: "audiobook" | "book" }) {
           })}
         </div>
         {/* Prizes are books and audiobooks only, so they live on this bar rather than the main nav. */}
-        <Link
-          href="/prizes"
-          className="ml-auto inline-flex shrink-0 items-center gap-1.5 rounded-full px-2 py-1 font-medium text-sea hover:underline"
-        >
-          <Award className="h-4 w-4" aria-hidden />
-          {/* Short on phones so it stays on one line with the format buttons. */}
-          <span className="sm:hidden">Prizes</span>
-          <span className="hidden sm:inline">Book prizes</span>
-        </Link>
+        {!onPrizes && (
+          <Link
+            href={prizesHref(kind)}
+            className="ml-auto inline-flex shrink-0 items-center gap-1.5 rounded-full px-2 py-1 font-medium text-sea hover:underline"
+          >
+            <Award className="h-4 w-4" aria-hidden />
+            {/* Short on phones so it stays on one line with the format buttons. */}
+            <span className="sm:hidden">Prizes</span>
+            <span className="hidden sm:inline">Book prizes</span>
+          </Link>
+        )}
       </div>
     </div>
   );

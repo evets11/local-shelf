@@ -6,6 +6,7 @@ import extrasJson from "../../data/film-extras.json";
 import type { Catalog, FilmExtras, Kind, Title } from "./types";
 import { browseHref, modeByKind } from "./modes";
 import { creatorsOf, isEItem, isOnOrder } from "./format";
+import { FEATURED_COUNT } from "./card";
 
 export { creatorsOf };
 
@@ -121,6 +122,37 @@ export interface Shelf {
 
 // Shelves show 30, but ship 40 so filtering by library/on-shelf prefs still fills a row.
 const ROW = 40;
+const SHOWN = 30;
+
+const isKids = (t: Title) => t.audience === "children";
+// What the browser can narrow a shelf to: eBooks/eAudiobooks vs print/CD, crossed with Kids.
+const SLICES: ((t: Title) => boolean)[] = [
+  isEItem,
+  (t) => !isEItem(t),
+  isKids,
+  (t) => isEItem(t) && isKids(t),
+  (t) => !isEItem(t) && isKids(t),
+];
+
+/**
+ * A shelf's cards from its ranked candidates: the top ROW, plus the top SHOWN of each slice the
+ * prefs can filter to. Shelves are filtered in the browser, so without these an eBooks-only or
+ * Kids shelf would be whatever few made the overall top ROW. Keeps the ranked order.
+ */
+function pick(ranked: Title[]): Title[] {
+  const keep = new Set(ranked.slice(0, ROW));
+  for (const inSlice of SLICES) {
+    let n = 0;
+    for (const t of ranked) {
+      if (n === SHOWN) break;
+      if (inSlice(t)) {
+        keep.add(t);
+        n++;
+      }
+    }
+  }
+  return ranked.filter((t) => keep.has(t));
+}
 
 
 /** The rows on a mode's home page. */
@@ -138,8 +170,7 @@ export function getHomeShelves(kind: Kind): Shelf[] {
       (a, b) =>
         b.firstSeen.localeCompare(a.firstSeen) ||
         (b.releaseYear ?? b.year ?? 0) - (a.releaseYear ?? a.year ?? 0),
-    )
-    .slice(0, ROW);
+    );
   shelves.push({
     id: "new",
     title: "New to the library",
@@ -151,13 +182,13 @@ export function getHomeShelves(kind: Kind): Shelf[] {
     shelves.push({
       id: "coming-soon",
       title: "Coming soon: reserve now",
-      items: shuffleStable(comingSoon, seed).slice(0, ROW),
+      items: shuffleStable(comingSoon, seed),
     });
 
   const onShelf = shuffleStable(
     titles.filter((t) => t.available > 0 && hasArt(t)),
     seed,
-  ).slice(0, ROW);
+  );
   if (onShelf.length)
     shelves.push({
       id: "available",
@@ -175,7 +206,7 @@ export function getHomeShelves(kind: Kind): Shelf[] {
         id: "acclaimed",
         title: "Critics loved these",
         href: browseHref(kind, { sort: "critics" }),
-        items: onShelfFirst(shuffleStable(acclaimed, seed)).slice(0, ROW),
+        items: onShelfFirst(shuffleStable(acclaimed, seed)),
       });
   }
 
@@ -185,7 +216,7 @@ export function getHomeShelves(kind: Kind): Shelf[] {
       id: "family",
       title: kind === "film" ? "For the kids" : "For younger readers",
       href: browseHref(kind, { audience: "children" }),
-      items: onShelfFirst(shuffleStable(family, seed)).slice(0, ROW),
+      items: onShelfFirst(shuffleStable(family, seed)),
     });
 
   for (const g of getGenres(kind).slice(0, 12)) {
@@ -199,7 +230,7 @@ export function getHomeShelves(kind: Kind): Shelf[] {
           titles.filter((t) => t.genres.includes(g.name)),
           seed,
         ),
-      ).slice(0, ROW),
+      ),
     });
   }
 
@@ -213,7 +244,7 @@ export function getHomeShelves(kind: Kind): Shelf[] {
       id: "person",
       title: kind === "film" ? `Directed by ${top[0]}` : `More from ${top[0]}`,
       href: `/search/${modeByKind(kind).slug}?q=${encodeURIComponent(top[0])}`,
-      items: onShelfFirst(titles.filter((t) => creatorsOf(t).includes(top[0]))).slice(0, ROW),
+      items: onShelfFirst(titles.filter((t) => creatorsOf(t).includes(top[0]))),
     });
   }
 
@@ -224,18 +255,21 @@ export function getHomeShelves(kind: Kind): Shelf[] {
         id: "classics",
         title: "Classics (before 1980)",
         href: browseHref(kind, { decade: "classic" }),
-        items: onShelfFirst(shuffleStable(classics, seed)).slice(0, ROW),
+        items: onShelfFirst(shuffleStable(classics, seed)),
       });
   }
 
-  return shelves.filter((s) => s.items.length > 0);
+  return shelves
+    .filter((s) => s.items.length > 0)
+    .map((s) => ({ ...s, items: pick(s.items) }));
 }
 
 /**
- * Candidates for the home carousel, stable for a catalog build. Includes some children's titles
- * so the Kids profile always has something to feature after client-side filtering.
+ * Candidates for the home carousel, stable for a catalog build, general picks first. Includes
+ * children's, e-item and print/CD extras so Kids and format filters still have something to
+ * feature after client-side filtering (the carousel shows the first n that pass).
  */
-export function getFeaturedCandidates(kind: Kind, n = 8): Title[] {
+export function getFeaturedCandidates(kind: Kind, n = FEATURED_COUNT): Title[] {
   const catalog = catalogs[kind];
   const seed = catalog.generatedAt;
   const good = catalog.titles.filter(
@@ -245,8 +279,12 @@ export function getFeaturedCandidates(kind: Kind, n = 8): Title[] {
     [...list].sort((a, b) => (b.releaseYear ?? b.year ?? 0) - (a.releaseYear ?? a.year ?? 0)).slice(0, 30);
   const general = shuffleStable(recent(good), seed).slice(0, n);
   const kids = shuffleStable(recent(good.filter((t) => t.audience === "children")), seed).slice(0, Math.ceil(n / 2));
+  // Same for the eBooks/eAudiobooks and print/CD format choices.
+  const byFormat = [isEItem, (t: Title) => !isEItem(t)].map((f) =>
+    shuffleStable(recent(good.filter(f)), seed).slice(0, Math.ceil(n / 2)),
+  );
   const seen = new Set<string>();
-  return [...general, ...kids].filter((t) => !seen.has(t.irn) && seen.add(t.irn));
+  return [...general, ...kids, ...byFormat.flat()].filter((t) => !seen.has(t.irn) && seen.add(t.irn));
 }
 
 // Each scan is O(catalogue), and the build renders every title twice (page + modal).

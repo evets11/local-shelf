@@ -4,8 +4,8 @@ import MiniSearch from "minisearch";
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
 import { useMemo, useState } from "react";
 import type { SearchTitle } from "@/lib/card";
-import type { Kind } from "@/lib/types";
-import { matchesPrefs, usePrefs } from "@/lib/prefs";
+import type { Format, Kind } from "@/lib/types";
+import { matchesFormat, matchesPrefs, usePrefs, type Prefs } from "@/lib/prefs";
 import { TitleGrid } from "./TitleGrid";
 import { LibraryResults } from "./LibraryResults";
 import {
@@ -28,6 +28,11 @@ interface Props {
   partial?: boolean;
 }
 
+/** The URL's format filter, dropped when the format bar rules it out (e.g. "Book" while showing eBooks). */
+function formatParam(f: string | null, p: Pick<Prefs, "audioFormat" | "bookFormat">): string {
+  return f && matchesFormat({ format: f as Format }, p) ? f : "";
+}
+
 export function Explorer({ kind, titles, heading, partial = false }: Props) {
   const router = useRouter();
   const pathname = usePathname();
@@ -35,6 +40,7 @@ export function Explorer({ kind, titles, heading, partial = false }: Props) {
   const [limit, setLimit] = useState(PAGE);
   const isFilm = kind === "film";
   const prefs = usePrefs();
+  const { audioFormat, bookFormat } = prefs;
 
   const q = params.get("q")?.trim() ?? "";
   // New query (e.g. typed in the header) starts paging again from the top.
@@ -55,7 +61,7 @@ export function Explorer({ kind, titles, heading, partial = false }: Props) {
     decade: params.get("decade") ?? "",
     language: params.get("language") ?? "",
     audience: params.get("audience") ?? "",
-    format: params.get("format") ?? "",
+    format: formatParam(params.get("format"), prefs),
   };
   // Only honour sorts the select actually offers here, so the UI and the order always agree.
   const offered: SortKey[] = [
@@ -108,9 +114,10 @@ export function Explorer({ kind, titles, heading, partial = false }: Props) {
       branches: count((t) => t.branches),
       genres: count((t) => t.genres),
       languages: count((t) => t.languages).slice(0, 25),
-      formats: count((t) => [t.format]),
+      // Only formats the format bar (eBooks/print) allows, so no option leads to an empty page.
+      formats: count((t) => (matchesFormat(t, { audioFormat, bookFormat }) ? [t.format] : [])),
     };
-  }, [titles]);
+  }, [titles, audioFormat, bookFormat]);
 
   const matched = useMemo(
     () =>
@@ -173,7 +180,8 @@ export function Explorer({ kind, titles, heading, partial = false }: Props) {
   }
 
   const activeCount = [...params.keys()].filter(
-    (k) => k !== "q" && k !== "sort",
+    // A format the format bar rules out isn't applied, so it isn't counted.
+    (k) => k !== "q" && k !== "sort" && (k !== "format" || filters.format),
   ).length;
 
   return (

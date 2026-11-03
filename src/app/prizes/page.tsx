@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
-import { PrizeSections } from "@/components/PrizeSections";
+import { Suspense } from "react";
+import { PrizeSections, PrizeSectionsForUrl } from "@/components/PrizeSections";
 import { getPrizeSections, prizesCheckedAt } from "@/lib/prizes/shelves";
 import { OG_BASE } from "@/lib/site";
 
@@ -40,7 +41,10 @@ export default function PrizesPage() {
         </p>
       </div>
       <div className="mt-6">
-        <PrizeSections sections={sections} />
+        {/* The collection comes from the URL in the browser; the static HTML shows books. */}
+        <Suspense fallback={<PrizeSections sections={sections} kind="book" />}>
+          <PrizeSectionsForUrl sections={sections} />
+        </Suspense>
       </div>
       <p className="mx-auto mt-12 max-w-[1800px] px-4 text-xs text-muted sm:px-8">
         Prize lists come from{" "}

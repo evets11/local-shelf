@@ -7,6 +7,7 @@ import { getFeaturedCandidates, getHomeShelves } from "@/lib/catalog";
 import { toCard, toFeature } from "@/lib/card";
 import type { Kind } from "@/lib/types";
 import { COLLECTION_TITLES } from "@/lib/site";
+import { prizesHref } from "@/lib/modes";
 
 const INTROS: Record<Kind, string> = {
   film: "Tonight's pick from the library",
@@ -35,7 +36,7 @@ export function HomeView({ kind }: { kind: Kind }) {
           <Shelf key={s.id} title={s.title} href={s.href} items={s.items.map(toCard)} eager />
         ))}
         <BecauseYouSaved kind={kind} />
-        {prizePicks.length > 0 && <PrizeShelf title="Prize winners and shortlists" href="/prizes" picks={prizePicks} />}
+        {prizePicks.length > 0 && <PrizeShelf title="Prize winners and shortlists" href={prizesHref(kind)} picks={prizePicks} />}
         {shelves.slice(1).map((s) => (
           <Shelf
             key={s.id}

@@ -23,6 +23,7 @@ import { PrefsControl, shortBranch, useDismiss } from "./PrefsControl";
 import { openProfileSheet } from "./ProfileSheet";
 import { setPrefs, usePrefs } from "@/lib/prefs";
 import { LAST_MODE_KEY } from "@/lib/prefs-script";
+import { usePrizesKind } from "@/lib/prizes-kind";
 import {
   FormatBar,
   KidsBanner,
@@ -136,9 +137,18 @@ export function Header({ branches }: { branches: string[] }) {
         <PrefsControl branches={branches} />
       </div>
       {(pathMode?.kind === "audiobook" || pathMode?.kind === "book") && <FormatBar kind={pathMode.kind} />}
+      {pathname === "/prizes" && (
+        <Suspense fallback={<FormatBar kind="book" onPrizes />}>
+          <PrizesFormatBar />
+        </Suspense>
+      )}
       <KidsBanner />
     </header>
   );
+}
+
+function PrizesFormatBar() {
+  return <FormatBar kind={usePrizesKind()} onPrizes />;
 }
 
 function ModeSwitchWithQuery({

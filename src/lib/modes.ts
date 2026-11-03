@@ -57,3 +57,9 @@ export function modeFromPath(pathname: string): Mode | null {
     return modeBySlug(second ?? "") ?? null;
   return modeBySlug(first) ?? null;
 }
+
+/** Book prizes, showing books or audiobooks (from `?for=`), optionally at a prize's section. */
+export const prizesHref = (kind?: Kind, anchor?: string) => {
+  const slug = kind === "book" || kind === "audiobook" ? modeByKind(kind).slug : null;
+  return `/prizes${slug ? `?for=${slug}` : ""}${anchor ? `#${anchor}` : ""}`;
+};

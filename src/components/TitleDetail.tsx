@@ -7,7 +7,7 @@ import { prizesFor } from "@/lib/prizes/shelves";
 import type { Title } from "@/lib/types";
 import { similarTitles } from "@/lib/catalog";
 import { toCard } from "@/lib/card";
-import { browseHref } from "@/lib/modes";
+import { browseHref, prizesHref } from "@/lib/modes";
 import {
   CERT_STYLES,
   formatRuntime,
@@ -84,7 +84,7 @@ export function TitleDetail({
                 {prizes.map((p) => (
                   <li key={p.anchor}>
                     <Link
-                      href={`/prizes#${p.anchor}`}
+                      href={prizesHref(t.kind, p.anchor)}
                       className="inline-flex items-center gap-1.5 rounded-full bg-paper-2 px-3 py-1 text-sm font-medium hover:bg-sea hover:text-on-sea"
                     >
                       <Award className="h-4 w-4" aria-hidden />

@@ -32,7 +32,9 @@ The last section visited (Films, Books or Audiobooks) is kept separately under `
 | `cover` | `compact`, `standard` (default), `big` | card size (`--card-w`) |
 | `textSize`, `contrast`, `font`, `motion` | | larger text, high contrast, Atkinson Hyperlegible, reduced motion |
 
-`PREFS_SCRIPT` (inline in `<head>`) copies display prefs to `<html data-*>` before paint, sets `data-pref-filtering` when saved prefs would filter content, `data-welcomed`, `data-standalone`, and the theme colour. Browse and search filters default to the saved prefs, and a URL param overrides them for that view ("Reset to my settings" clears it).
+`PREFS_SCRIPT` (inline in `<head>`) copies display prefs to `<html data-*>` before paint, sets `data-pref-filtering` when saved prefs would filter content, `data-welcomed`, `data-standalone`, and the theme colour. Browse and search filters default to the saved prefs, and a URL param overrides them for that view ("Reset to my settings" clears it). The Format filter only offers formats the format bar allows, and ignores a `format` param it rules out.
+
+Home shelves are filtered in the browser, so `getHomeShelves` ships each shelf's top 40 plus the top 30 e-items, print, children's and their crossings (`pick` in `catalog.ts`); otherwise eBooks-only or Kids would empty most shelves.
 
 The "From the whole library catalogue" section on book and audiobook searches can only apply on shelf (anywhere), format, decade and children's, because live search hits don't carry branch, genre or language. It lists the filters it applied and names the ones it couldn't, and hits hidden by view filters can be shown anyway (saved profile and format prefs always apply).
 
@@ -52,7 +54,7 @@ Colours are CSS variables on `<html>` (Tailwind v4 `@theme`): `--color-paper`, `
 - **Skeletons** (`Skeleton.tsx`) for anything loading: catalogue search results, item sheets, shelf-check pills, My List, covers. They shimmer unless reduced motion is on.
 - **Live shelf checks** show last night's data immediately, with placeholders where the live answer will go.
 - **The featured carousel** is manual only (no autoplay).
-- **Prize books** (`/prizes`, `PrizeShelf`): one card per book, showing the first of its formats that passes the viewer's preferences (print, then eBook, then audio), labelled with its stage. Reached from the sub-bar link on Books and Audiobooks pages, the "Prize winners and shortlists" home rows, and the profile sheet. Rows a profile empties (adult prizes under Kids) disappear along with their jump links.
+- **Prize books** (`/prizes`, `PrizeShelf`): books or audiobooks, from `?for=books|audiobooks` (links from a collection carry it; otherwise the last collection used), with a Books/Audiobooks switch and that collection's format bar. One card per book, the first of its formats in that collection that passes the viewer's preferences, labelled with its stage. Reached from the sub-bar link on Books and Audiobooks pages, the "Prize winners and shortlists" home rows, title badges and the profile sheet. Rows the preferences empty (adult prizes under Kids, print-only books under eBooks) disappear along with their jump links. The static HTML shows books; the URL's collection is applied in the browser.
 - **The install sheet and offline pill** sit above the tab bar (see [PWA](pwa.md)).
 - **Donate:** a quiet heart in the header goes to `/support`, which explains where money goes and embeds Ko-fi's form. No pop-ups.
 

@@ -70,6 +70,9 @@ export function toSearch(t: Title): SearchTitle {
   };
 }
 
+/** Slides in the home carousel. */
+export const FEATURED_COUNT = 8;
+
 /** A featured title for the home carousel. */
 export interface FeatureTitle extends CardTitle {
   summary: string | null;
