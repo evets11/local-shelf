@@ -102,10 +102,8 @@ export default function AboutPage() {
           </li>
         </ul>
         <p className="text-sm text-muted">
-          The full book and audiobook collections are far too big to mirror
-          politely, so browsing shows what&apos;s new. Searching still covers
-          everything: we ask the library&apos;s catalogue live and show the
-          results alongside.
+          Browsing books and audiobooks shows what&apos;s new, but searching
+          covers the library&apos;s whole collection.
         </p>
       </section>
 
@@ -189,13 +187,8 @@ export default function AboutPage() {
           Where the data comes from
         </h2>
         <p>
-          Once a day we read listings from the public library catalogue, gently
-          and only from the pages it allows robots to visit (plus one search per
-          collection to list what&apos;s there). Each title page checks the
-          shelves live when you open it, and book and audiobook searches are
-          passed on to the library&apos;s catalogue, cached and capped so we
-          never put much load on it. Covers come from the library&apos;s own
-          cover service. Film links and critics&apos; scores come from{" "}
+          Listings and availability come from the library&apos;s public
+          catalogue. Film links and critics&apos; scores come from{" "}
           <a
             className="underline hover:text-ink"
             href="https://www.wikidata.org/"
