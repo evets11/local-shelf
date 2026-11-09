@@ -1,5 +1,5 @@
 {
- "checkedAt": "2026-11-02T20:10:17.157Z",
+ "checkedAt": "2026-11-09T12:00:17.627Z",
  "entries": [
   {
    "id": "booker|2026|black bag",
@@ -1472,6 +1472,12 @@
      "brn": "9138608",
      "kind": "book",
      "format": "Book"
+    },
+    {
+     "irn": "194000942",
+     "brn": "9147915",
+     "kind": "book",
+     "format": "eBook"
     }
    ]
   },
@@ -2984,6 +2990,12 @@
    "searched": null,
    "matches": [
     {
+     "irn": "194000949",
+     "brn": "9147922",
+     "kind": "book",
+     "format": "eBook"
+    },
+    {
      "irn": "194013972",
      "brn": "9160945",
      "kind": "audiobook",
@@ -3507,12 +3519,12 @@
    "id": "baillie-gifford|2026|alexander god king man",
    "prize": "baillie-gifford",
    "year": 2026,
-   "stage": "shortlist",
+   "stage": "winner",
    "title": "Alexander: God, King, Man",
    "authors": [
     "Edmund Richardson"
    ],
-   "note": "Shortlist",
+   "note": "Winner",
    "children": false,
    "firstSeen": "2026-11-02T20:09:25.673Z",
    "searched": null,
@@ -3824,6 +3836,12 @@
    "searched": null,
    "matches": [
     {
+     "irn": "194000949",
+     "brn": "9147922",
+     "kind": "book",
+     "format": "eBook"
+    },
+    {
      "irn": "194013972",
      "brn": "9160945",
      "kind": "audiobook",
@@ -3950,6 +3968,12 @@
      "brn": "9140178",
      "kind": "book",
      "format": "Book"
+    },
+    {
+     "irn": "194000445",
+     "brn": "9147418",
+     "kind": "book",
+     "format": "eBook"
     },
     {
      "irn": "194000443",
@@ -4611,8 +4635,18 @@
    "note": "Younger Readers · Category winner",
    "children": true,
    "firstSeen": "2026-11-02T20:09:25.673Z",
-   "searched": null,
-   "matches": []
+   "searched": {
+    "at": "2026-11-09T12:00:17.627Z",
+    "tries": 1
+   },
+   "matches": [
+    {
+     "irn": "144706782",
+     "brn": "6882961",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
   },
   {
    "id": "waterstones-childrens|2026|sleep tight disgusting blob",
