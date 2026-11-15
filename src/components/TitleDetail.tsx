@@ -8,6 +8,7 @@ import type { Title } from "@/lib/types";
 import { similarTitles } from "@/lib/catalog";
 import { toCard } from "@/lib/card";
 import { browseHref, prizesHref } from "@/lib/modes";
+import { titleLocalSummary } from "@/lib/site";
 import {
   CERT_STYLES,
   formatRuntime,
@@ -40,6 +41,7 @@ export function TitleDetail({
   const similar = similarTitles(t, 36).map(toCard);
   const by = t.kind === "film" ? t.directors : (t.authors ?? []);
   const prizes = t.kind === "film" ? [] : prizesFor(t.irn);
+  const local = titleLocalSummary(t);
 
   return (
     <article>
@@ -142,6 +144,7 @@ export function TitleDetail({
           )}
         </aside>
         <div className="space-y-5 lg:col-start-1 lg:row-start-1">
+          {local && <p className="text-sm text-muted">{local}</p>}
           {t.summary ? (
             <p className="text-base leading-relaxed">
               {tidySummary(t.summary)}

@@ -2,7 +2,15 @@ import { BackButton } from "@/components/BackButton";
 import { modeByKind } from "@/lib/modes";
 import type { Metadata } from "next";
 import { posterUrl, tidySummary } from "@/lib/format";
-import { OG_BASE, SITE_NAME, breadcrumbJsonLd, titleDescription, titleHeadline, titleJsonLd } from "@/lib/site";
+import {
+  OG_BASE,
+  SITE_NAME,
+  breadcrumbJsonLd,
+  titleDescription,
+  titleHeadline,
+  titleJsonLd,
+  titlePageTitle,
+} from "@/lib/site";
 import type { Title } from "@/lib/types";
 import { JsonLd } from "@/components/JsonLd";
 import { notFound } from "next/navigation";
@@ -39,7 +47,7 @@ export async function generateMetadata({ params }: PageProps<"/title/[irn]">): P
   if (!t) return {};
   const { headline, description, image } = seo(t);
   return {
-    title: headline,
+    title: titlePageTitle(t),
     description,
     alternates: { canonical: `/title/${t.irn}` },
     openGraph: {

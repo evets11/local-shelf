@@ -72,6 +72,33 @@ export function titleDescription(t: Title, summary: string | null): string {
   return text.length > 158 ? `${text.slice(0, 155).replace(/\s+\S*$/, "")}…` : text;
 }
 
+/** Page title: headline plus the local angle, since "X brighton library" is the search we can win. */
+export function titlePageTitle(t: Title): string {
+  return `${titleHeadline(t)} at Brighton & Hove libraries`;
+}
+
+// Past four branches a list stops being readable, so give a count.
+const listOf = (names: string[]) =>
+  names.length > 4
+    ? `${names.length} libraries across the city`
+    : names.length < 2
+      ? (names[0] ?? "")
+      : `${names.slice(0, -1).join(", ")} and ${names.at(-1)}`;
+
+/** One plain sentence or two on where to borrow it locally, from the nightly snapshot. */
+export function titleLocalSummary(t: Title): string | null {
+  if (isEItem(t))
+    return "Borrow it free with a Brighton & Hove library card on BorrowBox or Libby.";
+  if (t.holdingsUnknown || t.copies === 0 || !t.branches.length) return null;
+  const copies = t.copies === 1 ? "one copy" : `${t.copies} copies`;
+  const held = `Brighton & Hove Libraries have ${copies}, at ${listOf(t.branches)}.`;
+  const now =
+    t.available > 0
+      ? `At last night's check it was on the shelf${t.availableAt.length ? ` at ${listOf(t.availableAt)}` : ""}.`
+      : `At last night's check ${t.copies === 1 ? "it was" : "every copy was"} out, so reserve it and pick it up at your nearest library.`;
+  return `${held} ${now}`;
+}
+
 const person = (name: string) => ({ "@type": "Person", name });
 
 /** Movie / TVSeries / Book structured data for a title page. */
