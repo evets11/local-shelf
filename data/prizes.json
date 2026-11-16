@@ -1,6 +1,28 @@
 {
- "checkedAt": "2026-11-09T12:00:17.627Z",
+ "checkedAt": "2026-11-16T11:57:19.906Z",
  "entries": [
+  {
+   "id": "booker|2026|the end of everything",
+   "prize": "booker",
+   "year": 2026,
+   "stage": "winner",
+   "title": "The End of Everything",
+   "authors": [
+    "M. John Harrison"
+   ],
+   "note": "",
+   "children": false,
+   "firstSeen": "2026-11-02T20:09:25.673Z",
+   "searched": null,
+   "matches": [
+    {
+     "irn": "189011763",
+     "brn": "9119887",
+     "kind": "book",
+     "format": "Book"
+    }
+   ]
+  },
   {
    "id": "booker|2026|black bag",
    "prize": "booker",
@@ -93,28 +115,6 @@
     {
      "irn": "126215314",
      "brn": "9198692",
-     "kind": "book",
-     "format": "Book"
-    }
-   ]
-  },
-  {
-   "id": "booker|2026|the end of everything",
-   "prize": "booker",
-   "year": 2026,
-   "stage": "shortlist",
-   "title": "The End of Everything",
-   "authors": [
-    "M. John Harrison"
-   ],
-   "note": "",
-   "children": false,
-   "firstSeen": "2026-11-02T20:09:25.673Z",
-   "searched": null,
-   "matches": [
-    {
-     "irn": "189011763",
-     "brn": "9119887",
      "kind": "book",
      "format": "Book"
     }
